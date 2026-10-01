@@ -1,0 +1,760 @@
+// ===== TỪ MỞ RỘNG: danh từ hay gặp trong TOEIC =====
+
+# agenda | /əˈdʒendə/
+fam: —
+tip: agenda = chương trình nghị sự (danh sách nội dung cuộc họp). "on the agenda", "set the agenda", "hidden agenda" = động cơ ngầm.
+@n
+1. chương trình nghị sự | The first item on the *agenda* is the budget. | Mục đầu tiên trong chương trình họp là ngân sách.
+col: on the agenda = nằm trong chương trình; meeting agenda = chương trình họp; set the agenda = đặt chương trình; agenda item = mục trong chương trình; hidden agenda = mục đích ngầm
+syn: schedule, program, list of items
+
+# itinerary | /aɪˈtɪnəreri/
+fam: itinerant (adj) lưu động
+tip: itinerary = lịch trình chuyến đi (chuyến bay, khách sạn, tham quan). "travel itinerary", "detailed itinerary", "revised itinerary".
+@n
+1. lịch trình chuyến đi | I will email you the final *itinerary* tomorrow. | Tôi sẽ gửi email cho bạn lịch trình cuối cùng vào ngày mai.
+col: travel itinerary = lịch trình du lịch; detailed itinerary = lịch trình chi tiết; revised itinerary = lịch trình đã chỉnh; itinerary for sth = lịch trình cho; flight itinerary = lịch trình chuyến bay
+syn: schedule, route, plan, travel plan
+
+# warranty | /ˈwɔːrənti/
+fam: warrant (v/n) bảo đảm; guarantee (n/v) bảo hành
+tip: warranty = bảo hành (của nhà sản xuất): "a two-year warranty", "under warranty" (còn bảo hành), "extended warranty". Gần nghĩa guarantee.
+@n
+1. bảo hành | The laptop comes with a two-year *warranty*. | Máy tính đi kèm bảo hành hai năm.
+col: under warranty = còn bảo hành; extended warranty = bảo hành mở rộng; warranty period = thời hạn bảo hành; warranty claim = yêu cầu bảo hành; void the warranty = làm mất hiệu lực bảo hành
+syn: guarantee, assurance, coverage
+
+# invoice | /ˈɪnvɔɪs/
+fam: invoiced (adj); invoicing (n)
+tip: invoice = hóa đơn (do người bán gửi cho người mua để yêu cầu thanh toán). ≠ receipt (biên lai đã trả). "send/issue an invoice", "invoice number", "overdue invoice".
+@n
+1. hóa đơn | Please pay the *invoice* within 30 days. | Vui lòng thanh toán hóa đơn trong vòng 30 ngày.
+col: issue an invoice = lập hóa đơn; send an invoice = gửi hóa đơn; invoice number = số hóa đơn; overdue invoice = hóa đơn quá hạn; pay an invoice = thanh toán hóa đơn
+syn: bill, statement, account
+@v
+1. lập hóa đơn | We will *invoice* you at the end of the month. | Chúng tôi sẽ lập hóa đơn cho bạn vào cuối tháng.
+col: invoice sb for sth = lập hóa đơn cho ai về; be invoiced monthly = được tính hóa đơn hằng tháng
+
+# merchandise | /ˈmɜːrtʃəndaɪs/
+fam: merchant (n) thương nhân; merchandising (n) trưng bày hàng; commerce (n) thương mại
+tip: merchandise (n, KHÔNG đếm được) = hàng hóa: ✗ merchandises. "a piece of merchandise", "retail merchandise". Cũng là động từ (marketing).
+@n
+1. hàng hóa | All *merchandise* is 20 percent off this weekend. | Tất cả hàng hóa được giảm 20% vào cuối tuần này.
+col: retail merchandise = hàng bán lẻ; return merchandise = trả hàng; defective merchandise = hàng lỗi; merchandise exchange = đổi hàng; branded merchandise = hàng có thương hiệu
+syn: goods, products, wares, stock
+
+# vendor | /ˈvendər/
+fam: vend (v) bán; vending machine (n) máy bán hàng tự động
+tip: vendor = người/công ty bán hàng (nhà cung cấp, người bán hàng rong). "approved vendor list", "street vendor". Gần "supplier".
+@n
+1. nhà cung cấp, người bán | The company works with several local *vendors*. | Công ty làm việc với nhiều nhà cung cấp địa phương.
+col: street vendor = người bán hàng rong; vendor contract = hợp đồng nhà cung cấp; approved vendor = nhà cung cấp được duyệt; software vendor = nhà cung cấp phần mềm; local vendor = người bán địa phương
+syn: supplier, seller, merchant, trader
+ant: buyer, customer
+
+# contract | /ˈkɑːntrækt/ (n), /kənˈtrækt/ (v)
+fam: contractor (n) nhà thầu; contractual (adj) thuộc hợp đồng; subcontract (v)
+tip: Trọng âm khác: CON-tract (n, hợp đồng) / con-TRACT (v, co lại/ký hợp đồng). "sign/terminate/renew a contract", "breach of contract".
+@n
+1. hợp đồng | Both parties signed the *contract* on Monday. | Cả hai bên đã ký hợp đồng vào thứ Hai.
+col: sign a contract = ký hợp đồng; breach of contract = vi phạm hợp đồng; contract renewal = gia hạn hợp đồng; under contract = có hợp đồng; contract negotiation = đàm phán hợp đồng
+syn: agreement, deal, pact
+@v
+1. co lại; ký hợp đồng | The market *contracted* by 3 percent. | Thị trường co lại 3%.
+col: contract with sb = ký hợp đồng với; contract out = thuê ngoài; the economy contracted = nền kinh tế co lại
+
+# deadline | /ˈdedlaɪn/
+fam: dead (adj) chết; line (n)
+tip: "meet a deadline" = kịp hạn; "miss a deadline" = trễ hạn; "extend a deadline"; "deadline for sth". "tight deadline" = hạn gấp.
+@n
+1. hạn chót | The *deadline* for applications is March 15. | Hạn chót nộp đơn là ngày 15 tháng Ba.
+col: meet a deadline = kịp hạn; miss a deadline = lỡ hạn; extend a deadline = gia hạn; tight deadline = hạn gấp; deadline for sth = hạn chót của
+prep: deadline for sth
+syn: due date, cutoff, time limit, target date
+
+# expense | /ɪkˈspens/
+fam: expensive (adj) đắt; expenses (n) chi phí; expenditure (n) khoản chi; inexpensive (adj) rẻ
+tip: "expenses" (số nhiều) = chi phí, công tác phí: "travel expenses", "expense report" (báo cáo chi phí), "at the expense of" = bằng cái giá của.
+@n
+1. chi phí | Travel *expenses* will be reimbursed. | Chi phí đi lại sẽ được hoàn trả.
+col: travel expenses = chi phí đi lại; expense report = báo cáo chi phí; business expenses = chi phí kinh doanh; at the expense of = đổi bằng; operating expenses = chi phí vận hành
+syn: cost, expenditure, outlay, charge
+ant: income, revenue, profit
+
+# income | /ˈɪnkʌm/
+fam: earn (v) kiếm; earnings (n) thu nhập; outcome (n) kết quả
+tip: income = thu nhập (cá nhân/công ty, sau khi trừ chi phí hoặc tổng thu). "annual income", "net/gross income", "income tax".
+@n
+1. thu nhập | The average household *income* has risen. | Thu nhập hộ gia đình trung bình đã tăng.
+col: annual income = thu nhập hằng năm; income tax = thuế thu nhập; net income = thu nhập ròng; gross income = tổng thu nhập; low-income = thu nhập thấp
+syn: earnings, revenue, pay, salary
+ant: expenditure, outgoings
+
+# profit | /ˈprɑːfɪt/
+fam: profitable (adj) có lãi; profitability (n) khả năng sinh lời; non-profit (adj) phi lợi nhuận; profiteer (n)
+tip: "make a profit", "profit margin" (biên lợi nhuận), "net profit", "non-profit organization". Danh từ không đếm được thường.
+@n
+1. lợi nhuận | The company made a *profit* of $2 million. | Công ty đạt lợi nhuận 2 triệu đô la.
+col: make a profit = có lãi; net profit = lợi nhuận ròng; profit margin = biên lợi nhuận; gross profit = lợi nhuận gộp; non-profit organization = tổ chức phi lợi nhuận
+syn: gain, earnings, return, surplus
+ant: loss, deficit
+@v
+1. có lợi, kiếm lợi | Everyone will *profit* from the new policy. | Mọi người sẽ có lợi từ chính sách mới.
+col: profit from sth = hưởng lợi từ; profit by = có lợi nhờ
+
+# tax | /tæks/
+fam: taxation (n) hệ thống thuế; taxable (adj) chịu thuế; taxpayer (n) người đóng thuế; tax-free (adj)
+tip: "tax return" = tờ khai thuế; "sales tax", "income tax", "tax-exempt" (miễn thuế); "pay taxes". Động từ: tax sb/sth = đánh thuế.
+@n
+1. thuế | Prices include sales *tax*. | Giá đã bao gồm thuế bán hàng.
+col: income tax = thuế thu nhập; sales tax = thuế bán hàng; tax return = tờ khai thuế; tax-free = miễn thuế; tax deduction = khoản khấu trừ thuế
+syn: duty, levy, tariff, charge
+@v
+1. đánh thuế | Luxury goods are heavily *taxed*. | Hàng xa xỉ bị đánh thuế nặng.
+
+# salary | /ˈsæləri/
+fam: salaried (adj) hưởng lương; wage (n) tiền công
+tip: salary = lương tháng/năm (nhân viên văn phòng); wage = tiền công theo giờ/tuần. "starting salary", "salary range", "competitive salary".
+@n
+1. tiền lương | The position offers a competitive *salary*. | Vị trí này có mức lương cạnh tranh.
+col: competitive salary = lương cạnh tranh; starting salary = lương khởi điểm; salary range = mức lương; annual salary = lương năm; salary increase = tăng lương
+syn: pay, wage, income, remuneration
+
+# wage | /weɪdʒ/
+fam: wages (n) tiền công; minimum wage (n) lương tối thiểu
+tip: wage(s) = tiền công (tính theo giờ/tuần, lao động chân tay): "minimum wage", "hourly wage", "wage increase". Ngoài ra "wage war" = tiến hành chiến tranh.
+@n
+1. tiền công | The minimum *wage* will increase next year. | Mức lương tối thiểu sẽ tăng vào năm sau.
+col: minimum wage = lương tối thiểu; hourly wage = lương theo giờ; living wage = mức lương đủ sống; wage increase = tăng lương; wage gap = chênh lệch lương
+syn: pay, earnings, payment
+@v
+1. tiến hành (chiến dịch) | The firm *waged* a campaign against rivals. | Công ty tiến hành chiến dịch chống đối thủ.
+
+# bonus | /ˈboʊnəs/
+fam: bonuses (n)
+tip: bonus = tiền thưởng; "performance bonus", "year-end bonus", "signing bonus", "bonus points". Cũng = phần thêm tặng kèm.
+@n
+1. tiền thưởng | Employees received a year-end *bonus*. | Nhân viên nhận thưởng cuối năm.
+col: year-end bonus = thưởng cuối năm; performance bonus = thưởng hiệu suất; signing bonus = thưởng khi ký; bonus pay = tiền thưởng; as a bonus = như phần thưởng thêm
+syn: reward, incentive, perk, extra
+ant: penalty
+
+# benefit | /ˈbenɪfɪt/
+fam: beneficial (adj) có lợi; beneficiary (n) người thụ hưởng; benefits (n) phúc lợi
+tip: benefits (số nhiều) = phúc lợi nhân viên: "health benefits". "benefit from sth" = hưởng lợi từ; "be beneficial to sb".
+@n
+1. lợi ích; phúc lợi | The job offers excellent *benefits*. | Công việc có phúc lợi tuyệt vời.
+col: health benefits = phúc lợi y tế; benefits package = gói phúc lợi; benefit from = hưởng lợi từ; for the benefit of = vì lợi ích của; the benefits of sth = lợi ích của
+syn: advantage, perk, gain, asset
+ant: drawback, disadvantage
+@v
+1. có lợi, hưởng lợi | Many customers will *benefit* from the lower prices. | Nhiều khách hàng sẽ được lợi từ giá thấp hơn.
+col: benefit from sth = hưởng lợi từ; benefit sb = có lợi cho ai; benefit greatly = hưởng lợi nhiều
+prep: benefit from sth
+
+# allowance | /əˈlaʊəns/
+fam: allow (v) cho phép; allowable (adj) được phép; allowed (adj)
+tip: allowance = khoản trợ cấp/phụ cấp/mức cho phép: "travel allowance", "baggage allowance" (hạn mức hành lý), "make allowances for" = châm chước.
+@n
+1. phụ cấp; hạn mức | Each passenger has a 23 kg baggage *allowance*. | Mỗi hành khách có hạn mức hành lý 23 kg.
+col: baggage allowance = hạn mức hành lý; travel allowance = phụ cấp đi lại; housing allowance = phụ cấp nhà ở; allowance for sth = khoản dành cho; make allowances for = châm chước cho
+syn: stipend, quota, ration, benefit
+
+# promotion | /prəˈmoʊʃn/
+fam: promote (v) thăng chức, quảng bá; promotional (adj); promoter (n)
+tip: promotion = thăng chức HOẶC khuyến mãi/quảng bá: "a job promotion", "a sales promotion", "promotional offer". "be up for promotion".
+@n
+1. sự thăng chức | She received a *promotion* to senior manager. | Cô ấy được thăng chức lên quản lý cấp cao.
+2. khuyến mãi | The store is running a holiday *promotion*. | Cửa hàng đang chạy khuyến mãi dịp lễ.
+col: get a promotion = được thăng chức; sales promotion = khuyến mãi bán hàng; promotion to + chức vụ = thăng lên; promotional offer = ưu đãi khuyến mãi; special promotion = khuyến mãi đặc biệt
+syn: advancement, upgrade (1); campaign, deal (2)
+ant: demotion
+
+# resignation | /ˌrezɪɡˈneɪʃn/
+fam: resign (v) từ chức; resigned (adj) cam chịu
+tip: "submit/hand in a resignation" = nộp đơn từ chức; "resign from + vị trí" = từ chức. Khác "retirement" (nghỉ hưu).
+@n
+1. sự từ chức, đơn từ chức | He submitted his *resignation* on Friday. | Anh ấy nộp đơn từ chức vào thứ Sáu.
+col: submit a resignation = nộp đơn từ chức; resignation letter = thư từ chức; accept a resignation = chấp nhận từ chức; announce a resignation = thông báo từ chức; tender resignation = nộp đơn xin nghỉ
+syn: departure, quitting, stepping down
+ant: appointment, hiring
+
+# retirement | /rɪˈtaɪərmənt/
+fam: retire (v) nghỉ hưu; retiree (n) người đã nghỉ hưu; retired (adj)
+tip: "retire from sth" = nghỉ hưu từ; "retirement party/plan/age/fund" = tiệc/chế độ/tuổi/quỹ hưu.
+@n
+1. sự nghỉ hưu | The manager announced her *retirement* after 30 years. | Quản lý thông báo nghỉ hưu sau 30 năm.
+col: retirement party = tiệc nghỉ hưu; retirement plan = kế hoạch hưu trí; retirement age = tuổi nghỉ hưu; retirement fund = quỹ hưu trí; early retirement = nghỉ hưu sớm
+syn: pension, leaving work
+ant: employment, start
+
+# applicant | /ˈæplɪkənt/
+fam: apply (v) nộp đơn; application (n) đơn; applicable (adj) áp dụng được; applied (adj)
+tip: applicant (người nộp đơn) vs candidate (ứng viên được xem xét). "apply for a job/to a company". Cặp: employer ↔ applicant.
+@n
+1. người nộp đơn | We received over 100 *applicants* for the position. | Chúng tôi nhận được hơn 100 người nộp đơn cho vị trí này.
+col: job applicant = người xin việc; qualified applicant = người nộp đơn đủ tiêu chuẩn; applicant tracking = theo dõi hồ sơ; successful applicant = người trúng tuyển; applicant for sth = người nộp đơn vào
+syn: candidate, job seeker, contender
+ant: employer
+
+# candidate | /ˈkændɪdət/
+fam: candidacy (n) tư cách ứng viên
+tip: candidate = ứng viên (cho việc làm/bầu cử): "strong candidate", "shortlisted candidates", "candidate for a position".
+@n
+1. ứng viên | The top *candidate* has ten years of experience. | Ứng viên hàng đầu có mười năm kinh nghiệm.
+col: strong candidate = ứng viên mạnh; qualified candidate = ứng viên đủ tiêu chuẩn; shortlisted candidate = ứng viên lọt vào danh sách; candidate for = ứng viên cho; ideal candidate = ứng viên lý tưởng
+syn: applicant, nominee, contender, job seeker
+
+# employer | /ɪmˈplɔɪər/
+fam: employ (v) thuê; employee (n) nhân viên; employment (n) việc làm; unemployed (adj) thất nghiệp; employable (adj)
+tip: Bộ ba: employer (người thuê) / employee (người được thuê) / employment (việc làm). "equal opportunity employer" = nhà tuyển dụng bình đẳng.
+@n
+1. người sử dụng lao động | The company is a major *employer* in the region. | Công ty là nhà sử dụng lao động lớn trong vùng.
+col: current employer = nơi làm hiện tại; potential employer = nhà tuyển dụng tiềm năng; former employer = nơi làm cũ; equal opportunity employer = nơi tuyển dụng bình đẳng; major employer = nơi sử dụng nhiều lao động
+syn: boss, company, hirer, recruiter
+ant: employee
+
+# employee | /ɪmˈplɔɪiː/
+fam: employ (v); employer (n); employment (n); unemployment (n)
+tip: employee = người làm công; luôn nhớ có -ee (người nhận hành động). "full-time/part-time employee", "employee benefits", "employee morale".
+@n
+1. nhân viên | All *employees* must wear ID badges. | Mọi nhân viên phải đeo thẻ nhân viên.
+col: full-time employee = nhân viên toàn thời gian; part-time employee = nhân viên bán thời gian; new employee = nhân viên mới; employee benefits = phúc lợi nhân viên; employee morale = tinh thần nhân viên
+syn: worker, staff member, team member, associate
+ant: employer, boss
+
+# executive | /ɪɡˈzekjətɪv/
+fam: execute (v); execution (n); executive officer (n)
+tip: executive (n) = giám đốc điều hành, lãnh đạo cấp cao; (adj) = điều hành: "executive director", "executive summary" (tóm tắt điều hành), "chief executive officer (CEO)".
+@n
+1. giám đốc, lãnh đạo | Senior *executives* will attend the meeting. | Các lãnh đạo cấp cao sẽ dự cuộc họp.
+col: senior executive = lãnh đạo cấp cao; chief executive officer = tổng giám đốc; marketing executive = chuyên viên/giám đốc marketing; sales executive = nhân viên kinh doanh; executive team = ban điều hành
+syn: manager, director, administrator, leader
+@adj
+1. thuộc điều hành | She was promoted to *executive* director. | Cô ấy được thăng chức giám đốc điều hành.
+col: executive summary = bản tóm tắt điều hành; executive board = hội đồng điều hành; executive suite = phòng hạng sang
+
+# headquarters | /ˈhedkwɔːrtərz/
+fam: headquarter (v) đặt trụ sở; HQ (n) viết tắt; headquartered (adj) có trụ sở
+tip: "headquarters" kết thúc -s nhưng đi với động từ số ít hoặc số nhiều đều được. "corporate headquarters", "be headquartered in".
+@n
+1. trụ sở chính | The company's *headquarters* is in Seoul. | Trụ sở chính của công ty đặt tại Seoul.
+col: corporate headquarters = trụ sở công ty; regional headquarters = trụ sở khu vực; global headquarters = trụ sở toàn cầu; be headquartered in = có trụ sở tại; headquarters building = tòa nhà trụ sở
+syn: head office, main office, home base
+ant: branch, subsidiary
+
+# branch | /bræntʃ/
+fam: branching (n); subbranch
+tip: branch = chi nhánh / nhánh cây / nhánh. "branch manager", "branch office", "open a new branch". "branch out" = mở rộng sang lĩnh vực khác.
+@n
+1. chi nhánh | The bank opened a new *branch* downtown. | Ngân hàng mở chi nhánh mới ở trung tâm.
+2. nhánh (cây) | A fallen *branch* blocked the road. | Một cành cây gãy chắn ngang đường.
+col: branch office = văn phòng chi nhánh; branch manager = quản lý chi nhánh; local branch = chi nhánh địa phương; open a branch = mở chi nhánh; branch of a tree = cành cây
+syn: office, outlet, division (1); bough, limb (2)
+@v
+1. phân nhánh, mở rộng | The firm plans to *branch* out into e-commerce. | Công ty dự định mở rộng sang thương mại điện tử.
+col: branch out = mở rộng; branch off = rẽ nhánh
+
+# subsidiary | /səbˈsɪdieri/
+fam: subsidize (v) trợ cấp; subsidy (n) khoản trợ cấp; parent company (n) công ty mẹ
+tip: subsidiary (n) = công ty con (thuộc sở hữu của công ty mẹ). (adj) = phụ. "wholly-owned subsidiary".
+@n
+1. công ty con | The firm acquired a *subsidiary* in Germany. | Công ty mua lại một công ty con ở Đức.
+col: wholly-owned subsidiary = công ty con sở hữu hoàn toàn; foreign subsidiary = công ty con nước ngoài; subsidiary of = công ty con của; parent company = công ty mẹ
+syn: affiliate, branch, offshoot
+ant: parent company
+
+# department | /dɪˈpɑːrtmənt/
+fam: departmental (adj) thuộc phòng ban; depart (v) khởi hành; departure (n)
+tip: "department head/store", "sales department", "HR department". Phân biệt với departure (sự khởi hành).
+@n
+1. phòng, ban, khoa | Please send the form to the human resources *department*. | Vui lòng gửi mẫu đơn tới phòng nhân sự.
+col: sales department = phòng kinh doanh; human resources department = phòng nhân sự; department head = trưởng phòng; department store = cửa hàng bách hóa; fire department = sở cứu hỏa
+syn: division, unit, section, office
+
+# workforce | /ˈwɜːrkfɔːrs/
+fam: work (v/n); force (n); labor force (n)
+tip: workforce = toàn bộ lực lượng lao động (của công ty/quốc gia). "reduce the workforce", "skilled workforce". Tương tự "staff", "personnel".
+@n
+1. lực lượng lao động | The company plans to expand its *workforce* by 10 percent. | Công ty dự định tăng lực lượng lao động thêm 10%.
+col: skilled workforce = lực lượng lao động có tay nghề; reduce the workforce = cắt giảm nhân lực; workforce development = phát triển nhân lực; global workforce = lực lượng lao động toàn cầu; workforce planning = hoạch định nhân sự
+syn: staff, labor force, personnel, employees
+
+# trainee | /treɪˈniː/
+fam: train (v) đào tạo; trainer (n) người đào tạo; training (n) sự đào tạo
+tip: Đuôi -ee chỉ người nhận hành động: trainee (người được đào tạo), employee, interviewee. "management trainee" = thực tập quản lý.
+@n
+1. thực tập sinh, học viên | New *trainees* will attend an orientation on Monday. | Học viên mới sẽ dự buổi định hướng vào thứ Hai.
+col: management trainee = thực tập quản lý; trainee program = chương trình thực tập; graduate trainee = thực tập sinh mới tốt nghiệp; trainee position = vị trí thực tập
+syn: apprentice, intern, learner
+ant: trainer, instructor
+
+# internship | /ˈɪntɜːrnʃɪp/
+fam: intern (n/v) thực tập sinh; internal (adj) nội bộ
+tip: internship = kỳ thực tập; "summer internship", "paid internship". intern (n) = thực tập sinh. -ship chỉ trạng thái/quan hệ.
+@n
+1. kỳ thực tập | She completed a three-month *internship* at the bank. | Cô ấy hoàn thành kỳ thực tập ba tháng tại ngân hàng.
+col: paid internship = thực tập có lương; summer internship = thực tập hè; internship program = chương trình thực tập; apply for an internship = nộp đơn xin thực tập; internship at = thực tập tại
+syn: placement, apprenticeship, traineeship
+
+# orientation | /ˌɔːriənˈteɪʃn/
+fam: orient (v) định hướng; oriented (adj) hướng tới; reorientation (n)
+tip: "new employee orientation" = buổi giới thiệu nhân viên mới; "customer-oriented" = hướng tới khách hàng.
+@n
+1. buổi định hướng | All new hires must attend *orientation* on their first day. | Mọi nhân viên mới phải dự buổi định hướng vào ngày đầu.
+col: new employee orientation = định hướng nhân viên mới; orientation session = buổi định hướng; orientation program = chương trình định hướng; attend orientation = tham dự định hướng; customer orientation = hướng tới khách hàng
+syn: induction, introduction, briefing
+
+# workshop | /ˈwɜːrkʃɑːp/
+fam: work (v/n); shop (n)
+tip: workshop = buổi hội thảo thực hành/hội thảo chuyên đề; cũng = xưởng. "hold/attend a workshop", "workshop on sth".
+@n
+1. hội thảo thực hành | The company offers a *workshop* on time management. | Công ty tổ chức hội thảo thực hành về quản lý thời gian.
+2. xưởng | He repairs bicycles in his *workshop*. | Anh ấy sửa xe đạp trong xưởng của mình.
+col: attend a workshop = tham dự hội thảo; hold a workshop = tổ chức hội thảo; training workshop = hội thảo đào tạo; workshop on sth = hội thảo về; hands-on workshop = hội thảo thực hành
+syn: seminar, training session, class (1); studio, shop (2)
+
+# seminar | /ˈsemɪnɑːr/
+fam: —
+tip: seminar = hội thảo (thiên về thuyết trình, thảo luận); gần với workshop (thực hành). "hold a seminar on sth", "seminar series".
+@n
+1. hội thảo, buổi chuyên đề | The bank is hosting a *seminar* on investment. | Ngân hàng tổ chức hội thảo về đầu tư.
+col: hold a seminar = tổ chức hội thảo; attend a seminar = tham dự hội thảo; free seminar = hội thảo miễn phí; seminar on sth = hội thảo về; training seminar = buổi tập huấn
+syn: workshop, conference, lecture, symposium
+
+# conference | /ˈkɑːnfərəns/
+fam: confer (v) hội ý; conferencing (n) hội nghị trực tuyến
+tip: conference = hội nghị lớn; "conference call" (cuộc gọi hội nghị), "conference room" (phòng họp), "at a conference", "press conference".
+@n
+1. hội nghị | The annual *conference* will be held in Berlin. | Hội nghị thường niên sẽ được tổ chức tại Berlin.
+col: conference room = phòng họp; conference call = cuộc gọi hội nghị; press conference = họp báo; attend a conference = dự hội nghị; video conference = hội nghị truyền hình
+syn: convention, summit, meeting, congress
+
+# venue | /ˈvenjuː/
+fam: —
+tip: venue = địa điểm tổ chức sự kiện (hội nghị, buổi hòa nhạc). "conference venue", "choose a venue", "wedding venue". Khác location.
+@n
+1. địa điểm tổ chức | The hotel is a popular *venue* for weddings. | Khách sạn là địa điểm phổ biến để tổ chức đám cưới.
+col: conference venue = địa điểm hội nghị; event venue = địa điểm sự kiện; wedding venue = địa điểm cưới; book a venue = đặt địa điểm; venue for sth = địa điểm cho
+syn: location, site, place, setting
+
+# catering | /ˈkeɪtərɪŋ/
+fam: cater (v) cung cấp đồ ăn; caterer (n) nhà cung cấp tiệc
+tip: catering = dịch vụ cung cấp đồ ăn thức uống cho sự kiện. "cater to" = phục vụ/đáp ứng; "cater for" (Anh) = cung cấp đồ ăn.
+@n
+1. dịch vụ ăn uống (tiệc) | The company hired a *catering* service for the event. | Công ty thuê dịch vụ tiệc cho sự kiện.
+col: catering service = dịch vụ tiệc; catering company = công ty cung cấp tiệc; catering staff = nhân viên phục vụ tiệc; provide catering = cung cấp dịch vụ ăn uống; event catering = tiệc sự kiện
+syn: food service, banqueting, provisioning
+
+# accommodation | /əˌkɑːməˈdeɪʃn/
+fam: accommodate (v) chứa, đáp ứng; accommodations (n, Mỹ) chỗ ở
+tip: Anh-Anh: accommodation (không đếm được); Anh-Mỹ: accommodations (thường số nhiều). "book accommodation", "accommodation costs".
+@n
+1. chỗ ở | The price includes flights and *accommodation*. | Giá đã bao gồm vé bay và chỗ ở.
+col: book accommodation = đặt chỗ ở; hotel accommodation = chỗ ở khách sạn; accommodation costs = chi phí chỗ ở; provide accommodation = cung cấp chỗ ở; temporary accommodation = chỗ ở tạm
+syn: lodging, housing, stay, quarters
+
+# destination | /ˌdestɪˈneɪʃn/
+fam: destine (v); destined (adj) định sẵn; destiny (n) số phận
+tip: "tourist destination", "final destination", "reach one's destination". "be destined for/to V".
+@n
+1. điểm đến | Bali is a popular tourist *destination*. | Bali là điểm đến du lịch phổ biến.
+col: tourist destination = điểm du lịch; final destination = điểm đến cuối; reach a destination = đến đích; popular destination = điểm đến ưa chuộng; travel destination = điểm đến du lịch
+syn: goal, end point, target, stop
+
+# luggage | /ˈlʌɡɪdʒ/
+fam: baggage (n) hành lý (Mỹ); suitcase (n) vali
+tip: luggage (Anh) / baggage (Mỹ) = hành lý, KHÔNG đếm được: ✗ luggages; "a piece of luggage". "luggage allowance", "carry-on luggage".
+@n
+1. hành lý | Please keep your *luggage* with you at all times. | Vui lòng luôn giữ hành lý bên mình.
+col: carry-on luggage = hành lý xách tay; checked luggage = hành lý ký gửi; luggage cart = xe đẩy hành lý; lost luggage = hành lý thất lạc; luggage allowance = hạn mức hành lý
+syn: baggage, bags, suitcases
+
+# customs | /ˈkʌstəmz/
+fam: custom (n) phong tục; customary (adj) theo thông lệ; customize (v) tùy chỉnh; customer (n)
+tip: customs (số nhiều) = hải quan: "go through customs", "customs officer", "customs declaration". "custom" (số ít) = tập quán.
+@n
+1. hải quan | Passengers must go through *customs* upon arrival. | Hành khách phải qua hải quan khi đến nơi.
+col: go through customs = qua hải quan; customs officer = nhân viên hải quan; customs declaration = tờ khai hải quan; customs duty = thuế hải quan; clear customs = thông quan
+syn: border control, immigration (gần nghĩa)
+
+# fare | /fer/
+fam: fair (adj/n) công bằng; farewell (n) lời tạm biệt
+tip: BẪY: fare (giá vé phương tiện) ≠ fair (công bằng/hội chợ). "bus fare", "airfare", "fare increase", "full fare".
+@n
+1. giá vé | The bus *fare* will increase next month. | Giá vé xe buýt sẽ tăng vào tháng tới.
+col: bus fare = giá vé xe buýt; airfare = giá vé máy bay; fare increase = tăng giá vé; one-way fare = giá vé một chiều; discount fare = vé giảm giá; full fare = vé nguyên giá
+syn: ticket price, charge, fee, cost
+
+# commission | /kəˈmɪʃn/
+fam: commit (v); commissioner (n) ủy viên; commissioned (adj)
+tip: commission = tiền hoa hồng / ủy ban / sự giao phó. "earn a commission", "on commission", "be commissioned to V".
+@n
+1. tiền hoa hồng | Sales reps earn a 5 percent *commission*. | Nhân viên bán hàng hưởng hoa hồng 5%.
+2. ủy ban | A *commission* will investigate the matter. | Một ủy ban sẽ điều tra vấn đề.
+col: earn commission = nhận hoa hồng; commission rate = tỷ lệ hoa hồng; on commission = ăn hoa hồng; commission fee = phí hoa hồng; the commission on sth = ủy ban về
+syn: percentage, cut, fee (1); committee, board (2)
+@v
+1. giao nhiệm vụ, đặt (sản xuất) | The city *commissioned* a mural for the library. | Thành phố đặt vẽ bức tranh tường cho thư viện.
+col: commission sb to V = giao cho ai làm; commission a report = đặt làm báo cáo
+
+# acquisition | /ˌækwɪˈzɪʃn/
+fam: acquire (v) mua lại, đạt được; acquired (adj)
+tip: acquisition = thương vụ mua lại / sự đạt được. "mergers and acquisitions (M&A)", "skill acquisition", "acquisition of".
+@n
+1. thương vụ mua lại | The *acquisition* was completed in March. | Thương vụ mua lại được hoàn tất vào tháng Ba.
+col: company acquisition = mua lại công ty; acquisition of sth = việc mua lại; mergers and acquisitions = sáp nhập và mua lại; skill acquisition = tiếp thu kỹ năng; recent acquisition = thương vụ mới
+syn: purchase, takeover, buyout, gain
+
+# merger | /ˈmɜːrdʒər/
+fam: merge (v) sáp nhập; merged (adj)
+tip: merger = vụ sáp nhập (hai công ty cùng hợp lại, ngang hàng) ≠ acquisition (một bên mua lại). "merger between A and B".
+@n
+1. vụ sáp nhập | The *merger* will create the largest bank in the country. | Vụ sáp nhập sẽ tạo ra ngân hàng lớn nhất cả nước.
+col: merger between = sáp nhập giữa; announce a merger = công bố sáp nhập; proposed merger = vụ sáp nhập đề xuất; merger talks = đàm phán sáp nhập; merger agreement = thỏa thuận sáp nhập
+syn: union, consolidation, combination, amalgamation
+ant: split, breakup, demerger
+
+# shareholder | /ˈʃerhoʊldər/
+fam: share (n/v) cổ phần, chia sẻ; stakeholder (n) bên liên quan; stock (n)
+tip: shareholder = cổ đông (người sở hữu cổ phần); "annual shareholders' meeting". Mỹ cũng dùng "stockholder". stakeholder = bên có lợi ích liên quan.
+@n
+1. cổ đông | *Shareholders* will vote on the proposal. | Các cổ đông sẽ biểu quyết về đề xuất.
+col: major shareholder = cổ đông lớn; shareholders' meeting = họp cổ đông; shareholder value = giá trị cổ đông; minority shareholder = cổ đông thiểu số; shareholder approval = sự chấp thuận của cổ đông
+syn: stockholder, investor, stakeholder, owner
+
+# investor | /ɪnˈvestər/
+fam: invest (v); investment (n); reinvest (v)
+tip: investor = nhà đầu tư; "institutional investor", "attract investors". Cặp: invest (v) – investment (n) – investor (n).
+@n
+1. nhà đầu tư | The firm is seeking new *investors*. | Công ty đang tìm kiếm nhà đầu tư mới.
+col: attract investors = thu hút nhà đầu tư; private investor = nhà đầu tư tư nhân; foreign investor = nhà đầu tư nước ngoài; institutional investor = nhà đầu tư tổ chức; potential investor = nhà đầu tư tiềm năng
+syn: backer, financier, shareholder, funder
+
+# asset | /ˈæset/
+fam: assets (n) tài sản; liability (n) nợ phải trả
+tip: asset = tài sản (có giá trị); "company assets", "fixed assets" (tài sản cố định); cũng bóng nghĩa "an asset to the team" = tài sản quý. Đối lập: liability.
+@n
+1. tài sản | The company's main *asset* is its brand. | Tài sản chính của công ty là thương hiệu.
+2. người/điều quý giá | She is a great *asset* to our team. | Cô ấy là một nhân tố quý giá của nhóm.
+col: fixed assets = tài sản cố định; total assets = tổng tài sản; valuable asset = tài sản quý; assets and liabilities = tài sản và nợ; asset to sb = tài sản quý của
+syn: resource, property, advantage, strength
+ant: liability, debt, drawback
+
+# loan | /loʊn/
+fam: lend (v) cho vay; borrow (v) vay; lender (n) người cho vay; borrower (n) người vay
+tip: loan (n) khoản vay; (v) cho vay. "take out a loan", "apply for a loan", "repay a loan", "loan officer". "lend" (cho vay) ↔ "borrow" (đi vay).
+@n
+1. khoản vay | She took out a *loan* to buy a house. | Cô ấy vay một khoản để mua nhà.
+col: take out a loan = vay; apply for a loan = xin vay; repay a loan = trả nợ; bank loan = vay ngân hàng; loan interest = lãi vay; loan application = đơn vay
+syn: credit, advance, mortgage, debt
+@v
+1. cho vay | The bank *loaned* the firm $2 million. | Ngân hàng cho công ty vay 2 triệu đô la.
+
+# interest | /ˈɪntrəst/
+fam: interested (adj) quan tâm; interesting (adj) thú vị; disinterested (adj) vô tư
+tip: Tài chính: "interest rate" = lãi suất; "earn interest" = nhận lãi. Chung: "interest in sth" = sự quan tâm; "conflict of interest" = xung đột lợi ích.
+@n
+1. lãi suất | The bank offers a low *interest* rate on loans. | Ngân hàng có lãi suất thấp cho khoản vay.
+2. sự quan tâm | She has a strong *interest* in marketing. | Cô ấy rất quan tâm đến tiếp thị.
+col: interest rate = lãi suất; earn interest = có lãi; interest in sth = sự quan tâm đến; conflict of interest = xung đột lợi ích; in the interest of = vì lợi ích của; compound interest = lãi kép
+syn: rate, return (1); curiosity, attention (2)
+@v
+1. làm quan tâm | The offer *interested* several buyers. | Lời đề nghị làm vài người mua quan tâm.
+
+# transaction | /trænˈzækʃn/
+fam: transact (v) giao dịch; transactional (adj)
+tip: transaction = giao dịch (mua bán/ngân hàng): "complete a transaction", "online transaction", "transaction fee", "bank transaction".
+@n
+1. giao dịch | Each *transaction* is recorded in the system. | Mỗi giao dịch được ghi lại trong hệ thống.
+col: complete a transaction = hoàn tất giao dịch; online transaction = giao dịch trực tuyến; financial transaction = giao dịch tài chính; transaction fee = phí giao dịch; transaction history = lịch sử giao dịch
+syn: deal, exchange, purchase, trade
+
+# statement | /ˈsteɪtmənt/
+fam: state (v/n) nêu, trạng thái; restatement (n); understatement (n)
+tip: statement = bản kê, tuyên bố: "bank statement" (sao kê ngân hàng), "financial statement" (báo cáo tài chính), "press statement" = thông cáo.
+@n
+1. bản sao kê | Please check your monthly *statement* for errors. | Vui lòng kiểm tra sao kê hằng tháng xem có sai sót không.
+2. tuyên bố | The CEO issued a *statement* about the merger. | Giám đốc điều hành ra tuyên bố về vụ sáp nhập.
+col: bank statement = sao kê ngân hàng; financial statement = báo cáo tài chính; issue a statement = ra tuyên bố; mission statement = tuyên bố sứ mệnh; written statement = bản khai viết
+syn: report, account, record (1); declaration, announcement (2)
+
+# balance | /ˈbæləns/
+fam: balanced (adj) cân bằng; imbalance (n) mất cân bằng; unbalanced (adj)
+tip: Ngân hàng: "account balance" = số dư; "balance due" = số dư phải trả. "work-life balance" = cân bằng công việc – cuộc sống.
+@n
+1. số dư | Please check your account *balance*. | Vui lòng kiểm tra số dư tài khoản.
+2. sự cân bằng | It's important to keep a *balance* between work and life. | Giữ cân bằng giữa công việc và cuộc sống là quan trọng.
+col: account balance = số dư tài khoản; outstanding balance = số dư còn nợ; balance due = số tiền còn phải trả; work-life balance = cân bằng công việc–cuộc sống; on balance = xét cho cùng
+syn: remainder, difference (1); equilibrium, stability (2)
+ant: imbalance
+@v
+1. cân bằng; đối chiếu | We must *balance* the budget this year. | Chúng ta phải cân đối ngân sách trong năm nay.
+col: balance the budget = cân đối ngân sách; balance A against B = cân nhắc A so với B
+
+# audit | /ˈɔːdɪt/
+fam: auditor (n) kiểm toán viên; auditing (n); audited (adj)
+tip: audit = kiểm toán (tài chính) hoặc cuộc kiểm tra: "annual audit", "financial audit", "internal audit". "auditor" = kiểm toán viên.
+@n
+1. cuộc kiểm toán | An external firm will conduct the *audit* next month. | Một công ty bên ngoài sẽ tiến hành kiểm toán vào tháng sau.
+col: conduct an audit = tiến hành kiểm toán; annual audit = kiểm toán hằng năm; internal audit = kiểm toán nội bộ; financial audit = kiểm toán tài chính; audit report = báo cáo kiểm toán
+syn: inspection, review, examination
+@v
+1. kiểm toán | The accountants *audited* the company's books. | Kế toán đã kiểm toán sổ sách công ty.
+col: audit the accounts = kiểm toán tài khoản; be audited = bị kiểm toán
+
+# regulation | /ˌreɡjuˈleɪʃn/
+fam: regulate (v) điều tiết; regulator (n) cơ quan điều tiết; regulatory (adj) thuộc quy định; deregulation (n)
+tip: regulation = quy định (luật lệ, thường số nhiều): "safety regulations", "comply with regulations". Cũng = sự điều tiết.
+@n
+1. quy định | All staff must follow the safety *regulations*. | Mọi nhân viên phải tuân thủ quy định an toàn.
+col: safety regulations = quy định an toàn; comply with regulations = tuân thủ quy định; government regulations = quy định của chính phủ; regulations and policies = quy định và chính sách; strict regulations = quy định nghiêm ngặt
+syn: rule, law, restriction, ordinance
+
+# policy | /ˈpɑːləsi/
+fam: policymaker (n) người hoạch định chính sách; policies (n)
+tip: policy = chính sách (công ty/chính phủ) HOẶC hợp đồng bảo hiểm (insurance policy). "return policy", "company policy", "privacy policy".
+@n
+1. chính sách | The store has a flexible return *policy*. | Cửa hàng có chính sách đổi trả linh hoạt.
+2. hợp đồng bảo hiểm | He renewed his insurance *policy* last week. | Anh ấy gia hạn hợp đồng bảo hiểm tuần trước.
+col: company policy = chính sách công ty; return policy = chính sách đổi trả; privacy policy = chính sách bảo mật; insurance policy = hợp đồng bảo hiểm; policy change = thay đổi chính sách
+syn: guideline, rule, strategy, plan
+
+# procedure | /prəˈsiːdʒər/
+fam: proceed (v) tiến hành; process (n); procedural (adj)
+tip: procedure = thủ tục/quy trình (các bước chuẩn): "follow the procedure", "safety procedures", "standard operating procedure (SOP)". Khác "process".
+@n
+1. thủ tục, quy trình | Follow the standard *procedure* when reporting an accident. | Hãy làm theo quy trình chuẩn khi báo cáo tai nạn.
+col: follow procedures = làm theo thủ tục; safety procedures = quy trình an toàn; standard procedure = quy trình chuẩn; emergency procedures = quy trình khẩn cấp; medical procedure = thủ thuật y tế
+syn: process, method, protocol, routine
+
+# compliance | /kəmˈplaɪəns/
+fam: comply (v) tuân thủ; compliant (adj); noncompliance (n)
+tip: "in compliance with" = tuân theo; "compliance officer" = nhân viên tuân thủ; "ensure compliance". Từ khóa pháp lý, an toàn.
+@n
+1. sự tuân thủ | All suppliers must ensure *compliance* with safety standards. | Mọi nhà cung cấp phải đảm bảo tuân thủ tiêu chuẩn an toàn.
+col: in compliance with = tuân theo; ensure compliance = đảm bảo tuân thủ; compliance officer = nhân viên tuân thủ; regulatory compliance = tuân thủ quy định; non-compliance = không tuân thủ
+prep: compliance with sth
+syn: adherence, obedience, conformity
+ant: violation, defiance
+
+# hazard | /ˈhæzərd/
+fam: hazardous (adj) nguy hiểm; hazardously (adv)
+tip: hazard = mối nguy hiểm (cụ thể): "safety hazard", "fire hazard", "health hazard". "hazardous materials" = vật liệu nguy hiểm.
+@n
+1. mối nguy hiểm | Loose cables are a safety *hazard*. | Dây cáp lỏng lẻo là mối nguy hiểm về an toàn.
+col: safety hazard = nguy hiểm an toàn; fire hazard = nguy cơ hỏa hoạn; health hazard = nguy cơ sức khỏe; potential hazard = nguy hiểm tiềm ẩn; hazard warning = cảnh báo nguy hiểm
+syn: danger, risk, threat, peril
+ant: safety, protection
+
+# equipment | /ɪˈkwɪpmənt/
+fam: equip (v) trang bị; equipped (adj) được trang bị; equipping (n)
+tip: equipment = thiết bị (KHÔNG đếm được): ✗ equipments; "a piece of equipment". "office/safety/sports equipment". "be equipped with".
+@n
+1. thiết bị | The factory purchased new *equipment*. | Nhà máy mua thiết bị mới.
+col: office equipment = thiết bị văn phòng; safety equipment = thiết bị an toàn; heavy equipment = máy móc hạng nặng; a piece of equipment = một thiết bị; equipment failure = hỏng thiết bị
+syn: gear, apparatus, machinery, tools
+
+# premises | /ˈpremɪsɪz/
+fam: premise (n) tiền đề; premised (adj)
+tip: premises (luôn số nhiều) = khuôn viên, cơ sở: "on the premises" = tại cơ sở; "no smoking on the premises". Khác "premise" (tiền đề).
+@n
+1. khuôn viên, cơ sở | Smoking is not allowed on the *premises*. | Không được hút thuốc trong khuôn viên.
+col: on the premises = tại cơ sở; business premises = trụ sở kinh doanh; company premises = khuôn viên công ty; leave the premises = rời khỏi khuôn viên; commercial premises = cơ sở thương mại
+syn: building, property, grounds, site
+
+# lease | /liːs/
+fam: lessee (n) người thuê; lessor (n) người cho thuê; leasing (n)
+tip: lease = hợp đồng thuê dài hạn (nhà, văn phòng, xe): "sign a lease", "lease agreement", "lease expires". "lease a car". Phân biệt: rent (thuê ngắn).
+@n
+1. hợp đồng thuê | The company signed a five-year *lease*. | Công ty ký hợp đồng thuê năm năm.
+col: sign a lease = ký hợp đồng thuê; lease agreement = hợp đồng thuê; lease term = thời hạn thuê; lease renewal = gia hạn hợp đồng thuê; on lease = đang cho thuê
+syn: rental agreement, tenancy, charter
+@v
+1. thuê (dài hạn), cho thuê | The firm *leases* office space downtown. | Công ty thuê văn phòng ở trung tâm.
+col: lease sth from sb = thuê từ ai; lease sth to sb = cho ai thuê; lease a car = thuê xe dài hạn
+syn: rent, let, hire
+
+# vacancy | /ˈveɪkənsi/
+fam: vacant (adj) trống; vacate (v) rời, bỏ trống; vacated (adj)
+tip: vacancy = vị trí tuyển dụng còn trống / phòng trống: "job vacancy", "no vacancy" (hết phòng). "fill a vacancy" = tuyển người vào chỗ trống.
+@n
+1. vị trí còn trống; phòng trống | There is a *vacancy* in the accounting department. | Phòng kế toán đang có một vị trí trống.
+col: job vacancy = vị trí tuyển dụng; no vacancy = hết phòng; fill a vacancy = lấp vị trí trống; vacancy rate = tỷ lệ trống; vacancies available = có chỗ trống
+syn: opening, opportunity, available room
+ant: occupancy
+
+# amenities | /əˈmenətiz/
+fam: amenity (n) tiện nghi
+tip: amenities (thường số nhiều) = tiện nghi (hồ bơi, wifi, phòng gym): "hotel amenities", "modern amenities". Hay trong quảng cáo khách sạn/BĐS.
+@n
+1. tiện nghi | The hotel offers excellent *amenities*, including a gym. | Khách sạn có tiện nghi tuyệt vời, gồm cả phòng gym.
+col: hotel amenities = tiện nghi khách sạn; modern amenities = tiện nghi hiện đại; on-site amenities = tiện nghi tại chỗ; local amenities = tiện ích địa phương; basic amenities = tiện nghi cơ bản
+syn: facilities, features, services, comforts
+
+# advertisement | /ˌædvərˈtaɪzmənt/
+fam: advertise (v) quảng cáo; advertising (n) ngành quảng cáo; advertiser (n) nhà quảng cáo; ad (n) viết tắt
+tip: advertisement (n, đếm được) = một quảng cáo: "place an advertisement", "job advertisement", viết tắt "ad". "advertising" = hoạt động quảng cáo (không đếm được).
+@n
+1. quảng cáo | The firm placed an *advertisement* in the local newspaper. | Công ty đăng quảng cáo trên báo địa phương.
+col: place an advertisement = đăng quảng cáo; job advertisement = tin tuyển dụng; online advertisement = quảng cáo trực tuyến; run an advertisement = chạy quảng cáo; classified advertisement = rao vặt
+syn: ad, commercial, promotion, notice
+
+# clientele | /ˌklaɪənˈtel/
+fam: client (n) khách hàng; clientele
+tip: clientele = tập khách hàng (của một cửa hàng/dịch vụ). "loyal clientele", "upscale clientele". Danh từ tập hợp.
+@n
+1. tập khách hàng | The restaurant has a loyal *clientele*. | Nhà hàng có tập khách hàng trung thành.
+col: loyal clientele = khách hàng trung thành; regular clientele = khách quen; upscale clientele = khách hàng cao cấp; target clientele = khách hàng mục tiêu; wealthy clientele = khách hàng giàu có
+syn: customers, patrons, regulars, market
+
+# consumer | /kənˈsuːmər/
+fam: consume (v) tiêu thụ; consumption (n) sự tiêu thụ; consumable (adj); consumerism (n)
+tip: consumer = người tiêu dùng (cuối cùng); khác "customer" (người mua hàng của một cửa hàng cụ thể). "consumer goods", "consumer confidence".
+@n
+1. người tiêu dùng | *Consumers* are spending more on online shopping. | Người tiêu dùng đang chi nhiều hơn cho mua sắm trực tuyến.
+col: consumer goods = hàng tiêu dùng; consumer demand = nhu cầu tiêu dùng; consumer rights = quyền lợi người tiêu dùng; consumer confidence = niềm tin người tiêu dùng; consumer survey = khảo sát người tiêu dùng
+syn: buyer, shopper, customer, user
+ant: producer, manufacturer
+
+# feedback | /ˈfiːdbæk/
+fam: feed (v) nuôi, cấp; back (adv)
+tip: feedback = phản hồi, góp ý (KHÔNG đếm được): ✗ feedbacks; "a piece of feedback". "give/receive feedback", "customer feedback", "positive feedback".
+@n
+1. phản hồi | We value your *feedback* on our service. | Chúng tôi trân trọng phản hồi của bạn về dịch vụ.
+col: customer feedback = phản hồi khách hàng; positive feedback = phản hồi tích cực; give feedback = đưa ra phản hồi; constructive feedback = góp ý xây dựng; feedback form = mẫu phản hồi
+prep: feedback on/about sth
+syn: comments, response, input, reaction
+
+# complaint | /kəmˈpleɪnt/
+fam: complain (v) phàn nàn; complainant (n) người khiếu nại
+tip: complaint (n) = lời phàn nàn; "file/lodge a complaint", "complaint about sth"; "complain about sth to sb". Động từ complain không tân ngữ trực tiếp.
+@n
+1. lời phàn nàn, khiếu nại | We received several *complaints* about the noise. | Chúng tôi nhận nhiều khiếu nại về tiếng ồn.
+col: file a complaint = nộp đơn khiếu nại; customer complaint = khiếu nại khách hàng; handle a complaint = xử lý khiếu nại; complaint about sth = khiếu nại về; complaint form = mẫu khiếu nại
+prep: complaint about/against sth
+syn: grievance, objection, protest, criticism
+ant: praise, compliment
+
+# shortage | /ˈʃɔːrtɪdʒ/
+fam: short (adj); shortfall (n) khoản thiếu hụt; shorten (v)
+tip: "a shortage of sth" = sự thiếu hụt; "labor shortage", "food shortage". Gần: scarcity. Đối lập: surplus.
+@n
+1. sự thiếu hụt | The company faces a *shortage* of skilled workers. | Công ty đối mặt tình trạng thiếu công nhân có tay nghề.
+col: a shortage of = sự thiếu hụt; labor shortage = thiếu nhân lực; supply shortage = thiếu nguồn cung; water shortage = thiếu nước; chronic shortage = thiếu hụt kéo dài
+syn: lack, scarcity, deficit, shortfall
+ant: surplus, excess, abundance
+
+# surplus | /ˈsɜːrplʌs/
+fam: —
+tip: surplus = thặng dư, lượng dư thừa; "budget surplus" (thặng dư ngân sách), "surplus stock". Đối lập: shortage, deficit.
+@n
+1. thặng dư | The company has a *surplus* of unsold goods. | Công ty có lượng hàng tồn dư thừa chưa bán.
+col: budget surplus = thặng dư ngân sách; trade surplus = thặng dư thương mại; surplus stock = hàng tồn dư; surplus of sth = sự dư thừa; surplus equipment = thiết bị dư
+syn: excess, extra, remainder, overflow
+ant: shortage, deficit
+@adj
+1. thừa | The charity sells *surplus* furniture. | Tổ chức từ thiện bán đồ nội thất dư thừa.
+
+# overtime | /ˈoʊvərtaɪm/
+fam: over (prep); time (n); overtime pay (n)
+tip: overtime = (giờ) làm thêm, tiền làm thêm giờ: "work overtime", "overtime pay". Danh từ không đếm được; cũng là trạng từ.
+@n
+1. giờ làm thêm | Staff worked *overtime* to meet the deadline. | Nhân viên làm thêm giờ để kịp hạn chót.
+col: work overtime = làm thêm giờ; overtime pay = lương làm thêm; overtime hours = giờ làm thêm; mandatory overtime = làm thêm bắt buộc; paid overtime = làm thêm có lương
+syn: extra hours, additional hours
+
+# quota | /ˈkwoʊtə/
+fam: —
+tip: quota = hạn ngạch, chỉ tiêu: "sales quota" (chỉ tiêu bán hàng), "import quota" (hạn ngạch nhập khẩu), "meet the quota".
+@n
+1. hạn ngạch, chỉ tiêu | Each salesperson must meet a monthly *quota*. | Mỗi nhân viên bán hàng phải đạt chỉ tiêu hằng tháng.
+col: sales quota = chỉ tiêu bán hàng; meet a quota = đạt chỉ tiêu; import quota = hạn ngạch nhập khẩu; production quota = chỉ tiêu sản xuất; exceed the quota = vượt chỉ tiêu
+syn: allocation, target, share, limit
+
+# milestone | /ˈmaɪlstoʊn/
+fam: mile (n); stone (n)
+tip: milestone = cột mốc quan trọng của dự án/cuộc đời. "reach a milestone", "project milestone", "mark a milestone".
+@n
+1. cột mốc | The company reached an important *milestone* this month. | Công ty đạt cột mốc quan trọng trong tháng này.
+col: reach a milestone = đạt cột mốc; important milestone = cột mốc quan trọng; project milestone = cột mốc dự án; mark a milestone = đánh dấu cột mốc; milestone achievement = thành tựu cột mốc
+syn: landmark, turning point, benchmark, achievement
+
+# prototype | /ˈproʊtətaɪp/
+fam: prototyping (n); typical (adj); type (n)
+tip: prototype = mẫu thử nghiệm đầu tiên của sản phẩm. "develop a prototype", "working prototype", "test a prototype".
+@n
+1. mẫu thử, nguyên mẫu | Engineers tested the *prototype* last week. | Các kỹ sư đã thử nguyên mẫu vào tuần trước.
+col: develop a prototype = phát triển nguyên mẫu; test a prototype = thử nghiệm nguyên mẫu; working prototype = mẫu chạy được; build a prototype = làm nguyên mẫu; prototype design = thiết kế mẫu
+syn: model, sample, original, pilot
+
+# malfunction | /mælˈfʌŋkʃn/
+fam: function (n/v) chức năng; functional (adj); dysfunction (n)
+tip: malfunction (n/v) = sự cố hỏng hóc (thiết bị). "equipment malfunction", "technical malfunction", "malfunction of sth". Tiền tố mal- = xấu.
+@n
+1. sự cố, trục trặc | A *malfunction* in the system delayed the flight. | Sự cố hệ thống làm chuyến bay bị trễ.
+col: equipment malfunction = thiết bị trục trặc; technical malfunction = sự cố kỹ thuật; malfunction of sth = sự hỏng của; due to a malfunction = do trục trặc; report a malfunction = báo sự cố
+syn: breakdown, failure, glitch, fault
+@v
+1. hoạt động sai, hỏng | The machine *malfunctioned* during testing. | Máy bị trục trặc trong lúc thử.
+col: machine malfunctions = máy trục trặc; malfunctioning equipment = thiết bị hỏng
+
+# defect | /ˈdiːfekt/
+fam: defective (adj) bị lỗi; defect (v) đào ngũ
+tip: defect = khiếm khuyết (của sản phẩm): "manufacturing defect", "defective product". Trả hàng lỗi: "return a defective item".
+@n
+1. khuyết điểm, lỗi | The batch was recalled because of a *defect*. | Lô hàng bị thu hồi vì có lỗi.
+col: manufacturing defect = lỗi sản xuất; product defect = lỗi sản phẩm; free of defects = không lỗi; defect rate = tỷ lệ lỗi; defect in sth = lỗi ở
+syn: flaw, fault, imperfection, malfunction
+ant: perfection, advantage
+
+# outage | /ˈaʊtɪdʒ/
+fam: out (adv); outing (n)
+tip: outage = sự cố mất (điện, mạng): "power outage", "network outage". Thường xuất hiện trong thông báo công ty dịch vụ.
+@n
+1. sự cố mất điện/dịch vụ | A power *outage* affected the entire neighborhood. | Sự cố mất điện ảnh hưởng toàn khu phố.
+col: power outage = mất điện; service outage = gián đoạn dịch vụ; network outage = mất mạng; planned outage = ngừng cung cấp theo kế hoạch; temporary outage = mất tạm thời
+syn: blackout, cut, disruption, downtime
+
+# template | /ˈtempleɪt/
+fam: —
+tip: template = mẫu (văn bản/biểu mẫu soạn sẵn): "email template", "use a template", "download the template".
+@n
+1. mẫu có sẵn | Please use the standard *template* for your report. | Vui lòng dùng mẫu chuẩn cho báo cáo của bạn.
+col: use a template = dùng mẫu; email template = mẫu email; standard template = mẫu chuẩn; download a template = tải mẫu; template for sth = mẫu cho
+syn: pattern, model, format, blueprint
+
+# layout | /ˈleɪaʊt/
+fam: lay out (phr v) bố trí
+tip: layout = bố cục, cách bố trí (văn phòng, trang web): "office layout", "floor layout". "lay out" (v) = trình bày/bố trí.
+@n
+1. bố cục, cách bố trí | The *layout* of the new store is more open. | Cách bố trí cửa hàng mới thoáng hơn.
+col: office layout = bố cục văn phòng; page layout = bố cục trang; floor layout = sơ đồ mặt bằng; website layout = bố cục trang web; redesign the layout = thiết kế lại bố cục
+syn: arrangement, design, plan, format
+
+# warehouse | /ˈwerhaʊs/
+fam: warehousing (n) việc lưu kho; house (n)
+tip: warehouse = nhà kho lớn (hàng hóa); "warehouse worker", "warehouse sale". Cặp: storage – warehouse – stockroom.
+@n
+1. nhà kho | The goods are stored in a *warehouse* near the port. | Hàng hóa được cất trong nhà kho gần cảng.
+col: warehouse manager = quản lý kho; warehouse worker = nhân viên kho; warehouse space = diện tích kho; distribution warehouse = kho phân phối; warehouse sale = bán hàng tại kho
+syn: depot, storehouse, depository, storeroom
+
+# logistics | /ləˈdʒɪstɪks/
+fam: logistic (adj); logistical (adj)
+tip: logistics = hậu cần/vận chuyển và phân phối hàng hóa. "logistics company", "supply chain and logistics". Dạng số nhiều nhưng dùng như số ít.
+@n
+1. hậu cần | The *logistics* of the event were handled by an agency. | Công tác hậu cần của sự kiện do một công ty đảm nhiệm.
+col: logistics company = công ty hậu cần; logistics manager = quản lý hậu cần; logistics and transportation = hậu cần và vận tải; event logistics = hậu cần sự kiện; supply chain logistics = hậu cần chuỗi cung ứng
+syn: distribution, supply chain, planning, coordination
+
+# bid | /bɪd/
+fam: bidder (n) người đấu giá/thầu; bidding (n) việc đấu thầu; outbid (v)
+tip: bid (n) = giá thầu/đề nghị (đấu thầu hoặc đấu giá); (v) bid – bid – bid. "submit a bid", "win a bid", "bid for a contract".
+@n
+1. giá thầu, lời chào giá | The firm submitted a *bid* for the construction contract. | Công ty nộp hồ sơ thầu cho hợp đồng xây dựng.
+col: submit a bid = nộp hồ sơ thầu; win a bid = trúng thầu; bid for a contract = đấu thầu hợp đồng; winning bid = giá thầu thắng; competitive bid = giá thầu cạnh tranh
+syn: tender, offer, proposal, quote
+@v
+1. đấu thầu, trả giá | Three companies are *bidding* for the contract. | Ba công ty đang đấu thầu hợp đồng.
+col: bid for sth = đấu thầu; bid on sth = trả giá cho

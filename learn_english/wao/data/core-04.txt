@@ -1,0 +1,253 @@
+# dependable | /dɪˈpendəbl/
+fam: depend (v) phụ thuộc; dependence (n) sự phụ thuộc; dependent (adj/n) phụ thuộc, người phụ thuộc; dependability (n) độ tin cậy
+tip: Nhóm đồng nghĩa với -able: dependable, reliable, trustworthy. "depend on sb/sth".
+@adj
+1. đáng tin cậy | We need a *dependable* supplier for our raw materials. | Chúng tôi cần một nhà cung cấp đáng tin cậy cho nguyên liệu thô.
+col: dependable service = dịch vụ đáng tin cậy; dependable employee = nhân viên đáng tin; dependable transportation = phương tiện đáng tin
+syn: reliable, trustworthy, steady, faithful
+ant: unreliable, undependable
+
+# affordable | /əˈfɔːrdəbl/
+fam: afford (v) có đủ khả năng chi trả; affordability (n) khả năng chi trả; unaffordable (adj)
+tip: "afford to V" = đủ khả năng làm gì. "affordable housing/prices/rates" = nhà ở/giá cả phải chăng.
+@adj
+1. giá phải chăng | The hotel offers *affordable* rooms near the station. | Khách sạn có phòng giá phải chăng gần nhà ga.
+col: affordable price = giá phải chăng; affordable housing = nhà ở giá rẻ; at an affordable cost = với chi phí hợp lý; affordable rates = mức giá hợp lý
+syn: inexpensive, reasonable, cheap, economical
+ant: expensive, costly, prohibitive
+
+# personnel | /ˌpɜːrsəˈnel/
+fam: personal (adj) cá nhân; personally (adv); personality (n) tính cách
+tip: BẪY: personnel (n, nhân sự, trọng âm cuối) ≠ personal (adj, cá nhân). "Personnel department" = phòng nhân sự; "authorized personnel only".
+@n
+1. nhân sự, nhân viên | Only authorized *personnel* may enter the laboratory. | Chỉ nhân viên được phép mới được vào phòng thí nghiệm.
+col: personnel department = phòng nhân sự; authorized personnel = nhân viên được phép; military personnel = quân nhân; sales personnel = nhân viên bán hàng; personnel manager = trưởng phòng nhân sự
+syn: staff, employees, workforce, human resources
+use: Danh từ tập hợp, thường đi với động từ số nhiều.
+
+# shuttle | /ˈʃʌtl/
+fam: shuttle service (n) dịch vụ đưa đón; space shuttle (n) tàu con thoi
+tip: "shuttle bus" = xe đưa đón (sân bay-khách sạn). Dịch vụ miễn phí thường quảng bá: "free shuttle service".
+@n
+1. xe đưa đón | A free *shuttle* runs between the hotel and the airport. | Xe đưa đón miễn phí chạy giữa khách sạn và sân bay.
+col: shuttle bus = xe buýt đưa đón; airport shuttle = xe đưa đón sân bay; shuttle service = dịch vụ đưa đón; shuttle schedule = lịch xe đưa đón
+syn: transfer, minibus
+@v
+1. đi lại, đưa đón | Vans *shuttle* guests between the venues. | Xe van đưa đón khách giữa các địa điểm.
+col: shuttle between A and B = đi lại giữa A và B
+
+# throughout | /θruːˈaʊt/
+fam: through (prep) xuyên qua; throughput (n) công suất xử lý
+tip: throughout + N (thời gian/nơi chốn) = suốt, khắp: throughout the year/the country/the building. Là giới từ và trạng từ.
+@prep
+1. suốt, khắp | Prices have been stable *throughout* the year. | Giá cả ổn định suốt cả năm.
+@adv
+1. khắp nơi | The building was painted white *throughout*. | Tòa nhà được sơn trắng khắp nơi.
+col: throughout the year = suốt cả năm; throughout the world = khắp thế giới; throughout the day = suốt ngày; throughout the building = khắp tòa nhà
+syn: all over, across, during, for the duration of
+
+# ride | /raɪd/
+fam: rider (n) người đi (xe); riding (n) việc cưỡi/đi
+tip: ride – rode – ridden. "ride" dùng cho xe buýt/xe đạp/ngựa/tàu lượn; "drive" dùng cho ô tô. "ride-sharing" = gọi xe chung.
+@n
+1. chuyến đi (xe) | The *ride* to the airport takes about 30 minutes. | Chuyến xe đến sân bay mất khoảng 30 phút.
+col: bus ride = chuyến xe buýt; give sb a ride = cho ai đi nhờ; ride-sharing = đi chung xe; take a ride = đi một chuyến; free ride = chuyến đi miễn phí
+syn: trip, journey, lift
+@v
+1. đi (xe), cưỡi | Many commuters *ride* the train to work. | Nhiều người đi làm bằng tàu hỏa.
+col: ride a bicycle/bus/train = đi xe đạp/xe buýt/tàu
+syn: travel, commute
+
+# mostly | /ˈmoʊstli/
+fam: most (adj/adv/pron) hầu hết; mostly (adv)
+tip: mostly = chủ yếu là (đo tỉ lệ), phân biệt với "most" đứng trước adj/adv để so sánh nhất. "mostly" ≈ "mainly", "for the most part".
+@adv
+1. chủ yếu, phần lớn | The audience was *mostly* young professionals. | Khán giả chủ yếu là các chuyên gia trẻ.
+col: mostly + n/adj = chủ yếu; mostly because = chủ yếu là vì; mostly used for = chủ yếu dùng cho
+syn: mainly, chiefly, largely, primarily
+ant: rarely, partly
+
+# seldom | /ˈseldəm/
+fam: —
+tip: Trạng từ tần suất phủ định: seldom = hiếm khi → câu không dùng thêm "not". Khi đảo ngữ: "Seldom does he arrive late."
+@adv
+1. hiếm khi | The printer *seldom* breaks down. | Máy in hiếm khi bị hỏng.
+col: seldom if ever = hầu như không bao giờ; seldom or never = hiếm hoặc không bao giờ; Seldom + trợ động từ + S = hiếm khi...
+syn: rarely, hardly ever, infrequently
+ant: often, frequently, always
+
+# kindly | /ˈkaɪndli/
+fam: kind (adj/n) tử tế, loại; kindness (n) lòng tốt; unkind (adj)
+tip: kindly (adv) thường trong thư/thông báo lịch sự: "Kindly submit..." = Vui lòng nộp... Cũng là tính từ (a kindly man).
+@adv
+1. vui lòng, tử tế | *Kindly* provide your account number. | Vui lòng cung cấp số tài khoản của bạn.
+col: kindly + V = vui lòng; kindly note that = xin lưu ý rằng; kindly respond/reply = vui lòng phản hồi; thank you kindly = cảm ơn rất nhiều
+syn: please, politely, graciously
+ant: rudely, unkindly
+@adj
+1. tử tế, nhân hậu | The *kindly* receptionist helped the visitors. | Cô lễ tân tử tế đã giúp đỡ các vị khách.
+
+# loyalty | /ˈlɔɪəlti/
+fam: loyal (adj) trung thành; loyalist (n); disloyal (adj)
+tip: "customer loyalty", "loyalty program/card" (chương trình khách hàng thân thiết) rất hay gặp trong quảng cáo.
+@n
+1. sự trung thành | The store rewards customer *loyalty* with discounts. | Cửa hàng thưởng cho sự trung thành của khách bằng giảm giá.
+col: customer loyalty = lòng trung thành của khách; brand loyalty = sự trung thành thương hiệu; loyalty program = chương trình khách hàng thân thiết; loyalty card = thẻ thành viên
+prep: loyalty to sb/sth
+syn: allegiance, faithfulness, commitment
+ant: betrayal, disloyalty
+
+# rewarding | /rɪˈwɔːrdɪŋ/
+fam: reward (n/v) phần thưởng, thưởng; rewards (n) quyền lợi; unrewarding (adj)
+tip: rewarding = (công việc/trải nghiệm) đáng làm, mang lại sự thỏa mãn; không chỉ nghĩa "tiền thưởng".
+@adj
+1. đáng làm, bổ ích | Teaching has been a *rewarding* career for her. | Dạy học là nghề đáng giá đối với cô ấy.
+col: rewarding experience = trải nghiệm bổ ích; rewarding career = sự nghiệp đáng giá; financially rewarding = có lợi về tài chính; personally rewarding = có ý nghĩa cá nhân
+syn: fulfilling, satisfying, worthwhile, gratifying
+ant: unrewarding, pointless
+
+# collect | /kəˈlekt/ | seen: collecting
+fam: collection (n) bộ sưu tập, sự thu thập; collector (n) người thu thập; collective (adj) tập thể; collectively (adv)
+tip: collect = thu thập/thu gom/đến lấy: collect data/donations/luggage/payment. "collect call" = cuộc gọi người nghe trả tiền.
+@v
+1. thu thập, thu gom | The survey team is *collecting* feedback from customers. | Nhóm khảo sát đang thu thập phản hồi từ khách hàng.
+2. đến lấy | You can *collect* your tickets at the box office. | Bạn có thể đến nhận vé tại quầy vé.
+col: collect data = thu thập dữ liệu; collect payment = thu tiền; collect donations = quyên góp; collect luggage = lấy hành lý; collect a parcel = nhận bưu kiện
+syn: gather, accumulate, pick up, assemble
+ant: scatter, distribute
+
+# launch | /lɔːntʃ/ | seen: launching
+fam: launcher (n) bệ phóng; relaunch (v/n) tái ra mắt
+tip: "launch a product/campaign/website" = tung ra/ra mắt. Danh từ: "product launch" = buổi ra mắt sản phẩm.
+@v
+1. tung ra, khởi động | The company will *launch* its new app next month. | Công ty sẽ ra mắt ứng dụng mới vào tháng sau.
+2. phóng (tên lửa, tàu) | They *launched* the ship at dawn. | Họ hạ thủy con tàu vào lúc bình minh.
+col: launch a product = tung sản phẩm; launch a campaign = khởi động chiến dịch; launch a website = ra mắt website; launch an investigation = mở cuộc điều tra
+syn: introduce, unveil, start, initiate
+@n
+1. buổi ra mắt | The *launch* of the new model is scheduled for May. | Buổi ra mắt mẫu mới được lên lịch vào tháng Năm.
+col: product launch = ra mắt sản phẩm; launch date = ngày ra mắt; launch event = sự kiện ra mắt
+
+# renew | /rɪˈnuː/ | seen: renewing
+fam: renewal (n) sự gia hạn; renewable (adj) có thể gia hạn/tái tạo; renewed (adj) mới mẻ lại
+tip: renew a contract/license/subscription/membership = gia hạn. "renewable energy" = năng lượng tái tạo.
+@v
+1. gia hạn | You must *renew* your membership before it expires. | Bạn phải gia hạn tư cách thành viên trước khi hết hạn.
+2. làm mới, khôi phục | The company *renewed* its efforts to cut costs. | Công ty nỗ lực trở lại để cắt giảm chi phí.
+col: renew a contract = gia hạn hợp đồng; renew a license = gia hạn giấy phép; renew a subscription = gia hạn đăng ký; renew an effort = tăng cường nỗ lực
+syn: extend, prolong, restore, refresh
+ant: cancel, terminate, let expire
+
+# resident | /ˈrezɪdənt/ | seen: residents
+fam: reside (v) cư trú; residence (n) nơi cư trú; residential (adj) thuộc khu dân cư; residency (n) quyền cư trú
+tip: "residents" của tòa nhà/khu phố. "residential area" = khu dân cư (≠ commercial area).
+@n
+1. cư dân | *Residents* are asked to keep the noise down after 10 p.m. | Cư dân được yêu cầu giữ yên lặng sau 10 giờ tối.
+col: local residents = cư dân địa phương; permanent resident = thường trú nhân; resident of + place = cư dân của nơi nào; residents' association = hội cư dân
+syn: inhabitant, occupant, citizen, dweller
+@adj
+1. thường trú | The hotel has a *resident* chef. | Khách sạn có bếp trưởng thường trú.
+
+# enlarge | /ɪnˈlɑːrdʒ/ | seen: enlarged
+fam: enlargement (n) sự mở rộng/phóng to; large (adj) lớn; larger (adj) lớn hơn
+tip: enlarge = làm to ra (kích thước vật lý): enlarge a photo/facility. Khác "expand" (mở rộng quy mô/nội dung).
+@v
+1. mở rộng, phóng to | The airport will be *enlarged* to handle more flights. | Sân bay sẽ được mở rộng để tiếp nhận nhiều chuyến bay hơn.
+col: enlarge a photo = phóng ảnh; enlarge a facility = mở rộng cơ sở; enlarged version = bản mở rộng; enlarge on sth = nói rõ hơn về
+syn: expand, extend, magnify, widen
+ant: reduce, shrink, shorten
+
+# previously | /ˈpriːviəsli/
+fam: previous (adj) trước đó; preview (n/v) xem trước
+tip: previously = trước đây (thường dùng với quá khứ hoàn thành hoặc quá khứ đơn). "previously mentioned/scheduled/announced".
+@adv
+1. trước đây | The shop was *previously* located on Main Street. | Cửa hàng trước đây nằm trên đường Main.
+col: previously announced = đã thông báo trước đó; previously mentioned = đã đề cập trước đó; previously scheduled = đã lên lịch trước; as previously stated = như đã nêu trước đây
+syn: formerly, earlier, before, once
+ant: subsequently, afterwards, currently
+
+# dedicated | /ˈdedɪkeɪtɪd/
+fam: dedicate (v) cống hiến; dedication (n) sự cống hiến; dedicatedly (adv)
+tip: dedicated (adj) = tận tụy; hoặc "chuyên dụng" (a dedicated server). "be dedicated to + N/V-ing" (to là giới từ).
+@adj
+1. tận tụy | The company thanks its *dedicated* employees. | Công ty cảm ơn những nhân viên tận tụy của mình.
+2. chuyên dụng | The site has a *dedicated* page for refunds. | Trang web có một trang chuyên biệt dành cho hoàn tiền.
+col: dedicated team = đội ngũ tận tâm; dedicated staff = nhân viên tận tụy; be dedicated to sth/V-ing = tận tâm với; dedicated line = đường dây riêng
+prep: dedicated to sth / V-ing
+syn: committed, devoted, loyal (1), specialized (2)
+ant: indifferent, apathetic
+
+# modernize | /ˈmɑːdərnaɪz/ | seen: modernized
+fam: modern (adj) hiện đại; modernization (n) sự hiện đại hóa; modernist (n)
+tip: Đuôi -ize tạo động từ (modernize, finalize, organize, authorize...). Hay đi với facilities, equipment, system.
+@v
+1. hiện đại hóa | The factory was *modernized* with new robotic equipment. | Nhà máy được hiện đại hóa bằng thiết bị robot mới.
+col: modernize equipment = hiện đại hóa thiết bị; modernize a system = hiện đại hóa hệ thống; modernized facilities = cơ sở được hiện đại hóa
+syn: update, upgrade, renovate, revamp
+ant: outdate
+
+# serve | /sɜːrv/
+fam: service (n) dịch vụ; server (n) người phục vụ, máy chủ; servant (n); servicing (n)
+tip: serve = phục vụ (khách/đồ ăn); đảm nhiệm vai trò (serve as chairman); phục vụ cộng đồng. "serve as" = đóng vai trò là.
+@v
+1. phục vụ, cung cấp | The restaurant *serves* breakfast from 6 a.m. | Nhà hàng phục vụ bữa sáng từ 6 giờ sáng.
+2. đảm nhiệm (vai trò) | She *served* as chair of the committee for two years. | Bà từng đảm nhiệm chức chủ tịch ủy ban trong hai năm.
+3. đáp ứng, phục vụ (nhu cầu) | The new route will *serve* commuters in the north. | Tuyến mới sẽ phục vụ những người đi làm ở phía bắc.
+col: serve as = đóng vai trò; serve on a committee = tham gia ủy ban; serve customers = phục vụ khách hàng; serve a purpose = phục vụ mục đích; serve notice = gửi thông báo chính thức
+prep: serve as + N; serve on + committee
+syn: attend, provide, function as, act as
+
+# growing | /ˈɡroʊɪŋ/
+fam: grow (v) tăng trưởng; growth (n) sự tăng trưởng; grown (adj) trưởng thành; overgrown (adj)
+tip: growing (adj) = ngày càng tăng/phát triển: a growing number of..., growing demand. "A growing number of" + N số nhiều + động từ số nhiều.
+@adj
+1. ngày càng tăng | There is a *growing* demand for eco-friendly products. | Nhu cầu về sản phẩm thân thiện môi trường đang ngày càng tăng.
+col: growing demand = nhu cầu tăng; a growing number of = ngày càng nhiều; growing concern = mối lo ngại tăng; growing market = thị trường phát triển; growing company = công ty đang phát triển
+syn: increasing, rising, expanding, mounting
+ant: declining, shrinking, diminishing
+
+# large | /lɑːrdʒ/ | seen: larger
+fam: largely (adv) phần lớn; enlarge (v) mở rộng; largeness (n)
+tip: large vs big vs great: large dùng với số lượng/kích cỡ (large number/amount), "large-scale" = quy mô lớn. "largely" (adv) = chủ yếu, phần lớn.
+@adj
+1. lớn, rộng | The company moved to a *larger* office downtown. | Công ty chuyển sang văn phòng rộng hơn ở trung tâm.
+col: large number of = số lượng lớn; large amount of = lượng lớn; large-scale = quy mô lớn; at large = nói chung, nói rộng ra; by and large = nhìn chung; larger than = lớn hơn
+syn: big, sizable, substantial, extensive
+ant: small, tiny, little
+
+# instead | /ɪnˈsted/ | seen: Instead
+fam: stead (n) chỗ của; instead of (prep) thay vì
+tip: BẪY: "instead" (adv, đứng cuối/đầu câu, dùng đơn lẻ) vs "instead of" (prep, theo sau là N/V-ing). "Instead, ..." = Thay vào đó,...
+@adv
+1. thay vào đó | The meeting is canceled. *Instead*, we will exchange emails. | Cuộc họp bị hủy. Thay vào đó, chúng ta sẽ trao đổi qua email.
+col: Instead, + clause = thay vào đó; instead of + N/V-ing = thay vì; and instead = và thay vào đó
+syn: alternatively, rather, in place
+ant: as well, also
+
+# nevertheless | /ˌnevərðəˈles/
+fam: nonetheless (adv) tuy vậy; however (adv) tuy nhiên
+tip: Trạng từ nối đối lập (conjunctive adverb): ; nevertheless, ... hoặc . Nevertheless, ... Cùng nhóm: however, nonetheless, even so, still.
+@adv
+1. tuy nhiên, dù vậy | The weather was poor; *nevertheless*, the event went ahead. | Thời tiết xấu; tuy vậy, sự kiện vẫn diễn ra.
+col: Nevertheless, + clause = tuy nhiên; ; nevertheless, = dù vậy; but nevertheless = nhưng dù vậy
+syn: however, nonetheless, even so, still, yet
+ant: therefore, consequently
+
+# in addition | /ɪn əˈdɪʃn/ | seen: In addition
+fam: add (v) thêm; addition (n) sự thêm vào; additional (adj) bổ sung; additionally (adv) ngoài ra
+tip: "In addition," (adv, đầu câu) = Ngoài ra; "in addition to + N/V-ing" (prep) = ngoài... ra. Phân biệt cùng "additionally".
+@adv
+1. ngoài ra | *In addition*, all staff will receive a bonus. | Ngoài ra, toàn bộ nhân viên sẽ nhận được tiền thưởng.
+@prep
+1. ngoài... ra (in addition to) | *In addition to* the salary, there is a bonus. | Ngoài lương, còn có thưởng.
+col: in addition to + N/V-ing = ngoài; in addition, ... = ngoài ra; in addition to this = ngoài điều này
+syn: furthermore, moreover, besides, also, as well as
+use: Trang trọng; thường đứng đầu câu có dấu phẩy.
+
+# facility | /fəˈsɪləti/
+fam: facilitate (v) tạo điều kiện; facilitator (n) người điều phối; facilities (n) cơ sở vật chất
+tip: số ít "facility" = cơ sở (nhà máy, trung tâm); số nhiều "facilities" = tiện nghi. "facilitate" (v) = tạo điều kiện thuận lợi.
+@n
+1. cơ sở, tiện nghi | The new research *facility* opens in September. | Cơ sở nghiên cứu mới khai trương vào tháng Chín.
+col: production facility = cơ sở sản xuất; sports facilities = cơ sở thể thao; medical facility = cơ sở y tế; storage facility = kho chứa; facilities management = quản lý cơ sở vật chất
+syn: center, site, installation, amenity

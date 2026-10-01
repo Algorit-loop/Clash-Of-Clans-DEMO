@@ -1,0 +1,363 @@
+# noticeable | /ˈnoʊtɪsəbl/
+fam: notice (v/n) nhận thấy, thông báo; noticeably (adv) một cách rõ rệt; unnoticed (adj) không được chú ý
+tip: "noticeable" = dễ nhận thấy; hay đi với improvement/difference/change/increase.
+@adj
+1. đáng chú ý, rõ rệt | There has been a *noticeable* improvement in customer satisfaction. | Đã có sự cải thiện rõ rệt về mức độ hài lòng của khách hàng.
+col: noticeable difference = khác biệt rõ rệt; noticeable improvement = cải thiện rõ; barely noticeable = hầu như không thấy
+syn: obvious, evident, apparent, marked
+ant: unnoticeable, imperceptible
+
+# reduction | /rɪˈdʌkʃn/ | seen: reductions
+fam: reduce (v) giảm; reduced (adj) được giảm; reducible (adj)
+tip: "a reduction in sth" (giảm về cái gì) – giới từ "in". "price/cost/staff reductions".
+@n
+1. sự giảm bớt | The firm announced *reductions* in staff and costs. | Công ty công bố cắt giảm nhân sự và chi phí.
+col: cost reduction = giảm chi phí; price reduction = giảm giá; a reduction in sth = sự giảm về; significant reduction = giảm đáng kể; staff reductions = cắt giảm nhân sự
+prep: reduction in/of sth
+syn: decrease, cut, decline, drop
+ant: increase, rise, growth
+
+# increment | /ˈɪŋkrəmənt/ | seen: increments
+fam: increase (v/n) tăng; incremental (adj) tăng dần; incrementally (adv)
+tip: increment = mức tăng nhỏ theo bước đều: salary increment (tăng lương theo bậc), in increments of $10.
+@n
+1. mức tăng, bước tăng | The salary will rise in annual *increments*. | Lương sẽ tăng theo từng bậc hằng năm.
+col: salary increment = tăng lương theo bậc; in increments of... = theo từng mức tăng...; small increments = tăng nhỏ
+syn: increase, raise, addition, step
+ant: decrement, decrease
+
+# provision | /prəˈvɪʒn/ | seen: provisions
+fam: provide (v) cung cấp; provider (n) nhà cung cấp; provided (that) (conj) với điều kiện; provisional (adj) tạm thời
+tip: Hợp đồng: "provisions" (số nhiều) = điều khoản; "make provisions for" = chuẩn bị/dự phòng cho.
+@n
+1. sự cung cấp | The *provision* of free meals improved morale. | Việc cung cấp bữa ăn miễn phí cải thiện tinh thần nhân viên.
+2. điều khoản | The contract has *provisions* for early termination. | Hợp đồng có các điều khoản về chấm dứt sớm.
+col: make provision(s) for = chuẩn bị/dự phòng cho; the provisions of the contract = điều khoản hợp đồng; provision of services = cung cấp dịch vụ
+prep: provision of sth / provision for sth
+syn: supply, clause, stipulation, term
+
+# impression | /ɪmˈpreʃn/ | seen: impressions
+fam: impress (v) gây ấn tượng; impressive (adj) ấn tượng; impressed (adj) cảm kích; impressionable (adj)
+tip: "make a good impression" / "first impression" = ấn tượng đầu tiên. "impression of sth" = cảm tưởng về.
+@n
+1. ấn tượng | The candidate made a strong *impression* during the interview. | Ứng viên đã tạo ấn tượng mạnh trong buổi phỏng vấn.
+col: first impression = ấn tượng đầu; make an impression on sb = gây ấn tượng với ai; lasting impression = ấn tượng lâu dài; under the impression that = có ấn tượng rằng
+prep: impression of/on sb
+syn: effect, feeling, perception
+
+# process | /ˈprɑːses/
+fam: processing (n) sự xử lý; processor (n) bộ xử lý; procedure (n) quy trình; procession (n) đoàn rước
+tip: Danh từ và động từ đọc giống nhau (Mỹ: /ˈprɑːses/). "processing time" = thời gian xử lý đơn; "in the process of" = đang trong quá trình.
+@n
+1. quá trình, quy trình | The application *process* takes about two weeks. | Quy trình nộp đơn mất khoảng hai tuần.
+col: application process = quy trình nộp đơn; in the process of = đang trong quá trình; manufacturing process = quy trình sản xuất; hiring process = quy trình tuyển dụng; streamline the process = tinh giản quy trình
+syn: procedure, method, system
+@v
+1. xử lý | We will *process* your refund within five days. | Chúng tôi sẽ xử lý việc hoàn tiền trong năm ngày.
+col: process an order/refund/application = xử lý đơn hàng/hoàn tiền/hồ sơ; processed food = thực phẩm chế biến
+syn: handle, deal with
+
+# immediately | /ɪˈmiːdiətli/
+fam: immediate (adj) ngay lập tức; immediacy (n) tính tức thời
+tip: "immediately" cũng là liên từ (Anh-Anh) = "ngay khi": Immediately he arrived, ... Cùng nghĩa: promptly, at once, right away.
+@adv
+1. ngay lập tức | Please report any damage *immediately*. | Vui lòng báo ngay mọi hư hỏng.
+col: immediately after/before = ngay sau/trước; respond immediately = phản hồi ngay; effective immediately = có hiệu lực ngay
+syn: instantly, at once, right away, promptly
+ant: eventually, later, gradually
+
+# reservation | /ˌrezərˈveɪʃn/
+fam: reserve (v/n) đặt trước, dự trữ; reserved (adj) được đặt trước, dè dặt
+tip: Nhà hàng/khách sạn: "make a reservation" = đặt chỗ. Ngoài ra "reservations about sth" = sự e ngại, nghi ngại.
+@n
+1. sự đặt chỗ trước | I'd like to make a *reservation* for six people at 7 p.m. | Tôi muốn đặt bàn cho sáu người lúc 7 giờ tối.
+2. sự e ngại | She expressed *reservations* about the plan. | Cô ấy bày tỏ sự e ngại về kế hoạch.
+col: make a reservation = đặt chỗ; confirm a reservation = xác nhận đặt chỗ; cancel a reservation = hủy đặt chỗ; reservation desk = quầy đặt chỗ; have reservations about = còn nghi ngại về
+prep: reservation for (a number of people / time)
+syn: booking (1), doubt, hesitation (2)
+
+# brochure | /broʊˈʃʊr/ | seen: brochures
+fam: —
+tip: brochure = tờ rơi/tập quảng cáo nhiều trang, phổ biến cùng "flyer" (tờ rơi 1 trang), "pamphlet", "catalog".
+@n
+1. tờ rơi, sách giới thiệu | Free *brochures* are available at the front desk. | Tờ rơi miễn phí có sẵn ở quầy lễ tân.
+col: travel brochure = tờ rơi du lịch; product brochure = tài liệu giới thiệu sản phẩm; brochure design = thiết kế tờ rơi; request a brochure = yêu cầu tài liệu
+syn: pamphlet, leaflet, flyer, booklet
+
+# presentation | /ˌpriːzenˈteɪʃn/
+fam: present (v/n/adj) trình bày, món quà, hiện tại; presenter (n) người thuyết trình; presentable (adj) tươm tất
+tip: "give/make a presentation" = thuyết trình. "presentation" còn có nghĩa cách trình bày (food presentation).
+@n
+1. bài thuyết trình | Her *presentation* on market trends was very informative. | Bài thuyết trình của cô ấy về xu hướng thị trường rất bổ ích.
+2. cách trình bày | The *presentation* of the dishes was elegant. | Cách bày biện các món ăn rất trang nhã.
+col: give a presentation = thuyết trình; sales presentation = bài giới thiệu bán hàng; presentation skills = kỹ năng thuyết trình; slide presentation = bài trình chiếu
+prep: presentation on/about sth
+syn: talk, demonstration, display
+
+# reflect | /rɪˈflekt/
+fam: reflection (n) sự phản chiếu/suy ngẫm; reflective (adj) phản chiếu, hay suy ngẫm; reflector (n)
+tip: "reflect on sth" = suy ngẫm; "reflect sth" = phản ánh (số liệu phản ánh kết quả): "These figures reflect growth".
+@v
+1. phản ánh | The report *reflects* the company's rapid growth. | Báo cáo phản ánh sự tăng trưởng nhanh của công ty.
+2. suy ngẫm | Take a moment to *reflect* on what you have learned. | Hãy dành chút thời gian suy ngẫm về những gì bạn đã học.
+3. phản chiếu | The glass walls *reflect* the sunlight. | Các bức tường kính phản chiếu ánh nắng.
+col: reflect well/badly on sb = gây ấn tượng tốt/xấu cho ai; reflect the changes = phản ánh sự thay đổi; reflect on sth = suy ngẫm về
+prep: reflect on/upon sth
+syn: show, indicate, mirror, ponder
+
+# response | /rɪˈspɑːns/ | seen: Responses
+fam: respond (v) phản hồi; responsive (adj) nhạy bén; responsible (adj) chịu trách nhiệm; unresponsive (adj)
+tip: "in response to" = nhằm đáp lại; "response to sth" (giới từ to). Phản hồi khảo sát: survey responses.
+@n
+1. sự phản hồi, câu trả lời | We received many positive *responses* to the survey. | Chúng tôi nhận được nhiều phản hồi tích cực cho khảo sát.
+col: in response to = để đáp lại; response time = thời gian phản hồi; positive response = phản hồi tích cực; response to sth = phản hồi đối với; survey responses = câu trả lời khảo sát
+prep: response to sth
+syn: reply, answer, reaction, feedback
+
+# either | /ˈiːðər/
+fam: neither (pron/conj) cũng không; both (pron) cả hai
+tip: "either A or B" – động từ chia theo B. "either" làm đại từ: either of the two (một trong hai) + động từ số ít. Dùng "either" trong câu phủ định = cũng (không): "I don't like it, either".
+@conj
+1. hoặc (either...or) | You can pay *either* by cash or by credit card. | Bạn có thể thanh toán bằng tiền mặt hoặc thẻ tín dụng.
+@pron
+1. cái này hoặc cái kia | *Either* of the two dates works for me. | Ngày nào trong hai ngày cũng được với tôi.
+@adv
+1. cũng (phủ định) | I don't have a ticket, *either*. | Tôi cũng không có vé.
+col: either... or... = hoặc... hoặc...; either way = dù theo cách nào; on either side = ở cả hai bên; not... either = cũng không
+syn: one or the other
+ant: neither, both
+
+# those | /ðoʊz/
+fam: that (det/pron) cái đó; these (det/pron) những cái này
+tip: "those who + V" = những người nào (chủ ngữ, động từ chia số nhiều): "Those who register early will receive discounts."
+@pron
+1. những người/cái đó | *Those* who register early will get a discount. | Những ai đăng ký sớm sẽ được giảm giá.
+@det
+1. những ... kia | *Those* documents must be signed by Friday. | Những tài liệu kia phải được ký trước thứ Sáu.
+col: those who = những người nào; those of you who = những bạn nào; those interested in = những người quan tâm đến
+syn: the ones, the people who
+ant: these
+
+# fair | /fer/
+fam: fairly (adv) khá, công bằng; fairness (n) sự công bằng; unfair (adj) không công bằng
+tip: Nhiều nghĩa: (adj) công bằng/khá tốt/nước da sáng; (n) hội chợ ("trade fair", "job fair", "craft fair"). Phân biệt "fair" vs "fare" (giá vé).
+@adj
+1. công bằng | The company has a *fair* hiring policy. | Công ty có chính sách tuyển dụng công bằng.
+2. khá, tương đối | The restaurant's prices are *fair* for the quality. | Giá của nhà hàng khá hợp lý so với chất lượng.
+col: fair price = giá hợp lý; fair share = phần xứng đáng; fair treatment = đối xử công bằng; fair enough = được thôi
+syn: just, impartial, reasonable
+ant: unfair, biased
+@n
+1. hội chợ | The annual job *fair* attracts hundreds of applicants. | Hội chợ việc làm thường niên thu hút hàng trăm ứng viên.
+col: trade fair = hội chợ thương mại; job fair = hội chợ việc làm; craft fair = hội chợ thủ công; book fair = hội chợ sách
+syn: expo, exhibition, market (n)
+
+# shipment | /ˈʃɪpmənt/ | seen: shipments
+fam: ship (v/n) vận chuyển, tàu; shipper (n) bên gửi hàng; shipping (n) việc vận chuyển
+tip: "shipment" = lô hàng được vận chuyển (không nhất thiết bằng tàu). "shipping and handling" = phí vận chuyển và xử lý.
+@n
+1. lô hàng, sự vận chuyển | The *shipment* arrived two days later than expected. | Lô hàng đến muộn hai ngày so với dự kiến.
+col: incoming shipment = hàng đến; track a shipment = theo dõi lô hàng; shipment date = ngày giao; delay in shipment = chậm giao hàng
+prep: shipment of sth (to somewhere)
+syn: consignment, cargo, delivery, freight
+
+# parcel | /ˈpɑːrsl/ | seen: Parcels, the courier's parcel
+fam: —
+tip: Anh-Mỹ ưa dùng "package"; Anh-Anh "parcel". "parcel post" = bưu kiện. "courier" = người chuyển phát.
+@n
+1. bưu kiện, gói hàng | The courier delivered the *parcel* to the front desk. | Nhân viên chuyển phát đã giao bưu kiện tới quầy lễ tân.
+2. mảnh đất (parcel of land) | The company bought a *parcel* of land near the port. | Công ty mua một thửa đất gần cảng.
+col: parcel delivery = chuyển phát bưu kiện; unclaimed parcel = bưu kiện chưa ai nhận; parcel of land = mảnh đất; parcel post = bưu kiện
+@v
+1. đóng gói | Please *parcel* up the books carefully. | Vui lòng đóng gói sách cẩn thận.
+syn: package, packet, box, bundle
+
+# reception | /rɪˈsepʃn/
+fam: receive (v) nhận; receptionist (n) lễ tân; receptive (adj) dễ tiếp thu; receipt (n) biên lai
+tip: reception = quầy lễ tân; bữa tiệc chiêu đãi; sự đón nhận; chất lượng tín hiệu. "wedding reception" = tiệc cưới.
+@n
+1. quầy lễ tân | Please leave your keys at *reception*. | Vui lòng để chìa khóa ở quầy lễ tân.
+2. buổi chiêu đãi | A *reception* will be held after the ceremony. | Một buổi chiêu đãi sẽ được tổ chức sau lễ.
+3. sự đón nhận | The product got a warm *reception* from critics. | Sản phẩm nhận được sự đón nhận nồng nhiệt của giới phê bình.
+col: reception desk = quầy lễ tân; welcome reception = tiệc chào mừng; warm reception = sự đón tiếp nồng hậu; poor reception = tín hiệu kém
+syn: front desk (1), party (2), welcome (3)
+
+# remain | /rɪˈmeɪn/
+fam: remainder (n) phần còn lại; remaining (adj) còn lại; remains (n) tàn tích
+tip: remain là linking verb: remain + adj (remain calm). Không dùng ở thể bị động/tiếp diễn. "remain to be seen" = còn phải chờ xem.
+@v
+1. vẫn còn, vẫn ở trạng thái | Ticket prices will *remain* the same this year. | Giá vé sẽ giữ nguyên trong năm nay.
+2. ở lại | Passengers must *remain* seated until the plane stops. | Hành khách phải ngồi yên cho đến khi máy bay dừng hẳn.
+col: remain + adj = vẫn...; remain seated = ngồi yên; remain unchanged = không đổi; remain to be seen = còn phải xem; remain in effect = còn hiệu lực
+syn: stay, continue, persist, linger
+ant: leave, depart, change
+
+# unclaimed | /ʌnˈkleɪmd/
+fam: claim (v/n) yêu cầu, tuyên bố; claimant (n) người yêu cầu; reclaim (v) đòi lại
+tip: Sân bay/bưu điện: "unclaimed baggage/packages" = hành lý/bưu kiện không có người nhận.
+@adj
+1. không ai nhận | *Unclaimed* packages will be returned to the sender. | Các bưu kiện không ai nhận sẽ được trả lại người gửi.
+col: unclaimed baggage = hành lý chưa có người nhận; unclaimed property = tài sản vô chủ; unclaimed prize = giải thưởng chưa ai nhận
+syn: unwanted, uncollected, abandoned
+ant: claimed, collected
+
+# satisfaction | /ˌsætɪsˈfækʃn/
+fam: satisfy (v) làm thỏa mãn; satisfied (adj) hài lòng; satisfactory (adj) thỏa đáng; satisfying (adj) thỏa mãn; dissatisfaction (n)
+tip: "customer satisfaction" cực kỳ hay gặp. be satisfied with sth; satisfaction guaranteed = đảm bảo hài lòng.
+@n
+1. sự hài lòng | Customer *satisfaction* is our top priority. | Sự hài lòng của khách hàng là ưu tiên hàng đầu của chúng tôi.
+col: customer satisfaction = sự hài lòng của khách hàng; job satisfaction = sự hài lòng trong công việc; satisfaction survey = khảo sát hài lòng; to one's satisfaction = làm ai hài lòng
+prep: satisfaction with sth
+syn: contentment, fulfillment, pleasure
+ant: dissatisfaction, disappointment
+
+# improve | /ɪmˈpruːv/
+fam: improvement (n) sự cải thiện; improved (adj) được cải thiện; improving (adj)
+tip: "improve on sth" = làm tốt hơn cái đã có. "an improvement in/on/over". Động từ cả hai dạng chuyển/không chuyển.
+@v
+1. cải thiện, nâng cao | We aim to *improve* our customer service this year. | Chúng tôi đặt mục tiêu cải thiện dịch vụ khách hàng trong năm nay.
+col: improve efficiency = nâng cao hiệu quả; improve productivity = tăng năng suất; improve on sth = làm tốt hơn; greatly improve = cải thiện nhiều; improve the quality of = nâng cao chất lượng của
+prep: improve on/upon sth
+syn: enhance, upgrade, boost, better
+ant: worsen, deteriorate, decline
+
+# supervisory | /ˌsuːpərˈvaɪzəri/
+fam: supervise (v) giám sát; supervisor (n) người giám sát; supervision (n) sự giám sát; supervised (adj)
+tip: "supervisory role/position/experience" = vai trò/kinh nghiệm quản lý giám sát. Đuôi -ory = adj (tính từ).
+@adj
+1. thuộc giám sát, quản lý | The position requires previous *supervisory* experience. | Vị trí này đòi hỏi kinh nghiệm giám sát trước đây.
+col: supervisory role = vai trò giám sát; supervisory position = vị trí giám sát; supervisory experience = kinh nghiệm giám sát; supervisory staff = nhân viên quản lý
+syn: managerial, administrative, overseeing
+
+# assembly | /əˈsembli/
+fam: assemble (v) lắp ráp, tập hợp; assembler (n) thợ lắp ráp; reassemble (v)
+tip: Sản xuất: "assembly line" = dây chuyền lắp ráp. Cũng nghĩa "cuộc họp/hội nghị" (general assembly).
+@n
+1. sự lắp ráp | The *assembly* of the furniture takes about an hour. | Việc lắp ráp đồ nội thất mất khoảng một giờ.
+2. cuộc tập hợp, hội nghị | The annual *assembly* will be held in May. | Hội nghị thường niên sẽ được tổ chức vào tháng Năm.
+col: assembly line = dây chuyền lắp ráp; assembly plant = nhà máy lắp ráp; assembly instructions = hướng dẫn lắp ráp; general assembly = đại hội đồng
+syn: construction, building (1), gathering, convention (2)
+
+# proven | /ˈpruːvn/
+fam: prove (v) chứng minh; proof (n) bằng chứng; provable (adj)
+tip: proven (adj, đứng trước danh từ) = đã được chứng minh: a proven track record. prove – proved – proven/proved.
+@adj
+1. đã được chứng minh | She has a *proven* record of increasing sales. | Cô ấy có thành tích đã được chứng minh trong việc tăng doanh số.
+col: proven track record = thành tích đã được chứng minh; proven method = phương pháp đã được kiểm chứng; proven ability = năng lực đã được chứng minh; time-proven = đã qua thử thách thời gian
+syn: tested, established, verified, reliable
+ant: unproven, untested
+
+# extremely | /ɪkˈstriːmli/
+fam: extreme (adj/n) cực độ; extremity (n) cực điểm; extremes (n)
+tip: Trạng từ chỉ mức độ, đứng trước tính từ/trạng từ: extremely important/useful/busy. Khác "very": nhấn mạnh hơn.
+@adv
+1. cực kỳ | The software is *extremely* easy to use. | Phần mềm này cực kỳ dễ sử dụng.
+col: extremely + adj = cực kỳ ...; extremely popular = cực kỳ phổ biến; extremely important = cực kỳ quan trọng; extremely well = cực kỳ tốt
+syn: very, highly, exceptionally, immensely
+ant: slightly, somewhat
+
+# tackle | /ˈtækl/ | seen: tackling
+fam: tackling (n) việc xử lý; tackler (n)
+tip: tackle a problem = xử lý một vấn đề hóc búa. Ngoài ra "fishing tackle" = đồ câu, bóng bầu dục "tackle" = chặn bóng.
+@v
+1. giải quyết, xử lý | The team is *tackling* the shortage of staff. | Nhóm đang giải quyết tình trạng thiếu nhân sự.
+col: tackle a problem = giải quyết vấn đề; tackle an issue = xử lý vấn đề; tackle head-on = đối mặt trực diện; tackle a challenge = đón nhận thử thách
+syn: address, deal with, handle, confront
+ant: avoid, evade
+@n
+1. dụng cụ, thiết bị | The shop sells fishing *tackle*. | Cửa hàng bán dụng cụ câu cá.
+
+# valuable | /ˈvæljuəbl/
+fam: value (n/v) giá trị, định giá; valuables (n) đồ quý giá; invaluable (adj) vô giá; valuation (n)
+tip: BẪY: valuable (có giá trị) ≈ precious; invaluable = vô giá (không nghĩa là "không có giá trị") ≠ worthless.
+@adj
+1. có giá trị, quý giá | The training provided *valuable* experience for new hires. | Khóa đào tạo mang lại kinh nghiệm quý giá cho nhân viên mới.
+col: valuable experience = kinh nghiệm quý giá; valuable asset = tài sản có giá trị; valuable information = thông tin quý giá; valuable resource = nguồn lực quý
+syn: precious, worthwhile, beneficial, useful
+ant: worthless, useless
+
+# especially | /ɪˈspeʃəli/
+fam: especial (adj, hiếm) đặc biệt; special (adj) đặc biệt; specially (adv) dành riêng
+tip: especially (nhấn mạnh trong một tập hợp, "nhất là") vs specially (dành riêng cho mục đích: specially designed). Đây là bẫy TOEIC.
+@adv
+1. đặc biệt là, nhất là | Prices rise in summer, *especially* in July. | Giá tăng vào mùa hè, nhất là vào tháng Bảy.
+col: especially + adj/prep = nhất là; especially when... = nhất là khi; especially for = đặc biệt cho; not especially = không đặc biệt
+syn: particularly, notably, mainly, in particular
+ant: generally
+
+# clerk | /klɜːrk/
+fam: clerical (adj) thuộc văn thư; clerkship (n)
+tip: "desk clerk / sales clerk / bank clerk / file clerk". Phát âm Mỹ /klɜːrk/, Anh /klɑːk/.
+@n
+1. nhân viên văn phòng, bán hàng | The hotel *clerk* handed me the room key. | Nhân viên khách sạn đưa tôi chìa khóa phòng.
+col: sales clerk = nhân viên bán hàng; desk clerk = nhân viên lễ tân; bank clerk = giao dịch viên; filing clerk = nhân viên lưu hồ sơ; clerical work = công việc văn thư
+syn: assistant, attendant, employee, cashier
+
+# deposit | /dɪˈpɑːzɪt/
+fam: depositor (n) người gửi tiền; deposition (n)
+tip: Ngân hàng: "make a deposit" = gửi tiền; thuê nhà: "security deposit" = tiền đặt cọc. "non-refundable deposit" = đặt cọc không hoàn.
+@n
+1. tiền gửi, tiền đặt cọc | A 20 percent *deposit* is required to hold the room. | Cần đặt cọc 20% để giữ phòng.
+col: security deposit = tiền đặt cọc bảo đảm; make a deposit = gửi tiền; refundable deposit = đặt cọc hoàn lại; deposit slip = phiếu gửi tiền; down payment = tiền đặt trước
+prep: deposit on/for sth
+syn: down payment, retainer, advance
+ant: withdrawal
+@v
+1. gửi tiền; đặt (xuống) | Please *deposit* the check into your account. | Vui lòng gửi tấm séc vào tài khoản của bạn.
+col: deposit money = gửi tiền; deposit into/in an account = gửi vào tài khoản
+ant: withdraw
+
+# refund | /ˈriːfʌnd/ (n), /rɪˈfʌnd/ (v)
+fam: refundable (adj) có thể hoàn tiền; non-refundable (adj) không hoàn tiền; reimburse (v) hoàn trả
+tip: refund = hoàn tiền cho khách khi trả hàng. "reimburse" = hoàn trả chi phí đã ứng (công tác phí). "full refund" gặp nhiều.
+@n
+1. tiền hoàn lại | You can get a full *refund* within 30 days. | Bạn có thể được hoàn tiền đầy đủ trong vòng 30 ngày.
+col: full refund = hoàn tiền toàn bộ; request a refund = yêu cầu hoàn tiền; refund policy = chính sách hoàn tiền; refund of sth = hoàn lại cái gì
+syn: reimbursement, repayment, rebate
+@v
+1. hoàn tiền | We will *refund* the difference immediately. | Chúng tôi sẽ hoàn tiền chênh lệch ngay lập tức.
+col: refund sb for sth = hoàn tiền cho ai vì cái gì; refund the cost = hoàn lại chi phí
+syn: reimburse, repay, compensate
+
+# within | /wɪˈðɪn/
+fam: without (prep) không có; inside (prep) bên trong
+tip: "within + khoảng thời gian" = trong vòng, TRƯỚC khi hết khoảng thời gian đó (within 3 days). "within budget", "within walking distance".
+@prep
+1. trong vòng (thời gian) | Please reply *within* three business days. | Vui lòng phản hồi trong vòng ba ngày làm việc.
+2. ở trong, trong phạm vi | The hotel is *within* walking distance of the station. | Khách sạn nằm trong khoảng cách đi bộ tới nhà ga.
+col: within a week = trong vòng một tuần; within budget = trong ngân sách; within walking distance = trong khoảng cách đi bộ; within reach = trong tầm tay; within limits = trong giới hạn
+syn: inside, in, during, no later than
+ant: outside, beyond
+
+# over | /ˈoʊvər/
+fam: overall (adj/adv) toàn bộ; overseas (adj/adv) ở nước ngoài; overdue (adj) quá hạn
+tip: Giới từ chỉ thời gian: "over the past/last X years" = trong suốt X năm qua (dùng với hiện tại hoàn thành); "over" + số = hơn.
+@prep
+1. hơn, trên | The event attracted *over* 5,000 visitors. | Sự kiện thu hút hơn 5.000 khách.
+2. trong suốt (khoảng thời gian) | Sales have grown *over* the past five years. | Doanh số đã tăng trong suốt năm năm qua.
+3. về, liên quan | They argued *over* the budget. | Họ tranh luận về ngân sách.
+col: over the phone = qua điện thoại; over the past + time = trong suốt... qua; over time = theo thời gian; over and above = ngoài ra; go over sth = xem lại
+syn: more than, above, throughout, regarding
+ant: under, below
+
+# until | /ənˈtɪl/
+fam: till (prep/conj) cho đến khi (thân mật)
+tip: "until" = liên tục đến một thời điểm (hành động kéo dài: stay until 5 pm). Khác "by" = trước/chậm nhất vào (hoàn thành một lần: submit by Friday).
+@prep
+1. cho đến khi | The store is open *until* 9 p.m. | Cửa hàng mở cửa đến 9 giờ tối.
+@conj
+1. cho đến khi | Please wait *until* your name is called. | Vui lòng chờ cho đến khi gọi tên bạn.
+col: until further notice = cho đến khi có thông báo mới; not until = mãi đến khi; until now/then = cho đến nay/lúc đó; wait until = chờ đến khi
+syn: till, up to, as far as
+ant: by
+
+# recognize | /ˈrekəɡnaɪz/ | seen: recognized
+fam: recognition (n) sự công nhận; recognizable (adj) dễ nhận ra; recognized (adj) được công nhận; unrecognized (adj)
+tip: "recognize sb for sth" = ghi nhận ai vì cái gì (thành tích). "in recognition of" = để ghi nhận.
+@v
+1. nhận ra | I didn't *recognize* her without her glasses. | Tôi không nhận ra cô ấy khi không đeo kính.
+2. công nhận, ghi nhận | The firm *recognized* her for outstanding sales. | Công ty ghi nhận cô ấy vì doanh số xuất sắc.
+col: recognize sb for sth = ghi nhận ai vì; widely recognized = được công nhận rộng rãi; recognized authority = chuyên gia được công nhận; in recognition of = để ghi nhận; be recognized as = được công nhận là
+prep: recognize sb/sth as...; recognize sb for sth
+syn: acknowledge, identify, honor, appreciate
+ant: ignore, overlook

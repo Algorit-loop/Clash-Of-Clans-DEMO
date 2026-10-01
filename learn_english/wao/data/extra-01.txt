@@ -1,0 +1,702 @@
+// ===== TỪ MỞ RỘNG: liên từ, giới từ, trạng từ (cùng loại với các từ trong voca.txt) =====
+
+# although | /ɔːlˈðoʊ/
+fam: though (conj/adv) mặc dù; even though (conj) dù cho
+tip: although + S + V (mệnh đề đầy đủ) – KHÔNG đi với danh từ đơn lẻ (dùng despite/in spite of). Không dùng "but" thêm vào mệnh đề chính.
+@conj
+1. mặc dù | *Although* the project was expensive, it paid off. | Mặc dù dự án tốn kém, nó đã mang lại hiệu quả.
+col: although + S + V = mặc dù; although it is... = mặc dù nó...; although not... = dù không
+syn: though, even though, while
+ant: because, since
+
+# whereas | /werˈæz/
+fam: —
+tip: whereas = trong khi (nhấn mạnh sự đối lập giữa hai vế), trang trọng, hay đứng giữa hai mệnh đề, trước có dấu phẩy.
+@conj
+1. trong khi, ngược lại | Sales rose in Asia, *whereas* they fell in Europe. | Doanh số tăng ở châu Á, trong khi giảm ở châu Âu.
+col: A, whereas B = A trong khi B; whereas + clause = trong khi
+syn: while, although, on the other hand
+
+# while | /waɪl/
+fam: whilst (conj, Anh) trong khi; meanwhile (adv)
+tip: while = trong khi (đồng thời) / mặc dù (đối lập). "while + V-ing" rút gọn chủ ngữ: while waiting. Danh từ: "a while" = một lúc.
+@conj
+1. trong khi | Please remain seated *while* the plane is taxiing. | Vui lòng ngồi yên trong khi máy bay đang di chuyển.
+2. trong khi (đối lập) | Some prefer email, *while* others prefer phone calls. | Một số thích email, trong khi người khác thích gọi điện.
+col: while V-ing = trong khi làm; while supplies last = đến khi hết hàng; for a while = một lúc; worth your while = đáng công
+syn: as, whereas, although
+
+# unless | /ənˈles/
+fam: —
+tip: unless = if... not. Không dùng với phủ định kép: ✗ unless you don't. "unless otherwise stated" = trừ khi có nêu khác.
+@conj
+1. trừ khi | The meeting will start at nine *unless* the manager is delayed. | Cuộc họp sẽ bắt đầu lúc chín giờ trừ khi quản lý đến trễ.
+col: unless otherwise stated/noted = trừ khi có ghi chú khác; unless you + V = trừ khi bạn; unless and until = cho đến khi
+syn: if... not, except if
+ant: if, provided that
+
+# provided that | /prəˈvaɪdɪd ðæt/
+fam: provide (v) cung cấp; providing (that) (conj) với điều kiện; provision (n)
+tip: provided (that) = providing (that) = on condition that = miễn là. Dùng trong hợp đồng/chính sách. Sau đó là mệnh đề đầy đủ.
+@conj
+1. với điều kiện là | You may return the item *provided that* you have the receipt. | Bạn có thể trả hàng với điều kiện có biên lai.
+col: provided (that) + S + V = miễn là; providing that = với điều kiện; provided you + V = miễn là bạn
+syn: as long as, on condition that, so long as
+ant: unless
+
+# as long as | /æz lɔːŋ æz/
+fam: so long as (conj) miễn là
+tip: as long as = miễn là (điều kiện) hoặc suốt trong thời gian đó. Dùng như "if" nhưng nhấn mạnh điều kiện bắt buộc.
+@conj
+1. miễn là | Employees may work from home *as long as* they attend weekly meetings. | Nhân viên có thể làm việc tại nhà miễn là họ tham dự họp hằng tuần.
+col: as long as + S + V = miễn là; as long as possible = càng lâu càng tốt; as long as it takes = mất bao lâu cũng được
+syn: provided that, so long as, on condition that
+
+# so that | /soʊ ðæt/
+fam: so as to V (phr) để; in order that (conj)
+tip: so that + S + can/could/will/would = để mà (chỉ mục đích). Khác "so... that" (quá... đến nỗi): "so busy that he forgot".
+@conj
+1. để mà | Please arrive early *so that* we can start on time. | Vui lòng đến sớm để chúng ta bắt đầu đúng giờ.
+col: so that + S + can/will = để mà; so that everyone can = để mọi người có thể; so... that = quá... đến nỗi
+syn: in order that, so as to
+use: Chỉ mục đích; có thể rút gọn "in order to V".
+
+# in case | /ɪn keɪs/
+fam: in case of (prep) trong trường hợp (N)
+tip: BẪY: in case + S + V (phòng khi) vs in case of + N (trong trường hợp): "in case of fire". In case ≠ if (phòng ngừa, chưa xảy ra).
+@conj
+1. phòng khi | Take an umbrella *in case* it rains. | Hãy mang ô phòng khi trời mưa.
+col: in case of + N = trong trường hợp (N); just in case = phòng khi; in case + S + V = phòng khi
+syn: lest, for fear that, if
+
+# once | /wʌns/
+fam: at once (adv) ngay lập tức; once again (adv) một lần nữa
+tip: once (conj) = một khi, ngay khi (+ S + V hoặc rút gọn: once completed). (adv) = một lần, đã từng. "once upon a time", "all at once".
+@conj
+1. một khi, ngay khi | *Once* the payment is received, we will ship your order. | Ngay khi nhận được tiền, chúng tôi sẽ gửi hàng.
+@adv
+1. một lần; đã từng | The store is open only *once* a week. | Cửa hàng chỉ mở mỗi tuần một lần.
+col: once + V3 (rút gọn) = ngay khi...; once a week = mỗi tuần một lần; at once = ngay; once in a while = thỉnh thoảng; once again = lại một lần nữa
+syn: as soon as, after, when (conj); formerly (adv)
+
+# since | /sɪns/
+fam: —
+tip: since có 3 vai trò: (1) prep/conj mốc thời gian (since 2020 / since I joined) + hiện tại hoàn thành; (2) conj lý do = because; (3) adv: "ever since".
+@conj
+1. kể từ khi | He has worked here *since* he graduated. | Anh ấy làm ở đây từ khi tốt nghiệp.
+2. bởi vì | *Since* the manager is away, I will lead the meeting. | Vì quản lý vắng mặt, tôi sẽ chủ trì cuộc họp.
+@prep
+1. kể từ (mốc thời gian) | The shop has been closed *since* Monday. | Cửa hàng đóng cửa từ thứ Hai.
+col: since + mốc thời gian = kể từ; ever since = kể từ đó; since then = kể từ đó; long since = đã lâu rồi
+syn: because, as (2); from (1)
+
+# otherwise | /ˈʌðərwaɪz/
+fam: —
+tip: otherwise (adv) = nếu không thì (kết quả xấu); hoặc "ngoài ra, theo cách khác"; "unless otherwise stated". Đứng đầu mệnh đề, dùng ; otherwise, ...
+@adv
+1. nếu không thì | Submit the form today; *otherwise*, your application will expire. | Hãy nộp mẫu đơn hôm nay; nếu không, đơn của bạn sẽ hết hạn.
+2. theo cách khác | Unless *otherwise* noted, all prices include tax. | Trừ khi có ghi chú khác, mọi giá đã bao gồm thuế.
+col: unless otherwise stated = trừ khi có nêu khác; or otherwise = hoặc không; ; otherwise, ... = nếu không thì
+syn: or else, if not, differently
+
+# however | /haʊˈevər/
+fam: whatever, whenever, whoever (đại từ có -ever)
+tip: however = tuy nhiên (liên kết, có dấu phẩy: However, ... / ; however, ...); "however + adj/adv + S + V" = dù... đến đâu. Không nối hai mệnh đề chỉ bằng dấu phẩy.
+@adv
+1. tuy nhiên | The product is excellent; *however*, it is expensive. | Sản phẩm rất tốt; tuy nhiên, nó đắt.
+col: however, + clause = tuy nhiên; however much = dù nhiều đến mấy; however + adj = dù... thế nào
+syn: nevertheless, nonetheless, yet, but
+ant: therefore, moreover
+
+# furthermore | /ˈfɜːrðərmɔːr/
+fam: further (adj/adv/v) thêm nữa; furthermore
+tip: Trạng từ bổ sung thông tin: furthermore = moreover = in addition = besides (trang trọng). Đứng đầu câu: Furthermore, ...
+@adv
+1. hơn nữa | The rooms are spacious; *furthermore*, they are quiet. | Các phòng rộng rãi; hơn nữa, chúng rất yên tĩnh.
+col: Furthermore, + clause = hơn nữa; ; furthermore, = hơn nữa
+syn: moreover, in addition, besides, what is more
+ant: however, nevertheless
+
+# moreover | /mɔːrˈoʊvər/
+fam: —
+tip: moreover = hơn nữa (thêm thông tin cùng hướng, trang trọng). Hay đi sau dấu chấm phẩy.
+@adv
+1. hơn thế nữa | The plan is cheap; *moreover*, it is fast. | Kế hoạch rẻ; hơn nữa, lại nhanh.
+col: Moreover, + clause = hơn nữa; ; moreover, = hơn nữa
+syn: furthermore, in addition, besides, also
+ant: however, but
+
+# consequently | /ˈkɑːnsɪkwentli/
+fam: consequence (n) hậu quả; consequent (adj) kéo theo; inconsequential (adj)
+tip: consequently = do đó, vì vậy (kết quả). Dấu hiệu đồng nghĩa: as a result, therefore, thus, hence.
+@adv
+1. do đó | The factory closed; *consequently*, 200 workers lost their jobs. | Nhà máy đóng cửa; do đó 200 công nhân mất việc.
+col: Consequently, + clause = vì vậy; ; consequently, = do đó; and consequently = và do đó
+syn: therefore, as a result, thus, accordingly
+ant: despite this
+
+# accordingly | /əˈkɔːrdɪŋli/
+fam: according to (prep) theo; accord (n/v) sự phù hợp
+tip: accordingly = phù hợp/tương ứng, hoặc "do đó": "Please plan accordingly" = Hãy lên kế hoạch cho phù hợp. Dạng trang trọng.
+@adv
+1. cho phù hợp; do đó | The schedule has changed, so please plan *accordingly*. | Lịch đã thay đổi, nên hãy lên kế hoạch cho phù hợp.
+col: plan accordingly = lên kế hoạch tương ứng; act accordingly = hành động phù hợp; adjust accordingly = điều chỉnh cho phù hợp; dress accordingly = ăn mặc phù hợp
+syn: appropriately, therefore, correspondingly
+
+# thus | /ðʌs/
+fam: —
+tip: thus = như vậy, do đó (trang trọng). "thus far" = cho đến nay; "thus + V-ing" (mệnh đề rút gọn).
+@adv
+1. do đó | The roads were closed, *thus* delaying the delivery. | Đường bị đóng, do đó làm chậm giao hàng.
+col: thus far = cho đến nay; and thus = và vì vậy; thus, + clause = do đó
+syn: therefore, hence, consequently
+
+# as a result | /æz ə rɪˈzʌlt/
+fam: result (n/v) kết quả; resultant (adj); as a result of (prep) do
+tip: As a result, + clause (adv, đứng riêng) vs as a result of + N (prep). Mẫu giống "due to" nhưng kiểu liên kết hai câu.
+@adv
+1. kết quả là | Costs rose. *As a result*, prices were increased. | Chi phí tăng. Kết quả là giá bán được tăng.
+col: As a result, + clause = vì vậy; as a result of + N = do; with the result that = với kết quả là
+syn: consequently, therefore, thus
+
+# in contrast | /ɪn ˈkɑːntræst/
+fam: contrast (n/v) sự tương phản; contrasting (adj)
+tip: "in contrast (to sth)" = ngược lại; "by contrast" cùng nghĩa. "In contrast to + N" (giới từ). Trạng từ nối hai ý đối lập.
+@adv
+1. ngược lại | Online sales grew. *In contrast*, store sales fell. | Doanh số trực tuyến tăng. Ngược lại, doanh số cửa hàng giảm.
+col: in contrast to sth = trái với; by contrast = ngược lại; in sharp contrast = tương phản rõ rệt; contrast with = tương phản với
+syn: conversely, on the other hand, by contrast, however
+ant: similarly, likewise
+
+# for instance | /fɔːr ˈɪnstəns/
+fam: instance (n) ví dụ, trường hợp; for example (adv)
+tip: for instance = for example = chẳng hạn. Có thể đặt giữa câu có dấu phẩy: "Some benefits, for instance, include..." "such as" + N.
+@adv
+1. chẳng hạn | Many perks are offered; *for instance*, free lunches. | Nhiều đãi ngộ được cung cấp; chẳng hạn bữa trưa miễn phí.
+col: for instance, + clause = chẳng hạn; in this instance = trong trường hợp này; in many instances = trong nhiều trường hợp
+syn: for example, e.g., such as, say
+
+# likewise | /ˈlaɪkwaɪz/
+fam: —
+tip: likewise = tương tự như vậy, cũng vậy; "Likewise" cũng dùng đáp lại lời chào: "Nice to meet you." — "Likewise."
+@adv
+1. tương tự, cũng vậy | The manager arrived early; the staff did *likewise*. | Quản lý đến sớm; nhân viên cũng vậy.
+col: do likewise = làm tương tự; and likewise = và cũng vậy; Likewise, + clause = tương tự
+syn: similarly, in the same way, also
+ant: in contrast, differently
+
+# nonetheless | /ˌnʌnðəˈles/
+fam: nevertheless (adv); notwithstanding (prep)
+tip: nonetheless = nevertheless = tuy vậy (viết liền một từ). Dấu phẩy: ; nonetheless, ...
+@adv
+1. tuy vậy | The task was hard; *nonetheless*, she finished on time. | Việc khó; tuy vậy cô ấy vẫn xong đúng hạn.
+col: Nonetheless, + clause = tuy vậy; ; nonetheless, = tuy vậy
+syn: nevertheless, however, even so, still
+
+# regarding | /rɪˈɡɑːrdɪŋ/
+fam: regard (v/n) coi như, sự quan tâm; regards (n) lời chào; regardless (adj/adv)
+tip: regarding = concerning = about = with regard to = in regard to: giới từ trang trọng đầu email: "Regarding your inquiry...". Không đi "regards to".
+@prep
+1. liên quan đến, về | I am writing *regarding* your recent order. | Tôi viết thư liên quan đến đơn hàng gần đây của bạn.
+col: regarding + N = về; with regard to = liên quan đến; as regards = về vấn đề; regarding the matter = về vấn đề đó
+syn: concerning, about, with respect to, as for
+
+# concerning | /kənˈsɜːrnɪŋ/
+fam: concern (n/v) mối quan tâm, liên quan; concerned (adj) lo lắng; unconcerned (adj)
+tip: concerning (prep) = về, liên quan đến (tương đương regarding). Cũng là adj: a concerning trend = xu hướng đáng lo.
+@prep
+1. về, liên quan đến | Please contact us with any questions *concerning* the policy. | Vui lòng liên hệ chúng tôi với bất kỳ câu hỏi nào về chính sách.
+@adj
+1. đáng lo ngại | The rise in costs is *concerning*. | Sự gia tăng chi phí thật đáng lo.
+col: questions concerning sth = câu hỏi về; matters concerning = các vấn đề liên quan; as far as sth is concerned = còn về...
+syn: regarding, about, relating to
+
+# pursuant to | /pərˈsuːənt tuː/
+fam: pursue (v) theo đuổi; pursuit (n) sự theo đuổi
+tip: pursuant to = theo, căn cứ theo (rất trang trọng, văn bản pháp lý/hợp đồng): "pursuant to Section 5". Giống "in accordance with".
+@prep
+1. theo, căn cứ vào | The fee was charged *pursuant to* the contract. | Khoản phí được tính căn cứ theo hợp đồng.
+col: pursuant to the agreement = theo thỏa thuận; pursuant to Article... = theo Điều...; pursuant to the policy = theo chính sách
+syn: according to, under, in accordance with, in compliance with
+
+# owing to | /ˈoʊɪŋ tuː/
+fam: owe (v) nợ; owing (adj) còn nợ
+tip: owing to = due to = because of (+ N): giới từ kép. "Owing to heavy traffic, ..." Đừng nhầm với "owing" (nợ): "the amount owing".
+@prep
+1. do, bởi | The event was canceled *owing to* poor weather. | Sự kiện bị hủy do thời tiết xấu.
+col: owing to + N = do; owing to the fact that = do thực tế là; owing to circumstances = do hoàn cảnh
+syn: due to, because of, thanks to, on account of
+ant: despite
+
+# in spite of | /ɪn spaɪt əv/
+fam: despite (prep) mặc dù; spite (n) sự thù hằn
+tip: in spite of + N/V-ing = mặc dù (không có "of" cho despite). "in spite of the fact that + clause". Đừng nhầm "in spite of" ≠ "in spite".
+@prep
+1. mặc dù | *In spite of* the rain, the festival was a success. | Mặc dù trời mưa, lễ hội vẫn thành công.
+col: in spite of + N/V-ing = mặc dù; in spite of the fact that + clause = mặc dù thực tế là; in spite of everything = mặc cho tất cả
+syn: despite, regardless of, notwithstanding
+ant: because of, due to
+
+# prior to | /ˈpraɪər tuː/
+fam: prior (adj) trước; priority (n) ưu tiên; priorly
+tip: prior to + N/V-ing = trước khi (trang trọng) = before. "prior to departure" = trước khi khởi hành. "prior approval", "prior experience" (adj).
+@prep
+1. trước khi | Please arrive 30 minutes *prior to* the event. | Vui lòng đến trước sự kiện 30 phút.
+col: prior to + N/V-ing = trước khi; prior to departure = trước khi khởi hành; prior approval = sự chấp thuận trước; prior experience = kinh nghiệm trước đó; prior notice = thông báo trước
+syn: before, ahead of, preceding
+ant: after, following, subsequent to
+
+# subsequent to | /ˈsʌbsɪkwənt tuː/
+fam: subsequent (adj) tiếp theo; subsequently (adv) sau đó; consequent (adj)
+tip: subsequent (adj) = tiếp sau; subsequently (adv) = sau đó, kế tiếp; "subsequent to" = sau (trang trọng). Cặp đối: prior to ↔ subsequent to.
+@prep
+1. sau khi | The plan changed *subsequent to* the board's decision. | Kế hoạch đã thay đổi sau quyết định của hội đồng.
+col: subsequent to + N = sau; subsequent meeting = cuộc họp sau; subsequent years = những năm sau đó; subsequently, + clause = sau đó
+syn: after, following, later than
+ant: prior to, before
+
+# according to | /əˈkɔːrdɪŋ tuː/
+fam: accord (v/n); accordingly (adv)
+tip: according to + nguồn thông tin (a report, the manager, the schedule) = theo. Không dùng cho ý kiến chính mình: ✗ according to me.
+@prep
+1. theo | *According to* the schedule, the train arrives at noon. | Theo lịch trình, tàu đến vào buổi trưa.
+col: according to + nguồn = theo; according to plan = theo kế hoạch; according to the report = theo báo cáo; according to the survey = theo khảo sát
+syn: based on, as stated by, in line with
+
+# regardless of | /rɪˈɡɑːrdləs əv/
+fam: regard (v/n); regardless (adv) dù sao đi nữa
+tip: regardless of + N/wh-clause = bất kể: regardless of age/size/cost. "regardless" (adv) đứng độc lập: "He went ahead regardless."
+@prep
+1. bất kể | Everyone is welcome, *regardless of* age or experience. | Mọi người đều được chào đón, bất kể tuổi hay kinh nghiệm.
+col: regardless of + N = bất kể; regardless of whether = bất kể có... hay không; regardless of cost = bất kể chi phí
+syn: irrespective of, no matter, despite
+ant: depending on
+
+# in terms of | /ɪn tɜːrmz əv/
+fam: term (n); terms (n)
+tip: in terms of + N = xét về mặt: "in terms of cost". Cụm giới từ trang trọng: không để chủ ngữ sau.
+@prep
+1. xét về mặt | The new model is better *in terms of* battery life. | Mẫu mới tốt hơn về thời lượng pin.
+col: in terms of cost = về mặt chi phí; in terms of quality = xét về chất lượng; in real terms = trên thực tế; in terms of + V-ing = xét về việc
+syn: regarding, with respect to, as regards
+
+# as of | /æz əv/
+fam: as for (prep) còn về
+tip: as of + ngày/thời điểm = tính đến/kể từ: "as of January 1" (kể từ 1/1) / "as of now" (từ giờ). Dùng trong thông báo hiệu lực.
+@prep
+1. tính đến, kể từ | *As of* next Monday, the office will open at 8 a.m. | Từ thứ Hai tới, văn phòng sẽ mở lúc 8 giờ sáng.
+col: as of + date = kể từ ngày; as of now = từ bây giờ; as of today = từ hôm nay; as of yet = cho đến nay
+syn: starting from, effective, from
+use: Thông báo chính sách mới/giờ làm.
+
+# among | /əˈmʌŋ/
+fam: amongst (prep, Anh) cùng nghĩa
+tip: among + từ 3 đối tượng trở lên / nhóm: among the candidates, among them. between + 2 đối tượng (between A and B).
+@prep
+1. trong số, giữa (nhiều) | She is *among* the top three sales representatives. | Cô ấy nằm trong ba nhân viên bán hàng hàng đầu.
+col: among the best = trong số những người giỏi nhất; among others = trong số những cái khác; among them = trong số họ; popular among = phổ biến trong; divide among = chia cho nhiều người
+syn: amid, out of, within
+ant: between (2 đối tượng)
+
+# between | /bɪˈtwiːn/
+fam: in between (adv) ở giữa
+tip: "between A and B" (không dùng "or"); "between you and me". Với hai đối tượng hoặc quan hệ giữa các cá nhân riêng rẽ.
+@prep
+1. giữa (hai) | The meeting is scheduled *between* 2 and 4 p.m. | Cuộc họp được lên lịch từ 2 đến 4 giờ chiều.
+col: between A and B = giữa A và B; between you and me = riêng giữa chúng ta; in between = ở giữa; between now and = từ bây giờ đến; choose between = chọn giữa
+syn: amid, in the middle of
+ant: among (≥3)
+
+# except | /ɪkˈsept/
+fam: exception (n) ngoại lệ; exceptional (adj) xuất sắc; exceptionally (adv); excepting (prep)
+tip: except (for) + N = ngoại trừ. "with the exception of". Cẩn thận: "except" ≠ "accept" (chấp nhận), "exception" ≠ "exceptional".
+@prep
+1. ngoại trừ | The store is open daily *except* Sundays. | Cửa hàng mở cửa hằng ngày trừ Chủ nhật.
+@conj
+1. trừ việc | I know nothing, *except* that the meeting was moved. | Tôi không biết gì, ngoại trừ việc cuộc họp bị dời.
+col: except for = ngoại trừ; except that = trừ việc; with the exception of = với ngoại lệ là; everyone except = tất cả trừ
+syn: but, excluding, other than, apart from
+ant: including
+
+# via | /ˈvaɪə/
+fam: —
+tip: via = qua, thông qua (đường/phương tiện): "via email", "via Chicago". Giới từ gốc Latinh, dùng trong thông báo kỹ thuật/du lịch.
+@prep
+1. qua, thông qua | You can send your request *via* email. | Bạn có thể gửi yêu cầu qua email.
+col: via email = qua email; via phone = qua điện thoại; via the website = qua trang web; fly via + city = bay qua thành phố
+syn: through, by way of, by means of
+
+# per | /pɜːr/
+fam: percent (n) phần trăm; percentage (n) tỷ lệ phần trăm
+tip: per = mỗi (đơn vị): per day/hour/person/kilometer. "per annum" (mỗi năm), "per capita" (bình quân đầu người), "as per" = theo.
+@prep
+1. mỗi | The hotel charges $120 *per* night. | Khách sạn tính 120 đô la mỗi đêm.
+col: per day/week = mỗi ngày/tuần; per person = mỗi người; per cent = phần trăm; as per = theo (như quy định); per hour = mỗi giờ
+syn: each, a, every
+
+# during | /ˈdʊrɪŋ/
+fam: duration (n) khoảng thời gian; durable (adj) bền
+tip: during + N (danh từ chỉ thời gian: during the meeting) vs for + khoảng thời gian (for two hours) vs while + clause. Không dùng with số: ✗ during 3 hours.
+@prep
+1. trong suốt, trong khi | Please remain seated *during* the presentation. | Vui lòng ngồi yên trong suốt bài thuyết trình.
+col: during the day = trong ngày; during the meeting = trong cuộc họp; during working hours = trong giờ làm việc; during his stay = trong thời gian ở; during the summer = trong mùa hè
+syn: throughout, in the course of, while
+ant: outside
+
+# following | /ˈfɑːloʊɪŋ/
+fam: follow (v) theo sau; follower (n) người theo dõi; followed by
+tip: following (prep) = sau (the following Monday = thứ Hai sau đó); (adj) = tiếp theo/sau đây; "the following" (pron) = những điều sau đây.
+@prep
+1. sau, tiếp theo sau | *Following* the presentation, lunch will be served. | Sau bài thuyết trình sẽ phục vụ bữa trưa.
+@adj
+1. sau đây, kế tiếp | Please complete the *following* steps. | Vui lòng hoàn thành các bước sau đây.
+col: the following day = ngày hôm sau; the following steps = các bước sau; as follows = như sau; followed by = tiếp theo là; in the following year = vào năm sau
+syn: after, subsequent to (prep); next, subsequent (adj)
+ant: preceding, previous
+
+# including | /ɪnˈkluːdɪŋ/
+fam: include (v) bao gồm; inclusive (adj) bao gồm; inclusion (n) sự bao gồm; included (adj)
+tip: including + N = bao gồm (đứng trước danh từ, giới từ). "tax included", "all-inclusive" (trọn gói). Đối: excluding.
+@prep
+1. bao gồm | The fee covers everything, *including* meals and transport. | Chi phí bao gồm mọi thứ, kể cả bữa ăn và đi lại.
+col: including + N = bao gồm; including but not limited to = bao gồm nhưng không giới hạn; all-inclusive = trọn gói; tax included = đã gồm thuế
+syn: counting, along with, as well as
+ant: excluding, except
+
+# pending | /ˈpendɪŋ/
+fam: pend (v, hiếm); pendant (n) mặt dây chuyền
+tip: pending (prep) = trong khi chờ: "pending approval". (adj) = đang chờ giải quyết: "a pending order". "patent pending" = đang chờ cấp bằng sáng chế.
+@prep
+1. trong khi chờ | The order is on hold *pending* payment. | Đơn hàng tạm giữ trong khi chờ thanh toán.
+@adj
+1. đang chờ xử lý | Several applications are still *pending*. | Một vài đơn vẫn đang chờ xử lý.
+col: pending approval = đang chờ phê duyệt; pending order = đơn hàng chờ xử lý; pending further notice = chờ thông báo thêm; pending decision = quyết định đang chờ
+syn: awaiting, until (prep); unresolved, outstanding (adj)
+ant: completed, settled
+
+# thanks to | /θæŋks tuː/
+fam: thank (v) cảm ơn; thankful (adj) biết ơn; thanks (n)
+tip: thanks to + N = nhờ có (nguyên nhân tốt/trung tính). Khác "due to" (trung tính), "owing to". Không dùng cho nguyên nhân xấu một cách mỉa mai (có thể).
+@prep
+1. nhờ có | *Thanks to* our volunteers, the event ran smoothly. | Nhờ có các tình nguyện viên, sự kiện diễn ra suôn sẻ.
+col: thanks to + N = nhờ; thanks to your help = nhờ sự giúp đỡ của bạn; thanks to technology = nhờ công nghệ
+syn: owing to, because of, due to
+ant: despite
+
+# in accordance with | /ɪn əˈkɔːrdns wɪð/
+fam: accord (n/v) sự phù hợp; accordance (n) sự tuân theo; accordingly (adv)
+tip: in accordance with + N = theo, tuân theo (quy định, luật): "in accordance with company policy". Giống in compliance with, in line with.
+@prep
+1. theo, tuân theo | All work must be done *in accordance with* safety regulations. | Mọi công việc phải thực hiện theo quy định an toàn.
+col: in accordance with the rules = theo các quy tắc; in accordance with the law = theo luật; in accordance with policy = theo chính sách; in accordance with your instructions = theo hướng dẫn của bạn
+syn: according to, in compliance with, in line with
+ant: contrary to
+
+# approximately | /əˈprɑːksɪmətli/
+fam: approximate (adj/v) xấp xỉ; approximation (n) sự ước lượng
+tip: approximately + số/lượng = khoảng. Đồng nghĩa: about, around, roughly, some. Khác với "approximate" (adj).
+@adv
+1. khoảng, xấp xỉ | The flight will take *approximately* two hours. | Chuyến bay sẽ mất khoảng hai giờ.
+col: approximately + number = khoảng; approximately half = khoảng một nửa; take approximately = mất khoảng; approximately 20 percent = khoảng 20 phần trăm
+syn: about, roughly, around, nearly
+ant: exactly, precisely
+
+# currently | /ˈkɜːrəntli/
+fam: current (adj) hiện tại; currency (n) tiền tệ; currents (n) dòng chảy
+tip: currently = hiện nay (dùng với hiện tại tiếp diễn/hiện tại đơn): "We are currently hiring". Không dùng với quá khứ.
+@adv
+1. hiện tại, hiện nay | We are *currently* looking for a new manager. | Hiện chúng tôi đang tìm một quản lý mới.
+col: is currently + V-ing = hiện đang; currently available = hiện có sẵn; currently under construction = hiện đang xây dựng; currently unavailable = hiện không có
+syn: presently, at present, now, at the moment
+ant: formerly, previously
+
+# significantly | /sɪɡˈnɪfɪkəntli/
+fam: significant (adj) đáng kể; significance (n) tầm quan trọng; signify (v) biểu thị; insignificant (adj)
+tip: significantly + động từ biến đổi (increase/decrease/improve/reduce) = đáng kể. Dùng khi mô tả số liệu.
+@adv
+1. đáng kể | Sales have increased *significantly* this year. | Doanh số đã tăng đáng kể trong năm nay.
+col: increase significantly = tăng đáng kể; significantly higher/lower = cao/thấp hơn đáng kể; differ significantly = khác biệt đáng kể; significantly improve = cải thiện rõ rệt
+syn: considerably, substantially, markedly, greatly
+ant: slightly, marginally
+
+# nearly | /ˈnɪrli/
+fam: near (adj/prep/adv/v) gần; nearby (adj/adv) gần đây
+tip: nearly = gần như (số lượng/mức độ): nearly 100 people. BẪY: nearly ≠ near. "not nearly" = còn lâu mới.
+@adv
+1. gần như | *Nearly* 500 people attended the conference. | Gần 500 người đã dự hội nghị.
+col: nearly + number = gần; nearly all = gần như tất cả; nearly every = hầu như mọi; not nearly as + adj + as = còn lâu mới...như; very nearly = suýt soát
+syn: almost, practically, close to, approximately
+ant: exactly, completely
+
+# merely | /ˈmɪrli/
+fam: mere (adj) chỉ là; merest (adj)
+tip: merely = chỉ, đơn thuần: "not merely... but also". Nghĩa gần "only/simply".
+@adv
+1. chỉ, đơn thuần | This is *merely* a suggestion, not a requirement. | Đây chỉ là một gợi ý chứ không phải yêu cầu.
+col: merely a/an + N = chỉ là; not merely... but also = không chỉ... mà còn; merely to V = chỉ để
+syn: only, simply, just, purely
+ant: also, fully
+
+# hardly | /ˈhɑːrdli/
+fam: hard (adj/adv) khó, chăm chỉ; hardship (n) khó khăn
+tip: BẪY: hardly (hầu như không – nghĩa phủ định) ≠ hard (chăm chỉ). Không dùng thêm not. "hardly ever", "Hardly had I arrived when..." (đảo ngữ).
+@adv
+1. hầu như không | I could *hardly* hear the speaker. | Tôi hầu như không nghe được diễn giả.
+col: hardly ever = hầu như không bao giờ; hardly any = hầu như không có; hardly anyone = hầu như không ai; can hardly V = hầu như không thể; Hardly had... when = vừa mới... thì
+syn: barely, scarcely, rarely
+ant: easily, completely
+
+# rarely | /ˈrerli/
+fam: rare (adj) hiếm; rarity (n) sự hiếm có
+tip: rarely = hiếm khi (phủ định, không thêm not). Đảo ngữ: "Rarely do we see such growth." Cùng nhóm: seldom, hardly ever, scarcely.
+@adv
+1. hiếm khi | The printer *rarely* breaks down. | Máy in hiếm khi hỏng.
+col: rarely if ever = hiếm khi hoặc không bao giờ; rarely + V = hiếm khi; very rarely = rất hiếm khi; Rarely do + S + V = hiếm khi...
+syn: seldom, infrequently, scarcely
+ant: often, frequently, regularly
+
+# occasionally | /əˈkeɪʒnəli/
+fam: occasion (n) dịp; occasional (adj) thỉnh thoảng
+tip: occasionally = thỉnh thoảng (tần suất thấp, không đều). Vị trí: trước động từ chính / cuối câu. Dịp: on occasion(s).
+@adv
+1. thỉnh thoảng | Delays occur *occasionally* during winter. | Các chuyến chậm thỉnh thoảng xảy ra vào mùa đông.
+col: occasionally + V = thỉnh thoảng; only occasionally = chỉ thỉnh thoảng; occasionally used = ít khi dùng; on occasion = thỉnh thoảng
+syn: sometimes, from time to time, now and then
+ant: constantly, always, frequently
+
+# regularly | /ˈreɡjələrli/
+fam: regular (adj) đều đặn; regularity (n); irregularly (adv)
+tip: regularly = đều đặn: "check regularly", "update regularly". Tính từ regular + customer = khách quen.
+@adv
+1. đều đặn | Please back up your files *regularly*. | Vui lòng sao lưu tệp thường xuyên.
+col: check regularly = kiểm tra định kỳ; meet regularly = họp đều đặn; regularly scheduled = lên lịch cố định; exercise regularly = tập thể dục đều đặn; update regularly = cập nhật thường xuyên
+syn: routinely, periodically, consistently, often
+ant: irregularly, rarely
+
+# gradually | /ˈɡrædʒuəli/
+fam: gradual (adj) dần dần; grade (n/v) bậc, xếp loại; graduate (v/n)
+tip: gradually = dần dần: "gradually increase/decline". Đối lập: suddenly, sharply, abruptly.
+@adv
+1. dần dần | The temperature *gradually* rose through the afternoon. | Nhiệt độ tăng dần trong buổi chiều.
+col: gradually increase = tăng dần; gradually decline = giảm dần; gradually improve = cải thiện dần; gradually introduce = dần dần giới thiệu
+syn: slowly, steadily, little by little, progressively
+ant: suddenly, abruptly, sharply
+
+# shortly | /ˈʃɔːrtli/
+fam: short (adj/adv) ngắn, thiếu; shorten (v) rút ngắn; shortage (n) sự thiếu hụt
+tip: shortly = chẳng bao lâu nữa (trước sau): "shortly before/after", "will begin shortly". Không có nghĩa "ngắn gọn" (briefly).
+@adv
+1. chẳng bao lâu, sắp tới | The presentation will begin *shortly*. | Buổi thuyết trình sắp bắt đầu.
+2. ngay trước/sau | The CEO resigned *shortly* after the merger. | Giám đốc từ chức ngay sau thương vụ sáp nhập.
+col: shortly before/after = ngay trước/sau; will begin shortly = sắp bắt đầu; shortly thereafter = ngay sau đó; arrive shortly = sắp đến
+syn: soon, presently, before long
+ant: later, eventually
+
+# temporarily | /ˌtempəˈrerəli/
+fam: temporary (adj) tạm thời; temp (n) nhân viên thời vụ; tempo (n) nhịp độ
+tip: temporarily = tạm thời: "temporarily closed/unavailable/out of service". Đối lập: permanently.
+@adv
+1. tạm thời | The gym is *temporarily* closed for repairs. | Phòng tập tạm đóng để sửa chữa.
+col: temporarily closed = tạm đóng cửa; temporarily out of stock = tạm hết hàng; temporarily unavailable = tạm thời không có; temporarily suspended = tạm đình chỉ; temporarily replaced = thay thế tạm thời
+syn: for now, briefly, provisionally
+ant: permanently, indefinitely
+
+# permanently | /ˈpɜːrmənəntli/
+fam: permanent (adj) vĩnh viễn; permanence (n); semi-permanent (adj)
+tip: permanently = vĩnh viễn: "permanently closed", "permanently employed". Đối: temporarily.
+@adv
+1. vĩnh viễn | The old branch has *permanently* closed. | Chi nhánh cũ đã đóng cửa vĩnh viễn.
+col: permanently closed = đóng cửa vĩnh viễn; permanently employed = làm chính thức; permanently damaged = hư hại vĩnh viễn; permanently delete = xóa vĩnh viễn; permanently relocate = chuyển hẳn
+syn: forever, for good, indefinitely
+ant: temporarily, briefly
+
+# formerly | /ˈfɔːrmərli/
+fam: former (adj) trước đây; formerly known as (phr) trước đây gọi là
+tip: formerly = trước đây (từng là): "formerly known as". "the former" (n) = người/vật được nhắc trước (↔ the latter).
+@adv
+1. trước đây | The café was *formerly* a bank. | Quán cà phê trước đây là một ngân hàng.
+col: formerly known as = trước đây gọi là; formerly employed = từng làm việc; formerly of + nơi = từng ở; formerly called = trước đây gọi
+syn: previously, once, at one time
+ant: currently, now
+
+# closely | /ˈkloʊsli/
+fam: close (adj/v/adv) gần, đóng; closeness (n); closure (n) sự đóng cửa
+tip: closely = chặt chẽ, sát sao (≠ close = gần). "work closely with", "closely monitor", "closely related". Phân biệt: close/closely, hard/hardly, late/lately.
+@adv
+1. chặt chẽ, sát sao | We work *closely* with local suppliers. | Chúng tôi làm việc chặt chẽ với các nhà cung cấp địa phương.
+col: work closely with = làm việc chặt chẽ với; closely monitor = theo dõi sát; closely related = liên quan mật thiết; follow closely = làm theo sát; examine closely = xem xét kỹ
+syn: carefully, intimately, attentively
+ant: loosely, distantly
+
+# highly | /ˈhaɪli/
+fam: high (adj/adv) cao; height (n) chiều cao; heighten (v) nâng cao
+tip: highly = rất, ở mức cao (nhấn mạnh phẩm chất): highly recommended/skilled/qualified/competitive. BẪY: high (adv, vị trí cao: fly high) vs highly.
+@adv
+1. rất, ở mức cao | She is *highly* qualified for the position. | Cô ấy rất đủ tiêu chuẩn cho vị trí này.
+col: highly recommended = rất khuyến khích; highly skilled = tay nghề cao; highly competitive = cạnh tranh gay gắt; highly qualified = rất đủ trình độ; highly regarded = được đánh giá cao
+syn: very, extremely, greatly, exceptionally
+ant: slightly, poorly
+
+# particularly | /pərˈtɪkjələrli/
+fam: particular (adj) đặc biệt; particulars (n) chi tiết; in particular (adv)
+tip: particularly = đặc biệt là (nhấn mạnh trong số nhiều): "particularly useful". "particular" (adj) = cụ thể. "in particular".
+@adv
+1. đặc biệt là | The tool is *particularly* useful for new users. | Công cụ này đặc biệt hữu ích với người dùng mới.
+col: particularly + adj = đặc biệt; particularly important = đặc biệt quan trọng; not particularly = không đặc biệt lắm; in particular = đặc biệt
+syn: especially, notably, specifically, in particular
+ant: generally, slightly
+
+# entirely | /ɪnˈtaɪərli/
+fam: entire (adj) toàn bộ; entirety (n) toàn bộ
+tip: entirely = hoàn toàn: "entirely new", "entirely up to you". Không dùng với tính từ cấp độ nhẹ (✗ entirely nice nên dùng completely/very).
+@adv
+1. hoàn toàn | The report is *entirely* based on survey results. | Báo cáo hoàn toàn dựa trên kết quả khảo sát.
+col: entirely new = hoàn toàn mới; entirely different = hoàn toàn khác; not entirely = không hoàn toàn; entirely up to you = hoàn toàn tùy bạn; entirely free = hoàn toàn miễn phí
+syn: completely, totally, wholly, fully
+ant: partly, partially
+
+# considerably | /kənˈsɪdərəbli/
+fam: considerable (adj) đáng kể; consider (v); consideration (n)
+tip: considerably + adj/adv so sánh (considerably higher/better) = đáng kể. Phân biệt considerable (adj) vs considerate (chu đáo).
+@adv
+1. đáng kể | Prices have fallen *considerably* since last year. | Giá đã giảm đáng kể kể từ năm ngoái.
+col: considerably higher/lower = cao/thấp hơn nhiều; considerably more = nhiều hơn hẳn; vary considerably = khác nhau nhiều; improve considerably = cải thiện nhiều
+syn: significantly, substantially, greatly, markedly
+ant: slightly, marginally
+
+# substantially | /səbˈstænʃəli/
+fam: substantial (adj) đáng kể; substance (n) chất; substantiate (v) chứng minh
+tip: substantially = rất nhiều/phần lớn: "substantially higher", "substantially complete". Giống considerably, significantly.
+@adv
+1. đáng kể, phần lớn | Costs have dropped *substantially*. | Chi phí giảm đáng kể.
+col: substantially higher = cao hơn nhiều; substantially reduce = giảm đáng kể; substantially complete = hoàn tất phần lớn; differ substantially = khác biệt đáng kể; increase substantially = tăng mạnh
+syn: significantly, considerably, largely, greatly
+ant: slightly, marginally
+
+# relatively | /ˈrelətɪvli/
+fam: relative (adj/n) tương đối, họ hàng; relativity (n); relation (n) mối quan hệ
+tip: relatively + adj = tương đối, khá (so với chuẩn): relatively easy/new/cheap. Khác với "relative to" = so với.
+@adv
+1. tương đối, khá | The app is *relatively* easy to learn. | Ứng dụng này tương đối dễ học.
+col: relatively + adj = khá...; relatively few/little = tương đối ít; relatively new = khá mới; relatively cheap = khá rẻ; relative to = so với
+syn: fairly, comparatively, reasonably, quite
+ant: absolutely
+
+# roughly | /ˈrʌfli/
+fam: rough (adj) gồ ghề, sơ bộ; roughness (n)
+tip: roughly = khoảng, xấp xỉ (như about): roughly 40 percent. Hoặc "thô bạo" (handle roughly). "a rough estimate" = ước tính sơ bộ.
+@adv
+1. khoảng, xấp xỉ | *Roughly* half of the staff work remotely. | Khoảng một nửa nhân viên làm việc từ xa.
+col: roughly + số = khoảng; roughly speaking = nói đại khái; roughly equal = xấp xỉ bằng nhau; roughly the same = tương tự nhau; roughly half = khoảng một nửa
+syn: approximately, about, around, nearly
+ant: exactly, precisely
+
+# apparently | /əˈpærəntli/
+fam: apparent (adj) rõ ràng, có vẻ; apparition (n) hiện hình
+tip: apparently = nghe nói là, dường như (dựa trên thông tin nghe được, không chắc chắn). "apparent" (adj) = rõ ràng: it is apparent that. Đừng nhầm.
+@adv
+1. dường như, nghe nói là | *Apparently*, the flight has been delayed again. | Nghe nói chuyến bay lại bị hoãn.
+col: Apparently, + clause = dường như; apparently unaware = dường như không biết; apparently unrelated = có vẻ không liên quan; become apparent = trở nên rõ
+syn: seemingly, evidently, reportedly, ostensibly
+ant: clearly (trong nghĩa chắc chắn)
+
+# originally | /əˈrɪdʒənəli/
+fam: origin (n) nguồn gốc; original (adj/n) nguyên bản; originate (v) bắt nguồn; originality (n)
+tip: originally = ban đầu (khác với hiện tại): "originally scheduled for May". "original" (adj) = ban đầu. "originate from/in".
+@adv
+1. ban đầu | The conference was *originally* scheduled for May. | Hội nghị ban đầu được lên lịch vào tháng Năm.
+col: originally scheduled = ban đầu lên lịch; originally built = ban đầu xây; originally from + nơi = gốc từ; originally planned = ban đầu dự định; originally intended = vốn dự định
+syn: initially, at first, in the beginning, at the outset
+ant: finally, ultimately, eventually
+
+# ultimately | /ˈʌltɪmətli/
+fam: ultimate (adj) cuối cùng, tối thượng; ultimatum (n) tối hậu thư
+tip: ultimately = cuối cùng thì (kết quả sau cùng): "ultimately, it's up to you". (adj) ultimate = tối thượng: the ultimate goal.
+@adv
+1. cuối cùng thì | *Ultimately*, the board decided to approve the budget. | Cuối cùng thì hội đồng quyết định thông qua ngân sách.
+col: Ultimately, + clause = cuối cùng thì; ultimately responsible = chịu trách nhiệm cuối cùng; ultimately depend on = rốt cuộc phụ thuộc vào
+syn: eventually, finally, in the end, at last
+ant: initially, originally
+
+# increasingly | /ɪnˈkriːsɪŋli/
+fam: increase (v/n) tăng; increasing (adj) ngày càng tăng; increased (adj)
+tip: increasingly + adj = ngày càng...: increasingly popular/difficult/important. Là trạng từ chỉ xu hướng.
+@adv
+1. ngày càng | Online shopping is *increasingly* popular. | Mua sắm trực tuyến ngày càng phổ biến.
+col: increasingly popular = ngày càng phổ biến; increasingly important = ngày càng quan trọng; increasingly common = ngày càng thường gặp; increasingly difficult = ngày càng khó
+syn: more and more, progressively, steadily
+ant: decreasingly
+
+# exclusively | /ɪkˈskluːsɪvli/
+fam: exclusive (adj) độc quyền; exclude (v) loại trừ; exclusion (n); exclusivity (n)
+tip: exclusively = chỉ riêng, độc quyền: "available exclusively to members". "exclusive of" = chưa bao gồm; ≠ "inclusive of".
+@adv
+1. chỉ riêng, độc quyền | This offer is *exclusively* for members. | Ưu đãi này chỉ dành riêng cho hội viên.
+col: exclusively for = chỉ dành cho; available exclusively = chỉ có tại; exclusively online = chỉ trực tuyến; exclusively used = chỉ dùng cho; sold exclusively = chỉ bán tại
+syn: solely, only, purely, entirely
+ant: partially, also
+
+# lately | /ˈleɪtli/
+fam: late (adj/adv) muộn; later (adv) sau; latest (adj) mới nhất
+tip: BẪY: lately = gần đây (khác "late" = muộn). "have you been busy lately?" Thường với hiện tại hoàn thành, câu hỏi/phủ định.
+@adv
+1. gần đây | Sales have been strong *lately*. | Gần đây doanh số rất tốt.
+col: lately + hiện tại hoàn thành = gần đây; until lately = cho đến gần đây; as lately as = mới đây vào
+syn: recently, of late, in recent times
+ant: formerly, long ago
+
+# already | /ɔːlˈredi/
+fam: all ready (adj phr) sẵn sàng hết
+tip: already = đã (rồi): đứng giữa trợ động từ và V3, hoặc cuối câu: "have already left". ≠ all ready. Câu hỏi/phủ định dùng yet.
+@adv
+1. đã rồi | The shipment has *already* arrived. | Lô hàng đã đến rồi.
+col: have already + V3 = đã... rồi; already + V = đã; already in progress = đang diễn ra; already booked = đã được đặt; already full = đã đầy
+syn: previously, by now, so soon
+ant: yet, not yet
+
+# yet | /jet/
+fam: yet to (phr) vẫn chưa
+tip: yet (adv) = chưa (phủ định/nghi vấn, cuối câu); (conj) = nhưng. "have yet to V" = vẫn chưa làm. "not yet", "as yet".
+@adv
+1. chưa, vẫn chưa | The results have not been announced *yet*. | Kết quả vẫn chưa được công bố.
+@conj
+1. nhưng | The plan is simple, *yet* effective. | Kế hoạch đơn giản nhưng hiệu quả.
+col: not yet = chưa; have yet to V = vẫn chưa; yet again = lại một lần nữa; as yet = cho đến nay; yet another = thêm một nữa
+syn: so far, still (adv); but, however (conj)
+ant: already
+
+# still | /stɪl/
+fam: stillness (n) sự tĩnh lặng; stilly
+tip: still (adv) = vẫn còn; (adj) = yên lặng; (conj-adv) = tuy vậy. Vị trí: trước động từ chính, sau "be". Phủ định: still doesn't (đứng trước not).
+@adv
+1. vẫn | We are *still* waiting for the final approval. | Chúng tôi vẫn đang chờ phê duyệt cuối cùng.
+col: still + V = vẫn; still unavailable = vẫn chưa có; still, ... = tuy nhiên; be still in progress = vẫn đang tiến hành; and still = và vẫn
+syn: yet, even now, nevertheless
+ant: no longer, already
+
+# quite | /kwaɪt/
+fam: quiet (adj) yên tĩnh; quit (v) bỏ
+tip: BẪY chính tả: quite (khá, hoàn toàn) ≠ quiet (yên tĩnh) ≠ quit (bỏ). "quite a few" = khá nhiều; "not quite" = chưa hẳn.
+@adv
+1. khá, hoàn toàn | The meeting was *quite* productive. | Cuộc họp khá hiệu quả.
+col: quite a few = khá nhiều; quite a bit = khá nhiều; not quite = chưa hẳn; quite + adj = khá; quite right = hoàn toàn đúng
+syn: fairly, rather, pretty, completely
+ant: slightly, not at all
+
+# rather | /ˈræðər/
+fam: rather than (conj/prep) thay vì; would rather (phr)
+tip: rather than + V/N = thay vì; would rather + V = thích... hơn; rather + adj = khá (hơi tiêu cực).
+@adv
+1. khá | The new policy is *rather* complicated. | Chính sách mới khá phức tạp.
+col: rather than = thay vì; would rather V = thà làm...; or rather = hay đúng hơn; rather a/an + N = khá; rather + than...
+syn: fairly, somewhat, quite, instead
+ant: very, extremely
+
+# almost | /ˈɔːlmoʊst/
+fam: most (adj/adv) hầu hết; mostly (adv)
+tip: almost = gần như (ở mức độ cao): almost done/all/every. Không dùng "almost" với "no/none/nobody" trực tiếp: dùng "almost no". "Nearly" tương tự.
+@adv
+1. gần như | The project is *almost* complete. | Dự án gần như đã hoàn tất.
+col: almost all = gần như tất cả; almost every = hầu như mọi; almost always = hầu như luôn; almost never = hầu như không bao giờ; almost certainly = gần như chắc chắn
+syn: nearly, practically, virtually, about
+ant: completely, exactly

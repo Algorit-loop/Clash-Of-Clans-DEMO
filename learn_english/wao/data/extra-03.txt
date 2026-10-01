@@ -1,0 +1,596 @@
+// ===== TỪ MỞ RỘNG: động từ hay gặp trong TOEIC (2) =====
+
+# update | /ʌpˈdeɪt/ (v), /ˈʌpdeɪt/ (n)
+fam: updated (adj) được cập nhật; updating (n); outdated (adj) lỗi thời
+tip: update sb on sth = cập nhật tình hình cho ai; "keep sb updated". Danh từ: "a software update".
+@v
+1. cập nhật | Please *update* your contact information. | Vui lòng cập nhật thông tin liên lạc của bạn.
+col: update software = cập nhật phần mềm; update sb on sth = báo cáo tình hình cho ai; keep sb updated = giữ ai được cập nhật; regularly updated = cập nhật thường xuyên; update a record = cập nhật hồ sơ
+prep: update sb on/about sth
+syn: modernize, refresh, revise, upgrade
+@n
+1. bản cập nhật; tin mới | The latest *update* fixes several bugs. | Bản cập nhật mới nhất sửa nhiều lỗi.
+col: software update = cập nhật phần mềm; news update = bản tin cập nhật; status update = cập nhật tình trạng
+
+# utilize | /ˈjuːtəlaɪz/
+fam: utilization (n) sự tận dụng; utility (n) tiện ích; utilities (n) điện nước; utilizable (adj)
+tip: utilize = use (trang trọng hơn, nhấn mạnh tận dụng hiệu quả). "utilities" = tiền điện nước/dịch vụ tiện ích. Chính tả Anh: utilise.
+@v
+1. tận dụng, sử dụng | The company *utilizes* solar power in its factories. | Công ty tận dụng điện mặt trời trong các nhà máy.
+col: utilize resources = tận dụng nguồn lực; utilize space = tận dụng không gian; utilize technology = sử dụng công nghệ; fully utilize = tận dụng tối đa; effectively utilize = sử dụng hiệu quả
+syn: use, employ, make use of, exploit
+ant: waste
+
+# verify | /ˈverɪfaɪ/
+fam: verification (n) sự xác minh; verified (adj); verifiable (adj)
+tip: verify (kiểm tra tính đúng): "verify your identity/address/information". Khác "confirm" (xác nhận). "verification code" = mã xác minh.
+@v
+1. xác minh | Please *verify* your email address before logging in. | Vui lòng xác minh địa chỉ email trước khi đăng nhập.
+col: verify identity = xác minh danh tính; verify information = xác minh thông tin; verify that = xác minh rằng; be verified by = được xác minh bởi; verify accuracy = kiểm tra độ chính xác
+syn: confirm, check, validate, authenticate
+ant: refute, disprove
+
+# withdraw | /wɪðˈdrɔː/
+fam: withdrawal (n) sự rút (tiền, đơn); withdrawn (V3/adj) khép kín; withdrew (V2)
+tip: withdraw – withdrew – withdrawn. "withdraw money/cash/an application" = rút. "withdrawal" (n) = sự rút tiền. Đối lập: deposit.
+@v
+1. rút (tiền, đơn), rút lui | You can *withdraw* cash at any ATM. | Bạn có thể rút tiền mặt ở bất kỳ máy ATM nào.
+col: withdraw money = rút tiền; withdraw an application = rút đơn; withdraw from a contest = rút khỏi cuộc thi; withdraw support = rút lại sự ủng hộ; withdraw an offer = hủy đề nghị
+prep: withdraw sth from sth
+syn: remove, take out, pull out, retract
+ant: deposit, enter, add
+
+# waive | /weɪv/
+fam: waiver (n) sự miễn trừ; waived (adj)
+tip: waive a fee/requirement/right = miễn (phí/yêu cầu). "waiver" = văn bản miễn trừ trách nhiệm. Phát âm: /weɪv/ (như wave).
+@v
+1. miễn, bỏ qua | The bank will *waive* the monthly fee for new customers. | Ngân hàng sẽ miễn phí hằng tháng cho khách mới.
+col: waive a fee = miễn phí; waive a requirement = miễn yêu cầu; waive a right = từ bỏ quyền; waive the charge = miễn khoản phí; waiver form = mẫu miễn trừ
+syn: forgo, relinquish, give up, exempt
+ant: charge, enforce, impose
+
+# streamline | /ˈstriːmlaɪn/
+fam: stream (n/v) dòng; streamlined (adj) được tinh giản
+tip: streamline a process/procedure/operation = tinh giản, làm cho hiệu quả hơn. Từ khóa của bài về cải thiện quy trình.
+@v
+1. tinh giản, hợp lý hóa | The new system will *streamline* the hiring process. | Hệ thống mới sẽ tinh giản quy trình tuyển dụng.
+col: streamline a process = tinh giản quy trình; streamline operations = hợp lý hóa vận hành; streamline procedures = tinh giản thủ tục; streamlined design = thiết kế gọn gàng
+syn: simplify, rationalize, modernize, optimize
+ant: complicate
+
+# enhance | /ɪnˈhæns/
+fam: enhancement (n) sự nâng cao; enhanced (adj) được cải thiện; enhancer (n)
+tip: enhance quality/performance/security/features = nâng cao. Khác "enhance" (làm tốt hơn cái có sẵn) vs "improve".
+@v
+1. nâng cao, tăng cường | The update *enhances* the app's security. | Bản cập nhật tăng cường tính bảo mật của ứng dụng.
+col: enhance quality = nâng cao chất lượng; enhance performance = nâng hiệu suất; enhance security = tăng cường an ninh; enhance a reputation = nâng cao danh tiếng; enhanced features = tính năng nâng cao
+syn: improve, boost, strengthen, upgrade
+ant: diminish, reduce, impair
+
+# facilitate | /fəˈsɪlɪteɪt/
+fam: facilitator (n) người điều phối; facility (n) cơ sở; facilitation (n)
+tip: facilitate + N = tạo điều kiện thuận lợi cho; chủ ngữ thường là sự vật/quy trình. KHÔNG "facilitate sb to V".
+@v
+1. tạo điều kiện, làm cho dễ dàng | The new software will *facilitate* communication between teams. | Phần mềm mới sẽ tạo điều kiện giao tiếp giữa các nhóm.
+col: facilitate communication = tạo điều kiện giao tiếp; facilitate a meeting = điều phối cuộc họp; facilitate the process = tạo thuận lợi cho quy trình; facilitate growth = thúc đẩy tăng trưởng; facilitate access = giúp tiếp cận dễ hơn
+syn: ease, enable, help, simplify
+ant: hinder, impede, obstruct
+
+# accompany | /əˈkʌmpəni/
+fam: accompaniment (n) sự đi kèm; accompanied (adj); accompanying (adj) kèm theo
+tip: "be accompanied by sb/sth" = đi cùng với; "accompanying document" = tài liệu đi kèm. "children must be accompanied by an adult".
+@v
+1. đi cùng, đi kèm | Children must be *accompanied* by an adult. | Trẻ em phải đi cùng người lớn.
+col: be accompanied by = có ... đi kèm; accompany sb to + nơi = đi cùng ai tới; accompanying documents = tài liệu đi kèm; accompanied by a letter = kèm theo thư
+prep: be accompanied by sb/sth
+syn: escort, go with, join, attach
+
+# acknowledge | /əkˈnɑːlɪdʒ/
+fam: acknowledgment (n) sự xác nhận, lời cảm ơn; acknowledged (adj) được công nhận; unacknowledged (adj)
+tip: acknowledge receipt of = xác nhận đã nhận; "acknowledge sb's contribution" = ghi nhận đóng góp. Danh từ: acknowledgment(s).
+@v
+1. xác nhận, công nhận | We *acknowledge* receipt of your payment. | Chúng tôi xác nhận đã nhận được khoản thanh toán của bạn.
+col: acknowledge receipt of = xác nhận đã nhận; acknowledge a mistake = thừa nhận sai sót; acknowledge sb's effort = ghi nhận nỗ lực; widely acknowledged = được công nhận rộng rãi; acknowledge that = thừa nhận rằng
+syn: admit, recognize, confirm, accept
+ant: deny, ignore, disregard
+
+# address | /əˈdres/
+fam: addressee (n) người nhận; addressed (adj)
+tip: address (v) = giải quyết (issue/concern) / gửi đến (letter); (n) = địa chỉ, bài phát biểu. "address a problem" = xử lý vấn đề.
+@v
+1. giải quyết, đề cập | The manager will *address* your concerns tomorrow. | Quản lý sẽ giải quyết những lo ngại của bạn vào ngày mai.
+2. ghi địa chỉ | Please *address* the envelope to the HR department. | Vui lòng ghi địa chỉ phong bì gửi phòng nhân sự.
+col: address a problem = giải quyết vấn đề; address concerns = xử lý mối quan ngại; address the audience = phát biểu trước khán giả; address sb as = gọi ai là; address an envelope = ghi địa chỉ
+syn: tackle, deal with, handle, speak to
+@n
+1. địa chỉ; bài diễn văn | Please write your email *address* clearly. | Vui lòng viết rõ địa chỉ email.
+col: email address = địa chỉ email; mailing address = địa chỉ gửi thư; keynote address = bài phát biểu chính; forwarding address = địa chỉ chuyển tiếp
+
+# affect | /əˈfekt/
+fam: effect (n) tác động; affected (adj) bị ảnh hưởng; unaffected (adj); affection (n)
+tip: BẪY: affect (v, tác động) ≠ effect (n, ảnh hưởng/kết quả). "affect sb/sth" (ngoại động từ); "have an effect on sth"; "take effect" = có hiệu lực.
+@v
+1. ảnh hưởng đến | The new policy will *affect* all employees. | Chính sách mới sẽ ảnh hưởng đến mọi nhân viên.
+col: affect sb/sth = ảnh hưởng đến; be affected by = bị ảnh hưởng bởi; adversely affect = ảnh hưởng xấu; seriously affect = ảnh hưởng nghiêm trọng; directly affect = tác động trực tiếp
+syn: influence, impact, alter, change
+
+# clarify | /ˈklærəfaɪ/
+fam: clarification (n) sự làm rõ; clarity (n) sự rõ ràng; clear (adj)
+tip: "ask for clarification" = hỏi để làm rõ; "clarify a point/issue/policy". Cùng họ: clarity (n).
+@v
+1. làm rõ | Could you *clarify* the payment terms? | Bạn có thể làm rõ các điều khoản thanh toán không?
+col: clarify a point = làm rõ một điểm; clarify the policy = làm rõ chính sách; clarify the situation = làm rõ tình hình; clarify what/how = làm rõ cái gì/như thế nào; seek clarification = tìm sự làm rõ
+syn: explain, clear up, elucidate, spell out
+ant: confuse, obscure
+
+# commence | /kəˈmens/
+fam: commencement (n) sự bắt đầu, lễ tốt nghiệp (Mỹ)
+tip: commence = begin/start (trang trọng): "Construction will commence in May", "commence work". Commencement (Mỹ) = lễ tốt nghiệp.
+@v
+1. bắt đầu | The training program will *commence* on Monday. | Chương trình đào tạo sẽ bắt đầu vào thứ Hai.
+col: commence work = bắt đầu làm việc; commence on + date = bắt đầu vào ngày; commence construction = khởi công; commence operations = bắt đầu hoạt động; commence V-ing / to V = bắt đầu làm
+syn: begin, start, launch, initiate
+ant: conclude, finish, end
+
+# compile | /kəmˈpaɪl/
+fam: compilation (n) sự biên soạn; compiler (n); compiled (adj)
+tip: compile a report/list/data = biên soạn, tổng hợp. Tin học: biên dịch (compile code).
+@v
+1. biên soạn, tổng hợp | She *compiled* a list of all customer complaints. | Cô ấy tổng hợp danh sách mọi khiếu nại của khách hàng.
+col: compile a report = tổng hợp báo cáo; compile data = tổng hợp dữ liệu; compile a list = lập danh sách; compile information = thu thập thông tin; compile statistics = tổng hợp số liệu
+syn: assemble, collect, gather, put together
+ant: scatter
+
+# consolidate | /kənˈsɑːlɪdeɪt/
+fam: consolidation (n) sự hợp nhất, củng cố; consolidated (adj) hợp nhất
+tip: consolidate = hợp nhất (nhiều thứ thành một): "consolidated financial statements" (báo cáo tài chính hợp nhất); cũng = củng cố.
+@v
+1. hợp nhất, củng cố | The company will *consolidate* its offices in one building. | Công ty sẽ hợp nhất các văn phòng vào một tòa nhà.
+col: consolidate operations = hợp nhất hoạt động; consolidate debt = hợp nhất nợ; consolidate shipments = gom hàng; consolidate position = củng cố vị thế; consolidated statement = báo cáo hợp nhất
+syn: merge, combine, unify, strengthen
+ant: split, divide, separate
+
+# delegate | /ˈdelɪɡeɪt/ (v), /ˈdelɪɡət/ (n)
+fam: delegation (n) đoàn đại biểu, sự ủy thác; delegated (adj)
+tip: delegate (v) = giao việc/ủy quyền: "delegate tasks to staff". (n) = đại biểu: conference delegates.
+@v
+1. giao phó, ủy quyền | Good managers *delegate* tasks to their teams. | Quản lý giỏi biết giao việc cho nhóm.
+col: delegate tasks = giao nhiệm vụ; delegate authority = ủy quyền; delegate sth to sb = giao cái gì cho ai; delegate responsibility = giao trách nhiệm
+prep: delegate sth to sb
+syn: assign, entrust, hand over, authorize
+@n
+1. đại biểu | *Delegates* from ten countries attended the summit. | Đại biểu từ mười nước dự hội nghị thượng đỉnh.
+col: conference delegate = đại biểu hội nghị; delegate to sth = đại biểu tham dự
+syn: representative, envoy
+
+# detect | /dɪˈtekt/
+fam: detection (n) sự phát hiện; detector (n) máy dò; detective (n) thám tử; detectable (adj)
+tip: detect problems/errors/changes/smoke = phát hiện. "smoke detector" = máy báo khói.
+@v
+1. phát hiện | The system *detects* errors automatically. | Hệ thống tự động phát hiện lỗi.
+col: detect errors = phát hiện lỗi; detect a leak = phát hiện rò rỉ; detect changes = phát hiện thay đổi; smoke detector = máy báo khói; easily detected = dễ phát hiện
+syn: discover, spot, identify, notice
+ant: overlook, miss
+
+# eliminate | /ɪˈlɪmɪneɪt/
+fam: elimination (n) sự loại bỏ; eliminated (adj)
+tip: eliminate waste/errors/costs/risk = loại bỏ. Hay trong bài về cải thiện hiệu quả.
+@v
+1. loại bỏ | The new process *eliminates* unnecessary steps. | Quy trình mới loại bỏ những bước không cần thiết.
+col: eliminate waste = loại bỏ lãng phí; eliminate errors = loại bỏ lỗi; eliminate the need for = loại bỏ nhu cầu về; completely eliminate = loại bỏ hoàn toàn; eliminate a position = bãi bỏ vị trí
+syn: remove, get rid of, cut, eradicate
+ant: add, include, introduce
+
+# emphasize | /ˈemfəsaɪz/
+fam: emphasis (n) sự nhấn mạnh; emphatic (adj) nhấn mạnh; emphatically (adv)
+tip: emphasize + N/that-clause = nhấn mạnh. Danh từ: "place/put emphasis on sth". Chính tả: emphasize (Mỹ) / emphasise (Anh).
+@v
+1. nhấn mạnh | The speaker *emphasized* the importance of teamwork. | Diễn giả nhấn mạnh tầm quan trọng của làm việc nhóm.
+col: emphasize the importance of = nhấn mạnh tầm quan trọng của; emphasize that = nhấn mạnh rằng; strongly emphasize = nhấn mạnh mạnh mẽ; place emphasis on = đặt trọng tâm vào
+syn: stress, highlight, underline, accentuate
+ant: downplay, understate
+
+# endorse | /ɪnˈdɔːrs/
+fam: endorsement (n) sự chứng thực, ủng hộ; endorser (n) người chứng thực
+tip: endorse a product/candidate/check = quảng bá hộ/ủng hộ/ký hậu séc. "celebrity endorsement" = người nổi tiếng quảng cáo sản phẩm.
+@v
+1. ủng hộ, bảo chứng | A famous athlete *endorses* the new running shoes. | Một vận động viên nổi tiếng quảng bá cho giày chạy mới.
+col: endorse a product = bảo chứng sản phẩm; endorse a plan = ủng hộ kế hoạch; endorse a candidate = ủng hộ ứng viên; endorse a check = ký hậu séc; widely endorsed = được ủng hộ rộng rãi
+syn: back, support, approve, recommend
+ant: oppose, reject
+
+# execute | /ˈeksɪkjuːt/
+fam: execution (n) sự thực hiện; executive (n/adj) giám đốc, điều hành; executor (n)
+tip: execute a plan/order/contract/strategy = thực thi. Chú ý: executive (n) = người điều hành cấp cao.
+@v
+1. thực hiện, thi hành | The team *executed* the plan flawlessly. | Nhóm đã thực hiện kế hoạch hoàn hảo.
+col: execute a plan = thực hiện kế hoạch; execute a contract = thực thi hợp đồng; execute an order = xử lý đơn; execute a strategy = thi hành chiến lược; execute a command = thực thi lệnh
+syn: carry out, implement, perform, accomplish
+ant: abandon, neglect
+
+# fulfill | /fʊlˈfɪl/
+fam: fulfillment (n) sự thực hiện, sự hoàn thành; fulfilling (adj) viên mãn; unfulfilled (adj)
+tip: fulfill an order/a request/requirements/a promise = thực hiện, đáp ứng. "order fulfillment" = xử lý đơn. Anh-Anh: fulfil.
+@v
+1. thực hiện, đáp ứng | We will *fulfill* your order within three days. | Chúng tôi sẽ hoàn tất đơn hàng của bạn trong ba ngày.
+col: fulfill an order = hoàn tất đơn; fulfill a requirement = đáp ứng yêu cầu; fulfill a promise = thực hiện lời hứa; fulfill a need = đáp ứng nhu cầu; fulfill an obligation = làm tròn nghĩa vụ
+syn: carry out, satisfy, meet, complete
+ant: fail, neglect
+
+# handle | /ˈhændl/
+fam: handler (n) người xử lý; handling (n) việc xử lý; mishandle (v)
+tip: handle a complaint/order/payment/package = xử lý; "shipping and handling" = phí vận chuyển và xử lý. (n) = tay cầm.
+@v
+1. xử lý, giải quyết | The customer service team *handles* all complaints. | Đội chăm sóc khách hàng xử lý mọi khiếu nại.
+col: handle a complaint = xử lý khiếu nại; handle an order = xử lý đơn; handle with care = cẩn thận khi cầm; handle payments = xử lý thanh toán; handle the pressure = chịu được áp lực
+syn: manage, deal with, process, take care of
+@n
+1. tay nắm, tay cầm | The door *handle* is broken. | Tay nắm cửa bị hỏng.
+
+# impose | /ɪmˈpoʊz/
+fam: imposition (n) sự áp đặt; imposing (adj) oai vệ; imposed (adj)
+tip: impose a fee/tax/limit/restriction (on sb) = áp đặt, đánh (thuế/phí). "impose sth on sb".
+@v
+1. áp đặt | The city will *impose* a new tax on plastic bags. | Thành phố sẽ áp thuế mới đối với túi nhựa.
+col: impose a fine = phạt; impose a tax = đánh thuế; impose restrictions = áp đặt hạn chế; impose a limit = đặt ra giới hạn; impose sth on sb = áp đặt cái gì lên ai
+prep: impose sth on/upon sb
+syn: enforce, levy, apply, set
+ant: lift, remove, repeal
+
+# incorporate | /ɪnˈkɔːrpəreɪt/
+fam: incorporation (n) sự hợp nhất, thành lập công ty; incorporated (adj) (Inc.) công ty cổ phần
+tip: "Inc." = incorporated. incorporate A into B = đưa A vào B. "incorporate feedback" = tiếp thu phản hồi.
+@v
+1. kết hợp, đưa vào | We will *incorporate* your suggestions into the design. | Chúng tôi sẽ đưa các đề xuất của bạn vào thiết kế.
+col: incorporate A into B = đưa A vào B; incorporate feedback = tiếp thu phản hồi; incorporate new features = tích hợp tính năng mới; incorporate ideas = lồng ghép ý tưởng
+prep: incorporate A into/in B
+syn: include, integrate, add, build in
+ant: exclude, omit
+
+# inspect | /ɪnˈspekt/
+fam: inspection (n) sự kiểm tra; inspector (n) thanh tra; inspective
+tip: inspect equipment/goods/a site/vehicles = kiểm tra kỹ. "safety inspection", "building inspector". Phân biệt "check" (thông thường) – "inspect" (kỹ, chính thức).
+@v
+1. kiểm tra, thanh tra | Officials will *inspect* the building next week. | Các quan chức sẽ kiểm tra tòa nhà vào tuần sau.
+col: inspect a product = kiểm tra sản phẩm; inspect the premises = kiểm tra cơ sở; thoroughly inspect = kiểm tra kỹ; safety inspection = kiểm tra an toàn; be inspected = bị kiểm tra
+syn: examine, check, review, survey
+ant: ignore, overlook
+
+# integrate | /ˈɪntɪɡreɪt/
+fam: integration (n) sự tích hợp; integrated (adj) tích hợp; integral (adj) thiết yếu
+tip: integrate A into/with B = tích hợp. "integrated system" = hệ thống tích hợp. "integral part of" = phần thiết yếu của.
+@v
+1. tích hợp, hòa nhập | The software *integrates* with our existing systems. | Phần mềm tích hợp với các hệ thống hiện có của chúng tôi.
+col: integrate with = tích hợp với; integrate into = hòa nhập vào; fully integrated = tích hợp hoàn toàn; integrate systems = tích hợp hệ thống; integrate seamlessly = tích hợp liền mạch
+prep: integrate A into/with B
+syn: combine, merge, incorporate, unite
+ant: separate, segregate
+
+# invest | /ɪnˈvest/
+fam: investment (n) sự đầu tư; investor (n) nhà đầu tư; reinvest (v)
+tip: invest in sth = đầu tư vào; "invest time/money/effort in". "return on investment (ROI)".
+@v
+1. đầu tư | The company will *invest* $5 million in new equipment. | Công ty sẽ đầu tư 5 triệu đô la vào thiết bị mới.
+col: invest in sth = đầu tư vào; invest money = đầu tư tiền; invest heavily = đầu tư mạnh; invest time = dành thời gian; invest in the future = đầu tư cho tương lai
+prep: invest in sth / invest sth in sth
+syn: put money into, fund, finance, spend
+
+# merge | /mɜːrdʒ/
+fam: merger (n) vụ sáp nhập; merged (adj); merging (n)
+tip: merge with sb/sth = sáp nhập với; "mergers and acquisitions (M&A)". Giao thông: "merge onto the highway".
+@v
+1. sáp nhập, hòa trộn | The two banks will *merge* next year. | Hai ngân hàng sẽ sáp nhập vào năm tới.
+col: merge with = sáp nhập với; merge into = hợp nhất thành; merge two files = gộp hai tệp; companies merge = công ty sáp nhập; merge onto = nhập làn vào
+prep: merge with/into sth
+syn: combine, unite, join, amalgamate
+ant: split, separate, divide
+
+# motivate | /ˈmoʊtɪveɪt/
+fam: motivation (n) động lực; motivated (adj) có động lực; motivating (adj); motivational (adj)
+tip: motivate sb to V = thúc đẩy ai làm gì. "highly motivated" = rất có động lực; hồ sơ xin việc hay có "self-motivated".
+@v
+1. thúc đẩy, tạo động lực | Bonuses *motivate* employees to work harder. | Tiền thưởng thúc đẩy nhân viên làm việc chăm chỉ hơn.
+col: motivate sb to V = thúc đẩy ai làm; highly motivated = rất có động lực; self-motivated = tự thúc đẩy; motivate staff = tạo động lực cho nhân viên; motivated by = được thúc đẩy bởi
+prep: motivate sb to V
+syn: inspire, encourage, stimulate, drive
+ant: discourage, demotivate
+
+# nominate | /ˈnɑːmɪneɪt/
+fam: nomination (n) sự đề cử; nominee (n) người được đề cử; nominator (n)
+tip: nominate sb for sth = đề cử ai cho (giải thưởng, vị trí); "be nominated for an award". nominee = người được đề cử.
+@v
+1. đề cử | Employees can *nominate* a colleague for the award. | Nhân viên có thể đề cử một đồng nghiệp cho giải thưởng.
+col: nominate sb for sth = đề cử ai cho; be nominated for = được đề cử cho; nominate a candidate = đề cử ứng viên; nominate sb as = đề cử ai làm; award nominee = người được đề cử giải
+prep: nominate sb for/as sth
+syn: propose, put forward, name, recommend
+
+# overcome | /ˌoʊvərˈkʌm/
+fam: overcame (V2); overcoming (n)
+tip: overcome – overcame – overcome. "overcome obstacles/challenges/difficulties" = vượt qua. Ngoại động từ.
+@v
+1. vượt qua | The team *overcame* many challenges to finish on time. | Nhóm đã vượt qua nhiều thử thách để hoàn thành đúng hạn.
+col: overcome challenges = vượt qua thử thách; overcome obstacles = vượt qua trở ngại; overcome difficulties = vượt qua khó khăn; overcome fear = vượt qua nỗi sợ; successfully overcome = vượt qua thành công
+syn: surmount, conquer, beat, get past
+ant: succumb to, yield
+
+# overlook | /ˌoʊvərˈlʊk/
+fam: overlooked (adj) bị bỏ sót; look (v)
+tip: overlook = bỏ sót / làm ngơ HOẶC nhìn ra (phòng nhìn ra biển): "a room overlooking the sea". Hai nghĩa rất khác.
+@v
+1. bỏ sót | We *overlooked* a few errors in the final draft. | Chúng tôi đã bỏ sót vài lỗi trong bản thảo cuối.
+2. nhìn ra | The hotel *overlooks* the harbor. | Khách sạn nhìn ra bến cảng.
+col: overlook a detail = bỏ sót chi tiết; easily overlooked = dễ bị bỏ qua; overlook an error = bỏ sót lỗi; overlook the sea = nhìn ra biển; overlooking the park = hướng ra công viên
+syn: miss, neglect, ignore (1); face, look onto (2)
+ant: notice, spot (1)
+
+# pledge | /pledʒ/
+fam: pledged (adj) cam kết
+tip: pledge to V / pledge sth = cam kết; "pledge $1,000 to a charity" = hứa quyên góp. (n) = lời cam kết.
+@v
+1. cam kết | The company *pledged* to reduce its carbon emissions. | Công ty cam kết giảm lượng khí thải carbon.
+col: pledge to V = cam kết làm; pledge support = cam kết hỗ trợ; pledge money = hứa quyên góp; pledge allegiance = tuyên thệ trung thành
+syn: promise, vow, commit, guarantee
+@n
+1. lời cam kết | The firm made a *pledge* to protect the environment. | Công ty đưa ra cam kết bảo vệ môi trường.
+col: make a pledge = đưa ra cam kết; keep a pledge = giữ cam kết; donation pledge = cam kết quyên góp
+
+# predict | /prɪˈdɪkt/
+fam: prediction (n) dự đoán; predictable (adj) dự đoán được; unpredictable (adj); predictor (n)
+tip: predict that + clause / predict sth. "Experts predict..." – từ báo cáo kinh tế. Khác "forecast" (dự báo bằng dữ liệu).
+@v
+1. dự đoán | Analysts *predict* that prices will rise next year. | Các nhà phân tích dự đoán giá sẽ tăng vào năm tới.
+col: predict that = dự đoán rằng; predict demand = dự đoán nhu cầu; predict accurately = dự đoán chính xác; hard to predict = khó đoán; predict the outcome = đoán kết quả
+syn: forecast, foresee, anticipate, project
+ant: recall
+
+# proceed | /proʊˈsiːd/
+fam: procedure (n) quy trình; proceeds (n) tiền thu được; proceeding(s) (n) thủ tục; process (n)
+tip: proceed to + nơi/V = tiếp tục tiến hành, đi tiếp: "Please proceed to Gate 5". "proceed with sth" = tiếp tục tiến hành. BẪY: proceed ≠ precede (đi trước).
+@v
+1. tiếp tục, tiến hành | Passengers should *proceed* to Gate 12. | Hành khách hãy tiến đến cổng 12.
+col: proceed to + nơi = đi tiếp đến; proceed with = tiếp tục tiến hành; proceed to V = tiếp đó làm; proceed as planned = tiến hành như kế hoạch; proceed to checkout = tiến hành thanh toán
+prep: proceed to/with sth
+syn: continue, go ahead, advance, move on
+ant: stop, halt, withdraw
+
+# prohibit | /proʊˈhɪbɪt/
+fam: prohibition (n) lệnh cấm; prohibited (adj) bị cấm; prohibitive (adj) quá đắt đỏ
+tip: prohibit sb from V-ing / prohibit sth = cấm. "Smoking is prohibited". "prohibitive cost" = chi phí cao ngất.
+@v
+1. cấm | Company policy *prohibits* the use of personal devices. | Chính sách công ty cấm sử dụng thiết bị cá nhân.
+col: prohibit sb from V-ing = cấm ai làm; strictly prohibited = nghiêm cấm; be prohibited by law = bị luật cấm; prohibited items = vật phẩm cấm; prohibit access = cấm truy cập
+prep: prohibit sb from V-ing
+syn: forbid, ban, bar, outlaw
+ant: permit, allow, authorize
+
+# reinforce | /ˌriːɪnˈfɔːrs/
+fam: reinforcement (n) sự củng cố; reinforced (adj) được gia cố; force (n)
+tip: reinforce the idea/structure/message = củng cố, gia cố. "reinforced concrete" = bê tông cốt thép.
+@v
+1. củng cố, gia cố | The training will *reinforce* our commitment to safety. | Khóa đào tạo sẽ củng cố cam kết của chúng ta về an toàn.
+col: reinforce a message = củng cố thông điệp; reinforce safety = tăng cường an toàn; reinforced concrete = bê tông cốt thép; reinforce a point = nhấn mạnh thêm một điểm; reinforce confidence = củng cố niềm tin
+syn: strengthen, support, bolster, fortify
+ant: weaken, undermine
+
+# reject | /rɪˈdʒekt/
+fam: rejection (n) sự từ chối; rejected (adj); reject (n) hàng loại
+tip: reject an offer/proposal/application = bác bỏ. Mạnh hơn "decline". Danh từ: rejection letter = thư từ chối.
+@v
+1. từ chối, bác bỏ | The board *rejected* the proposal. | Hội đồng đã bác bỏ đề xuất.
+col: reject an offer = từ chối lời đề nghị; reject a proposal = bác bỏ đề xuất; reject an application = từ chối đơn; be rejected = bị từ chối; reject a claim = bác bỏ khiếu nại
+syn: decline, turn down, refuse, dismiss
+ant: accept, approve, welcome
+
+# resume | /rɪˈzuːm/ (v), /ˈrezəmeɪ/ (n)
+fam: résumé (n) sơ yếu lý lịch; resumption (n) sự tiếp tục
+tip: Phát âm khác: re-ZOOM (v, tiếp tục) / REZ-u-may (n, sơ yếu lý lịch, = CV). "resume work/service" = tiếp tục.
+@v
+1. tiếp tục (sau gián đoạn) | Service will *resume* on Monday. | Dịch vụ sẽ hoạt động lại vào thứ Hai.
+col: resume service = nối lại dịch vụ; resume work = đi làm lại; resume operations = hoạt động trở lại; resume talks = nối lại đàm phán; resume normal = trở lại bình thường
+syn: continue, restart, carry on, reopen
+ant: suspend, halt, interrupt
+@n
+1. sơ yếu lý lịch (résumé) | Please attach your *résumé* to the form. | Vui lòng đính kèm sơ yếu lý lịch vào mẫu.
+col: submit a résumé = nộp CV; update a résumé = cập nhật CV; résumé and cover letter = CV và thư xin việc
+syn: CV, curriculum vitae
+
+# retrieve | /rɪˈtriːv/
+fam: retrieval (n) sự truy xuất; retriever (n) giống chó tha mồi
+tip: retrieve data/files/luggage = lấy lại, truy xuất. "data retrieval" = truy xuất dữ liệu.
+@v
+1. lấy lại, truy xuất | Staff can *retrieve* lost files from the backup. | Nhân viên có thể lấy lại tệp bị mất từ bản sao lưu.
+col: retrieve data = truy xuất dữ liệu; retrieve a file = lấy tệp; retrieve luggage = lấy hành lý; retrieve information = truy xuất thông tin; retrieve from = lấy lại từ
+syn: recover, regain, fetch, get back
+ant: lose, discard
+
+# reveal | /rɪˈviːl/
+fam: revelation (n) sự tiết lộ; revealing (adj) tiết lộ nhiều; revealed (adj)
+tip: reveal = tiết lộ/cho thấy: "The survey revealed that..." Cặp: conceal ↔ reveal.
+@v
+1. tiết lộ, cho thấy | The survey *revealed* a high level of satisfaction. | Khảo sát cho thấy mức độ hài lòng cao.
+col: reveal that = cho thấy rằng; reveal the results = công bố kết quả; reveal details = tiết lộ chi tiết; reveal plans = công bố kế hoạch; survey reveals = khảo sát cho thấy
+syn: disclose, show, uncover, announce
+ant: conceal, hide, cover up
+
+# specify | /ˈspesɪfaɪ/
+fam: specification (n) thông số kỹ thuật; specific (adj) cụ thể; specifically (adv); specified (adj)
+tip: specify the size/color/date = nêu rõ. "specifications" (specs) = thông số kỹ thuật. "unless otherwise specified".
+@v
+1. nêu rõ, chỉ rõ | Please *specify* your preferred delivery date. | Vui lòng nêu rõ ngày giao hàng mong muốn.
+col: specify a date = chỉ định ngày; specify requirements = nêu rõ yêu cầu; as specified = như đã nêu; unless otherwise specified = trừ khi có nêu khác; clearly specify = nêu rõ
+syn: state, stipulate, define, indicate
+ant: generalize
+
+# subscribe | /səbˈskraɪb/
+fam: subscription (n) sự đặt mua dài hạn; subscriber (n) người đăng ký
+tip: subscribe to a magazine/newsletter/service = đặt mua dài hạn/đăng ký nhận. "annual subscription".
+@v
+1. đăng ký, đặt mua dài hạn | You can *subscribe* to our newsletter for updates. | Bạn có thể đăng ký nhận bản tin của chúng tôi để cập nhật.
+col: subscribe to = đăng ký; subscribe to a newsletter = đăng ký bản tin; subscribe to a magazine = đặt mua tạp chí; subscribe online = đăng ký trực tuyến; renew a subscription = gia hạn đăng ký
+prep: subscribe to sth
+syn: sign up for, enroll in, register for
+ant: unsubscribe, cancel
+
+# substitute | /ˈsʌbstɪtuːt/
+fam: substitution (n) sự thay thế; substitutable (adj)
+tip: substitute A for B = dùng A thay cho B (A là cái mới). replace A with B (A là cái cũ). Danh từ: substitute teacher = giáo viên dạy thay.
+@v
+1. thay thế | You may *substitute* margarine for butter. | Bạn có thể dùng bơ thực vật thay cho bơ.
+col: substitute A for B = dùng A thay B; substitute for sb = làm thay ai; no substitute for = không gì thay thế được; no substitutions = không đổi món/hàng
+prep: substitute A for B
+syn: replace, swap, exchange, stand in for
+@n
+1. người/vật thay thế | There is no *substitute* for hard work. | Không có gì thay thế được sự chăm chỉ.
+col: substitute teacher = giáo viên dạy thay; a good substitute = vật thay thế tốt
+
+# summarize | /ˈsʌməraɪz/
+fam: summary (n) bản tóm tắt; summarized (adj); summation (n)
+tip: summarize = tóm tắt; "in summary" = tóm lại. Danh từ: summary (✗ summarization ít dùng). Anh: summarise.
+@v
+1. tóm tắt | Please *summarize* the main points of the report. | Vui lòng tóm tắt những điểm chính của báo cáo.
+col: summarize the findings = tóm tắt kết quả; briefly summarize = tóm tắt ngắn gọn; summarize the main points = tóm tắt ý chính; to summarize = tóm lại; in summary = tóm lại
+syn: sum up, outline, condense, recap
+ant: elaborate, expand
+
+# terminate | /ˈtɜːrmɪneɪt/
+fam: termination (n) sự chấm dứt; terminal (n/adj) nhà ga, giai đoạn cuối; terminated (adj)
+tip: terminate a contract/employment/service = chấm dứt. "termination clause" = điều khoản chấm dứt. "terminal" = nhà ga sân bay.
+@v
+1. chấm dứt | The company may *terminate* the contract with 30 days' notice. | Công ty có thể chấm dứt hợp đồng khi báo trước 30 ngày.
+col: terminate a contract = chấm dứt hợp đồng; terminate employment = chấm dứt tuyển dụng; terminate a service = ngừng dịch vụ; terminate an agreement = hủy thỏa thuận; termination notice = thông báo chấm dứt
+syn: end, cancel, conclude, dismiss
+ant: begin, start, renew
+
+# undertake | /ˌʌndərˈteɪk/
+fam: undertaking (n) công việc, nhiệm vụ; undertook (V2); undertaken (V3)
+tip: undertake – undertook – undertaken. undertake a project/task/study = đảm nhận. "undertake to V" = cam kết làm.
+@v
+1. đảm nhận, tiến hành | The firm will *undertake* a major renovation. | Công ty sẽ đảm nhận một đợt cải tạo lớn.
+col: undertake a project = đảm nhận dự án; undertake a study = tiến hành nghiên cứu; undertake responsibility = nhận trách nhiệm; undertake to V = cam kết làm; undertake repairs = tiến hành sửa chữa
+syn: take on, assume, embark on, carry out
+ant: abandon, decline
+
+# unveil | /ʌnˈveɪl/
+fam: veil (n) mạng che; unveiling (n) buổi ra mắt
+tip: unveil a product/plan/design = công bố, ra mắt (như tháo màn che). Hay đi cùng "launch".
+@v
+1. công bố, ra mắt | The company will *unveil* its new model next week. | Công ty sẽ ra mắt mẫu mới vào tuần sau.
+col: unveil a product = ra mắt sản phẩm; unveil a plan = công bố kế hoạch; unveil a statue = vén màn tượng; officially unveil = chính thức ra mắt; unveil a design = công bố thiết kế
+syn: reveal, launch, introduce, disclose
+ant: conceal, hide
+
+# upgrade | /ˌʌpˈɡreɪd/ (v), /ˈʌpɡreɪd/ (n)
+fam: upgraded (adj); downgrade (v) hạ cấp
+tip: upgrade to + hạng mới = nâng cấp lên (phòng, gói, phần mềm). "free upgrade" = nâng hạng miễn phí.
+@v
+1. nâng cấp | We *upgraded* our servers to handle more traffic. | Chúng tôi nâng cấp máy chủ để xử lý nhiều lưu lượng hơn.
+col: upgrade to = nâng cấp lên; upgrade software = nâng cấp phần mềm; free upgrade = nâng cấp miễn phí; upgrade equipment = nâng cấp thiết bị; upgrade a seat = nâng hạng ghế
+prep: upgrade to + hạng; upgrade from A to B
+syn: improve, modernize, update, enhance
+ant: downgrade
+@n
+1. sự nâng cấp | The hotel offers a free room *upgrade*. | Khách sạn tặng nâng hạng phòng miễn phí.
+
+# validate | /ˈvælɪdeɪt/
+fam: validation (n) sự xác thực; valid (adj) hợp lệ; validity (n) tính hợp lệ; invalid (adj) không hợp lệ
+tip: validate a ticket/parking = xác nhận hợp lệ (đóng dấu); "valid ID/ticket". "validate the results".
+@v
+1. xác thực, xác nhận hợp lệ | Please *validate* your parking ticket at the front desk. | Vui lòng xác nhận vé đỗ xe tại quầy lễ tân.
+col: validate a ticket = xác nhận vé; validate data = xác thực dữ liệu; validate results = kiểm chứng kết quả; validate a claim = xác nhận yêu cầu; validate parking = xác nhận đỗ xe
+syn: confirm, verify, authenticate, approve
+ant: invalidate, refute
+
+# cancel | /ˈkænsl/
+fam: cancellation (n) việc hủy; canceled (adj); cancelled (Anh)
+tip: Mỹ canceled / Anh cancelled. "cancellation policy", "cancellation fee". "cancel an order/reservation/subscription". Gấp đôi l ở Anh.
+@v
+1. hủy | The flight was *canceled* due to fog. | Chuyến bay bị hủy do sương mù.
+col: cancel an order = hủy đơn; cancel a reservation = hủy đặt chỗ; cancel a subscription = hủy đăng ký; cancel a meeting = hủy họp; cancellation fee = phí hủy
+syn: call off, abort, scrap, annul
+ant: confirm, schedule, reinstate
+
+# certify | /ˈsɜːrtɪfaɪ/
+fam: certificate (n) chứng chỉ; certification (n) sự cấp chứng nhận; certified (adj) có chứng chỉ
+tip: certified (adj) = có chứng chỉ: "certified accountant". Phân biệt certificate (n, giấy chứng nhận) / certify (v) / certification (n).
+@v
+1. chứng nhận | The inspector *certified* that the building is safe. | Thanh tra chứng nhận rằng tòa nhà an toàn.
+col: certify that = chứng nhận rằng; be certified = được cấp chứng nhận; certified copy = bản sao có chứng thực; certified organic = hữu cơ đạt chứng nhận; certify as = chứng nhận là
+syn: confirm, verify, guarantee, authorize
+
+# compensate | /ˈkɑːmpenseɪt/
+fam: compensation (n) khoản đền bù, lương thưởng; compensatory (adj)
+tip: compensate sb for sth = bồi thường cho ai vì cái gì. "compensation package" = gói lương thưởng.
+@v
+1. bồi thường, bù đắp | The airline will *compensate* passengers for the delay. | Hãng hàng không sẽ bồi thường cho hành khách vì sự chậm trễ.
+col: compensate sb for sth = bồi thường cho ai; compensate for = bù đắp cho; fully compensated = được bồi thường đầy đủ; compensate for losses = bù lỗ; compensation claim = yêu cầu bồi thường
+prep: compensate sb for sth / compensate for sth
+syn: reimburse, repay, make up for, indemnify
+
+# convert | /kənˈvɜːrt/
+fam: conversion (n) sự chuyển đổi; convertible (adj/n) có thể chuyển đổi; convert (n)
+tip: convert A into/to B = chuyển A thành B. "convert currency" = đổi tiền. "conversion rate" = tỷ lệ chuyển đổi.
+@v
+1. chuyển đổi | The old warehouse was *converted* into offices. | Nhà kho cũ được chuyển thành văn phòng.
+col: convert A into B = chuyển A thành B; convert currency = đổi tiền; convert a file = chuyển đổi tệp; convert to = chuyển sang; be converted = được chuyển đổi
+prep: convert A into/to B
+syn: change, transform, switch, adapt
+
+# designate | /ˈdezɪɡneɪt/
+fam: designation (n) sự chỉ định, chức danh; designated (adj) được chỉ định; designator
+tip: "designated area" = khu vực quy định; "designated driver" = người lái xe không uống rượu. designate A as B = chỉ định A làm B.
+@v
+1. chỉ định | The area has been *designated* a no-parking zone. | Khu vực này đã được chỉ định là vùng cấm đỗ xe.
+col: designated area = khu vực chỉ định; designate A as B = chỉ định A là B; designated driver = người lái xe được chỉ định; be designated for = được dành cho; designated smoking area = khu hút thuốc quy định
+syn: appoint, assign, name, select
+
+# draft | /dræft/
+fam: drafting (n) việc soạn thảo; drafted (adj); redraft (v)
+tip: draft (n) = bản nháp; (v) = soạn thảo. "first draft", "final draft", "draft a letter/proposal/contract".
+@n
+1. bản nháp | I will send you the first *draft* by Friday. | Tôi sẽ gửi bạn bản nháp đầu tiên trước thứ Sáu.
+col: first draft = bản nháp đầu; final draft = bản cuối; draft version = bản dự thảo; rough draft = bản thô; draft contract = hợp đồng dự thảo
+syn: outline, version, sketch
+@v
+1. soạn thảo | The legal team *drafted* the agreement. | Nhóm pháp lý đã soạn thảo thỏa thuận.
+col: draft a proposal = soạn đề xuất; draft a letter = soạn thư; draft a contract = soạn hợp đồng; draft a plan = soạn kế hoạch
+syn: write, compose, outline
+
+# extend | /ɪkˈstend/
+fam: extension (n) sự gia hạn; extended (adj) kéo dài; extensive (adj) rộng lớn; extent (n) mức độ
+tip: extend a deadline/offer/contract/invitation = gia hạn/gửi lời mời. "extension" cũng là số máy lẻ (ext. 305). "extend an invitation".
+@v
+1. gia hạn, kéo dài | The bank agreed to *extend* the deadline. | Ngân hàng đồng ý gia hạn thời hạn.
+2. gửi lời, dành (lời mời) | We would like to *extend* a warm welcome to all visitors. | Chúng tôi xin gửi lời chào đón nồng nhiệt tới mọi khách tham quan.
+col: extend a deadline = gia hạn hạn chót; extend an invitation = gửi lời mời; extend a contract = gia hạn hợp đồng; extend hours = kéo dài giờ; extend thanks = gửi lời cảm ơn
+syn: prolong, lengthen, expand (1); offer, give (2)
+ant: shorten, cut, shrink
+
+# interrupt | /ˌɪntəˈrʌpt/
+fam: interruption (n) sự gián đoạn; interrupted (adj); uninterrupted (adj) không gián đoạn
+tip: "service interruption" = gián đoạn dịch vụ; "sorry to interrupt". "uninterrupted power" = nguồn điện liên tục.
+@v
+1. làm gián đoạn, ngắt lời | Heavy snow *interrupted* train service. | Tuyết rơi dày làm gián đoạn dịch vụ tàu.
+col: interrupt a meeting = làm gián đoạn cuộc họp; interrupt service = gián đoạn dịch vụ; sorry to interrupt = xin lỗi vì ngắt lời; interrupt sb = ngắt lời ai; without interruption = không gián đoạn
+syn: disrupt, break, stop, cut off
+ant: continue
+
+# request | /rɪˈkwest/
+fam: requested (adj) được yêu cầu; requester (n); requisition (n)
+tip: request sb to V / request that S (should) V = yêu cầu; "upon request" = khi có yêu cầu. (n) = lời yêu cầu: "at the request of".
+@v
+1. yêu cầu, đề nghị | Guests may *request* a late check-out. | Khách có thể yêu cầu trả phòng muộn.
+col: request sb to V = đề nghị ai làm; request that + (should) V = yêu cầu rằng; request a refund = yêu cầu hoàn tiền; request information = yêu cầu thông tin; request an appointment = xin hẹn
+syn: ask for, demand, apply for, solicit
+@n
+1. lời yêu cầu | We received a *request* for more information. | Chúng tôi nhận được yêu cầu cung cấp thêm thông tin.
+col: upon request = khi có yêu cầu; at the request of = theo yêu cầu của; on request = khi yêu cầu; make a request = đưa ra yêu cầu; request for sth = yêu cầu về
+syn: appeal, petition, demand
+
+# prolong | /prəˈlɔːŋ/
+fam: prolonged (adj) kéo dài; prolongation (n); long (adj)
+tip: prolong = làm kéo dài (thời gian): prolong a stay/the life of; "prolonged exposure" = tiếp xúc kéo dài.
+@v
+1. kéo dài | Regular maintenance will *prolong* the life of the machine. | Bảo trì định kỳ sẽ kéo dài tuổi thọ của máy.
+col: prolong the life of = kéo dài tuổi thọ; prolong a stay = ở lâu hơn; prolonged absence = vắng mặt kéo dài; prolonged period = khoảng thời gian dài; prolong the process = kéo dài quy trình
+syn: extend, lengthen, stretch, continue
+ant: shorten, cut short

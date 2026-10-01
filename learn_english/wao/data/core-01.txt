@@ -1,0 +1,372 @@
+// Cú pháp: xem build.mjs. *từ* = từ mục tiêu trong câu ví dụ (dùng cho bài điền từ)
+
+# evaluate | /ɪˈvæljueɪt/
+fam: evaluation (n) sự đánh giá; evaluator (n) người đánh giá; evaluative (adj) mang tính đánh giá
+tip: Thường đi với tiêu chí/hiệu suất: evaluate performance. Danh từ "evaluation" hay xuất hiện sau mạo từ/tính từ sở hữu: "the evaluation of...".
+@v
+1. đánh giá, thẩm định | The panel will *evaluate* each proposal carefully. | Hội đồng sẽ đánh giá cẩn thận từng đề xuất.
+col: evaluate performance = đánh giá hiệu suất; evaluate a candidate = đánh giá ứng viên; carefully evaluate = đánh giá kỹ lưỡng
+prep: evaluate sth against/by criteria = đánh giá theo tiêu chí
+syn: assess, appraise, judge, review
+ant: ignore, overlook
+use: Trang trọng; hay gặp trong báo cáo, email nhân sự, đánh giá dự án.
+
+# suppose | /səˈpoʊz/
+fam: supposed (adj) được cho là; supposedly (adv) theo như người ta cho là; supposition (n) giả định
+tip: "be supposed to + V" = được cho là phải/lẽ ra phải làm gì (nghĩa vụ, kế hoạch).
+@v
+1. cho rằng, giả sử | I *suppose* the meeting will be postponed until Friday. | Tôi đoán cuộc họp sẽ bị hoãn đến thứ Sáu.
+2. giả định (đề nghị) | *Suppose* we move the deadline back a week. | Giả sử chúng ta lùi hạn chót một tuần.
+col: be supposed to + V = lẽ ra phải, được kỳ vọng phải; I suppose so = tôi đoán vậy; Suppose (that)... = giả sử rằng...
+syn: assume, presume, guess, imagine
+use: Ngữ cảnh thân mật hơn "assume"; "Suppose..." còn dùng để đưa ra đề nghị.
+
+# consider | /kənˈsɪdər/ | seen: Consider, considered
+fam: consideration (n) sự cân nhắc; considerable (adj) đáng kể; considerate (adj) chu đáo; considering (prep) xét đến
+tip: Sau "consider" dùng V-ing (không dùng to V): consider moving, consider hiring. "considered" (adj) = đã được cân nhắc kỹ: a considered opinion.
+@v
+1. cân nhắc, xem xét | We are *considering* opening a second branch in Da Nang. | Chúng tôi đang cân nhắc mở chi nhánh thứ hai ở Đà Nẵng.
+2. coi là, xem là | The new model is *considered* the best in its class. | Mẫu mới được coi là tốt nhất trong phân khúc.
+col: consider doing sth = cân nhắc làm gì; consider sb for a position = xem xét ai cho một vị trí; be considered (to be) + adj/n = được coi là
+prep: consider sth as sth (ít dùng) / consider sth (to be) sth = coi cái gì là cái gì
+syn: contemplate, weigh, think about, regard
+ant: dismiss, ignore
+@adj
+1. đã được cân nhắc kỹ (considered) | After a *considered* review, the board approved the plan. | Sau một cuộc xem xét kỹ lưỡng, ban giám đốc đã phê duyệt kế hoạch.
+col: a considered opinion = ý kiến đã cân nhắc kỹ; all things considered = xét mọi mặt
+
+# escalate | /ˈeskəleɪt/
+fam: escalation (n) sự leo thang; escalator (n) thang cuốn
+tip: Trong công việc, "escalate an issue to a manager" = chuyển vấn đề lên cấp cao hơn xử lý.
+@v
+1. leo thang, gia tăng nhanh | Tensions began to *escalate* during the negotiations. | Căng thẳng bắt đầu leo thang trong quá trình đàm phán.
+2. chuyển lên cấp trên | If the problem persists, please *escalate* it to the supervisor. | Nếu sự cố vẫn tiếp diễn, vui lòng chuyển lên người giám sát.
+col: escalate an issue = chuyển vấn đề lên cấp trên; escalate quickly = leo thang nhanh; escalating costs = chi phí tăng vọt
+prep: escalate sth to sb = chuyển (vấn đề) lên ai; escalate into sth = leo thang thành
+syn: intensify, increase, heighten, step up
+ant: de-escalate, diminish, ease
+
+# reproduce | /ˌriːprəˈduːs/
+fam: reproduction (n) sự sao chép/sinh sản; reproducible (adj) có thể tái tạo; reproductive (adj) sinh sản
+tip: Phân biệt với "produce" (sản xuất) – "re-" = làm lại. Trong IT: "reproduce a bug" = tái hiện lỗi để kiểm tra.
+@v
+1. sao chép, tái tạo | Please do not *reproduce* this document without permission. | Vui lòng không sao chép tài liệu này khi chưa được phép.
+2. tái hiện (lỗi, kết quả) | The engineer could not *reproduce* the error on his machine. | Kỹ sư không thể tái hiện lỗi trên máy của anh ấy.
+3. sinh sản | These plants *reproduce* by spreading seeds. | Những loài cây này sinh sản bằng cách phát tán hạt.
+col: reproduce a result = tái hiện kết quả; reproduce a bug = tái hiện lỗi; reproduce without permission = sao chép trái phép
+syn: copy, duplicate, replicate, recreate
+use: Hay gặp trong thông báo bản quyền: "No part may be reproduced..."
+
+# regression | /rɪˈɡreʃn/
+fam: regress (v) thoái lui; regressive (adj) thụt lùi
+tip: Trong phần mềm: "regression" = lỗi tái phát sau khi cập nhật ("regression test" = kiểm thử hồi quy).
+@n
+1. sự thụt lùi, suy thoái | The data shows a *regression* in sales after the price increase. | Số liệu cho thấy doanh số thụt lùi sau khi tăng giá.
+2. hồi quy (thống kê); lỗi hồi quy (phần mềm) | The update introduced a *regression* that broke the login page. | Bản cập nhật gây ra lỗi hồi quy làm hỏng trang đăng nhập.
+col: regression test = kiểm thử hồi quy; regression analysis = phân tích hồi quy; a regression in sth = sự đi xuống của cái gì
+syn: decline, relapse, deterioration
+ant: progress, advancement
+
+# measurement | /ˈmeʒərmənt/ | seen: measurements
+fam: measure (v/n) đo lường, biện pháp; measurable (adj) đo được; measured (adj) có tính toán
+tip: Thường dùng số nhiều "measurements" = các số đo/kích thước. Đừng nhầm với "measure" (biện pháp): take measures = thực hiện các biện pháp.
+@n
+1. sự đo lường; số đo | Accurate *measurements* are essential for the custom furniture. | Số đo chính xác rất cần thiết cho đồ nội thất đặt làm.
+col: take measurements = lấy số đo; accurate measurements = số đo chính xác; unit of measurement = đơn vị đo
+prep: measurement of sth = phép đo cái gì
+syn: dimension, gauge, calculation
+
+# proposal | /prəˈpoʊzl/ | seen: proposal, proposals
+fam: propose (v) đề xuất; proposed (adj) được đề xuất; proposer (n) người đề xuất
+tip: "submit a proposal" rất hay gặp. Lưu ý "proposal" (n) ≠ "propose" (v).
+@n
+1. đề xuất, đề án | The committee will review all *proposals* by Friday. | Ủy ban sẽ xem xét tất cả các đề xuất trước thứ Sáu.
+2. lời cầu hôn | He made a marriage *proposal* at the party. | Anh ấy đã cầu hôn tại bữa tiệc.
+col: submit a proposal = nộp đề xuất; accept/reject a proposal = chấp nhận/bác bỏ đề xuất; business proposal = đề xuất kinh doanh; proposal for sth = đề xuất cho cái gì
+prep: proposal for/to V = đề xuất về / để làm gì
+syn: suggestion, plan, bid, offer
+
+# broadcast | /ˈbrɔːdkæst/
+fam: broadcaster (n) đài phát sóng; broadcasting (n) ngành phát thanh truyền hình
+tip: Động từ bất quy tắc: broadcast – broadcast – broadcast (cũng có thể: broadcasted).
+@v
+1. phát sóng, truyền hình | The ceremony will be *broadcast* live on national television. | Buổi lễ sẽ được truyền hình trực tiếp trên đài quốc gia.
+2. thông báo rộng rãi | The CEO *broadcast* the news to all employees. | Giám đốc điều hành thông báo tin tức tới toàn thể nhân viên.
+@n
+1. chương trình phát sóng | The evening *broadcast* reached millions of viewers. | Chương trình phát sóng buổi tối thu hút hàng triệu khán giả.
+col: live broadcast = phát sóng trực tiếp; broadcast rights = bản quyền phát sóng; news broadcast = bản tin
+syn: air, transmit, televise, announce
+
+# boarding | /ˈbɔːrdɪŋ/
+fam: board (v/n) lên (tàu/máy bay), bảng, ban giám đốc; boarder (n) người ở trọ
+tip: TOEIC Part 4 (thông báo sân bay): "Boarding will begin at gate 12", "boarding pass".
+@n
+1. việc lên tàu/máy bay | *Boarding* will begin in ten minutes at Gate 12. | Việc lên máy bay sẽ bắt đầu sau mười phút tại cổng 12.
+col: boarding pass = thẻ lên máy bay; boarding gate = cổng lên máy bay; boarding time = giờ lên máy bay; priority boarding = ưu tiên lên máy bay
+syn: embarkation
+ant: disembarking, landing
+
+# authorize | /ˈɔːθəraɪz/
+fam: authorization (n) sự ủy quyền; authority (n) quyền hạn, cơ quan; authorized (adj) được ủy quyền; unauthorized (adj) trái phép
+tip: Hay gặp: "authorized personnel only" (chỉ nhân viên được phép), "authorize sb to V".
+@v
+1. cho phép, ủy quyền | Only managers can *authorize* purchases over $5,000. | Chỉ quản lý mới được phê duyệt các khoản mua trên 5.000 đô la.
+col: authorize a payment = phê duyệt thanh toán; authorized personnel = nhân viên được ủy quyền; authorize sb to V = ủy quyền cho ai làm gì
+prep: authorize sb to V; authorize sth for sb
+syn: approve, permit, empower, sanction
+ant: prohibit, forbid, ban
+
+# renovation | /ˌrenəˈveɪʃn/ | seen: renovations
+fam: renovate (v) cải tạo, tân trang; renovator (n) người cải tạo
+tip: Thông báo "closed for renovation(s)" – đóng cửa để sửa chữa. Gần nghĩa: refurbishment, remodeling.
+@n
+1. sự cải tạo, tân trang | The hotel will close for *renovations* in January. | Khách sạn sẽ đóng cửa để cải tạo vào tháng Một.
+col: undergo renovations = đang được cải tạo; major renovation = đợt cải tạo lớn; closed for renovation = đóng cửa để sửa chữa; home renovation = cải tạo nhà
+prep: renovation of/to sth = việc cải tạo cái gì
+syn: refurbishment, remodeling, restoration, upgrade
+
+# annual | /ˈænjuəl/
+fam: annually (adv) hằng năm; annuity (n) niên kim; annals (n) biên niên sử
+tip: Phân biệt: annual (hằng năm) – biannual (2 lần/năm) – biennial (2 năm một lần).
+@adj
+1. hằng năm, thường niên | The *annual* conference attracts thousands of visitors. | Hội nghị thường niên thu hút hàng nghìn khách tham dự.
+col: annual report = báo cáo thường niên; annual budget = ngân sách hằng năm; annual meeting = họp thường niên; annual leave = nghỉ phép năm; annual revenue = doanh thu hằng năm
+syn: yearly
+use: Chỉ đứng trước danh từ (attributive).
+
+# budget | /ˈbʌdʒɪt/
+fam: budgetary (adj) thuộc ngân sách; budgeting (n) việc lập ngân sách; budget-friendly (adj) giá phải chăng
+tip: "within budget" (trong ngân sách) – "over budget" (vượt ngân sách) – "on a tight budget" (ngân sách eo hẹp).
+@n
+1. ngân sách, kinh phí | The marketing *budget* was cut by ten percent. | Ngân sách tiếp thị bị cắt giảm mười phần trăm.
+col: annual budget = ngân sách năm; tight budget = ngân sách eo hẹp; stay within budget = không vượt ngân sách; budget cut = cắt giảm ngân sách; budget for sth = ngân sách cho cái gì
+prep: budget for sth = ngân sách dành cho
+syn: funds, allowance, allocation
+@v
+1. lập ngân sách, dự trù | We need to *budget* carefully for the new project. | Chúng ta cần dự trù ngân sách cẩn thận cho dự án mới.
+col: budget for sth = dự trù chi phí cho cái gì
+@adj
+1. giá rẻ, tiết kiệm | She booked a *budget* hotel near the airport. | Cô ấy đặt khách sạn giá rẻ gần sân bay.
+col: budget airline = hãng bay giá rẻ; budget hotel = khách sạn bình dân
+
+# finalize | /ˈfaɪnəlaɪz/ | seen: finalized
+fam: final (adj) cuối cùng; finalization (n) sự hoàn tất; finally (adv) cuối cùng; finalist (n) thí sinh vào chung kết
+tip: "finalize" = chốt, hoàn tất. Hay đi với plan/agreement/contract/details/budget.
+@v
+1. hoàn tất, chốt | The company *finalized* the merger last week. | Công ty đã chốt thương vụ sáp nhập tuần trước.
+col: finalize a contract = chốt hợp đồng; finalize the details = chốt chi tiết; finalize the budget = chốt ngân sách; finalize plans = hoàn tất kế hoạch
+syn: complete, conclude, settle, wrap up
+ant: begin, start
+
+# recently | /ˈriːsntli/
+fam: recent (adj) gần đây; recency (n) tính gần đây
+tip: Dấu hiệu thì: thường đi với quá khứ đơn hoặc hiện tại hoàn thành (has recently opened). Khác "lately" (thường dùng với hiện tại hoàn thành, trong câu phủ định/nghi vấn).
+@adv
+1. gần đây, mới đây | The store *recently* moved to a larger location. | Cửa hàng gần đây đã chuyển đến địa điểm rộng hơn.
+col: has/have recently + V3 = vừa mới...; until recently = cho đến gần đây; as recently as + time = mới chỉ...
+syn: lately, newly, of late
+ant: formerly, long ago
+
+# expand | /ɪkˈspænd/ | seen: expanded
+fam: expansion (n) sự mở rộng; expansive (adj) rộng rãi; expanded (adj) được mở rộng
+tip: "expand into a new market" = mở rộng sang thị trường mới; "expand on sth" = nói chi tiết hơn về điều gì.
+@v
+1. mở rộng, phát triển | The firm plans to *expand* into Asian markets. | Công ty dự định mở rộng sang các thị trường châu Á.
+2. nói rõ thêm | Could you *expand* on your proposal? | Bạn có thể nói rõ hơn về đề xuất của mình không?
+col: expand a business = mở rộng kinh doanh; expand into sth = mở rộng sang; expand the workforce = mở rộng đội ngũ nhân sự
+prep: expand into (thị trường/lĩnh vực); expand on (một ý kiến)
+syn: grow, extend, enlarge, broaden
+ant: shrink, contract, reduce
+
+# international | /ˌɪntərˈnæʃnəl/
+fam: internationally (adv) trên phạm vi quốc tế; nation (n) quốc gia; national (adj) thuộc quốc gia
+tip: Cặp đối lập quen thuộc: domestic (nội địa) ↔ international (quốc tế).
+@adj
+1. quốc tế | The airline added three new *international* routes. | Hãng hàng không đã thêm ba đường bay quốc tế.
+col: international flight = chuyến bay quốc tế; international trade = thương mại quốc tế; international clients = khách hàng quốc tế; international students = sinh viên quốc tế
+syn: global, worldwide, foreign
+ant: domestic, national, local
+
+# lounge | /laʊndʒ/
+fam: lounger (n) ghế dài; lounging (n) sự nằm thư giãn
+tip: "airport lounge" = phòng chờ sân bay; "staff lounge" = phòng nghỉ nhân viên.
+@n
+1. phòng chờ, phòng nghỉ | Passengers may wait in the business *lounge* before boarding. | Hành khách có thể chờ ở phòng chờ hạng thương gia trước khi lên máy bay.
+col: airport lounge = phòng chờ sân bay; staff lounge = phòng nghỉ nhân viên; hotel lounge = sảnh/khu tiếp khách khách sạn
+@v
+1. nằm/ngồi thư giãn | Guests *lounge* by the pool all afternoon. | Khách thư giãn bên hồ bơi cả buổi chiều.
+syn: lobby, waiting room, parlor
+
+# wide | /waɪd/
+fam: widely (adv) rộng rãi; width (n) chiều rộng; widen (v) mở rộng; widespread (adj) lan rộng
+tip: "a wide range/variety/selection of" = nhiều loại. Chú ý: "widely" (adv) = phổ biến, rộng rãi: widely known.
+@adj
+1. rộng | The road is *wide* enough for two trucks. | Con đường đủ rộng cho hai xe tải.
+2. đa dạng, nhiều | The store offers a *wide* variety of products. | Cửa hàng cung cấp nhiều loại sản phẩm.
+col: a wide range of = nhiều loại; a wide variety of = đa dạng; wide selection = nhiều lựa chọn; wide open = mở rộng; wide audience = đông đảo khán giả
+syn: broad, extensive, spacious
+ant: narrow, limited
+@adv
+1. rộng, hết cỡ | Open the door *wide* so the cart can pass. | Hãy mở rộng cửa để xe đẩy đi qua.
+
+# a wide selection of | /ə waɪd sɪˈlekʃn əv/ | seen: enjoy a wide selection of
+fam: select (v) chọn; selection (n) sự lựa chọn; selective (adj) chọn lọc
+tip: Cụm quảng cáo quen thuộc: "enjoy a wide selection of dishes/products" = thưởng thức/lựa chọn nhiều loại. Tương tự: a wide range of, a broad array of, a variety of.
+@phr
+1. nhiều lựa chọn về... | Guests can *enjoy a wide selection of* local dishes. | Thực khách có thể thưởng thức nhiều món ăn địa phương.
+col: a wide selection of products = nhiều loại sản phẩm; a wide selection of wines = nhiều loại rượu vang; enjoy a wide selection of = thưởng thức đa dạng
+syn: a wide range of, a variety of, an extensive array of
+
+# last weekend | /læst ˈwiːkend/
+tip: Trạng ngữ chỉ thời gian quá khứ → dùng thì quá khứ đơn. KHÔNG dùng giới từ trước "last/next/this/every": last weekend (✓), on last weekend (✗).
+@phr
+1. cuối tuần trước | We moved the office furniture *last weekend*. | Chúng tôi đã chuyển đồ đạc văn phòng vào cuối tuần trước.
+col: last weekend / last week / last month = tuần/tháng trước; the weekend before last = cuối tuần trước nữa; at the weekend (UK) / on the weekend (US) = vào cuối tuần
+use: Báo hiệu thì quá khứ đơn (finished time).
+
+# seem | /siːm/ | seen: seem, seemed
+fam: seemingly (adv) có vẻ như; seemly (adj) đúng đắn
+tip: "seem" là linking verb: theo sau là tính từ (seem happy), KHÔNG phải trạng từ. Cấu trúc: seem to + V, it seems that + clause.
+@v
+1. có vẻ, dường như | The new employee *seems* confident during interviews. | Nhân viên mới có vẻ tự tin trong các buổi phỏng vấn.
+col: seem to + V = dường như; it seems that... = có vẻ là...; seem like + n = trông giống như; seem + adj = có vẻ...
+syn: appear, look, sound
+use: Không dùng ở dạng tiếp diễn (✗ is seeming).
+
+# attendee | /ˌætenˈdiː/ | seen: Attendees
+fam: attend (v) tham dự; attendance (n) sự tham dự; attendant (n) người phục vụ
+tip: Đuôi -ee chỉ người nhận hành động (attendee, employee, trainee, interviewee); đuôi -er/-or chỉ người thực hiện.
+@n
+1. người tham dự | All *attendees* must register at the front desk. | Tất cả người tham dự phải đăng ký tại quầy lễ tân.
+col: conference attendees = người dự hội nghị; registered attendees = người đã đăng ký; number of attendees = số người tham dự
+syn: participant, delegate, guest
+ant: absentee
+
+# voucher | /ˈvaʊtʃər/ | seen: lunch voucher
+fam: —
+tip: "lunch voucher" = phiếu ăn trưa, một phúc lợi nhân viên phổ biến. Khác "coupon" (phiếu giảm giá) và "receipt" (biên lai).
+@n
+1. phiếu, chứng từ (quy đổi) | Each participant will receive a *voucher* for a free lunch. | Mỗi người tham gia sẽ nhận một phiếu ăn trưa miễn phí.
+col: lunch voucher = phiếu ăn trưa; gift voucher = phiếu quà tặng; travel voucher = phiếu du lịch; redeem a voucher = đổi phiếu; voucher for sth = phiếu cho cái gì
+syn: coupon, token, pass
+use: Dùng để đổi hàng hóa/dịch vụ, không cần trả thêm tiền.
+
+# whether | /ˈweðər/
+fam: —
+tip: "whether" + to V / clause = liệu rằng; "whether or not"; dùng sau giới từ (decide on whether...) – không dùng "if" sau giới từ.
+@conj
+1. liệu (có hay không) | We haven't decided *whether* we should hire more staff. | Chúng tôi chưa quyết định có nên thuê thêm nhân viên hay không.
+2. dù... hay | *Whether* you travel by bus or by train, the fare is the same. | Dù bạn đi xe buýt hay tàu, giá vé đều như nhau.
+col: whether or not = dù có hay không; whether to V = có nên làm gì; whether... or... = dù... hay...
+prep: of/on/about whether... (giới từ + whether)
+syn: if (trong nghĩa "liệu")
+use: Sau giới từ chỉ dùng "whether", không dùng "if".
+
+# productive | /prəˈdʌktɪv/
+fam: produce (v) sản xuất; product (n) sản phẩm; production (n) sự sản xuất; productivity (n) năng suất; productively (adv)
+tip: productive (hiệu quả, năng suất) ≠ producing; "productivity" (n) hay là đáp án điền danh từ: increase productivity.
+@adj
+1. năng suất, hiệu quả | It was a *productive* meeting, and we reached an agreement. | Đó là một cuộc họp hiệu quả, và chúng tôi đã đạt được thỏa thuận.
+col: a productive day/meeting = ngày/cuộc họp hiệu quả; highly productive = năng suất cao; be productive in sth = làm việc hiệu quả trong
+syn: efficient, fruitful, effective
+ant: unproductive, wasteful
+
+# produce | /prəˈduːs/ (v), /ˈproduːs/ (n)
+fam: producer (n) nhà sản xuất; product (n) sản phẩm; production (n) sản xuất; productive (adj) năng suất
+tip: Trọng âm khác nhau: pro-DUCE (v) / PRO-duce (n, nông sản). Hay gặp trong cửa hàng: "fresh produce".
+@v
+1. sản xuất, tạo ra | The factory *produces* 500 cars a day. | Nhà máy sản xuất 500 chiếc xe mỗi ngày.
+2. xuất trình | Please *produce* your ID at the door. | Vui lòng xuất trình giấy tờ tùy thân ở cửa.
+col: produce results = tạo ra kết quả; produce evidence = đưa ra bằng chứng; mass-produce = sản xuất hàng loạt
+syn: manufacture, make, generate, create
+@n
+1. nông sản | The market sells fresh *produce* every morning. | Chợ bán nông sản tươi mỗi buổi sáng.
+col: fresh produce = nông sản tươi; produce section = khu rau củ quả
+
+# cooperate | /koʊˈɑːpəreɪt/
+fam: cooperation (n) sự hợp tác; cooperative (adj/n) hợp tác / hợp tác xã; cooperatively (adv); uncooperative (adj) không hợp tác
+tip: "cooperate with sb on/in sth" (không dùng "to"). So sánh: collaborate = cùng làm chung một việc/sản phẩm (sáng tạo), cooperate = phối hợp, hỗ trợ, tuân theo.
+@v
+1. hợp tác, phối hợp | All departments must *cooperate* to meet the deadline. | Tất cả phòng ban phải phối hợp để kịp hạn chót.
+col: cooperate fully = hợp tác đầy đủ; cooperate with the investigation = hợp tác điều tra; cooperate on a project = hợp tác trong dự án
+prep: cooperate with sb (on/in sth) = hợp tác với ai (về việc gì)
+syn: work together, collaborate, assist
+ant: compete, oppose
+
+# collaborate | /kəˈlæbəreɪt/
+fam: collaboration (n) sự cộng tác; collaborative (adj) mang tính cộng tác; collaborator (n) cộng tác viên
+tip: "collaborate with sb on sth" – nhấn mạnh cùng sáng tạo/thực hiện một sản phẩm, dự án.
+@v
+1. cộng tác, hợp tác | Our team *collaborated* with designers on the new brochure. | Nhóm chúng tôi đã cộng tác với các nhà thiết kế về tờ rơi mới.
+col: collaborate closely = hợp tác chặt chẽ; collaborate on a project = cộng tác trong dự án; collaborate with sb = cộng tác với ai
+prep: collaborate with sb on/in sth = cộng tác với ai về việc gì
+syn: cooperate, team up, work together
+ant: compete
+
+# recreational | /ˌrekriˈeɪʃənl/
+fam: recreation (n) sự giải trí; recreate (v) tái tạo; recreationally (adv)
+tip: Gốc: recreation (n) giải trí, thư giãn. "recreational facilities" = cơ sở giải trí (hồ bơi, phòng gym).
+@adj
+1. thuộc giải trí, thư giãn | The hotel provides *recreational* facilities such as a pool and tennis courts. | Khách sạn có các tiện ích giải trí như hồ bơi và sân tennis.
+col: recreational activities = hoạt động giải trí; recreational facilities = cơ sở vui chơi giải trí; recreational area = khu giải trí; recreational vehicle (RV) = xe du lịch
+syn: leisure, entertaining
+use: Đứng trước danh từ.
+
+# reluctant | /rɪˈlʌktənt/
+fam: reluctance (n) sự miễn cưỡng; reluctantly (adv) một cách miễn cưỡng
+tip: "be reluctant to + V" = ngại/miễn cưỡng làm gì (chú ý: to V).
+@adj
+1. miễn cưỡng, do dự | Many customers are *reluctant* to pay online. | Nhiều khách hàng ngần ngại thanh toán trực tuyến.
+col: be reluctant to V = miễn cưỡng làm gì; reluctant to admit = ngại thừa nhận; a reluctant participant = người tham gia miễn cưỡng
+syn: unwilling, hesitant, disinclined
+ant: willing, eager, keen
+
+# eventual | /ɪˈventʃuəl/
+fam: eventually (adv) cuối cùng thì; eventuality (n) tình huống có thể xảy ra
+tip: BẪY: "eventual" KHÔNG có nghĩa "có thể xảy ra" (≠ possible) mà là "cuối cùng, sau cùng". Tiếng Anh: eventual = ultimate.
+@adj
+1. cuối cùng, sau rốt | Our *eventual* goal is to open stores in ten countries. | Mục tiêu cuối cùng của chúng tôi là mở cửa hàng ở mười quốc gia.
+col: eventual outcome = kết quả cuối cùng; eventual winner = người thắng cuối cùng; eventual success = thành công sau cùng
+syn: final, ultimate, resulting
+ant: initial, immediate
+
+# hopeful | /ˈhoʊpfl/
+fam: hope (v/n) hy vọng; hopefully (adv) hy vọng là; hopeless (adj) vô vọng
+tip: "be hopeful that/about/of" = lạc quan về; "hopeful" cũng là danh từ chỉ người đầy triển vọng (job hopeful = ứng viên).
+@adj
+1. đầy hy vọng, lạc quan | We are *hopeful* that the deal will be signed soon. | Chúng tôi lạc quan rằng thỏa thuận sẽ sớm được ký.
+col: be hopeful that... = hy vọng rằng; hopeful about sth = lạc quan về; remain hopeful = vẫn lạc quan
+prep: hopeful of/about sth; hopeful that + clause
+syn: optimistic, confident, positive
+ant: hopeless, pessimistic
+
+# pleasure | /ˈpleʒər/
+fam: please (v) làm hài lòng; pleased (adj) hài lòng; pleasant (adj) dễ chịu; pleasing (adj) làm vui lòng
+tip: Mẫu thư: "It is a pleasure to + V" / "We take pleasure in announcing..." / "My pleasure!" (không có gì).
+@n
+1. niềm vui, sự hân hạnh | It was a *pleasure* to work with your team. | Thật vui khi được làm việc với đội của bạn.
+col: with pleasure = rất sẵn lòng; take pleasure in = lấy làm vui; business or pleasure = công việc hay giải trí; it's a pleasure to V = rất vui được...
+prep: pleasure in sth; the pleasure of doing sth
+syn: delight, joy, enjoyment
+ant: displeasure, pain
+
+# pleased | /pliːzd/
+fam: please (v/adv) làm vui lòng / xin vui lòng; pleasure (n) niềm vui; pleasing (adj) làm vừa lòng
+tip: Phân biệt: pleased (người cảm thấy vui) vs pleasing (vật/việc làm người khác vui). "be pleased to + V / with sth".
+@adj
+1. hài lòng, vui | We are *pleased* to announce the opening of a new branch. | Chúng tôi hân hạnh thông báo khai trương chi nhánh mới.
+col: be pleased to V = vui mừng được...; be pleased with sth = hài lòng với; pleased to meet you = rất vui được gặp
+prep: pleased with/about sth; pleased to V
+syn: glad, delighted, satisfied, happy
+ant: displeased, dissatisfied
+
+# please | /pliːz/
+fam: pleased (adj) hài lòng; pleasing (adj); pleasure (n)
+tip: "please" đầu câu lịch sự: Please + V. Là động từ: "to please customers" = làm hài lòng khách.
+@adv
+1. xin vui lòng | *Please* submit the form by Friday. | Vui lòng nộp mẫu đơn trước thứ Sáu.
+col: please note that... = xin lưu ý rằng; please feel free to V = xin cứ tự nhiên; please refer to = xin tham khảo
+@v
+1. làm hài lòng | The new menu is designed to *please* every customer. | Thực đơn mới được thiết kế để làm hài lòng mọi khách hàng.
+col: if you please = nếu bạn vui lòng; please yourself = tùy bạn
+syn: satisfy, delight, gratify

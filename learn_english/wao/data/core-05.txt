@@ -1,0 +1,438 @@
+# appointment | /əˈpɔɪntmənt/
+fam: appoint (v) bổ nhiệm, hẹn; appointed (adj) được bổ nhiệm; appointee (n) người được bổ nhiệm; reappoint (v)
+tip: "make/schedule an appointment with sb" = hẹn gặp (bác sĩ, khách hàng). "by appointment only" = chỉ nhận khi có hẹn. Cũng = sự bổ nhiệm.
+@n
+1. cuộc hẹn | I have a dental *appointment* at 3 p.m. | Tôi có cuộc hẹn nha khoa lúc 3 giờ chiều.
+2. sự bổ nhiệm | The *appointment* of a new director was announced. | Việc bổ nhiệm giám đốc mới đã được công bố.
+col: make an appointment = đặt lịch hẹn; by appointment only = chỉ khi có hẹn; cancel/reschedule an appointment = hủy/dời lịch hẹn; appointment with sb = cuộc hẹn với ai; appointment as + chức vụ = bổ nhiệm làm
+prep: appointment with sb / appointment as sth / appointment to a post
+syn: meeting, engagement, booking (1); nomination, assignment (2)
+
+# celebration | /ˌselɪˈbreɪʃn/
+fam: celebrate (v) ăn mừng; celebrated (adj) nổi tiếng; celebrity (n) người nổi tiếng; celebratory (adj)
+tip: "in celebration of" = nhân dịp kỷ niệm: "In celebration of our 10th anniversary, ...". "celebrate" cần tân ngữ (celebrate sth).
+@n
+1. lễ kỷ niệm, sự ăn mừng | The company held a *celebration* for its 20th anniversary. | Công ty tổ chức lễ kỷ niệm 20 năm thành lập.
+col: in celebration of = nhân dịp, để kỷ niệm; anniversary celebration = lễ kỷ niệm; holiday celebration = lễ hội kỳ nghỉ; celebration of sth = lễ mừng
+syn: festivity, party, commemoration, ceremony
+
+# popular | /ˈpɑːpjələr/
+fam: popularity (n) sự phổ biến; popularize (v) phổ biến hóa; popularly (adv); unpopular (adj)
+tip: "popular with sb" = được ai ưa chuộng; "popular among/for" ...
+@adj
+1. phổ biến, được ưa chuộng | The new menu is *popular* with local customers. | Thực đơn mới được khách địa phương ưa chuộng.
+col: popular with sb = được ai yêu thích; popular destination = điểm đến nổi tiếng; increasingly popular = ngày càng phổ biến; popular choice = lựa chọn phổ biến; popular among = phổ biến trong
+prep: popular with/among sb; popular for sth
+syn: well-liked, favorite, fashionable, in demand
+ant: unpopular, obscure
+
+# contactless | /ˈkɑːntæktləs/ | seen: Contactless
+fam: contact (n/v) liên hệ; contactable (adj) có thể liên lạc
+tip: Hậu tố -less = không có; "contactless payment" = thanh toán không chạm (thẻ/điện thoại).
+@adj
+1. không tiếp xúc, không chạm | The store accepts *contactless* payments. | Cửa hàng chấp nhận thanh toán không chạm.
+col: contactless payment = thanh toán không chạm; contactless card = thẻ không chạm; contactless delivery = giao hàng không tiếp xúc; contactless check-in = nhận phòng không tiếp xúc
+syn: touchless, cashless (nghĩa gần)
+
+# remarkably | /rɪˈmɑːrkəbli/
+fam: remark (n/v) nhận xét; remarkable (adj) đáng chú ý; unremarkable (adj)
+tip: Trạng từ chỉ mức độ: remarkably + adj/adv = đáng kinh ngạc. Đuôi -ably từ -able.
+@adv
+1. đáng kể, một cách đáng chú ý | The new phone is *remarkably* light. | Chiếc điện thoại mới nhẹ đến mức đáng ngạc nhiên.
+col: remarkably well = rất tốt; remarkably similar = giống đến lạ; remarkably quick = nhanh khác thường; remarkably successful = thành công đáng kể
+syn: strikingly, notably, exceptionally, extraordinarily
+ant: slightly, unremarkably
+
+# commuter | /kəˈmjuːtər/ | seen: commuters
+fam: commute (v/n) đi làm hằng ngày, quãng đường đi làm; commuting (n); commutation (n)
+tip: "commute to work" = đi làm bằng phương tiện hằng ngày; "commuter train" = tàu đi làm.
+@n
+1. người đi làm hằng ngày (đường xa) | The new line will help *commuters* reach the city center faster. | Tuyến mới sẽ giúp người đi làm vào trung tâm nhanh hơn.
+col: commuter train = tàu đi làm; daily commuters = người đi làm hằng ngày; rush-hour commuters = người đi làm giờ cao điểm; commuter pass = vé tháng
+syn: traveler, passenger, rider
+
+# encourage | /ɪnˈkɜːrɪdʒ/
+fam: encouragement (n) sự khuyến khích; encouraging (adj) đáng khích lệ; discourage (v) làm nản lòng
+tip: "encourage sb to V" (không dùng V-ing sau tân ngữ). Bị động: be encouraged to V = được khuyến khích làm gì.
+@v
+1. khuyến khích | Managers *encourage* employees to share their ideas. | Quản lý khuyến khích nhân viên chia sẻ ý tưởng.
+col: encourage sb to V = khuyến khích ai làm gì; be encouraged to V = được khuyến khích; strongly encourage = khuyến khích mạnh mẽ; encourage growth = thúc đẩy tăng trưởng
+prep: encourage sb to V; encourage sb in sth
+syn: urge, promote, motivate, foster
+ant: discourage, deter
+
+# charge | /tʃɑːrdʒ/ | seen: charged
+fam: charger (n) bộ sạc; overcharge (v) tính giá cao; recharge (v) sạc lại
+tip: "in charge of" = chịu trách nhiệm; "free of charge" = miễn phí; "charge sb for sth" = thu phí ai về cái gì; "charge a battery" = sạc pin.
+@v
+1. tính phí | The hotel *charges* $20 for parking. | Khách sạn thu phí đậu xe 20 đô la.
+2. sạc (pin) | The phone is fully *charged*. | Điện thoại đã sạc đầy.
+col: charge sb for sth = tính phí ai cho cái gì; charge a fee = thu phí; charge to an account = ghi vào tài khoản; fully charged = sạc đầy
+syn: bill, invoice (1); power up (2)
+@n
+1. phí, khoản thu | There is no extra *charge* for delivery. | Không tính phụ phí giao hàng.
+2. sự phụ trách | The manager is in *charge* of the sales team. | Quản lý phụ trách đội bán hàng.
+col: free of charge = miễn phí; in charge of = chịu trách nhiệm về; extra charge = phụ phí; service charge = phí dịch vụ; at no extra charge = không tính thêm
+prep: charge for sth; in charge of sth
+syn: fee, cost, fare (1); responsibility, care (2)
+
+# receipt | /rɪˈsiːt/
+fam: receive (v) nhận; recipient (n) người nhận; reception (n) lễ tân
+tip: BẪY: "receipt" (n, biên lai) – chữ p câm /rɪˈsiːt/. "upon receipt of" = ngay khi nhận được. "receipts" có thể là doanh thu.
+@n
+1. biên lai, hóa đơn | Please keep your *receipt* as proof of purchase. | Vui lòng giữ biên lai làm bằng chứng mua hàng.
+2. việc nhận (hàng, thư) | The refund will be issued upon *receipt* of the item. | Tiền hoàn sẽ được cấp khi nhận được món hàng.
+col: proof of purchase receipt = biên lai chứng minh mua hàng; upon receipt of = khi nhận được; issue a receipt = xuất biên lai; keep the receipt = giữ biên lai; acknowledge receipt of = xác nhận đã nhận
+prep: receipt for/of sth
+syn: sales slip, proof of purchase (1); arrival, reception (2)
+
+# location | /loʊˈkeɪʃn/
+fam: locate (v) đặt vị trí, xác định; located (adj) nằm ở; locator (n); relocate (v) di dời
+tip: "be located in/on/at" = nằm ở. "relocate" = chuyển địa điểm. "location" cũng = chi nhánh (our new location).
+@n
+1. vị trí, địa điểm | The hotel is in a convenient *location* near the station. | Khách sạn có vị trí thuận tiện gần nhà ga.
+2. chi nhánh | The company has three *locations* in the city. | Công ty có ba chi nhánh trong thành phố.
+col: convenient location = vị trí thuận lợi; prime location = vị trí đắc địa; on location = tại hiện trường; new location = địa điểm mới; location of sth = vị trí của
+syn: site, position, place, venue
+
+# payment | /ˈpeɪmənt/
+fam: pay (v/n) trả, tiền lương; payer (n) người trả; payable (adj) phải trả; prepayment (n); overpayment (n)
+tip: "make a payment", "payment due", "payment method" (phương thức thanh toán), "advance payment". "payment" + for/of.
+@n
+1. sự thanh toán, khoản tiền | Late *payment* may result in extra fees. | Thanh toán trễ có thể bị tính thêm phí.
+col: make a payment = thanh toán; payment method = phương thức thanh toán; down payment = trả trước; monthly payment = khoản trả hằng tháng; payment due = hạn thanh toán; late payment = thanh toán trễ
+prep: payment for sth / payment of sth
+syn: settlement, remittance, installment
+
+# reminder | /rɪˈmaɪndər/
+fam: remind (v) nhắc nhở; reminiscent (adj) gợi nhớ
+tip: "send a reminder" = gửi lời nhắc. "remind sb to V / remind sb of/about sth". "friendly reminder" thường ở đầu email.
+@n
+1. lời nhắc | This is a friendly *reminder* about tomorrow's meeting. | Đây là lời nhắc thân thiện về cuộc họp ngày mai.
+col: friendly reminder = lời nhắc thân thiện; send a reminder = gửi lời nhắc; a reminder that... = lời nhắc rằng...; gentle reminder = nhắc nhẹ nhàng; reminder email = email nhắc nhở
+prep: reminder of/about sth; reminder to V
+syn: prompt, notice, memo, cue
+
+# repaint | /ˌriːˈpeɪnt/ | seen: repainted
+fam: paint (v/n) sơn; painter (n) thợ sơn; painting (n) bức tranh
+tip: Tiền tố re- = làm lại: repaint, rebuild, redesign, renew, rewrite. Trong bài đọc: "The lobby was repainted" = đã sơn lại.
+@v
+1. sơn lại | The exterior walls were *repainted* last spring. | Các bức tường ngoài đã được sơn lại vào mùa xuân năm ngoái.
+col: be repainted = được sơn lại; repaint the walls = sơn lại tường; freshly repainted = mới được sơn lại; repaint the office = sơn lại văn phòng
+syn: redecorate, refresh
+
+# appreciate | /əˈpriːʃieɪt/ | seen: appreciated
+fam: appreciation (n) sự cảm kích; appreciative (adj) biết ơn; appreciable (adj) đáng kể; appreciated (adj)
+tip: "I would appreciate it if you could/would..." (không dùng "if" + tương lai). "appreciate + N/V-ing". Còn nghĩa: tăng giá trị (appreciate in value).
+@v
+1. cảm kích, trân trọng | We *appreciate* your patience during the construction. | Chúng tôi cảm kích sự kiên nhẫn của quý vị trong thời gian xây dựng.
+2. tăng giá trị | Property values often *appreciate* over time. | Giá trị bất động sản thường tăng theo thời gian.
+col: I would appreciate it if... = tôi sẽ rất biết ơn nếu...; much appreciated = rất cảm kích; appreciate your help = cảm kích sự giúp đỡ; appreciate + V-ing = trân trọng việc...
+syn: value, welcome, be grateful for (1); gain value (2)
+ant: depreciate, undervalue
+
+# sincerely | /sɪnˈsɪrli/ | seen: sincerely
+fam: sincere (adj) chân thành; sincerity (n) sự chân thành; insincere (adj)
+tip: Kết thư: "Sincerely," / "Sincerely yours,"; "Yours sincerely" (Anh khi biết tên người nhận); "Yours faithfully" (khi không biết tên).
+@adv
+1. một cách chân thành | We *sincerely* apologize for the inconvenience. | Chúng tôi chân thành xin lỗi vì sự bất tiện.
+col: sincerely apologize = chân thành xin lỗi; Sincerely yours = kính thư (kết thư); sincerely hope = thành thật mong; sincerely thank = chân thành cảm ơn
+syn: genuinely, truly, honestly, earnestly
+ant: insincerely, falsely
+
+# patience | /ˈpeɪʃns/
+fam: patient (adj/n) kiên nhẫn / bệnh nhân; patiently (adv); impatient (adj)
+tip: "Thank you for your patience" – câu thông báo rất hay gặp. "patience with sb". Đừng nhầm với "patients" (bệnh nhân, số nhiều).
+@n
+1. sự kiên nhẫn | Thank you for your *patience* while we update our system. | Cảm ơn sự kiên nhẫn của quý khách trong lúc chúng tôi cập nhật hệ thống.
+col: thank you for your patience = cảm ơn sự kiên nhẫn; lose patience = mất kiên nhẫn; run out of patience = hết kiên nhẫn; have the patience to V = đủ kiên nhẫn
+prep: patience with sb/sth
+syn: tolerance, endurance, perseverance
+ant: impatience
+
+# major | /ˈmeɪdʒər/
+fam: majority (n) đa số; majorly (adv); minor (adj) nhỏ
+tip: major (adj) = chính/trọng đại ↔ minor. "major in sth" (v) = học chuyên ngành; "a major" (n) = chuyên ngành, thiếu tá.
+@adj
+1. chính, quan trọng, lớn | The company is a *major* supplier of auto parts. | Công ty là nhà cung cấp lớn linh kiện ô tô.
+col: major city = thành phố lớn; major issue = vấn đề lớn; major role = vai trò chính; major repairs = sửa chữa lớn; a major shift = thay đổi lớn
+syn: main, principal, key, significant
+ant: minor, trivial
+@v
+1. học chuyên ngành | She *majored* in finance at university. | Cô ấy học chuyên ngành tài chính ở đại học.
+prep: major in sth
+
+# garage | /ɡəˈrɑːʒ/
+fam: parking garage (n) bãi đậu xe nhiều tầng; carport (n) mái đỗ xe
+tip: garage = nhà để xe/ gara sửa xe. "parking garage" = nhà đỗ xe nhiều tầng trong thành phố.
+@n
+1. nhà để xe, gara | Employees may park in the underground *garage*. | Nhân viên có thể đỗ xe ở nhà xe ngầm.
+col: parking garage = bãi đỗ xe nhiều tầng; underground garage = gara ngầm; garage sale = bán đồ cũ tại nhà; auto repair garage = gara sửa xe
+syn: car park, parking lot, repair shop
+
+# entrance | /ˈentrəns/
+fam: enter (v) vào; entry (n) lối vào, sự tham gia; entrant (n) thí sinh tham gia; entrance fee (n)
+tip: entrance (n, trọng âm đầu) = lối vào/sự vào; "entrance" (v, /ɪnˈtræns/) = làm mê hoặc – ít gặp. "main entrance", "entrance fee".
+@n
+1. lối vào, cửa vào | Visitors should use the main *entrance*. | Khách tham quan nên dùng cửa chính.
+2. sự đi vào | Her *entrance* to the room silenced everyone. | Việc cô bước vào phòng làm mọi người im lặng.
+col: main entrance = cửa chính; entrance fee = phí vào cửa; entrance exam = kỳ thi đầu vào; at/near the entrance = ở/gần lối vào; entrance hall = sảnh vào
+prep: entrance to sth
+syn: entry, doorway, access, gateway
+ant: exit
+
+# permit | /ˈpɜːrmɪt/ (n), /pərˈmɪt/ (v) | seen: permits
+fam: permission (n) sự cho phép; permissible (adj) cho phép; permitted (adj)
+tip: Trọng âm: PER-mit (n, giấy phép), per-MIT (v, cho phép). "building permit" = giấy phép xây dựng; "work permit" = giấy phép lao động.
+@n
+1. giấy phép | Workers must obtain a *permit* before starting construction. | Công nhân phải xin giấy phép trước khi khởi công.
+col: building permit = giấy phép xây dựng; work permit = giấy phép lao động; parking permit = thẻ đỗ xe; apply for a permit = xin cấp phép; permit holder = người có giấy phép
+syn: license, authorization, pass
+@v
+1. cho phép | Smoking is not *permitted* in the building. | Hút thuốc không được phép trong tòa nhà.
+col: weather permitting = nếu thời tiết cho phép; permit sb to V = cho phép ai làm gì; be permitted to V = được phép làm gì
+syn: allow, authorize, let
+ant: forbid, prohibit
+
+# purchase | /ˈpɜːrtʃəs/ | seen: purchased
+fam: purchaser (n) người mua; repurchase (v/n) mua lại; purchasing (n) việc mua sắm
+tip: purchase = mua (trang trọng hơn buy). "proof of purchase", "purchase order" (PO), "make a purchase". "purchasing department".
+@v
+1. mua | Customers who *purchase* two items get a discount. | Khách hàng mua hai món sẽ được giảm giá.
+col: purchase a product = mua sản phẩm; purchase online = mua trực tuyến; purchase sth from sb = mua cái gì từ ai; be purchased by = bị/được mua bởi
+syn: buy, acquire, obtain
+ant: sell
+@n
+1. việc mua, món hàng đã mua | Keep your receipt as proof of *purchase*. | Giữ biên lai làm bằng chứng mua hàng.
+col: proof of purchase = bằng chứng mua hàng; purchase order = đơn đặt hàng; make a purchase = mua hàng; purchase price = giá mua; recent purchase = hàng vừa mua
+syn: acquisition, buy, order
+
+# directly | /dəˈrektli/ | seen: directly
+fam: direct (adj/v) trực tiếp, hướng dẫn; direction (n) hướng; director (n) giám đốc; indirect (adj)
+tip: directly (adv) = trực tiếp, ngay lập tức. "contact us directly", "directly after/before". Cũng đi "directly to" (thẳng tới).
+@adv
+1. trực tiếp | Please contact the manager *directly*. | Vui lòng liên hệ trực tiếp với quản lý.
+2. ngay (trước/sau) | The pharmacy is located *directly* opposite the bank. | Hiệu thuốc nằm ngay đối diện ngân hàng.
+col: directly to = thẳng đến; directly after/before = ngay sau/trước; directly opposite = ngay đối diện; deal directly with = làm việc trực tiếp với; report directly to = báo cáo trực tiếp cho
+syn: straight, personally (1); immediately, right (2)
+ant: indirectly, via, through
+
+# prefer | /prɪˈfɜːr/
+fam: preference (n) sự ưu tiên; preferable (adj) đáng thích hơn; preferred (adj) được ưa chuộng; preferably (adv)
+tip: "prefer A to B" (thích A hơn B, dùng "to" không "than"); "prefer to V (rather than V)"; "would prefer to V".
+@v
+1. thích hơn | Most customers *prefer* paying by card. | Hầu hết khách hàng thích thanh toán bằng thẻ hơn.
+col: prefer A to B = thích A hơn B; prefer to V = thích làm gì hơn; would prefer = muốn hơn; preferred method = phương pháp được ưa chuộng
+prep: prefer A to B
+syn: favor, choose, opt for, like better
+
+# convenient | /kənˈviːniənt/
+fam: convenience (n) sự tiện lợi; conveniently (adv) tiện lợi; inconvenient (adj) bất tiện; inconvenience (n)
+tip: "at your convenience" = khi tiện cho bạn (thư công việc); "convenient for sb" / "convenient to V". Không dùng chủ ngữ là người: ✗ I am convenient.
+@adj
+1. thuận tiện | The hotel is in a *convenient* location. | Khách sạn có vị trí thuận tiện.
+col: convenient location = vị trí thuận tiện; convenient time = thời gian thuận tiện; at your convenience = khi bạn thấy tiện; convenient for sb = tiện cho ai; convenient to V = tiện để làm gì
+prep: convenient for/to sb
+syn: handy, accessible, practical, user-friendly
+ant: inconvenient, awkward
+
+# transparent | /trænsˈperənt/
+fam: transparency (n) sự minh bạch; transparently (adv)
+tip: Nghĩa đen: trong suốt; nghĩa bóng: minh bạch (transparent pricing/process). Tăng dần trong TOEIC khi nói về chính sách công ty.
+@adj
+1. minh bạch | We aim to keep our pricing *transparent*. | Chúng tôi hướng đến giá cả minh bạch.
+2. trong suốt | The container is made of *transparent* plastic. | Hộp được làm bằng nhựa trong suốt.
+col: transparent process = quy trình minh bạch; transparent pricing = giá cả minh bạch; transparent policy = chính sách minh bạch; transparent material = vật liệu trong suốt
+syn: open, clear, honest (1); clear, see-through (2)
+ant: opaque, secretive
+
+# explicit | /ɪkˈsplɪsɪt/
+fam: explicitly (adv) một cách rõ ràng; implicit (adj) ngầm hiểu
+tip: explicit (rõ ràng, nói thẳng ra) ↔ implicit (ngầm). "explicit instructions" = hướng dẫn rõ ràng. Còn: "explicit content" = nội dung nhạy cảm.
+@adj
+1. rõ ràng, minh bạch | The contract contains *explicit* instructions on payment. | Hợp đồng nêu rõ ràng hướng dẫn về thanh toán.
+col: explicit instructions = hướng dẫn rõ ràng; explicit permission = sự cho phép rõ ràng; explicit terms = điều khoản rõ ràng; explicit about sth = nói rõ về
+syn: clear, specific, precise, definite
+ant: implicit, vague, ambiguous
+
+# evident | /ˈevɪdənt/
+fam: evidence (n) bằng chứng; evidently (adv) rõ ràng là; self-evident (adj)
+tip: "It is evident that..." = rõ ràng là; "evident in/from sth". Khác "evidence" (danh từ không đếm được).
+@adj
+1. hiển nhiên, rõ ràng | It was *evident* that the team had worked hard. | Rõ ràng là cả nhóm đã làm việc rất chăm chỉ.
+col: it is evident that = rõ ràng là; clearly evident = rõ ràng; evident from/in sth = thể hiện rõ qua
+syn: obvious, apparent, clear, plain
+ant: hidden, obscure, unclear
+
+# exposed | /ɪkˈspoʊzd/
+fam: expose (v) phơi bày; exposure (n) sự tiếp xúc/phơi nhiễm; unexposed (adj)
+tip: "exposed to sth" = tiếp xúc/ phơi bày với. "exposed brick/beams" (trong thiết kế nội thất) = gạch/xà để lộ ra.
+@adj
+1. để lộ ra, không được che chắn | The building has *exposed* brick walls. | Tòa nhà có tường gạch để trần.
+2. bị phơi ra, dễ tổn thương | The workers were *exposed* to dangerous chemicals. | Công nhân bị phơi nhiễm hóa chất nguy hiểm.
+col: exposed to sth = tiếp xúc với; exposed brick = gạch để trần; exposed wires = dây trần; be exposed to risk = đứng trước rủi ro
+prep: exposed to sth
+syn: bare, uncovered, open (1); vulnerable (2)
+ant: covered, protected, hidden
+
+# bulk | /bʌlk/
+fam: bulky (adj) cồng kềnh
+tip: "in bulk" = với số lượng lớn; "bulk order/purchase/discount" = đặt hàng số lượng lớn. "the bulk of" = phần lớn.
+@n
+1. số lượng lớn; phần lớn | We buy office supplies in *bulk* to save money. | Chúng tôi mua văn phòng phẩm với số lượng lớn để tiết kiệm.
+col: in bulk = số lượng lớn; bulk order = đơn hàng lớn; bulk discount = giảm giá khi mua nhiều; the bulk of = phần lớn; bulk buying = mua sỉ
+syn: majority, mass, volume
+ant: minority
+@adj
+1. số lượng lớn | The store offers *bulk* pricing. | Cửa hàng có giá bán sỉ.
+
+# roast | /roʊst/ | seen: roasting
+fam: roaster (n) lò rang/nướng; roasted (adj) nướng/rang; roasting (n/adj)
+tip: Trong ẩm thực/cà phê: "freshly roasted coffee", "roast beef", "roasted nuts". "roasting" = đang nướng (cũng = nóng như thiêu).
+@v
+1. nướng, rang | The café *roasts* its own coffee beans. | Quán cà phê tự rang hạt cà phê của mình.
+col: roast coffee beans = rang hạt cà phê; roast chicken = gà nướng; roast in the oven = nướng trong lò; slow-roasted = nướng chậm
+syn: bake, grill, toast
+@n
+1. thịt nướng; mẻ rang | The Sunday *roast* is the restaurant's specialty. | Món thịt nướng ngày Chủ nhật là đặc sản của nhà hàng.
+
+# begin | /bɪˈɡɪn/ | seen: begun
+fam: beginning (n) sự bắt đầu; beginner (n) người mới học; began (V2); begun (V3)
+tip: begin – began – begun. "begin to V / V-ing" (cả hai đều được). "has begun" = đã bắt đầu. "to begin with" = trước hết.
+@v
+1. bắt đầu | Construction has *begun* on the new terminal. | Việc xây dựng nhà ga mới đã bắt đầu.
+col: begin with = bắt đầu bằng; begin to V = bắt đầu làm; to begin with = trước hết; begin operations = bắt đầu hoạt động; begin construction = khởi công
+syn: start, commence, launch, initiate
+ant: end, finish, conclude
+
+# schedule | /ˈskedʒuːl/ | seen: scheduled
+fam: scheduling (n) việc lên lịch; scheduled (adj) theo lịch; reschedule (v) dời lịch
+tip: "on schedule" = đúng lịch; "ahead of schedule" = sớm hơn lịch; "behind schedule" = trễ lịch. "be scheduled to V" = dự kiến sẽ.
+@n
+1. lịch trình | The train *schedule* has changed this month. | Lịch tàu đã thay đổi trong tháng này.
+col: on schedule = đúng lịch; ahead of/behind schedule = sớm/trễ lịch; tight schedule = lịch dày đặc; flight schedule = lịch bay; work schedule = lịch làm việc
+syn: timetable, itinerary, agenda, program
+@v
+1. lên lịch | The meeting is *scheduled* for 10 a.m. on Monday. | Cuộc họp được lên lịch lúc 10 giờ sáng thứ Hai.
+col: be scheduled for + time = được lên lịch vào; be scheduled to V = dự kiến làm gì; schedule an appointment = lên lịch hẹn; reschedule = dời lịch
+prep: scheduled for + time; scheduled to V
+syn: arrange, plan, book, set up
+
+# interview | /ˈɪntərvjuː/ | seen: interviews
+fam: interviewer (n) người phỏng vấn; interviewee (n) người được phỏng vấn
+tip: "job interview", "conduct an interview", "interview for a position". Phân biệt interviewer (người hỏi) vs interviewee (người trả lời).
+@n
+1. cuộc phỏng vấn | Final *interviews* will be held next Tuesday. | Các buổi phỏng vấn cuối sẽ diễn ra vào thứ Ba tới.
+col: job interview = phỏng vấn xin việc; conduct an interview = tiến hành phỏng vấn; interview process = quy trình phỏng vấn; phone interview = phỏng vấn qua điện thoại; interview for a position = phỏng vấn cho vị trí
+prep: interview for a job / interview with sb
+syn: meeting, discussion, evaluation
+@v
+1. phỏng vấn | The committee will *interview* five candidates. | Ủy ban sẽ phỏng vấn năm ứng viên.
+col: interview a candidate = phỏng vấn ứng viên; be interviewed for = được phỏng vấn cho
+syn: question, assess, screen
+
+# meanwhile | /ˈmiːnwaɪl/
+fam: in the meantime (phr) trong khi chờ đó; meantime (n)
+tip: Trạng từ nối chỉ thời gian: Meanwhile, ... = Trong khi đó, ... Giống "in the meantime".
+@adv
+1. trong khi đó | The kitchen is closed. *Meanwhile*, drinks are served at the bar. | Nhà bếp đã đóng. Trong khi đó, đồ uống vẫn phục vụ ở quầy bar.
+col: Meanwhile, + clause = trong khi đó; in the meanwhile = trong lúc chờ đợi; meanwhile back at... = trong khi đó ở...
+syn: in the meantime, simultaneously, at the same time
+use: Đứng đầu câu, có dấu phẩy.
+
+# construction | /kənˈstrʌkʃn/ | seen: Construction
+fam: construct (v) xây dựng; constructive (adj) mang tính xây dựng; constructor (n) nhà thầu; reconstruction (n)
+tip: "under construction" = đang xây dựng; "construction site", "construction worker/crew". "constructive feedback" = góp ý mang tính xây dựng.
+@n
+1. sự xây dựng | *Construction* of the new bridge will start in May. | Việc xây cầu mới sẽ bắt đầu vào tháng Năm.
+2. công trình, cấu trúc | The building is a sturdy *construction* of steel and glass. | Tòa nhà là công trình chắc chắn từ thép và kính.
+col: under construction = đang xây; construction site = công trường; construction work = công việc xây dựng; construction materials = vật liệu xây dựng; construction company = công ty xây dựng
+prep: construction of sth
+syn: building, erection, assembly
+ant: demolition, destruction
+
+# disused | /ˌdɪsˈjuːzd/
+fam: use (v/n) dùng; disuse (n) sự không dùng nữa; unused (adj) chưa dùng
+tip: disused = không còn được sử dụng nữa (các tòa nhà/nhà ga). Khác "unused" = chưa từng dùng.
+@adj
+1. bỏ hoang, không còn sử dụng | The *disused* factory was turned into an arts center. | Nhà máy bỏ hoang được cải tạo thành trung tâm nghệ thuật.
+col: disused building = tòa nhà bỏ không; disused railway = đường sắt không dùng; disused factory = nhà máy bỏ hoang; fall into disuse = không còn được dùng
+syn: abandoned, derelict, unused, vacant
+ant: in use, active
+
+# convince | /kənˈvɪns/ | seen: convinces
+fam: conviction (n) niềm tin, sự kết tội; convincing (adj) thuyết phục; convinced (adj) tin chắc; convincingly (adv)
+tip: "convince sb of sth", "convince sb to V" = thuyết phục ai làm gì (thành công), khác "persuade". Be convinced that + clause.
+@v
+1. thuyết phục | The presentation *convinced* the board to approve the plan. | Bài thuyết trình đã thuyết phục hội đồng phê duyệt kế hoạch.
+col: convince sb to V = thuyết phục ai làm gì; convince sb of sth = làm ai tin vào; be convinced that = tin chắc rằng; easily convinced = dễ bị thuyết phục
+prep: convince sb of sth / convince sb to V
+syn: persuade, win over, assure, sway
+ant: dissuade, discourage
+
+# threaten | /ˈθretn/ | seen: threatens
+fam: threat (n) mối đe dọa; threatening (adj) đe dọa; threatened (adj)
+tip: threaten to V; threaten sb with sth; "be threatened by/with". "endangered/threatened species" = loài bị đe dọa.
+@v
+1. đe dọa | Rising costs *threaten* the company's profits. | Chi phí tăng đe dọa lợi nhuận của công ty.
+col: threaten to V = đe dọa sẽ làm gì; threaten sb with sth = đe dọa ai bằng; be threatened by = bị đe dọa bởi; threaten the survival of = đe dọa sự tồn tại của
+syn: endanger, jeopardize, menace, intimidate
+ant: protect, safeguard
+
+# admit | /ədˈmɪt/ | seen: admits
+fam: admission (n) sự thừa nhận/vào cửa; admittance (n) sự cho vào; admitted (adj)
+tip: admit + V-ing (admit making a mistake) / admit that... "Admission" = vé vào cửa/ tiếp nhận: "Admission is free".
+@v
+1. thừa nhận | He *admitted* that the schedule was unrealistic. | Anh ấy thừa nhận rằng lịch trình không thực tế.
+2. cho vào, tiếp nhận | The museum *admits* visitors until 5 p.m. | Bảo tàng cho khách vào đến 5 giờ chiều.
+col: admit to + V-ing = thừa nhận đã...; admit defeat = chịu thua; admit sb to a school/hospital = cho nhập học/nhập viện; freely admit = sẵn sàng thừa nhận
+prep: admit to sth; admit sb to/into somewhere
+syn: acknowledge, confess, concede (1); let in, accept (2)
+ant: deny, reject
+
+# recruiter | /rɪˈkruːtər/
+fam: recruit (v/n) tuyển dụng, người mới; recruitment (n) việc tuyển dụng; recruiting (n)
+tip: -er/-or: người làm hành động. recruiter = nhà tuyển dụng; recruitment = sự tuyển dụng; recruit = (v) tuyển / (n) nhân viên mới.
+@n
+1. nhà tuyển dụng | A *recruiter* called to schedule an interview. | Một nhà tuyển dụng đã gọi để hẹn phỏng vấn.
+col: corporate recruiter = nhà tuyển dụng của công ty; recruiter's office = văn phòng tuyển dụng; technical recruiter = nhà tuyển dụng ngành kỹ thuật; contact a recruiter = liên hệ nhà tuyển dụng
+syn: headhunter, talent scout, hiring manager
+
+# recruitment | /rɪˈkruːtmənt/
+fam: recruit (v/n); recruiter (n); recruiting (n)
+tip: "recruitment agency/drive/process" = công ty/đợt/quy trình tuyển dụng. Danh từ không đếm được.
+@n
+1. sự tuyển dụng | The *recruitment* process usually takes a month. | Quy trình tuyển dụng thường mất một tháng.
+col: recruitment agency = công ty tuyển dụng; recruitment process = quy trình tuyển dụng; recruitment drive = chiến dịch tuyển dụng; recruitment of staff = tuyển nhân sự
+syn: hiring, staffing, employment, enlistment
+
+# recruit | /rɪˈkruːt/ | seen: recruits
+fam: recruitment (n); recruiter (n); recruiting (n)
+tip: recruit sb (as/for sth) = tuyển ai (làm gì). "new recruit" = nhân viên mới tuyển.
+@v
+1. tuyển dụng | The company plans to *recruit* 50 new engineers. | Công ty dự định tuyển 50 kỹ sư mới.
+col: recruit staff = tuyển nhân sự; recruit sb as sth = tuyển ai làm...; recruit from = tuyển từ; recruit new members = tuyển thành viên mới
+prep: recruit sb as/for sth
+syn: hire, employ, enlist, enroll
+ant: dismiss, lay off
+@n
+1. người mới tuyển | The new *recruits* will attend a training session. | Những người mới tuyển sẽ tham dự một buổi đào tạo.
+col: new recruit = nhân viên mới; military recruit = tân binh
+
+# enrollment | /ɪnˈroʊlmənt/
+fam: enroll (v) đăng ký, ghi danh; enrollee (n) người đăng ký; re-enroll (v)
+tip: Anh-Mỹ: enrollment/enroll; Anh-Anh: enrolment. "enroll in/for a course" = ghi danh vào khóa học. "open enrollment" = đợt đăng ký mở.
+@n
+1. sự đăng ký, ghi danh | Online *enrollment* for the course begins next week. | Việc đăng ký khóa học trực tuyến bắt đầu vào tuần sau.
+2. số người đăng ký | Total *enrollment* has risen by 15 percent. | Tổng số học viên đã tăng 15%.
+col: enrollment form = mẫu đăng ký; open enrollment = đăng ký mở; enrollment fee = phí ghi danh; enrollment deadline = hạn đăng ký; enrollment in sth = sự ghi danh vào
+prep: enrollment in/at sth
+syn: registration, admission, sign-up
+
+# dozen | /ˈdʌzn/
+fam: dozens (n) hàng chục
+tip: "a dozen" = 12. Sau số đếm KHÔNG thêm -s: two dozen eggs (24 quả). "dozens of" = hàng chục (thêm -s, có "of").
+@n
+1. một tá (12), hàng chục | We ordered two *dozen* cupcakes for the party. | Chúng tôi đặt hai tá bánh cupcake cho bữa tiệc.
+col: a dozen = 12; two dozen = 24 (không "dozens"); dozens of = hàng chục; half a dozen = nửa tá (6); by the dozen = theo tá; baker's dozen = 13
+syn: twelve, a score (20)

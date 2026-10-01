@@ -1,0 +1,451 @@
+// ===== TỪ MỞ RỘNG: động từ hay gặp trong TOEIC (1) =====
+
+# accommodate | /əˈkɑːmədeɪt/
+fam: accommodation (n) chỗ ở; accommodations (n) chỗ ở (Mỹ); accommodating (adj) dễ chịu, chiều lòng
+tip: accommodate = đáp ứng/chứa được/cung cấp chỗ ở. "accommodate requests/needs/guests". Chính tả: 2 c, 2 m.
+@v
+1. chứa được, cung cấp chỗ ở | The hall can *accommodate* up to 300 guests. | Hội trường có thể chứa tới 300 khách.
+2. đáp ứng, chiều theo | We will try to *accommodate* your schedule. | Chúng tôi sẽ cố gắng sắp xếp theo lịch của bạn.
+col: accommodate guests = tiếp đón khách; accommodate special requests = đáp ứng yêu cầu đặc biệt; accommodate a schedule = sắp xếp phù hợp lịch; accommodate needs = đáp ứng nhu cầu
+syn: house, hold, seat (1); oblige, meet, fit (2)
+
+# acquire | /əˈkwaɪər/
+fam: acquisition (n) sự mua lại; acquired (adj); acquirer (n)
+tip: acquire = có được (kỹ năng, tài sản, công ty): "acquire a company/skills". "acquisition" = thương vụ thâu tóm.
+@v
+1. đạt được, mua lại | The firm *acquired* a smaller competitor last year. | Công ty đã mua lại một đối thủ nhỏ hơn năm ngoái.
+2. học được | Trainees *acquire* new skills on the job. | Học viên học được kỹ năng mới khi làm việc.
+col: acquire a company = mua lại công ty; acquire skills = học kỹ năng; acquire experience = tích lũy kinh nghiệm; acquire a license = giành giấy phép; recently acquired = mới mua lại
+syn: obtain, gain, purchase, attain
+ant: lose, sell
+
+# adhere | /ədˈhɪr/
+fam: adherence (n) sự tuân thủ; adherent (n/adj); adhesive (adj/n) keo dính
+tip: adhere to + N = tuân thủ (rules, policy, deadline) hoặc dính vào. Luôn có "to".
+@v
+1. tuân thủ | All staff must *adhere* to the safety regulations. | Mọi nhân viên phải tuân thủ quy định an toàn.
+col: adhere to the rules = tuân thủ quy định; adhere to a schedule = tuân theo lịch; adhere strictly to = tuân thủ nghiêm ngặt; adhere to a policy = tuân thủ chính sách
+prep: adhere to sth
+syn: comply with, follow, stick to, abide by
+ant: violate, ignore, breach
+
+# allocate | /ˈæləkeɪt/
+fam: allocation (n) sự phân bổ; allocated (adj); reallocate (v)
+tip: allocate sth to/for sb/sth = phân bổ cái gì cho ai/việc gì. "allocate funds/resources/time".
+@v
+1. phân bổ | The manager *allocated* funds to the marketing team. | Quản lý đã phân bổ ngân quỹ cho nhóm tiếp thị.
+col: allocate funds = phân bổ vốn; allocate resources = phân bổ nguồn lực; allocate time = dành thời gian; allocate sth to sb = phân bổ cho; allocate sth for sth = phân bổ cho mục đích
+prep: allocate sth to sb / for sth
+syn: assign, allot, designate, distribute
+ant: withhold
+
+# anticipate | /ænˈtɪsɪpeɪt/
+fam: anticipation (n) sự mong đợi; anticipated (adj) được dự kiến; unanticipated (adj)
+tip: anticipate + N/V-ing/that-clause (không dùng to V). "in anticipation of" = để chuẩn bị cho. Khác "expect": nhấn mạnh chuẩn bị trước.
+@v
+1. dự đoán, lường trước | We *anticipate* a large crowd at the opening. | Chúng tôi dự đoán đám đông lớn tại buổi khai mạc.
+col: anticipate problems = lường trước vấn đề; anticipate demand = dự đoán nhu cầu; anticipate V-ing = dự tính; in anticipation of = để chuẩn bị cho; as anticipated = như dự kiến
+syn: expect, predict, foresee, look forward to
+
+# approve | /əˈpruːv/
+fam: approval (n) sự chấp thuận; approved (adj); disapprove (v) không tán thành
+tip: approve sth (ngoại động từ, không giới từ) = phê duyệt; "approve of sth" = tán thành. "pending approval", "obtain approval".
+@v
+1. phê duyệt | The board *approved* the new budget on Monday. | Hội đồng đã phê duyệt ngân sách mới vào thứ Hai.
+2. tán thành | Not everyone *approves* of the plan. | Không phải ai cũng tán thành kế hoạch.
+col: approve a budget/plan = phê duyệt ngân sách/kế hoạch; approve of sth = tán thành; approved by = được phê duyệt bởi; approve a request = chấp thuận yêu cầu; officially approved = chính thức phê duyệt
+syn: authorize, endorse, sanction, ratify
+ant: reject, veto, disapprove
+
+# assign | /əˈsaɪn/
+fam: assignment (n) nhiệm vụ; assigned (adj); assistant (n); reassign (v)
+tip: assign sb to sth / assign sth to sb; "be assigned to V". "assignment" = bài tập/nhiệm vụ. Trọng âm: a-SIGN.
+@v
+1. giao (việc), phân công | The manager *assigned* the project to a senior engineer. | Quản lý giao dự án cho một kỹ sư cao cấp.
+col: assign sth to sb = giao việc cho ai; assign sb to V = giao cho ai làm; be assigned to = được giao/chuyển đến; assign a task = giao nhiệm vụ; assign seats = chia chỗ ngồi
+prep: assign sth to sb / assign sb to sth
+syn: allocate, delegate, appoint, designate
+
+# attach | /əˈtætʃ/
+fam: attachment (n) tệp đính kèm; attached (adj) đính kèm
+tip: Email: "Please find the attached file", "attach a document to an email". "attached to sth" = gắn bó/gắn vào.
+@v
+1. đính kèm, gắn | Please *attach* your résumé to the application. | Vui lòng đính kèm sơ yếu lý lịch vào đơn.
+col: attach A to B = gắn A vào B; please find attached = xin xem tệp đính kèm; attach a file = đính kèm tệp; attached document = tài liệu đính kèm; attach importance to = coi trọng
+prep: attach sth to sth
+syn: fasten, affix, append, enclose
+ant: detach, remove, separate
+
+# attract | /əˈtrækt/
+fam: attraction (n) sự thu hút, điểm tham quan; attractive (adj) hấp dẫn; attractively (adv)
+tip: attract customers/visitors/investment = thu hút. "tourist attraction" = điểm du lịch. "attract sb's attention".
+@v
+1. thu hút | The festival *attracts* thousands of tourists every year. | Lễ hội thu hút hàng nghìn du khách mỗi năm.
+col: attract customers = thu hút khách; attract attention = thu hút sự chú ý; attract investment = thu hút đầu tư; attract talent = thu hút nhân tài; attract tourists = thu hút du khách
+syn: draw, appeal to, lure, bring in
+ant: repel, deter
+
+# comply | /kəmˈplaɪ/
+fam: compliance (n) sự tuân thủ; compliant (adj) tuân thủ; noncompliance (n)
+tip: comply with + N = tuân thủ (luôn có with). "in compliance with" = tuân theo. Ngoại động từ ✗: comply the rules.
+@v
+1. tuân thủ | All suppliers must *comply* with environmental standards. | Mọi nhà cung cấp phải tuân thủ tiêu chuẩn môi trường.
+col: comply with regulations = tuân thủ quy định; comply with a request = đáp ứng yêu cầu; fail to comply = không tuân thủ; fully comply = tuân thủ đầy đủ
+prep: comply with sth
+syn: obey, conform to, adhere to, abide by
+ant: violate, disobey, defy
+
+# conduct | /kənˈdʌkt/ (v), /ˈkɑːndʌkt/ (n)
+fam: conductor (n) người chỉ huy, nhạc trưởng; misconduct (n) hành vi sai trái; code of conduct (n) quy tắc ứng xử
+tip: Trọng âm: con-DUCT (v) / CON-duct (n). "conduct a survey/interview/inspection/meeting" = tiến hành.
+@v
+1. tiến hành | The team will *conduct* a survey next month. | Nhóm sẽ tiến hành khảo sát vào tháng sau.
+2. chỉ huy, dẫn (điện) | Copper *conducts* electricity well. | Đồng dẫn điện tốt.
+col: conduct a survey = tiến hành khảo sát; conduct an interview = phỏng vấn; conduct research = nghiên cứu; conduct a tour = dẫn tham quan; conduct business = làm ăn
+syn: carry out, perform, run, organize
+@n
+1. hành vi, quy tắc ứng xử | The company has a strict code of *conduct*. | Công ty có quy tắc ứng xử nghiêm ngặt.
+col: code of conduct = quy tắc ứng xử; professional conduct = tư cách nghề nghiệp; misconduct = hành vi sai trái
+
+# confirm | /kənˈfɜːrm/
+fam: confirmation (n) sự xác nhận; confirmed (adj) đã xác nhận; reconfirm (v)
+tip: "confirm a reservation/appointment/order" = xác nhận. "confirmation number/email" = mã/email xác nhận. "confirm that + clause".
+@v
+1. xác nhận | Please *confirm* your attendance by Friday. | Vui lòng xác nhận việc tham dự trước thứ Sáu.
+col: confirm a reservation = xác nhận đặt chỗ; confirm receipt = xác nhận đã nhận; confirm attendance = xác nhận tham dự; confirm that = xác nhận rằng; confirm in writing = xác nhận bằng văn bản
+syn: verify, validate, authenticate, affirm
+ant: deny, cancel, refute
+
+# contribute | /kənˈtrɪbjuːt/
+fam: contribution (n) sự đóng góp; contributor (n) người đóng góp; contributing (adj)
+tip: contribute to sth = góp phần vào; contribute sth to sth = đóng góp cái gì cho. "make a contribution to".
+@v
+1. đóng góp, góp phần | Every employee *contributes* to the company's success. | Mỗi nhân viên đều góp phần vào thành công của công ty.
+col: contribute to = đóng góp cho; contribute funds = đóng góp vốn; contribute ideas = đóng góp ý tưởng; contribute significantly = đóng góp đáng kể; contribute to the cost = góp chi phí
+prep: contribute to sth / contribute sth to sth
+syn: donate, give, add, help
+ant: detract
+
+# convey | /kənˈveɪ/
+fam: conveyor (n) băng chuyền; conveyance (n) sự truyền tải/phương tiện
+tip: convey a message/idea/meaning/thanks = truyền đạt; "conveyor belt" = băng chuyền (sân bay, nhà máy).
+@v
+1. truyền đạt | The letter *conveys* our sincere thanks. | Lá thư truyền đạt lời cảm ơn chân thành của chúng tôi.
+2. vận chuyển | Pipes *convey* water to the plant. | Đường ống dẫn nước đến nhà máy.
+col: convey a message = truyền đạt thông điệp; convey thanks = gửi lời cảm ơn; convey an idea = truyền đạt ý tưởng; convey information = truyền thông tin; convey sth to sb = chuyển cho ai
+prep: convey sth to sb
+syn: communicate, express, relay, transport
+
+# demonstrate | /ˈdemənstreɪt/
+fam: demonstration (n) buổi trình diễn; demonstrator (n); demonstrable (adj) có thể chứng minh
+tip: demonstrate = trình diễn cách dùng / chứng minh. "product demonstration" = buổi giới thiệu sản phẩm; "demonstrate leadership" = thể hiện khả năng lãnh đạo.
+@v
+1. trình diễn, minh họa | A sales rep will *demonstrate* the new software. | Nhân viên bán hàng sẽ trình diễn phần mềm mới.
+2. chứng tỏ | She *demonstrated* strong leadership skills. | Cô ấy đã chứng tỏ kỹ năng lãnh đạo xuất sắc.
+col: demonstrate a product = giới thiệu sản phẩm; demonstrate skills = thể hiện kỹ năng; demonstrate commitment = chứng tỏ cam kết; clearly demonstrate = thể hiện rõ; demonstrate how to V = chỉ cách
+syn: show, display, illustrate, prove
+ant: conceal, hide
+
+# determine | /dɪˈtɜːrmɪn/
+fam: determination (n) sự quyết tâm; determined (adj) quyết tâm; determinant (n) yếu tố quyết định; predetermined (adj)
+tip: determine + N / wh-clause = xác định, quyết định. "be determined to V" = quyết tâm. "determining factor".
+@v
+1. xác định, quyết định | We need to *determine* the cause of the error. | Chúng ta cần xác định nguyên nhân của lỗi.
+col: determine the cause = xác định nguyên nhân; determine whether = xác định liệu; determine eligibility = xác định đủ điều kiện; be determined to V = quyết tâm; determine the price = ấn định giá
+syn: establish, decide, find out, ascertain
+
+# enclose | /ɪnˈkloʊz/
+fam: enclosure (n) tài liệu kèm theo; enclosed (adj) đính kèm; close (v) đóng
+tip: Thư giấy: "Enclosed please find..." (đính kèm trong phong bì); "attached" dùng cho email. "enc." cuối thư = có tài liệu kèm.
+@v
+1. gửi kèm (trong thư/phong bì) | I have *enclosed* a copy of the contract. | Tôi gửi kèm một bản sao hợp đồng.
+2. bao quanh | A fence *encloses* the entire property. | Hàng rào bao quanh toàn bộ khu đất.
+col: enclosed please find = xin xem tài liệu gửi kèm; enclose a check = gửi kèm séc; enclose a copy = gửi kèm bản sao; the enclosed brochure = tờ rơi đính kèm; enclosed area = khu vực kín
+syn: include, attach, insert (1); surround, fence in (2)
+
+# ensure | /ɪnˈʃʊr/
+fam: insure (v) bảo hiểm; assure (v) đảm bảo (với người); ensured (adj)
+tip: BẪY: ensure (đảm bảo xảy ra: ensure that) ≠ insure (bảo hiểm) ≠ assure (cam đoan với ai: assure sb that). Cấu trúc: ensure + (that) clause / ensure + N.
+@v
+1. đảm bảo | Please *ensure* that all doors are locked. | Vui lòng đảm bảo tất cả cửa đã được khóa.
+col: ensure that + clause = đảm bảo rằng; ensure safety = đảm bảo an toàn; ensure compliance = đảm bảo tuân thủ; ensure quality = đảm bảo chất lượng; to ensure + N = để đảm bảo
+syn: guarantee, make sure, secure, confirm
+
+# establish | /ɪˈstæblɪʃ/
+fam: establishment (n) cơ sở, sự thành lập; established (adj) lâu đời; disestablish (v)
+tip: "well-established company" = công ty lâu đời; "was established in 1990" = thành lập năm 1990. "establish a reputation/relationship".
+@v
+1. thành lập | The firm was *established* in 1985. | Công ty được thành lập vào năm 1985.
+2. xác lập, thiết lập | We hope to *establish* a long-term partnership. | Chúng tôi hy vọng thiết lập quan hệ đối tác lâu dài.
+col: establish a company = thành lập công ty; establish a relationship = thiết lập quan hệ; establish a reputation = tạo dựng danh tiếng; well-established = lâu đời; established in + year = thành lập năm
+syn: found, set up, create, form (1); build, set (2)
+ant: abolish, dissolve
+
+# forward | /ˈfɔːrwərd/
+fam: forwarding (n) việc chuyển tiếp; forwarded (adj); backward (adv) lùi
+tip: forward (v) = chuyển tiếp (thư, email): "forward the email to Mr. Lee". "look forward to + V-ing" (to là giới từ). (adv) = phía trước.
+@v
+1. chuyển tiếp | Please *forward* this message to your team. | Vui lòng chuyển tiếp tin nhắn này cho nhóm của bạn.
+col: forward an email = chuyển tiếp email; forward sth to sb = chuyển cái gì cho ai; look forward to V-ing = mong chờ; forwarding address = địa chỉ chuyển tiếp; forward mail = chuyển thư
+prep: forward sth to sb
+syn: send on, pass on, redirect, relay
+@adv
+1. về phía trước | Please move *forward* in the line. | Vui lòng tiến lên phía trước trong hàng.
+col: go forward = tiến lên; from this day forward = từ nay trở đi; step forward = tiến lên
+
+# generate | /ˈdʒenəreɪt/
+fam: generation (n) thế hệ, sự tạo ra; generator (n) máy phát điện; generative (adj)
+tip: generate revenue/income/interest/electricity/ideas = tạo ra. "generate leads" (marketing) = tạo khách hàng tiềm năng.
+@v
+1. tạo ra | The new product *generated* over $1 million in sales. | Sản phẩm mới tạo ra hơn 1 triệu đô la doanh thu.
+col: generate revenue = tạo doanh thu; generate interest = gây quan tâm; generate electricity = sản xuất điện; generate ideas = tạo ý tưởng; generate leads = tạo khách hàng tiềm năng
+syn: produce, create, yield, bring about
+ant: consume, destroy
+
+# implement | /ˈɪmplɪment/
+fam: implementation (n) sự thực hiện; implementer (n); implement (n) dụng cụ
+tip: implement a plan/policy/system/strategy = triển khai, thi hành. "implementation of" + N.
+@v
+1. thực hiện, triển khai | The company will *implement* the new policy in March. | Công ty sẽ triển khai chính sách mới vào tháng Ba.
+col: implement a plan = thực hiện kế hoạch; implement a policy = thi hành chính sách; implement changes = áp dụng thay đổi; implement a system = triển khai hệ thống; successfully implement = triển khai thành công
+syn: carry out, execute, enforce, put into practice
+ant: abandon, cancel
+
+# incur | /ɪnˈkɜːr/
+fam: incurred (adj)
+tip: incur costs/fees/losses/penalties = phải chịu (chi phí/khoản phạt) — thường là điều không mong muốn.
+@v
+1. phải chịu, gánh | You may *incur* additional fees if you cancel late. | Bạn có thể phải chịu thêm phí nếu hủy trễ.
+col: incur costs = chịu chi phí; incur a fee = chịu phí; incur a loss = chịu lỗ; incur a penalty = bị phạt; incur debt = mắc nợ
+syn: bear, suffer, sustain, take on
+ant: avoid
+
+# indicate | /ˈɪndɪkeɪt/
+fam: indication (n) dấu hiệu; indicator (n) chỉ báo; indicative (adj) biểu thị
+tip: indicate + that-clause / N = cho thấy, chỉ ra. "as indicated" = như đã chỉ ra; "indicate preference/interest".
+@v
+1. chỉ ra, cho thấy | The report *indicates* a rise in demand. | Báo cáo cho thấy nhu cầu đang tăng.
+2. ra hiệu, nêu rõ | Please *indicate* your meal preference on the form. | Vui lòng nêu rõ lựa chọn bữa ăn trên mẫu đơn.
+col: indicate that + clause = cho thấy rằng; as indicated = như đã nêu; indicate a preference = nêu sở thích; clearly indicate = chỉ rõ; indicate interest = bày tỏ quan tâm
+syn: show, suggest, signal, specify
+ant: conceal, contradict
+
+# inform | /ɪnˈfɔːrm/
+fam: information (n) thông tin; informative (adj) nhiều thông tin; informed (adj) am hiểu; informant (n)
+tip: inform sb of/about sth; inform sb that + clause. "keep sb informed" = cập nhật cho ai. Phân biệt "notify".
+@v
+1. thông báo | We will *inform* you of any changes. | Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào.
+col: inform sb of/about sth = báo cho ai về; inform sb that = báo cho ai rằng; keep sb informed = giữ ai cập nhật; be informed of = được thông báo về; well informed = am hiểu
+prep: inform sb of/about sth
+syn: notify, tell, advise, update
+ant: mislead, withhold
+
+# initiate | /ɪˈnɪʃieɪt/
+fam: initiative (n) sáng kiến; initial (adj) ban đầu; initially (adv); initiation (n)
+tip: initiate a project/discussion/process = khởi xướng. "take the initiative" = chủ động. "initiative" (n) cũng = sáng kiến/kế hoạch.
+@v
+1. khởi xướng, bắt đầu | The manager *initiated* a review of the process. | Quản lý khởi xướng việc rà soát quy trình.
+col: initiate a project = khởi xướng dự án; initiate contact = bắt đầu liên hệ; initiate a change = khởi xướng thay đổi; initiate a process = bắt đầu quy trình; initiate legal action = khởi kiện
+syn: launch, begin, start, introduce
+ant: end, finish, conclude
+
+# install | /ɪnˈstɔːl/
+fam: installation (n) việc lắp đặt; installer (n) thợ lắp; installment (n) đợt trả góp
+tip: Máy/phần mềm: "install software/equipment". "installment" (n) = một kỳ trả góp (Anh: instalment); "installation" = lắp đặt.
+@v
+1. cài đặt, lắp đặt | A technician will *install* the new equipment tomorrow. | Kỹ thuật viên sẽ lắp đặt thiết bị mới vào ngày mai.
+col: install software = cài phần mềm; install equipment = lắp thiết bị; easy to install = dễ lắp đặt; professionally installed = lắp bởi chuyên gia; install a system = cài hệ thống
+syn: set up, fit, put in, mount
+ant: remove, uninstall
+
+# intend | /ɪnˈtend/
+fam: intention (n) ý định; intended (adj) dự định; intent (n) ý định; intentional (adj) có chủ ý
+tip: intend to V / intend V-ing; "be intended for" = dành cho; "be intended to V" = nhằm mục đích. "intended audience" = đối tượng dự kiến.
+@v
+1. có ý định | We *intend* to expand into new markets. | Chúng tôi có ý định mở rộng sang thị trường mới.
+col: intend to V = dự định; be intended for = dành cho; be intended to V = nhằm để; intended audience = đối tượng dự định; as intended = như dự định
+prep: be intended for sb/sth
+syn: plan, aim, mean, propose
+
+# inquire | /ɪnˈkwaɪər/
+fam: inquiry (n) yêu cầu hỏi; inquiring (adj) tò mò; enquire (v, Anh)
+tip: inquire about sth = hỏi về; inquire into = điều tra. "inquiry" (n) = câu hỏi/yêu cầu: "customer inquiries". Cũng viết: enquire/enquiry (Anh).
+@v
+1. hỏi, thắc mắc | I am writing to *inquire* about your return policy. | Tôi viết thư để hỏi về chính sách đổi trả của quý công ty.
+col: inquire about sth = hỏi về; inquire into sth = điều tra; inquire whether = hỏi liệu; inquire after sb = hỏi thăm ai; inquire within = hỏi bên trong
+prep: inquire about/into sth
+syn: ask, query, question, investigate
+
+# issue | /ˈɪʃuː/
+fam: issuance (n) sự cấp phát; issued (adj); reissue (v)
+tip: issue (n) = vấn đề; số báo; (v) = cấp, phát hành: "issue a refund/receipt/statement/passport". Hay trong email: "if you have any issues".
+@v
+1. cấp, phát hành | The bank will *issue* a new card within a week. | Ngân hàng sẽ cấp thẻ mới trong vòng một tuần.
+col: issue a refund = cấp hoàn tiền; issue a statement = ra thông cáo; issue a warning = đưa ra cảnh báo; issue an invoice = phát hành hóa đơn; be issued by = được cấp bởi
+syn: release, grant, publish, distribute
+@n
+1. vấn đề; số (báo) | We are working to resolve the *issue*. | Chúng tôi đang giải quyết vấn đề.
+col: raise an issue = nêu vấn đề; address an issue = giải quyết vấn đề; the latest issue = số mới nhất; the issue of = vấn đề về; issue with sth = vấn đề với
+syn: problem, matter, topic, edition
+
+# negotiate | /nɪˈɡoʊʃieɪt/
+fam: negotiation (n) cuộc đàm phán; negotiator (n) nhà đàm phán; negotiable (adj) có thể thương lượng; non-negotiable (adj)
+tip: negotiate with sb for/about sth; "negotiable salary" = lương thỏa thuận. "Price negotiable" = giá có thể thương lượng.
+@v
+1. đàm phán, thương lượng | The union will *negotiate* a new contract this month. | Công đoàn sẽ đàm phán hợp đồng mới trong tháng này.
+col: negotiate a contract = đàm phán hợp đồng; negotiate a price = thương lượng giá; negotiate with sb = đàm phán với ai; negotiate terms = đàm phán điều khoản; open to negotiation = sẵn sàng thương lượng
+prep: negotiate with sb about/for sth
+syn: bargain, discuss terms, haggle, mediate
+
+# notify | /ˈnoʊtɪfaɪ/
+fam: notification (n) thông báo; notice (n/v) thông báo, để ý; notified (adj)
+tip: notify sb of/about sth; notify sb that + clause. Khác "inform" ở sự chính thức: "notify the authorities". "notification email".
+@v
+1. thông báo (chính thức) | Please *notify* us of any change of address. | Vui lòng thông báo cho chúng tôi nếu đổi địa chỉ.
+col: notify sb of sth = thông báo cho ai về; notify sb in advance = báo trước; notify the authorities = báo chính quyền; be notified by email = được báo qua email; promptly notify = báo kịp thời
+prep: notify sb of/about sth
+syn: inform, advise, alert, tell
+
+# obtain | /əbˈteɪn/
+fam: obtainable (adj) có thể lấy được; unobtainable (adj)
+tip: obtain = lấy được/đạt được (trang trọng hơn "get"): obtain a permit/approval/permission/information.
+@v
+1. đạt được, xin được | You must *obtain* a permit before construction. | Bạn phải xin giấy phép trước khi xây dựng.
+col: obtain a permit = xin giấy phép; obtain approval = được phê duyệt; obtain information = lấy thông tin; obtain a copy = lấy một bản; obtain permission = xin phép
+syn: get, acquire, secure, gain
+ant: lose, forfeit
+
+# occur | /əˈkɜːr/
+fam: occurrence (n) sự xảy ra; occurred (V2/V3); recur (v) tái diễn
+tip: occur = xảy ra (nội động từ, KHÔNG bị động). occur → occurred → occurring (gấp đôi r). "occur to sb" = chợt nảy ra với ai.
+@v
+1. xảy ra | The error *occurred* during the update. | Lỗi xảy ra trong lúc cập nhật.
+2. chợt nảy ra | It *occurred* to me that we hadn't confirmed the date. | Tôi chợt nhớ ra chúng ta chưa xác nhận ngày.
+col: occur frequently = xảy ra thường xuyên; if a problem occurs = nếu có vấn đề; occur naturally = xuất hiện tự nhiên; occur to sb = chợt nghĩ ra với ai; occur at/in = xảy ra tại
+syn: happen, take place, arise, come about
+
+# outsource | /ˈaʊtsɔːrs/
+fam: outsourcing (n) thuê ngoài; source (n/v) nguồn; resource (n) nguồn lực
+tip: outsource = thuê ngoài (giao một phần việc cho công ty khác). "outsource customer service/IT/manufacturing".
+@v
+1. thuê ngoài | The firm decided to *outsource* its customer service. | Công ty quyết định thuê ngoài dịch vụ khách hàng.
+col: outsource work = thuê ngoài công việc; outsource production = thuê ngoài sản xuất; outsource to + nơi/công ty = thuê ngoài cho; outsourced services = dịch vụ thuê ngoài
+syn: contract out, subcontract, farm out
+ant: in-house, insource
+
+# oversee | /ˌoʊvərˈsiː/
+fam: oversight (n) sự giám sát / sơ suất; overseer (n) người giám sát; overseas (adj/adv) ở nước ngoài
+tip: oversee = giám sát (công việc, dự án, đội). oversee – oversaw – overseen. "oversight" có 2 nghĩa: giám sát / sai sót.
+@v
+1. giám sát | She *oversees* the entire production process. | Cô ấy giám sát toàn bộ quy trình sản xuất.
+col: oversee operations = giám sát hoạt động; oversee a project = giám sát dự án; oversee the budget = giám sát ngân sách; oversee a team = quản lý đội; oversee construction = giám sát xây dựng
+syn: supervise, manage, direct, monitor
+ant: neglect
+
+# participate | /pɑːrˈtɪsɪpeɪt/
+fam: participation (n) sự tham gia; participant (n) người tham gia; participatory (adj)
+tip: participate in sth = tham gia (luôn "in"); ✗ participate to. "participant" = người tham gia; "participation" = sự tham gia.
+@v
+1. tham gia | Over 200 people *participated* in the survey. | Hơn 200 người đã tham gia khảo sát.
+col: participate in = tham gia vào; participate actively = tham gia tích cực; participate in a workshop = tham gia hội thảo; encouraged to participate = được khuyến khích tham gia; participating stores = cửa hàng tham gia
+prep: participate in sth
+syn: take part in, join, engage in, partake
+ant: withdraw, abstain
+
+# postpone | /poʊstˈpoʊn/
+fam: postponement (n) sự hoãn; postponed (adj)
+tip: postpone V-ing/N (✗ to V) = hoãn lại. "postpone until/to + thời điểm". Khác "cancel" (hủy) – "reschedule" (dời lịch).
+@v
+1. hoãn lại | The meeting was *postponed* until next Tuesday. | Cuộc họp bị hoãn đến thứ Ba tuần sau.
+col: postpone the meeting = hoãn họp; postpone until + time = hoãn đến; postpone V-ing = hoãn việc; be postponed due to = bị hoãn vì; postponed indefinitely = hoãn vô thời hạn
+prep: postpone sth until/to + time
+syn: delay, put off, reschedule, defer
+ant: advance, bring forward, proceed
+
+# prevent | /prɪˈvent/
+fam: prevention (n) sự ngăn ngừa; preventive (adj) phòng ngừa; preventable (adj) có thể ngăn
+tip: prevent sb from V-ing / prevent sth. "preventive maintenance" = bảo trì phòng ngừa; "prevent" ≠ "avoid".
+@v
+1. ngăn ngừa | Regular checks can *prevent* equipment failure. | Kiểm tra định kỳ có thể ngăn thiết bị hỏng.
+col: prevent sb from V-ing = ngăn ai làm; prevent accidents = ngăn ngừa tai nạn; prevent damage = ngăn hư hại; prevent the spread of = ngăn lây lan; to prevent + N = để ngăn
+prep: prevent sb from V-ing
+syn: stop, avert, hinder, block
+ant: allow, enable, cause
+
+# promote | /prəˈmoʊt/
+fam: promotion (n) sự thăng chức, khuyến mãi; promotional (adj) mang tính quảng bá; promoter (n)
+tip: promote = thăng chức / quảng bá / thúc đẩy. "be promoted to + chức vụ"; "promotional offer".
+@v
+1. thăng chức | He was *promoted* to regional manager. | Anh ấy được thăng chức giám đốc khu vực.
+2. quảng bá, thúc đẩy | The campaign aims to *promote* healthy eating. | Chiến dịch nhằm thúc đẩy ăn uống lành mạnh.
+col: promote a product = quảng bá sản phẩm; be promoted to = được thăng chức; promote sales = thúc đẩy doanh số; promote awareness = nâng cao nhận thức; promote teamwork = khuyến khích làm việc nhóm
+prep: be promoted to + chức vụ / promote sth as sth
+syn: advertise, market, advance, boost
+ant: demote, discourage
+
+# reimburse | /ˌriːɪmˈbɜːrs/
+fam: reimbursement (n) sự hoàn trả; reimbursable (adj) có thể hoàn trả
+tip: reimburse sb for sth = hoàn lại tiền cho ai vì chi phí đã ứng. Công tác phí: "travel expenses will be reimbursed".
+@v
+1. hoàn trả (chi phí) | The company will *reimburse* you for travel expenses. | Công ty sẽ hoàn lại chi phí đi lại cho bạn.
+col: reimburse sb for sth = hoàn tiền cho ai vì; reimburse expenses = hoàn chi phí; be fully reimbursed = được hoàn đầy đủ; reimburse the cost = hoàn lại chi phí; reimbursable expenses = chi phí được hoàn
+prep: reimburse sb for sth
+syn: refund, repay, compensate, pay back
+
+# relocate | /ˌriːˈloʊkeɪt/
+fam: relocation (n) việc chuyển địa điểm; locate (v); location (n)
+tip: relocate to + nơi = chuyển đến; "relocation package" = gói hỗ trợ chuyển chỗ làm. Nội/ngoại động từ.
+@v
+1. chuyển (địa điểm) | The headquarters will *relocate* to Singapore next year. | Trụ sở chính sẽ chuyển sang Singapore vào năm tới.
+col: relocate to + nơi = chuyển đến; relocate the office = chuyển văn phòng; relocation assistance = hỗ trợ chuyển nơi; relocate staff = điều chuyển nhân sự; be relocated = được chuyển
+prep: relocate to/from + place
+syn: move, transfer, resettle
+
+# replace | /rɪˈpleɪs/
+fam: replacement (n) sự thay thế; replaceable (adj); irreplaceable (adj)
+tip: replace A with B = thay A bằng B. "replacement part" = linh kiện thay thế. "replace" ≠ "substitute" (substitute A for B).
+@v
+1. thay thế | Please *replace* the old filters with new ones. | Vui lòng thay bộ lọc cũ bằng bộ mới.
+col: replace A with B = thay A bằng B; replace a part = thay linh kiện; be replaced by = bị thay bởi; replace sb as + chức vụ = thay ai làm; free replacement = thay miễn phí
+prep: replace A with B
+syn: substitute, swap, change, supersede
+
+# resolve | /rɪˈzɑːlv/
+fam: resolution (n) sự giải quyết, nghị quyết; resolved (adj) quyết tâm; irresolute (adj)
+tip: resolve a problem/issue/dispute/conflict = giải quyết. "resolve to V" = quyết tâm. "New Year's resolution" = quyết tâm năm mới.
+@v
+1. giải quyết | We *resolved* the issue within an hour. | Chúng tôi giải quyết vấn đề trong vòng một giờ.
+col: resolve a problem = giải quyết vấn đề; resolve a dispute = giải quyết tranh chấp; resolve a complaint = giải quyết khiếu nại; resolve to V = quyết tâm; the issue is resolved = vấn đề đã xong
+syn: solve, settle, fix, sort out
+ant: aggravate, worsen
+
+# retain | /rɪˈteɪn/
+fam: retention (n) sự giữ lại; retainer (n) tiền đặt trước; retained (adj)
+tip: retain employees/customers/information = giữ chân. "employee retention" = tỷ lệ giữ chân nhân viên.
+@v
+1. giữ lại, duy trì | The firm offers bonuses to *retain* top staff. | Công ty đưa ra tiền thưởng để giữ chân nhân viên giỏi.
+col: retain customers = giữ chân khách hàng; retain employees = giữ chân nhân viên; retain a receipt = giữ biên lai; retain information = lưu giữ thông tin; retain its value = giữ giá trị
+syn: keep, maintain, hold on to, preserve
+ant: lose, release, discard
+
+# submit | /səbˈmɪt/
+fam: submission (n) sự nộp; submitted (V2/V3); submittal (n)
+tip: submit a report/application/form/proposal = nộp. submit → submitted → submitting. "submit sth to sb" = nộp cho ai. "submit by + hạn".
+@v
+1. nộp | All applications must be *submitted* by Friday. | Tất cả đơn phải được nộp trước thứ Sáu.
+col: submit an application = nộp đơn; submit a proposal = nộp đề xuất; submit by + deadline = nộp trước; submit sth to sb = nộp cho; submit online = nộp trực tuyến
+prep: submit sth to sb
+syn: hand in, turn in, present, file
+ant: withdraw, retrieve
+
+# transfer | /trænsˈfɜːr/ (v), /ˈtrænsfɜːr/ (n)
+fam: transferable (adj) có thể chuyển; transferred (V2/V3); transference (n)
+tip: transfer to + nơi = chuyển (công tác, trường, tiền): "transfer funds", "transfer to another department". n: sự chuyển/điều chuyển.
+@v
+1. chuyển, điều chuyển | She was *transferred* to the Seoul office. | Cô ấy được điều chuyển đến văn phòng Seoul.
+col: transfer funds = chuyển tiền; transfer to = chuyển đến; transfer a call = chuyển cuộc gọi; transfer ownership = chuyển quyền sở hữu; be transferred = được điều chuyển
+prep: transfer from A to B
+syn: move, relocate, shift, convey
+@n
+1. sự chuyển; chuyển tiếp | The bank *transfer* will take two days. | Việc chuyển khoản mất hai ngày.
+col: bank transfer = chuyển khoản; transfer fee = phí chuyển; data transfer = truyền dữ liệu; transfer student = sinh viên chuyển trường

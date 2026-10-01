@@ -1,0 +1,678 @@
+// ===== TỪ MỞ RỘNG: tính từ hay gặp trong TOEIC =====
+
+# accurate | /ˈækjərət/
+fam: accuracy (n) độ chính xác; accurately (adv); inaccurate (adj) không chính xác
+tip: accurate = chính xác (số liệu, thông tin, đo đạc). "accurate information/measurements". Đuôi -ate (adj).
+@adj
+1. chính xác | Please make sure the figures are *accurate*. | Vui lòng đảm bảo các số liệu chính xác.
+col: accurate information = thông tin chính xác; accurate measurement = số đo chính xác; accurate record = hồ sơ chính xác; highly accurate = rất chính xác; accurate to + số = chính xác đến
+syn: precise, correct, exact, reliable
+ant: inaccurate, incorrect, wrong
+
+# adequate | /ˈædɪkwət/
+fam: adequately (adv) đầy đủ; adequacy (n) sự đầy đủ; inadequate (adj) không đủ
+tip: adequate = đủ (đạt yêu cầu tối thiểu, không xuất sắc). "adequate funding/staff/space", "be adequate for sth".
+@adj
+1. đủ, thỏa đáng | The hotel has *adequate* parking for all guests. | Khách sạn có đủ chỗ đỗ xe cho mọi khách.
+col: adequate time = đủ thời gian; adequate funding = đủ vốn; adequate training = đào tạo đầy đủ; adequate for sth = đủ cho; adequate supply = nguồn cung đủ
+prep: adequate for/to sth
+syn: sufficient, enough, satisfactory, acceptable
+ant: inadequate, insufficient
+
+# additional | /əˈdɪʃənl/
+fam: add (v) thêm; addition (n) sự thêm; additionally (adv) ngoài ra; additive (n)
+tip: additional + N = thêm: "additional charges/information/staff". Nhớ cặp: in addition (to), additionally.
+@adj
+1. thêm, bổ sung | *Additional* charges may apply for late check-out. | Có thể tính phụ phí khi trả phòng muộn.
+col: additional information = thông tin bổ sung; additional charge = phụ phí; additional cost = chi phí thêm; additional staff = nhân sự bổ sung; for additional details = để biết thêm chi tiết
+syn: extra, further, added, supplementary
+ant: original, initial
+
+# applicable | /əˈplɪkəbl/
+fam: apply (v) áp dụng, nộp đơn; application (n); applicability (n)
+tip: applicable to sb/sth = áp dụng cho; "where applicable" = khi có thể áp dụng; "applicable fees/taxes/rules".
+@adj
+1. có thể áp dụng | The discount is *applicable* to all purchases over $50. | Giảm giá áp dụng cho mọi đơn trên 50 đô la.
+col: applicable to = áp dụng cho; where applicable = khi áp dụng được; applicable taxes = thuế áp dụng; applicable laws = luật áp dụng; if applicable = nếu áp dụng
+prep: applicable to sth
+syn: relevant, appropriate, pertinent, suitable
+ant: inapplicable, irrelevant
+
+# available | /əˈveɪləbl/
+fam: availability (n) sự sẵn có; avail (n/v) lợi ích; unavailable (adj) không có sẵn
+tip: "available to sb", "available for sth", "available at/in". "make available" = cung cấp. "subject to availability" = tùy tình trạng còn hàng.
+@adj
+1. có sẵn, rảnh | The report is *available* on our website. | Báo cáo có sẵn trên trang web của chúng tôi.
+2. rảnh, có thể gặp | The manager is not *available* until Friday. | Quản lý không rảnh đến thứ Sáu.
+col: available for sth = có sẵn cho; available to sb = dành cho ai; available online = có trực tuyến; readily available = sẵn có; make available = làm cho có sẵn; subject to availability = tùy còn hàng
+prep: available to sb / available for sth
+syn: obtainable, accessible, free, on hand
+ant: unavailable, busy, occupied
+
+# comprehensive | /ˌkɑːmprɪˈhensɪv/
+fam: comprehend (v) hiểu; comprehension (n) sự hiểu; comprehensively (adv)
+tip: comprehensive = toàn diện, bao gồm mọi khía cạnh: "comprehensive report/guide/review/insurance". Không nhầm với "comprehensible" (có thể hiểu được).
+@adj
+1. toàn diện | The firm offers a *comprehensive* training program. | Công ty cung cấp chương trình đào tạo toàn diện.
+col: comprehensive report = báo cáo toàn diện; comprehensive guide = hướng dẫn đầy đủ; comprehensive review = đánh giá toàn diện; comprehensive insurance = bảo hiểm toàn diện; comprehensive coverage = bao phủ toàn diện
+syn: thorough, complete, extensive, all-inclusive
+ant: limited, partial, incomplete
+
+# confidential | /ˌkɑːnfɪˈdenʃl/
+fam: confidentiality (n) tính bảo mật; confidentially (adv); confide (v) tâm sự; confidence (n) sự tự tin
+tip: confidential = bí mật, mật: "strictly confidential", "confidential information", "confidentiality agreement". Khác confident (tự tin).
+@adj
+1. bí mật | All patient records are strictly *confidential*. | Mọi hồ sơ bệnh nhân đều bảo mật nghiêm ngặt.
+col: strictly confidential = tuyệt mật; confidential information = thông tin mật; keep confidential = giữ bí mật; confidential document = tài liệu mật; confidentiality agreement = thỏa thuận bảo mật
+syn: private, secret, classified, sensitive
+ant: public, open
+
+# consecutive | /kənˈsekjətɪv/
+fam: consecutively (adv) liên tiếp; consecution (n)
+tip: consecutive = liên tiếp (không ngắt quãng): "three consecutive days/years". Khác "successive" (nối tiếp) gần nghĩa.
+@adj
+1. liên tiếp | The company posted profits for five *consecutive* years. | Công ty có lãi trong năm năm liên tiếp.
+col: consecutive days = những ngày liên tiếp; consecutive years = năm liên tiếp; consecutive months = tháng liên tiếp; for the third consecutive time = lần thứ ba liên tiếp; consecutive wins = chiến thắng liên tiếp
+syn: successive, continuous, sequential, running
+ant: intermittent, interrupted
+
+# considerable | /kənˈsɪdərəbl/
+fam: consider (v); consideration (n); considerably (adv); considerate (adj) chu đáo
+tip: considerable = đáng kể (số lượng/mức độ): "considerable amount/effort/time". BẪY: considerate (chu đáo) ≠ considerable (đáng kể).
+@adj
+1. đáng kể | The project required a *considerable* amount of time. | Dự án đòi hỏi lượng thời gian đáng kể.
+col: considerable amount = lượng đáng kể; considerable effort = nỗ lực lớn; considerable experience = nhiều kinh nghiệm; considerable improvement = cải thiện lớn; considerable number of = số lượng lớn
+syn: significant, substantial, sizable, notable
+ant: negligible, slight, small
+
+# consistent | /kənˈsɪstənt/
+fam: consistency (n) tính nhất quán; consistently (adv); inconsistent (adj)
+tip: consistent = nhất quán/ổn định. "be consistent with" = phù hợp với; "consistent quality". Đừng nhầm "consistence".
+@adj
+1. nhất quán, ổn định | The restaurant is known for *consistent* quality. | Nhà hàng nổi tiếng với chất lượng ổn định.
+col: consistent quality = chất lượng ổn định; consistent with = phù hợp với; consistent performance = hiệu suất ổn định; consistent growth = tăng trưởng đều; remain consistent = giữ nhất quán
+prep: consistent with sth
+syn: steady, reliable, uniform, constant
+ant: inconsistent, erratic, variable
+
+# current | /ˈkɜːrənt/
+fam: currently (adv) hiện nay; currency (n) tiền tệ; current (n) dòng, luồng
+tip: current (adj) = hiện tại: "current employees/address/offer". BẪY: current (adj, hiện tại) ≠ recent (gần đây). (n) = dòng (điện, nước).
+@adj
+1. hiện tại | Please update your *current* address. | Vui lòng cập nhật địa chỉ hiện tại của bạn.
+col: current employee = nhân viên hiện tại; current address = địa chỉ hiện tại; current state = tình trạng hiện nay; current trends = xu hướng hiện nay; current situation = tình hình hiện tại
+syn: present, existing, ongoing, up-to-date
+ant: former, past, previous, outdated
+@n
+1. dòng (điện, nước), xu hướng | An electric *current* flows through the wire. | Dòng điện chạy qua dây dẫn.
+col: electric current = dòng điện; ocean current = dòng hải lưu; against the current = ngược dòng
+
+# defective | /dɪˈfektɪv/
+fam: defect (n) khuyết điểm; defectively (adv)
+tip: defective = bị lỗi/hỏng (sản phẩm). "defective product/item/part", "return a defective item". Gốc defect (n).
+@adj
+1. bị lỗi | Customers may return *defective* products within 30 days. | Khách hàng có thể trả sản phẩm lỗi trong vòng 30 ngày.
+col: defective product = sản phẩm lỗi; defective item = món hàng lỗi; defective part = linh kiện lỗi; defective equipment = thiết bị lỗi; found to be defective = bị phát hiện lỗi
+syn: faulty, flawed, broken, imperfect
+ant: flawless, perfect, intact
+
+# detailed | /ˈdiːteɪld/
+fam: detail (n/v) chi tiết; details (n); detailing (n)
+tip: detailed = chi tiết, tỉ mỉ: "a detailed report/description". "for further details" = để biết thêm chi tiết. "in detail".
+@adj
+1. chi tiết | The report includes a *detailed* analysis of sales. | Báo cáo gồm phân tích chi tiết về doanh số.
+col: detailed report = báo cáo chi tiết; detailed description = mô tả chi tiết; detailed information = thông tin chi tiết; detailed plan = kế hoạch chi tiết; detailed instructions = hướng dẫn chi tiết
+syn: thorough, comprehensive, in-depth, itemized
+ant: vague, brief, general
+
+# eligible | /ˈelɪdʒəbl/
+fam: eligibility (n) tính đủ điều kiện; ineligible (adj) không đủ điều kiện
+tip: be eligible for sth / be eligible to V = đủ điều kiện (nhận, làm). "eligibility requirements". Phân biệt với "legible" (dễ đọc).
+@adj
+1. đủ điều kiện | Full-time employees are *eligible* for health insurance. | Nhân viên toàn thời gian đủ điều kiện nhận bảo hiểm y tế.
+col: eligible for sth = đủ điều kiện nhận; eligible to V = đủ điều kiện làm; eligible employees = nhân viên đủ điều kiện; eligible customers = khách hàng đủ điều kiện; eligibility criteria = tiêu chí đủ điều kiện
+prep: eligible for sth / eligible to V
+syn: qualified, entitled, suitable, fit
+ant: ineligible, unqualified
+
+# essential | /ɪˈsenʃl/
+fam: essence (n) bản chất; essentially (adv) về cơ bản; essentials (n) thiết yếu
+tip: essential = thiết yếu, cần thiết: "essential for/to sth", "it is essential that + S + (should) V". "essential items".
+@adj
+1. thiết yếu | Good communication is *essential* for teamwork. | Giao tiếp tốt là thiết yếu để làm việc nhóm.
+col: essential for/to sth = thiết yếu cho; essential items = đồ thiết yếu; essential skills = kỹ năng thiết yếu; absolutely essential = hoàn toàn cần thiết; essential service = dịch vụ thiết yếu
+prep: essential for/to sth
+syn: vital, crucial, necessary, key
+ant: optional, unnecessary, nonessential
+
+# exclusive | /ɪkˈskluːsɪv/
+fam: exclusively (adv) độc quyền; exclude (v) loại trừ; exclusion (n); exclusivity (n)
+tip: exclusive = độc quyền/dành riêng/cao cấp: "exclusive offer/rights/interview". "exclusive of" = chưa bao gồm.
+@adj
+1. độc quyền, dành riêng | Members receive an *exclusive* discount. | Hội viên được hưởng ưu đãi dành riêng.
+col: exclusive offer = ưu đãi độc quyền; exclusive rights = quyền độc quyền; exclusive interview = phỏng vấn độc quyền; exclusive club = câu lạc bộ cao cấp; exclusive of tax = chưa gồm thuế
+syn: sole, restricted, private, elite
+ant: inclusive, common, shared
+
+# extensive | /ɪkˈstensɪv/
+fam: extend (v) mở rộng; extension (n); extent (n) mức độ; extensively (adv)
+tip: extensive = rộng rãi, sâu rộng: "extensive experience/research/damage/network". Không phải "expensive" (đắt).
+@adj
+1. rộng, sâu rộng | She has *extensive* experience in marketing. | Cô ấy có kinh nghiệm sâu rộng về tiếp thị.
+col: extensive experience = kinh nghiệm dày dặn; extensive research = nghiên cứu sâu rộng; extensive damage = thiệt hại nghiêm trọng; extensive network = mạng lưới rộng; extensive range = phạm vi rộng
+syn: broad, wide-ranging, comprehensive, thorough
+ant: limited, narrow, minimal
+
+# flexible | /ˈfleksəbl/
+fam: flexibility (n) sự linh hoạt; flexibly (adv); flex (n/v); inflexible (adj)
+tip: flexible = linh hoạt: "flexible hours/schedule/policy". "flexible working arrangement". Danh từ: flexibility.
+@adj
+1. linh hoạt | The company offers *flexible* working hours. | Công ty có giờ làm việc linh hoạt.
+col: flexible hours = giờ làm linh hoạt; flexible schedule = lịch linh hoạt; flexible policy = chính sách linh hoạt; flexible payment = thanh toán linh hoạt; remain flexible = giữ sự linh hoạt
+syn: adaptable, adjustable, versatile, accommodating
+ant: rigid, inflexible, fixed
+
+# mandatory | /ˈmændətɔːri/
+fam: mandate (n/v) sự ủy nhiệm; mandated (adj); mandatorily
+tip: mandatory = bắt buộc: "mandatory training/attendance", "it is mandatory to V". Đối lập: optional, voluntary.
+@adj
+1. bắt buộc | Attendance at the safety briefing is *mandatory*. | Việc tham dự buổi hướng dẫn an toàn là bắt buộc.
+col: mandatory training = đào tạo bắt buộc; mandatory attendance = tham dự bắt buộc; mandatory retirement = nghỉ hưu bắt buộc; mandatory fee = phí bắt buộc; mandatory requirement = yêu cầu bắt buộc
+syn: compulsory, required, obligatory, essential
+ant: optional, voluntary, elective
+
+# optional | /ˈɑːpʃənl/
+fam: option (n) lựa chọn; opt (v) chọn; optionally (adv)
+tip: optional = tùy chọn (không bắt buộc): "optional extras", "optional attendance". Cặp: option (n) – optional (adj).
+@adj
+1. tùy chọn | Breakfast is *optional* and costs extra. | Bữa sáng là tùy chọn và tính thêm phí.
+col: optional extras = phụ kiện tùy chọn; optional feature = tính năng tùy chọn; strictly optional = hoàn toàn tùy ý; optional training = đào tạo không bắt buộc; optional equipment = thiết bị tùy chọn
+syn: voluntary, elective, discretionary, non-compulsory
+ant: mandatory, compulsory, required
+
+# outstanding | /aʊtˈstændɪŋ/
+fam: outstand (v hiếm); standing (adj/n)
+tip: outstanding = xuất sắc HOẶC chưa thanh toán/còn tồn: "outstanding performance" / "outstanding balance/invoice" (số dư còn nợ).
+@adj
+1. xuất sắc | She received an award for *outstanding* service. | Cô ấy nhận giải vì dịch vụ xuất sắc.
+2. còn nợ, chưa giải quyết | The *outstanding* balance must be paid by Friday. | Số dư còn nợ phải được thanh toán trước thứ Sáu.
+col: outstanding performance = thành tích xuất sắc; outstanding balance = số dư nợ; outstanding payment = khoản chưa thanh toán; outstanding issues = vấn đề chưa giải quyết; outstanding achievement = thành tựu xuất sắc
+syn: exceptional, remarkable, excellent (1); unpaid, overdue, pending (2)
+ant: ordinary, average (1); paid, settled (2)
+
+# preliminary | /prɪˈlɪmɪneri/
+fam: preliminaries (n) bước chuẩn bị; prelim (n)
+tip: preliminary = sơ bộ, mở đầu: "preliminary results/report/estimate/round". Tương tự: initial, tentative, advance.
+@adj
+1. sơ bộ | The *preliminary* results will be released next week. | Kết quả sơ bộ sẽ được công bố vào tuần sau.
+col: preliminary results = kết quả sơ bộ; preliminary report = báo cáo sơ bộ; preliminary estimate = ước tính sơ bộ; preliminary round = vòng sơ loại; preliminary meeting = cuộc họp sơ bộ
+syn: initial, preparatory, introductory, early
+ant: final, concluding, definitive
+
+# prominent | /ˈprɑːmɪnənt/
+fam: prominence (n) sự nổi bật; prominently (adv)
+tip: prominent = nổi bật, nổi tiếng; "prominently displayed" = được trưng bày nổi bật. "a prominent figure/businessman".
+@adj
+1. nổi bật, có tiếng | She is a *prominent* member of the business community. | Bà là thành viên có tiếng trong giới kinh doanh.
+col: prominent figure = nhân vật nổi bật; prominent position = vị trí nổi bật; prominently displayed = trưng bày nổi bật; prominent role = vai trò nổi bật; prominent feature = đặc điểm nổi bật
+syn: leading, well-known, notable, eminent
+ant: obscure, unknown, minor
+
+# qualified | /ˈkwɑːlɪfaɪd/
+fam: qualify (v) đủ điều kiện; qualification (n) trình độ; unqualified (adj); overqualified (adj)
+tip: qualified = đủ trình độ/chứng chỉ: "be qualified for/to V". "highly qualified candidate". Phân biệt "qualified" – "qualification".
+@adj
+1. đủ trình độ | We are looking for a *qualified* electrician. | Chúng tôi đang tìm thợ điện có chuyên môn.
+col: qualified candidate = ứng viên đủ tiêu chuẩn; highly qualified = rất đủ trình độ; qualified for sth = đủ trình độ cho; qualified to V = đủ tư cách làm; fully qualified = đủ chứng chỉ
+prep: qualified for sth / qualified to V
+syn: skilled, competent, certified, eligible
+ant: unqualified, incompetent
+
+# relevant | /ˈrelɪvənt/
+fam: relevance (n) sự liên quan; irrelevant (adj) không liên quan; relevantly
+tip: relevant to sth = liên quan đến: "relevant experience/information/documents". Cặp: relevant ↔ irrelevant.
+@adj
+1. liên quan | Please attach all *relevant* documents. | Vui lòng đính kèm mọi tài liệu liên quan.
+col: relevant experience = kinh nghiệm liên quan; relevant information = thông tin liên quan; relevant to sth = liên quan đến; relevant documents = tài liệu liên quan; highly relevant = rất liên quan
+prep: relevant to sth
+syn: pertinent, related, applicable, appropriate
+ant: irrelevant, unrelated
+
+# respective | /rɪˈspektɪv/
+fam: respectively (adv) tương ứng; respect (n/v) sự tôn trọng; respectful (adj)
+tip: BẪY: respective (tương ứng, của riêng từng người) ≠ respectful (kính trọng) ≠ respectable (đáng kính). "their respective departments".
+@adj
+1. tương ứng, riêng | Employees should return to their *respective* departments. | Nhân viên nên về các phòng ban tương ứng của mình.
+col: their respective + N = N tương ứng của họ; respective roles = vai trò riêng; respective offices = văn phòng tương ứng; respective owners = chủ sở hữu tương ứng; in their respective fields = trong lĩnh vực riêng
+syn: individual, own, particular, relevant
+use: Luôn đi với danh từ số nhiều và có sở hữu cách (their/our respective...).
+
+# responsible | /rɪˈspɑːnsəbl/
+fam: responsibility (n) trách nhiệm; responsibly (adv); irresponsible (adj)
+tip: be responsible for sth = chịu trách nhiệm về; "responsible for" ≠ "responsible to" (chịu trách nhiệm trước ai). "responsible person".
+@adj
+1. chịu trách nhiệm | Who is *responsible* for the budget? | Ai chịu trách nhiệm về ngân sách?
+2. có trách nhiệm | She is a very *responsible* employee. | Cô ấy là nhân viên rất có trách nhiệm.
+col: responsible for sth = chịu trách nhiệm về; responsible to sb = chịu trách nhiệm trước ai; hold sb responsible = quy trách nhiệm cho ai; be directly responsible = chịu trách nhiệm trực tiếp; socially responsible = có trách nhiệm xã hội
+prep: responsible for sth / responsible to sb
+syn: accountable, in charge, answerable (1); reliable, dependable (2)
+ant: irresponsible, careless
+
+# significant | /sɪɡˈnɪfɪkənt/
+fam: significance (n) tầm quan trọng; significantly (adv); signify (v); insignificant (adj)
+tip: significant = đáng kể, quan trọng: "a significant increase/change/difference". Tương tự considerable, substantial.
+@adj
+1. đáng kể, quan trọng | The company reported a *significant* increase in profits. | Công ty báo cáo lợi nhuận tăng đáng kể.
+col: significant increase = tăng đáng kể; significant change = thay đổi lớn; significant difference = khác biệt đáng kể; significant impact = tác động lớn; highly significant = rất quan trọng
+syn: considerable, substantial, notable, important
+ant: insignificant, trivial, minor, negligible
+
+# sufficient | /səˈfɪʃnt/
+fam: suffice (v) đủ; sufficiency (n); sufficiently (adv); insufficient (adj)
+tip: sufficient = đủ (cho nhu cầu): "sufficient funds/evidence/time". "be sufficient for sth". Cặp: sufficient ↔ insufficient (không đủ).
+@adj
+1. đủ | We do not have *sufficient* funds to expand. | Chúng tôi không có đủ vốn để mở rộng.
+col: sufficient funds = đủ vốn; sufficient time = đủ thời gian; sufficient evidence = đủ bằng chứng; sufficient for sth = đủ cho; more than sufficient = quá đủ
+prep: sufficient for sth
+syn: enough, adequate, ample, satisfactory
+ant: insufficient, inadequate, lacking
+
+# suitable | /ˈsuːtəbl/
+fam: suit (v/n) phù hợp, bộ vest; suitability (n); suitably (adv); unsuitable (adj)
+tip: suitable for sb/sth = phù hợp cho; "suitable candidate/location/time". Cặp: suit (v) – suitable (adj).
+@adj
+1. phù hợp | The hall is *suitable* for large events. | Hội trường phù hợp cho sự kiện lớn.
+col: suitable for sb/sth = phù hợp cho; suitable candidate = ứng viên phù hợp; suitable location = vị trí phù hợp; suitable time = thời điểm phù hợp; find a suitable = tìm một... phù hợp
+prep: suitable for/to sth
+syn: appropriate, fit, right, proper
+ant: unsuitable, inappropriate
+
+# temporary | /ˈtempəreri/
+fam: temporarily (adv) tạm thời; temp (n) nhân viên tạm thời
+tip: temporary = tạm thời: "temporary worker/staff/closure/position". "temp agency" = công ty cung ứng nhân sự thời vụ.
+@adj
+1. tạm thời | The road will have a *temporary* closure next week. | Con đường sẽ tạm đóng vào tuần sau.
+col: temporary staff = nhân viên tạm thời; temporary closure = tạm đóng; temporary position = vị trí tạm thời; temporary fix = giải pháp tạm; temporary worker = lao động thời vụ
+syn: provisional, interim, short-term, transient
+ant: permanent, lasting, long-term
+
+# unprecedented | /ʌnˈpresɪdentɪd/
+fam: precedent (n) tiền lệ; precede (v) đi trước; unprecedentedly (adv)
+tip: unprecedented = chưa từng có tiền lệ: "unprecedented growth/demand/success". Hay trong bản tin kinh tế.
+@adj
+1. chưa từng có | The company saw *unprecedented* growth last year. | Công ty có tăng trưởng chưa từng có vào năm ngoái.
+col: unprecedented growth = tăng trưởng chưa từng có; unprecedented demand = nhu cầu chưa từng có; unprecedented level = mức chưa từng thấy; unprecedented success = thành công chưa từng có; unprecedented times = thời kỳ chưa từng có
+syn: unparalleled, record-breaking, unique, exceptional
+ant: ordinary, typical, usual
+
+# valid | /ˈvælɪd/
+fam: validity (n) tính hợp lệ; validate (v); invalid (adj) không hợp lệ; validly (adv)
+tip: valid = hợp lệ, còn hiệu lực: "valid ID/ticket/passport/coupon". "valid for 30 days", "valid until".
+@adj
+1. hợp lệ, còn hiệu lực | The ticket is *valid* for three months. | Vé có hiệu lực trong ba tháng.
+col: valid for + thời gian = có hiệu lực trong; valid ID = giấy tờ hợp lệ; valid passport = hộ chiếu còn hạn; valid until = có hiệu lực đến; valid reason = lý do chính đáng
+prep: valid for + time / valid until + date
+syn: legitimate, legal, effective, current
+ant: invalid, expired, void
+
+# vacant | /ˈveɪkənt/
+fam: vacancy (n) chỗ trống; vacate (v) bỏ trống
+tip: vacant = trống (phòng, ghế, vị trí, nhà): "vacant position/seat/room". Đối lập: occupied. "vacancy" (n).
+@adj
+1. trống | The position has been *vacant* since March. | Vị trí này bỏ trống từ tháng Ba.
+col: vacant position = vị trí trống; vacant seat = ghế trống; vacant room = phòng trống; vacant land = đất trống; become vacant = trở nên trống
+syn: empty, unoccupied, free, available
+ant: occupied, taken, full
+
+# versatile | /ˈvɜːrsətl/
+fam: versatility (n) tính đa năng
+tip: versatile = đa năng, linh hoạt (người/sản phẩm có nhiều công dụng/kỹ năng): "a versatile tool/employee".
+@adj
+1. đa năng | The tablet is a *versatile* device for work and play. | Máy tính bảng là thiết bị đa năng cho cả công việc lẫn giải trí.
+col: versatile tool = công cụ đa năng; versatile player = người chơi đa năng; highly versatile = rất linh hoạt; versatile design = thiết kế đa năng; versatile employee = nhân viên đa năng
+syn: adaptable, flexible, multipurpose, all-round
+ant: limited, specialized
+
+# vital | /ˈvaɪtl/
+fam: vitality (n) sức sống; vitally (adv); vitals (n)
+tip: vital = thiết yếu, quan trọng bậc nhất: "vital to/for sth", "vital role/information". "vital signs" = dấu hiệu sinh tồn.
+@adj
+1. thiết yếu | Teamwork is *vital* to our success. | Làm việc nhóm là thiết yếu với thành công của chúng ta.
+col: vital to/for sth = thiết yếu đối với; vital role = vai trò quan trọng; vital information = thông tin thiết yếu; vital importance = tầm quan trọng sống còn; vital signs = dấu hiệu sinh tồn
+prep: vital to/for sth
+syn: essential, crucial, critical, key
+ant: unimportant, trivial, minor
+
+# durable | /ˈdʊrəbl/
+fam: durability (n) độ bền; endure (v) chịu đựng; duration (n) khoảng thời gian
+tip: durable = bền (vật liệu, hàng hóa): "durable goods" (hàng lâu bền), "durable materials", "long-lasting".
+@adj
+1. bền | The backpack is made of *durable* material. | Chiếc ba lô làm từ chất liệu bền.
+col: durable goods = hàng lâu bền; durable material = vật liệu bền; highly durable = rất bền; durable and lightweight = bền và nhẹ; durable construction = kết cấu bền
+syn: sturdy, long-lasting, tough, strong
+ant: fragile, flimsy, perishable
+
+# eco-friendly | /ˈiːkoʊ ˈfrendli/
+fam: ecology (n); friendly (adj); user-friendly (adj)
+tip: eco-friendly = thân thiện với môi trường. Tính từ ghép với -friendly: user-friendly, family-friendly, budget-friendly, pet-friendly.
+@adj
+1. thân thiện với môi trường | The hotel uses *eco-friendly* cleaning products. | Khách sạn sử dụng sản phẩm tẩy rửa thân thiện với môi trường.
+col: eco-friendly products = sản phẩm thân thiện môi trường; eco-friendly packaging = bao bì thân thiện; eco-friendly materials = vật liệu xanh; eco-friendly design = thiết kế xanh; user-friendly = dễ sử dụng
+syn: green, environmentally friendly, sustainable
+ant: harmful, polluting
+
+# fragile | /ˈfrædʒl/
+fam: fragility (n) tính dễ vỡ; fragilely
+tip: fragile = dễ vỡ (hàng hóa): nhãn "Fragile – Handle with care". Cũng = mong manh (nền kinh tế).
+@adj
+1. dễ vỡ | Please handle these *fragile* items with care. | Vui lòng cầm các món hàng dễ vỡ này cẩn thận.
+col: fragile items = hàng dễ vỡ; handle with care = cẩn thận khi cầm; fragile goods = hàng dễ vỡ; fragile economy = nền kinh tế mong manh; extremely fragile = cực kỳ dễ vỡ
+syn: delicate, breakable, brittle, flimsy
+ant: sturdy, durable, robust
+
+# ideal | /aɪˈdiːəl/
+fam: idea (n) ý tưởng; ideally (adv) lý tưởng nhất; idealize (v); idealistic (adj)
+tip: ideal (adj) = lý tưởng; (n) = lý tưởng/chuẩn mực. "ideal for sth", "the ideal candidate". "ideally" (adv) = lý tưởng nhất là.
+@adj
+1. lý tưởng | The location is *ideal* for a small business. | Vị trí này lý tưởng cho một doanh nghiệp nhỏ.
+col: ideal for sth = lý tưởng cho; ideal candidate = ứng viên lý tưởng; ideal location = vị trí lý tưởng; ideal solution = giải pháp lý tưởng; ideal conditions = điều kiện lý tưởng
+prep: ideal for/to sth
+syn: perfect, best, optimal, excellent
+ant: worst, unsuitable
+@n
+1. lý tưởng | The company is built on the *ideal* of customer service. | Công ty được xây dựng trên lý tưởng phục vụ khách hàng.
+
+# imminent | /ˈɪmɪnənt/
+fam: imminence (n); imminently (adv)
+tip: BẪY: imminent (sắp xảy ra) ≠ eminent (lỗi lạc) ≠ immanent. "imminent arrival/departure/danger".
+@adj
+1. sắp xảy ra | The storm is *imminent*, so please stay indoors. | Bão sắp đến, vì vậy hãy ở trong nhà.
+col: imminent danger = nguy hiểm cận kề; imminent arrival = sắp đến; imminent departure = sắp rời đi; imminent threat = mối đe dọa sắp xảy ra; be imminent = sắp xảy ra
+syn: impending, approaching, forthcoming, looming
+ant: distant, remote
+
+# incoming | /ˈɪnkʌmɪŋ/
+fam: outgoing (adj) hướng ngoại; income (n); incoming call
+tip: incoming = đến, sắp nhậm chức: "incoming call/mail/flights" ↔ "outgoing"; "the incoming CEO" = giám đốc sắp nhậm chức.
+@adj
+1. đang đến, sắp nhậm chức | Please answer all *incoming* calls promptly. | Vui lòng trả lời mọi cuộc gọi đến nhanh chóng.
+col: incoming call = cuộc gọi đến; incoming mail = thư đến; incoming flight = chuyến bay đến; incoming CEO = tổng giám đốc sắp nhậm chức; incoming students = tân sinh viên
+syn: arriving, inbound, upcoming, new
+ant: outgoing, departing, outbound
+
+# insufficient | /ˌɪnsəˈfɪʃnt/
+fam: sufficient (adj) đủ; insufficiently (adv); insufficiency (n)
+tip: insufficient = không đủ (về số lượng): "insufficient funds" (tài khoản không đủ tiền), "insufficient evidence". Trái nghĩa sufficient.
+@adj
+1. không đủ | The transaction failed due to *insufficient* funds. | Giao dịch thất bại do không đủ tiền.
+col: insufficient funds = không đủ tiền; insufficient evidence = không đủ bằng chứng; insufficient time = không đủ thời gian; insufficient information = thiếu thông tin; insufficient staff = thiếu nhân sự
+syn: inadequate, lacking, deficient, scant
+ant: sufficient, adequate, ample
+
+# lengthy | /ˈleŋθi/
+fam: length (n) chiều dài; lengthen (v) kéo dài; long (adj)
+tip: lengthy = dài dòng/kéo dài (thường hơi tiêu cực, về thời gian/văn bản): "lengthy process/report/delay".
+@adj
+1. kéo dài, dài dòng | The approval process is *lengthy*. | Quy trình phê duyệt rất mất thời gian.
+col: lengthy process = quy trình kéo dài; lengthy report = báo cáo dài dòng; lengthy delay = chậm trễ kéo dài; lengthy negotiations = đàm phán kéo dài; lengthy discussion = thảo luận dài
+syn: long, extended, prolonged, drawn-out
+ant: brief, short, concise
+
+# notable | /ˈnoʊtəbl/
+fam: note (v/n) ghi chú; notably (adv) đáng chú ý là; notability (n); notables (n) người nổi tiếng
+tip: notable = đáng chú ý, nổi tiếng: "notable for sth" = nổi tiếng về; "notable exception". "notably" (adv) = đặc biệt là.
+@adj
+1. đáng chú ý | The film is *notable* for its special effects. | Bộ phim đáng chú ý nhờ kỹ xảo.
+col: notable for sth = nổi tiếng vì; notable achievement = thành tựu đáng chú ý; notable exception = ngoại lệ đáng chú ý; notable absence = sự vắng mặt đáng chú ý; notable improvement = cải thiện đáng kể
+prep: notable for sth
+syn: remarkable, noteworthy, significant, prominent
+ant: ordinary, unremarkable
+
+# obsolete | /ˌɑːbsəˈliːt/
+fam: obsolescence (n) sự lỗi thời; obsolescent (adj)
+tip: obsolete = lỗi thời, không còn dùng (công nghệ/thiết bị): "obsolete equipment/software", "become obsolete". Mạnh hơn outdated.
+@adj
+1. lỗi thời | The old software has become *obsolete*. | Phần mềm cũ đã trở nên lỗi thời.
+col: become obsolete = trở nên lỗi thời; obsolete equipment = thiết bị lỗi thời; obsolete technology = công nghệ cũ; render obsolete = làm lỗi thời; obsolete model = mẫu đã lỗi thời
+syn: outdated, outmoded, old-fashioned, antiquated
+ant: modern, current, up-to-date
+
+# overdue | /ˌoʊvərˈduː/
+fam: due (adj) đến hạn; overdraft (n) thấu chi; overdo (v)
+tip: overdue = quá hạn (trả tiền, trả sách, trả hóa đơn): "overdue payment/invoice/notice". "long overdue" = đáng ra phải làm từ lâu.
+@adj
+1. quá hạn | Your payment is two weeks *overdue*. | Khoản thanh toán của bạn đã quá hạn hai tuần.
+col: overdue payment = khoản quá hạn; overdue invoice = hóa đơn quá hạn; overdue notice = thông báo quá hạn; long overdue = đáng ra từ lâu; overdue library books = sách thư viện quá hạn
+syn: late, delayed, past due, belated
+ant: early, on time, prompt
+
+# perishable | /ˈperɪʃəbl/
+fam: perish (v) hư hỏng, chết; perishables (n) hàng dễ hỏng
+tip: perishable = dễ hỏng (thực phẩm tươi): "perishable goods/items/food". "perishables" (n) = hàng tươi sống.
+@adj
+1. dễ hỏng | *Perishable* goods must be refrigerated. | Hàng dễ hỏng phải được bảo quản lạnh.
+col: perishable goods = hàng dễ hỏng; perishable food = thực phẩm dễ hỏng; perishable items = món dễ hỏng; highly perishable = rất dễ hỏng; non-perishable = không dễ hỏng
+syn: spoilable, short-lived, fresh
+ant: durable, non-perishable
+
+# portable | /ˈpɔːrtəbl/
+fam: port (n) cảng; portability (n) tính di động; transport (v)
+tip: portable = xách tay, di động: "portable device/charger/speaker". "portability" (n).
+@adj
+1. xách tay, di động | The speaker is *portable* and easy to carry. | Loa này nhỏ gọn và dễ mang theo.
+col: portable device = thiết bị di động; portable charger = sạc dự phòng; portable computer = máy tính xách tay; lightweight and portable = nhẹ và dễ mang; portable heater = máy sưởi di động
+syn: mobile, handy, compact, movable
+ant: fixed, stationary, immobile
+
+# practical | /ˈpræktɪkl/
+fam: practice (n/v) thực hành; practically (adv) gần như; practicality (n); impractical (adj)
+tip: practical = thiết thực, thực tế: "practical experience/advice/solution". Cặp: practical (adj) – practically (adv, gần như) – practice (n).
+@adj
+1. thiết thực | The training offers *practical* advice for new managers. | Khóa đào tạo đưa ra lời khuyên thiết thực cho quản lý mới.
+col: practical experience = kinh nghiệm thực tế; practical advice = lời khuyên thiết thực; practical solution = giải pháp thực tế; practical skills = kỹ năng thực hành; practical purposes = mục đích thực tế
+syn: useful, realistic, sensible, functional
+ant: impractical, theoretical, unrealistic
+
+# premium | /ˈpriːmiəm/
+fam: premium (n) phí bảo hiểm, phần thưởng
+tip: premium (adj) = cao cấp; (n) = phí bảo hiểm / tiền phụ trội: "premium service", "insurance premium", "at a premium" = giá cao hơn bình thường.
+@adj
+1. cao cấp | The airline offers *premium* seating at an extra cost. | Hãng bay có ghế cao cấp với phụ phí.
+col: premium service = dịch vụ cao cấp; premium brand = thương hiệu cao cấp; premium quality = chất lượng hảo hạng; premium membership = hội viên cao cấp; premium price = giá cao cấp
+syn: high-quality, deluxe, superior, top-tier
+ant: budget, basic, standard
+@n
+1. phí bảo hiểm; phụ phí | The monthly insurance *premium* has increased. | Phí bảo hiểm hằng tháng đã tăng.
+col: insurance premium = phí bảo hiểm; at a premium = với giá cao; pay a premium = trả phí phụ trội
+
+# punctual | /ˈpʌŋktʃuəl/
+fam: punctuality (n) sự đúng giờ; punctually (adv)
+tip: punctual = đúng giờ: "be punctual for sth". "punctuality" (n). Dễ nhầm với "prompt" (nhanh chóng).
+@adj
+1. đúng giờ | All staff are expected to be *punctual* for meetings. | Mọi nhân viên được kỳ vọng đến họp đúng giờ.
+col: be punctual for sth = đúng giờ cho; punctual arrival = đến đúng giờ; punctual delivery = giao hàng đúng giờ; always punctual = luôn đúng giờ; punctual service = dịch vụ đúng giờ
+prep: punctual for/with sth
+syn: on time, prompt, timely, reliable
+ant: late, tardy, unpunctual
+
+# rapid | /ˈræpɪd/
+fam: rapidly (adv) nhanh chóng; rapidity (n); rapids (n) thác ghềnh
+tip: rapid = nhanh (sự thay đổi/tăng trưởng): "rapid growth/expansion/response". Khác fast (tốc độ), rapid dùng cho quá trình.
+@adj
+1. nhanh chóng | The company is experiencing *rapid* growth. | Công ty đang tăng trưởng nhanh chóng.
+col: rapid growth = tăng trưởng nhanh; rapid expansion = mở rộng nhanh; rapid response = phản hồi nhanh; rapid change = thay đổi nhanh; rapid decline = giảm nhanh
+syn: quick, swift, fast, speedy
+ant: slow, gradual
+
+# renowned | /rɪˈnaʊnd/
+fam: renown (n) danh tiếng; renowned for sth
+tip: renowned for sth = nổi tiếng về: "a renowned chef/artist/university". Giống "famous", "well-known", "celebrated".
+@adj
+1. nổi tiếng | The city is *renowned* for its architecture. | Thành phố nổi tiếng với kiến trúc.
+col: renowned for sth = nổi tiếng về; internationally renowned = nổi tiếng quốc tế; world-renowned = nổi tiếng thế giới; renowned chef = đầu bếp nổi tiếng; renowned expert = chuyên gia danh tiếng
+prep: renowned for sth / renowned as sth
+syn: famous, celebrated, well-known, distinguished
+ant: unknown, obscure
+
+# resistant | /rɪˈzɪstənt/
+fam: resist (v) chống lại; resistance (n) sự kháng cự; irresistible (adj)
+tip: resistant to sth = chống lại, kháng: "water-resistant", "heat-resistant", "resistant to change". "waterproof" (không thấm hoàn toàn) vs "water-resistant".
+@adj
+1. chống chịu, kháng | The jacket is *resistant* to water. | Chiếc áo khoác chống thấm nước.
+col: resistant to sth = chống lại; water-resistant = chống nước; heat-resistant = chịu nhiệt; scratch-resistant = chống xước; resistant to change = ngại thay đổi
+prep: resistant to sth
+syn: immune, proof, tough, impervious
+ant: vulnerable, susceptible
+
+# scarce | /skers/
+fam: scarcity (n) sự khan hiếm; scarcely (adv) hầu như không
+tip: scarce = khan hiếm: "scarce resources". BẪY: scarcely = hầu như không (như hardly), không phải "khan hiếm". "make oneself scarce".
+@adj
+1. khan hiếm | Water is *scarce* in the region. | Nước khan hiếm trong vùng.
+col: scarce resources = nguồn lực khan hiếm; become scarce = trở nên khan hiếm; scarce supplies = nguồn cung khan hiếm; scarce commodity = hàng hiếm; scarce funds = vốn hạn hẹp
+syn: rare, limited, sparse, insufficient
+ant: plentiful, abundant, ample
+
+# seasonal | /ˈsiːzənl/
+fam: season (n) mùa; seasonally (adv); seasoned (adj) dày dạn
+tip: seasonal = theo mùa: "seasonal workers/sales/products/demand". "peak season" = mùa cao điểm; "off-season" = mùa thấp điểm.
+@adj
+1. theo mùa | The store hires *seasonal* staff for the holidays. | Cửa hàng thuê nhân viên thời vụ cho dịp lễ.
+col: seasonal workers = lao động thời vụ; seasonal sales = bán hàng theo mùa; seasonal products = sản phẩm theo mùa; seasonal demand = nhu cầu theo mùa; seasonal fruit = trái cây theo mùa
+syn: periodic, cyclical, time-limited
+ant: year-round, permanent
+
+# tentative | /ˈtentətɪv/
+fam: tentatively (adv) tạm thời, dè dặt
+tip: tentative = dự kiến, chưa chắc chắn: "tentative schedule/agreement/plan". Có thể thay đổi. "tentatively scheduled for".
+@adj
+1. dự kiến, chưa chắc chắn | A *tentative* agreement was reached between the parties. | Hai bên đã đạt thỏa thuận sơ bộ.
+col: tentative schedule = lịch dự kiến; tentative agreement = thỏa thuận sơ bộ; tentative plan = kế hoạch dự kiến; tentative date = ngày tạm định; tentatively scheduled = tạm lên lịch
+syn: provisional, preliminary, uncertain, unconfirmed
+ant: definite, confirmed, final
+
+# upcoming | /ˈʌpkʌmɪŋ/
+fam: come up (phr v) đến, nảy sinh; forthcoming (adj)
+tip: upcoming = sắp tới (sự kiện): "upcoming event/meeting/release". Cùng nghĩa: forthcoming, impending (nhưng sắc thái khác).
+@adj
+1. sắp tới | Please prepare for the *upcoming* inspection. | Vui lòng chuẩn bị cho đợt kiểm tra sắp tới.
+col: upcoming event = sự kiện sắp tới; upcoming meeting = cuộc họp sắp tới; upcoming release = bản phát hành sắp tới; upcoming deadline = hạn chót sắp tới; upcoming changes = thay đổi sắp tới
+syn: forthcoming, approaching, impending, future
+ant: past, previous
+
+# urgent | /ˈɜːrdʒənt/
+fam: urgency (n) sự khẩn cấp; urgently (adv); urge (v/n) thúc giục
+tip: urgent = khẩn cấp: "urgent matter/request", "urgently needed". "an urgent need for sth".
+@adj
+1. khẩn cấp | Please respond to this *urgent* request immediately. | Vui lòng trả lời yêu cầu khẩn cấp này ngay.
+col: urgent matter = việc khẩn cấp; urgent request = yêu cầu khẩn; urgent need for = nhu cầu cấp bách về; urgently needed = rất cần gấp; of urgent importance = quan trọng khẩn cấp
+syn: pressing, critical, immediate, high-priority
+ant: unimportant, trivial
+
+# vague | /veɪɡ/
+fam: vaguely (adv) mơ hồ; vagueness (n)
+tip: vague = mơ hồ, không rõ ràng: "vague instructions/details/idea". Đối lập: specific, clear, explicit.
+@adj
+1. mơ hồ | The instructions were too *vague* to follow. | Hướng dẫn quá mơ hồ để làm theo.
+col: vague instructions = hướng dẫn mơ hồ; vague idea = ý niệm mơ hồ; vague details = chi tiết không rõ; vague answer = câu trả lời mơ hồ; vaguely familiar = hơi quen
+syn: unclear, ambiguous, imprecise, indefinite
+ant: clear, specific, explicit, precise
+
+# wholesale | /ˈhoʊlseɪl/
+fam: wholesaler (n) nhà bán sỉ; retail (n/adj) bán lẻ; retailer (n)
+tip: wholesale = bán buôn/sỉ ↔ retail (bán lẻ). "wholesale price", "buy wholesale", "wholesaler". Cũng nghĩa "hàng loạt" (wholesale changes).
+@adj
+1. bán buôn, bán sỉ | The store sells at *wholesale* prices. | Cửa hàng bán với giá bán buôn.
+col: wholesale price = giá bán buôn; wholesale distributor = nhà phân phối sỉ; buy wholesale = mua sỉ; wholesale market = chợ đầu mối; sold wholesale = bán sỉ
+syn: bulk, large-scale, trade
+ant: retail
+@n
+1. việc bán buôn | The company deals mainly in *wholesale*. | Công ty chủ yếu kinh doanh bán buôn.
+col: at wholesale = với giá sỉ; wholesale and retail = bán buôn và bán lẻ
+
+# cumulative | /ˈkjuːmjəleɪtɪv/
+fam: accumulate (v) tích lũy; accumulation (n); cumulatively
+tip: cumulative = tích lũy, cộng dồn: "cumulative effect/total/score". Cặp: accumulate (v) → cumulative (adj).
+@adj
+1. tích lũy, cộng dồn | The *cumulative* sales reached $5 million this year. | Doanh số cộng dồn đạt 5 triệu đô la trong năm nay.
+col: cumulative effect = tác động tích lũy; cumulative total = tổng cộng dồn; cumulative score = điểm cộng dồn; cumulative sales = doanh số cộng dồn; cumulative growth = tăng trưởng tích lũy
+syn: accumulated, increasing, aggregate, collective
+ant: individual, separate
+
+# redundant | /rɪˈdʌndənt/
+fam: redundancy (n) sự dư thừa/cắt giảm nhân sự; redundantly
+tip: redundant = thừa/dư (thông tin/nhân sự). Anh-Anh: "be made redundant" = bị cho thôi việc do cắt giảm. "redundant information".
+@adj
+1. thừa, dư thừa | Remove any *redundant* information from the report. | Hãy loại bỏ mọi thông tin thừa trong báo cáo.
+2. bị cắt giảm (Anh) | Fifty workers were made *redundant*. | Năm mươi công nhân bị cắt giảm.
+col: redundant information = thông tin thừa; made redundant = bị cho thôi việc; redundant staff = nhân viên dư; redundant data = dữ liệu thừa; redundant steps = bước thừa
+syn: unnecessary, surplus, superfluous (1); laid off (2)
+ant: essential, necessary, needed
+
+# proficient | /prəˈfɪʃnt/
+fam: proficiency (n) sự thành thạo; proficiently (adv); deficient (adj)
+tip: proficient in/at sth = thành thạo: "proficient in English/Excel". Thường gặp trong yêu cầu công việc: "be proficient in...".
+@adj
+1. thành thạo | Applicants should be *proficient* in Excel. | Ứng viên cần thành thạo Excel.
+col: proficient in sth = thành thạo; proficient at V-ing = giỏi làm; highly proficient = rất thành thạo; proficient user = người dùng thành thạo; language proficiency = trình độ ngôn ngữ
+prep: proficient in/at sth
+syn: skilled, competent, adept, expert
+ant: unskilled, incompetent
+
+# adjacent | /əˈdʒeɪsnt/
+fam: adjacency (n); adjoin (v) liền kề
+tip: adjacent to sth = liền kề: "adjacent to the station", "adjacent rooms/buildings". Khác "nearby" (gần), adjacent = sát bên nhau.
+@adj
+1. liền kề | The hotel is *adjacent* to the convention center. | Khách sạn nằm liền kề trung tâm hội nghị.
+col: adjacent to sth = liền kề; adjacent building = tòa nhà liền kề; adjacent rooms = phòng liền kề; adjacent areas = khu vực lân cận; directly adjacent = ngay sát
+prep: adjacent to sth
+syn: neighboring, next to, adjoining, bordering
+ant: distant, remote
+
+# initial | /ɪˈnɪʃl/
+fam: initially (adv) ban đầu; initiate (v); initiative (n); initials (n) chữ cái đầu
+tip: initial = ban đầu: "initial cost/payment/response". "initially" (adv). "initials" (n) = chữ cái viết tắt tên.
+@adj
+1. ban đầu | The *initial* investment was $50,000. | Khoản đầu tư ban đầu là 50.000 đô la.
+col: initial cost = chi phí ban đầu; initial payment = khoản trả đầu; initial response = phản hồi ban đầu; initial stage = giai đoạn đầu; at the initial stage = ở giai đoạn đầu
+syn: first, early, original, opening
+ant: final, last, ultimate
+@n
+1. chữ cái đầu | Please sign your *initials* at the bottom. | Vui lòng ký tắt ở cuối trang.
+
+# substantial | /səbˈstænʃl/
+fam: substance (n) chất, nội dung; substantially (adv); substantive (adj) thực chất
+tip: substantial = đáng kể (số lượng lớn, giá trị lớn): "a substantial amount/profit/increase". Gần "considerable", "significant".
+@adj
+1. đáng kể, lớn | The firm made a *substantial* profit last year. | Công ty đạt lợi nhuận đáng kể năm ngoái.
+col: substantial amount = lượng lớn; substantial increase = tăng mạnh; substantial profit = lợi nhuận lớn; substantial progress = tiến triển lớn; substantial savings = khoản tiết kiệm lớn
+syn: considerable, significant, large, sizable
+ant: insubstantial, slight, small
+
+# competent | /ˈkɑːmpɪtənt/
+fam: competence (n) năng lực; competency (n); incompetent (adj)
+tip: competent = có năng lực, đủ giỏi (đạt yêu cầu). "competent at/in sth". Hay gặp trong tiêu chí đánh giá nhân sự. Đừng nhầm với "competitive".
+@adj
+1. có năng lực | We need a *competent* manager to lead the team. | Chúng tôi cần một quản lý có năng lực để dẫn dắt nhóm.
+col: competent staff = nhân viên có năng lực; competent at sth = giỏi về; competent manager = quản lý có năng lực; highly competent = rất có năng lực; competent authority = cơ quan có thẩm quyền
+prep: competent at/in sth
+syn: capable, able, skilled, proficient
+ant: incompetent, inept, unskilled
+
+# competitive | /kəmˈpetətɪv/
+fam: compete (v); competition (n); competitor (n); competitively (adv)
+tip: competitive = cạnh tranh: "competitive salary/price/advantage/market". "competitive edge" = lợi thế cạnh tranh. Khác competent.
+@adj
+1. cạnh tranh | The company offers *competitive* salaries. | Công ty trả mức lương cạnh tranh.
+col: competitive salary = lương cạnh tranh; competitive price = giá cạnh tranh; competitive advantage = lợi thế cạnh tranh; competitive market = thị trường cạnh tranh; competitive edge = lợi thế
+syn: rival, fierce, aggressive, ambitious
+ant: cooperative, uncompetitive
+
+# dynamic | /daɪˈnæmɪk/
+fam: dynamics (n) động lực học; dynamically (adv); dynamism (n)
+tip: dynamic = năng động (người/công ty/thị trường), "a dynamic team". Quảng cáo tuyển dụng: "join our dynamic team".
+@adj
+1. năng động | We are seeking a *dynamic* sales manager. | Chúng tôi đang tìm quản lý bán hàng năng động.
+col: dynamic team = đội ngũ năng động; dynamic environment = môi trường năng động; dynamic market = thị trường năng động; dynamic leader = nhà lãnh đạo năng động; dynamic growth = tăng trưởng mạnh
+syn: energetic, vibrant, active, lively
+ant: static, inactive, passive

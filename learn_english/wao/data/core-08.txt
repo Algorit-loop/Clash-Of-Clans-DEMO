@@ -1,0 +1,22 @@
+# complimentary | /ˌkɑːmplɪˈmentri/
+fam: compliment (n/v) lời khen, khen; complement (n/v) bổ sung; complimentarily
+tip: BẪY: complimentary (miễn phí / khen ngợi) ≠ complementary (bổ sung cho nhau). Trong khách sạn/nhà hàng: "complimentary breakfast" = bữa sáng miễn phí.
+@adj
+1. miễn phí, được tặng kèm | The hotel offers *complimentary* breakfast to all guests. | Khách sạn tặng bữa sáng miễn phí cho mọi khách.
+2. khen ngợi | She was *complimentary* about the new design. | Cô ấy khen thiết kế mới.
+col: complimentary breakfast = bữa sáng miễn phí; complimentary ticket = vé mời; complimentary drink = đồ uống tặng; complimentary Wi-Fi = Wi-Fi miễn phí; complimentary copy = bản tặng
+syn: free, gratis, on the house, free of charge (1); flattering, praising (2)
+ant: paid, charged (1); critical (2)
+
+# commercial | /kəˈmɜːrʃl/
+fam: commerce (n) thương mại; commercially (adv) về mặt thương mại; commercialize (v) thương mại hóa; commercial (n) quảng cáo trên TV/radio
+tip: commercial (adj) = thuộc thương mại; (n) = đoạn quảng cáo TV/radio. "commercial property" = bất động sản thương mại; "commercial break" = giờ quảng cáo.
+@adj
+1. thuộc thương mại | The building will be used for *commercial* purposes. | Tòa nhà sẽ được dùng vào mục đích thương mại.
+col: commercial property = bất động sản thương mại; commercial district = khu thương mại; commercial use = sử dụng thương mại; commercial success = thành công thương mại; commercial vehicle = xe thương mại
+syn: business, trade, mercantile
+ant: residential, non-profit, domestic
+@n
+1. quảng cáo (TV/radio) | The company aired a *commercial* during the game. | Công ty phát quảng cáo trong trận đấu.
+col: TV commercial = quảng cáo truyền hình; commercial break = giờ nghỉ quảng cáo; radio commercial = quảng cáo radio
+syn: advertisement, ad, promo

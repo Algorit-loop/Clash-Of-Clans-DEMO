@@ -1,0 +1,553 @@
+# behalf | /bɪˈhæf/
+fam: on behalf of (phr) thay mặt
+tip: Chỉ dùng trong cụm "on behalf of sb" = thay mặt ai (trang trọng): "On behalf of the company, I would like to thank you." (Mỹ cũng dùng "in behalf of" = vì lợi ích của.)
+@n
+1. sự thay mặt (on behalf of) | I am writing *on behalf of* the entire team. | Tôi viết thư này thay mặt toàn thể nhóm.
+col: on behalf of sb = thay mặt ai; on my behalf = thay mặt tôi; on behalf of the company = nhân danh công ty; act on sb's behalf = hành động thay ai
+syn: representing, in the name of
+use: Gần như luôn thấy trong cụm "on behalf of".
+
+# reason | /ˈriːzn/
+fam: reasonable (adj) hợp lý; reasonably (adv) khá, hợp lý; reasoning (n) lập luận; unreasonable (adj)
+tip: "the reason for sth" / "the reason why + clause" / "reason to V". Câu hỏi TOEIC hay hỏi "reason for the delay". "for security reasons" = vì lý do an ninh.
+@n
+1. lý do | The *reason* for the delay was bad weather. | Lý do chậm trễ là thời tiết xấu.
+2. lẽ phải | The boss listened to *reason* and changed the plan. | Sếp biết lẽ phải và đã đổi kế hoạch.
+col: reason for sth = lý do của; for some reason = vì lý do nào đó; for security reasons = vì lý do an ninh; reason to V = lý do để làm gì; within reason = trong giới hạn hợp lý; have every reason to = có đủ lý do để
+prep: reason for sth / reason to V / reason why...
+syn: cause, motive, grounds, explanation
+ant: result, effect
+@v
+1. suy luận | He *reasoned* that the price would drop. | Anh ấy suy luận rằng giá sẽ giảm.
+syn: conclude, think, argue
+
+# favor | /ˈfeɪvər/
+fam: favorable (adj) thuận lợi; favorite (adj/n) ưa thích; favorably (adv); favoritism (n) thiên vị
+tip: "do sb a favor" = giúp ai một việc; "in favor of" = ủng hộ; "ask a favor of sb". Anh-Anh: favour.
+@n
+1. sự giúp đỡ | Could you do me a *favor* and cover my shift? | Bạn giúp mình làm thay ca nhé?
+2. sự ủng hộ | Most employees are in *favor* of the new schedule. | Hầu hết nhân viên ủng hộ lịch mới.
+col: do sb a favor = giúp ai; in favor of = ủng hộ; ask a favor = nhờ giúp đỡ; in sb's favor = có lợi cho ai; return the favor = đáp lại ơn
+prep: in favor of sth
+syn: kindness, good turn (1); support, approval (2)
+ant: disfavor
+@v
+1. ưu ái, thích hơn | Many customers *favor* online ordering. | Nhiều khách ưa chuộng đặt hàng trực tuyến.
+syn: prefer, support, back
+
+# barely | /ˈberli/
+fam: bare (adj) trần, trống; barefoot (adj); barren (adj)
+tip: BẪY: barely = hầu như không (nghĩa phủ định!), không phải "gần như hết sức". "barely enough" = vừa đủ; không dùng "not" kèm: ✗ can't barely. Đảo ngữ: "Barely had we arrived when...".
+@adv
+1. hầu như không, vừa đủ | The room was *barely* large enough for ten people. | Căn phòng vừa đủ rộng cho mười người.
+col: barely enough = chỉ vừa đủ; barely noticeable = gần như không thấy; barely able to V = hầu như không thể; barely + any/ever = hầu như không; barely a week = chưa đầy một tuần
+syn: hardly, scarcely, only just, narrowly
+ant: easily, fully
+
+# guideline | /ˈɡaɪdlaɪn/ | seen: guidelines
+fam: guide (v/n) hướng dẫn, người hướng dẫn; guidance (n) sự hướng dẫn; guided (adj)
+tip: "guidelines" (thường số nhiều) = các nguyên tắc hướng dẫn: follow the guidelines. "safety/company/dress code guidelines".
+@n
+1. nguyên tắc, hướng dẫn | Staff must follow the company's safety *guidelines*. | Nhân viên phải tuân theo các hướng dẫn an toàn của công ty.
+col: follow the guidelines = làm theo hướng dẫn; safety guidelines = hướng dẫn an toàn; set guidelines = đặt ra nguyên tắc; guidelines for sth = hướng dẫn về; strict guidelines = nguyên tắc nghiêm ngặt
+prep: guideline(s) for/on sth
+syn: instruction, rule, standard, protocol
+
+# operate | /ˈɑːpəreɪt/ | seen: operated, operating
+fam: operation (n) hoạt động, phẫu thuật; operator (n) người vận hành; operational (adj) đang hoạt động; operable (adj) có thể vận hành; operating (adj) vận hành
+tip: operate (v) vừa nội vừa ngoại động từ: "The factory operates 24 hours" / "operate a machine". "operating hours" = giờ hoạt động. "operate on sb" = phẫu thuật.
+@v
+1. vận hành, hoạt động | The machine must be *operated* by trained staff. | Máy phải được vận hành bởi nhân viên được đào tạo.
+2. phẫu thuật | Doctors *operated* on the patient for six hours. | Bác sĩ đã phẫu thuật cho bệnh nhân suốt sáu tiếng.
+col: operate a machine = vận hành máy; operate efficiently = hoạt động hiệu quả; operate 24 hours a day = hoạt động 24/7; operate on sb = phẫu thuật cho ai; operating costs = chi phí vận hành
+prep: operate on sb / operate under (a name)
+syn: run, work, function, manage (1)
+
+# incorrectly | /ˌɪnkəˈrektli/
+fam: correct (adj/v) đúng, sửa; correction (n) sự sửa; correctly (adv) đúng; incorrect (adj) sai
+tip: Tiền tố in-/im-/un- tạo từ trái nghĩa: incorrectly, improperly, unfairly. Trạng từ đứng sau động từ: operate incorrectly, spelled incorrectly.
+@adv
+1. không đúng, sai | The form was filled out *incorrectly*. | Mẫu đơn đã được điền sai.
+col: incorrectly labeled = dán nhãn sai; incorrectly installed = lắp sai; incorrectly spelled = viết sai chính tả; operated incorrectly = vận hành sai; be incorrectly assumed = bị giả định sai
+syn: wrongly, mistakenly, improperly, inaccurately
+ant: correctly, properly, accurately
+
+# soon | /suːn/
+fam: sooner (adv) sớm hơn; as soon as (conj) ngay khi
+tip: "as soon as possible (ASAP)", "no sooner... than", "sooner or later". Khác "shortly/shortly after" – soon = chẳng bao lâu nữa.
+@adv
+1. sớm, chẳng bao lâu | The new store will open *soon*. | Cửa hàng mới sẽ sớm khai trương.
+col: as soon as possible = sớm nhất có thể; as soon as + clause = ngay khi; soon after = ngay sau; sooner or later = sớm hay muộn; too soon = quá sớm; coming soon = sắp ra mắt
+syn: shortly, presently, before long, in a short time
+ant: late, later, eventually
+
+# clearly | /ˈklɪrli/
+fam: clear (adj/v) rõ ràng, dọn dẹp; clarity (n) sự rõ ràng; clarify (v) làm rõ; unclear (adj)
+tip: clearly = một cách rõ ràng/hiển nhiên: clearly visible, clearly marked, clearly stated. "Clearly," đầu câu = Rõ ràng là.
+@adv
+1. rõ ràng | The exits are *clearly* marked. | Các lối thoát được đánh dấu rõ ràng.
+col: clearly marked = đánh dấu rõ; clearly visible = dễ nhìn thấy; clearly stated = nêu rõ; speak clearly = nói rõ; see clearly = nhìn rõ
+syn: plainly, obviously, distinctly, evidently
+ant: vaguely, unclearly
+
+# front desk | /frʌnt desk/
+fam: desk (n) bàn; front office (n) văn phòng đối ngoại
+tip: front desk = quầy lễ tân (khách sạn/văn phòng). Cũng "reception desk". "Please check in at the front desk."
+@phr
+1. quầy lễ tân | Please leave your key at the *front desk*. | Vui lòng để lại chìa khóa tại quầy lễ tân.
+col: front desk clerk = nhân viên lễ tân; at the front desk = tại quầy lễ tân; contact the front desk = liên hệ lễ tân; front desk staff = nhân viên quầy lễ tân; front desk agent = nhân viên đón khách
+syn: reception, reception desk, lobby desk
+
+# arrive | /əˈraɪv/ | seen: arrived, arrives
+fam: arrival (n) sự đến; arrivals (n) khu đến; arrived (adj)
+tip: arrive at (nơi nhỏ: station, office) / arrive in (thành phố, quốc gia). Không dùng "to". "upon arrival" = ngay khi đến.
+@v
+1. đến | The package *arrived* two days late. | Gói hàng đến muộn hai ngày.
+col: arrive at the airport = đến sân bay; arrive in + city = đến thành phố; arrive on time = đến đúng giờ; arrive late = đến muộn; arrive by + phương tiện = đến bằng
+prep: arrive at (place) / arrive in (city/country)
+syn: come, reach, show up, get to
+ant: depart, leave
+
+# garment | /ˈɡɑːrmənt/ | seen: garments
+fam: garment industry (n) ngành may mặc; garment worker (n) công nhân may
+tip: garment = trang phục (từ chuyên ngành, hàng may mặc); "garment factory", "garment bag". Khác "clothing" (không đếm được).
+@n
+1. quần áo, trang phục | The factory produces *garments* for export. | Nhà máy sản xuất hàng may mặc để xuất khẩu.
+col: garment factory = nhà máy may mặc; garment industry = ngành may mặc; garment bag = túi đựng quần áo; outer garments = áo khoác ngoài; protective garments = quần áo bảo hộ
+syn: clothing, apparel, attire, outfit
+
+# aside | /əˈsaɪd/
+fam: aside from (prep) ngoài ra; setting aside (phr)
+tip: "set aside" = dành ra; "put aside" = để sang bên; "aside from" = ngoài ra. Aside = adv: sang một bên.
+@adv
+1. sang một bên | The workers pushed the boxes *aside*. | Công nhân đẩy các thùng sang một bên.
+2. dành ra | Please set *aside* an hour for training. | Vui lòng dành ra một giờ cho khóa đào tạo.
+col: set aside = dành ra; put aside = để sang một bên; step aside = nhường chỗ/từ chức; aside from = ngoài ra; brush aside = gạt đi
+syn: apart, away, to one side
+@n
+1. lời nói bên lề | The speaker made an *aside* about last year's results. | Diễn giả nói thêm một câu bên lề về kết quả năm ngoái.
+
+# pickup | /ˈpɪkʌp/
+fam: pick up (phr v) đón, nhặt; pickup truck (n) xe bán tải
+tip: Danh từ dạng liền (pickup) = việc đến lấy/đón; động từ dạng tách: pick up. "pickup time", "curbside pickup" (lấy hàng tại lề đường).
+@n
+1. việc đến lấy/đón | Orders are ready for *pickup* after 2 p.m. | Đơn hàng sẵn sàng để lấy sau 2 giờ chiều.
+col: curbside pickup = nhận hàng ngoài lề đường; pickup time = giờ đến lấy; pickup point = điểm đón; airport pickup = đón sân bay; garbage pickup = thu gom rác
+syn: collection, retrieval
+ant: drop-off, delivery
+
+# operator | /ˈɑːpəreɪtər/
+fam: operate (v); operation (n); operable (adj)
+tip: operator = người vận hành máy/tổng đài/công ty điều hành. "tour operator" (công ty du lịch), "machine operator", "telephone operator".
+@n
+1. người vận hành; nhà điều hành | The machine *operator* must wear safety glasses. | Người vận hành máy phải đeo kính bảo hộ.
+col: machine operator = người vận hành máy; tour operator = nhà điều hành tour; phone operator = tổng đài viên; train operator = đơn vị vận hành tàu; crane operator = người điều khiển cần cẩu
+syn: technician, handler, driver, controller
+
+# operable | /ˈɑːpərəbl/
+fam: operate (v); operator (n); operational (adj); inoperable (adj) không thể vận hành
+tip: operable (adj) = có thể vận hành/sử dụng được; "operational" = đang hoạt động; inoperable = hỏng/không vận hành được.
+@adj
+1. có thể vận hành được | The elevators will be *operable* again by Monday. | Thang máy sẽ vận hành lại được vào thứ Hai.
+col: fully operable = hoạt động đầy đủ; remain operable = vẫn vận hành được; operable condition = tình trạng vận hành được; no longer operable = không còn vận hành được
+syn: workable, functional, usable
+ant: inoperable, broken
+
+# operation | /ˌɑːpəˈreɪʃn/
+fam: operate (v); operator (n); operational (adj); operations (n) hoạt động
+tip: "in operation" = đang hoạt động; "operations manager" = giám đốc vận hành; "hours of operation" = giờ hoạt động. Cũng = ca phẫu thuật.
+@n
+1. sự hoạt động, vận hành | The factory has been in *operation* since 1990. | Nhà máy hoạt động từ năm 1990.
+2. ca phẫu thuật | The *operation* took four hours. | Ca phẫu thuật kéo dài bốn tiếng.
+3. doanh nghiệp, hoạt động kinh doanh | The firm is expanding its overseas *operations*. | Công ty đang mở rộng hoạt động ở nước ngoài.
+col: in operation = đang hoạt động; hours of operation = giờ hoạt động; operations manager = quản lý vận hành; come into operation = bắt đầu hoạt động; daily operations = hoạt động hằng ngày
+syn: running, functioning, use (1); surgery (2); business (3)
+
+# monitor | /ˈmɑːnɪtər/ | seen: monitors
+fam: monitoring (n) việc giám sát
+tip: (n) = màn hình / người giám sát; (v) = theo dõi, giám sát. "monitor progress/sales/performance".
+@v
+1. theo dõi, giám sát | Staff *monitor* the production line around the clock. | Nhân viên giám sát dây chuyền sản xuất suốt ngày đêm.
+col: monitor progress = theo dõi tiến độ; monitor performance = giám sát hiệu suất; closely monitor = giám sát chặt chẽ; monitor the situation = theo dõi tình hình
+syn: supervise, track, observe, check
+@n
+1. màn hình | The office bought new computer *monitors*. | Văn phòng mua màn hình máy tính mới.
+2. người giám sát | A *monitor* checks each exam room. | Một giám thị kiểm tra từng phòng thi.
+col: computer monitor = màn hình máy tính; heart monitor = máy theo dõi tim; baby monitor = máy giám sát em bé
+syn: screen, display (1); supervisor (2)
+
+# machine | /məˈʃiːn/ | seen: machines
+fam: machinery (n) máy móc; machinist (n) thợ máy; mechanical (adj) cơ khí; machine-made (adj)
+tip: machine (đếm được) vs machinery (không đếm được, tập hợp máy móc). "vending machine", "washing machine", "answering machine".
+@n
+1. máy | The coffee *machine* in the lobby is out of order. | Máy pha cà phê ở sảnh bị hỏng.
+col: vending machine = máy bán hàng tự động; washing machine = máy giặt; machine learning = học máy; machine operator = người vận hành máy; out of order = hỏng
+syn: device, appliance, apparatus, equipment
+@v
+1. gia công bằng máy | The parts are *machined* to high precision. | Các chi tiết được gia công máy với độ chính xác cao.
+
+# booth | /buːθ/
+fam: —
+tip: booth = gian hàng triển lãm, bốt/quầy nhỏ, ghế ngồi nhà hàng. "ticket booth", "phone booth", "booth at a trade show".
+@n
+1. gian hàng, quầy nhỏ | Please visit our *booth* at the trade show. | Hãy ghé thăm gian hàng của chúng tôi tại hội chợ.
+col: trade show booth = gian hàng hội chợ; ticket booth = quầy bán vé; phone booth = bốt điện thoại; voting booth = phòng bỏ phiếu; information booth = quầy thông tin
+syn: stand, stall, kiosk, cubicle
+
+# central | /ˈsentrəl/
+fam: center (n/v) trung tâm; centralize (v) tập trung hóa; centrally (adv); centrality (n)
+tip: "central location" = vị trí trung tâm; "central office/station". "centrally located" = nằm ở vị trí trung tâm. "Central" cũng chỉ vai trò quan trọng.
+@adj
+1. trung tâm, chính | The hotel has a *central* location near shopping areas. | Khách sạn có vị trí trung tâm gần khu mua sắm.
+col: central location = vị trí trung tâm; central office = văn phòng trung tâm; central station = ga trung tâm; central role = vai trò trọng yếu; central heating = hệ thống sưởi trung tâm
+syn: main, key, principal, middle
+ant: peripheral, outlying
+
+# control | /kənˈtroʊl/
+fam: controller (n) người kiểm soát; controlled (adj); controllable (adj); uncontrolled (adj)
+tip: "under control" = trong tầm kiểm soát; "out of control" = ngoài tầm kiểm soát; "quality control" = kiểm soát chất lượng; "control costs" = kiểm soát chi phí.
+@v
+1. kiểm soát | The company is trying to *control* its costs. | Công ty đang cố kiểm soát chi phí.
+col: control costs = kiểm soát chi phí; control access = kiểm soát ra vào; control spending = kiểm soát chi tiêu; control the spread of = kiểm soát sự lây lan của
+syn: manage, regulate, restrict, govern
+@n
+1. sự kiểm soát; bộ điều khiển | The manager has *control* over the budget. | Quản lý nắm quyền kiểm soát ngân sách.
+col: under control = trong tầm kiểm soát; out of control = mất kiểm soát; quality control = kiểm soát chất lượng; remote control = điều khiển từ xa; take control = nắm quyền; control panel = bảng điều khiển
+prep: control over/of sth
+syn: command, authority, regulation
+
+# decorate | /ˈdekəreɪt/ | seen: decorates
+fam: decoration (n) đồ trang trí; decorator (n) thợ trang trí; decorative (adj) mang tính trang trí; decor (n) cách bài trí
+tip: decorate sth with sth = trang trí cái gì bằng cái gì. "interior decorator" = nhà trang trí nội thất. Danh từ: decorations.
+@v
+1. trang trí | Staff *decorated* the lobby with flowers for the event. | Nhân viên trang trí sảnh bằng hoa cho sự kiện.
+2. trao huân chương | The soldier was *decorated* for bravery. | Người lính được trao huân chương vì lòng dũng cảm.
+col: decorate with = trang trí bằng; decorate a room = trang trí phòng; decorate the office = trang trí văn phòng; beautifully decorated = trang trí đẹp mắt
+prep: decorate sth with sth
+syn: adorn, ornament, furnish, beautify (1)
+
+# climb | /klaɪm/ | seen: climbed
+fam: climber (n) người leo; climbing (n) sự leo; climb-down (n)
+tip: b câm /klaɪm/. Dùng cho giá/doanh số: "Sales climbed 10%" = tăng 10%. climb – climbed – climbed.
+@v
+1. leo, trèo | Visitors can *climb* the tower for a city view. | Du khách có thể leo lên tháp để ngắm toàn cảnh thành phố.
+2. tăng lên | Profits *climbed* by 8 percent last quarter. | Lợi nhuận tăng 8% trong quý trước.
+col: climb steadily = tăng đều; climb by + % = tăng bao nhiêu phần trăm; climb to + số = tăng lên đến; climb the corporate ladder = thăng tiến; climb the stairs = leo cầu thang
+syn: ascend, rise, increase, mount
+ant: descend, fall, drop
+@n
+1. cuộc leo; sự tăng | It was a steep *climb* to the summit. | Đó là chặng leo dốc lên đỉnh.
+
+# steadily | /ˈstedɪli/
+fam: steady (adj/v) vững, đều; steadiness (n); unsteady (adj)
+tip: steadily = đều đặn, vững vàng: increase/grow/rise steadily. Trạng từ hay đi cùng động từ chỉ sự thay đổi (rise, decline, improve).
+@adv
+1. đều đặn, ổn định | Sales have increased *steadily* since January. | Doanh số tăng đều đặn từ tháng Một.
+col: grow steadily = tăng trưởng đều; rise steadily = tăng đều; improve steadily = cải thiện đều; work steadily = làm việc đều đặn; decline steadily = giảm đều
+syn: gradually, consistently, constantly, evenly
+ant: erratically, suddenly, sharply
+
+# despite | /dɪˈspaɪt/
+fam: in spite of (prep) mặc dù; although (conj) mặc dù
+tip: BẪY: "despite" + N/V-ing (KHÔNG "despite of"); "despite the fact that + clause". Giống "in spite of". Sau despite không có chủ ngữ + động từ.
+@prep
+1. mặc dù | The event went ahead *despite* the rain. | Sự kiện vẫn diễn ra dù trời mưa.
+col: despite the fact that + clause = mặc dù thực tế là; despite + N/V-ing = mặc dù; despite all = bất chấp tất cả; despite everything = dù mọi thứ
+syn: in spite of, regardless of, notwithstanding
+ant: because of, due to
+
+# sharp | /ʃɑːrp/
+fam: sharpen (v) mài sắc; sharply (adv) mạnh mẽ, sắc; sharpness (n)
+tip: sharp (adj) = sắc, sắc sảo; thường dùng cho thay đổi lớn: a sharp increase/decline/drop (tăng/giảm mạnh). Còn "at 3 o'clock sharp" = đúng 3 giờ.
+@adj
+1. đột ngột, mạnh | There was a *sharp* decline in sales last month. | Doanh số giảm mạnh vào tháng trước.
+2. sắc, nhọn | Be careful with the *sharp* blade. | Cẩn thận với lưỡi dao sắc.
+3. sắc sảo, nhạy bén | She has a *sharp* mind for business. | Cô ấy có đầu óc kinh doanh sắc sảo.
+col: sharp increase/decline = tăng/giảm mạnh; sharp rise/drop = tăng/giảm vọt; sharp turn = rẽ gắt; sharp contrast = tương phản rõ; sharp eye = mắt tinh
+syn: sudden, steep, dramatic (1); pointed, keen (2); smart, clever (3)
+ant: gradual, slight (1); blunt, dull (2)
+@adv
+1. đúng (giờ) | The meeting starts at nine o'clock *sharp*. | Cuộc họp bắt đầu đúng chín giờ.
+
+# decline | /dɪˈklaɪn/ | seen: declines
+fam: declining (adj) suy giảm; declination (n)
+tip: (n/v) decline in sth = sự giảm về; (v) = từ chối lịch sự: "decline an invitation/offer". Phân biệt decline (giảm) vs reject (từ chối thẳng).
+@n
+1. sự suy giảm | There was a sharp *decline* in profits. | Lợi nhuận giảm mạnh.
+col: sharp decline = giảm mạnh; steady decline = giảm đều; in decline = đang đi xuống; decline in sth = sự giảm của; on the decline = đang suy giảm
+prep: decline in sth
+syn: drop, decrease, fall, downturn
+ant: increase, rise, growth
+@v
+1. giảm; từ chối | She politely *declined* the invitation. | Cô ấy lịch sự từ chối lời mời.
+2. giảm sút | Sales *declined* by 15 percent. | Doanh số giảm 15%.
+col: decline an offer/invitation = từ chối lời đề nghị/mời; decline to comment = từ chối bình luận; decline sharply = giảm mạnh; decline by + % = giảm bao nhiêu phần trăm
+syn: refuse, turn down (từ chối); fall, drop (giảm)
+ant: accept (từ chối); rise (giảm)
+
+# refurbishment | /ˌriːˈfɜːrbɪʃmənt/
+fam: refurbish (v) tân trang; refurbished (adj) đã tân trang
+tip: refurbishment = cải tạo, tân trang lại cho như mới (không xây mới): "hotel refurbishment". Gần: renovation. Hàng "refurbished laptops" = hàng tân trang.
+@n
+1. sự tân trang, cải tạo | The hotel is closed for *refurbishment* until June. | Khách sạn đóng cửa tân trang đến tháng Sáu.
+col: major refurbishment = cải tạo lớn; undergo refurbishment = đang được tân trang; refurbishment of sth = việc tân trang; refurbishment project = dự án cải tạo; closed for refurbishment = đóng cửa để tân trang
+syn: renovation, makeover, overhaul, upgrade
+
+# revenue | /ˈrevənuː/
+fam: revenue stream (n) nguồn thu; tax revenue (n) thu thuế
+tip: revenue = doanh thu (tổng tiền thu về, chưa trừ chi phí) ≠ profit (lợi nhuận) ≠ income. "annual revenue", "generate revenue", "revenue growth".
+@n
+1. doanh thu | The company's *revenue* rose by 12 percent. | Doanh thu của công ty tăng 12%.
+col: annual revenue = doanh thu năm; generate revenue = tạo ra doanh thu; revenue growth = tăng trưởng doanh thu; tax revenue = nguồn thu thuế; revenue stream = nguồn thu; ad revenue = doanh thu quảng cáo
+syn: income, sales, earnings, takings
+ant: expenditure, expense, cost
+
+# sector | /ˈsektər/
+fam: section (n) phần; sectoral (adj) thuộc ngành
+tip: sector = ngành/khu vực kinh tế: "the public/private sector", "the service sector", "the tech sector". Phân biệt "sector" và "section".
+@n
+1. lĩnh vực, ngành | She works in the financial *sector*. | Cô ấy làm trong ngành tài chính.
+col: private sector = khu vực tư nhân; public sector = khu vực công; service sector = ngành dịch vụ; financial sector = ngành tài chính; manufacturing sector = ngành sản xuất; growth sector = ngành đang phát triển
+syn: industry, field, area, branch
+
+# last | /læst/ | seen: lasted
+fam: lasting (adj) lâu dài; lastly (adv) cuối cùng; last-minute (adj) vào phút chót
+tip: last (v) = kéo dài: "The meeting lasted two hours". Cũng (adj) cuối cùng/vừa qua; (adv) cuối cùng. "last longer" = bền hơn.
+@v
+1. kéo dài; bền | The conference *lasted* three days. | Hội nghị kéo dài ba ngày.
+col: last + khoảng thời gian = kéo dài...; last for + time = kéo dài; built to last = làm ra để bền; last longer = dùng được lâu hơn; the battery lasts all day = pin dùng cả ngày
+syn: continue, endure, remain, persist
+@adj
+1. cuối cùng; vừa qua | The *last* train leaves at midnight. | Chuyến tàu cuối rời đi lúc nửa đêm.
+col: last week = tuần trước; last-minute = phút chót; at last = cuối cùng; the last time = lần cuối; last name = họ; last but not least = cuối cùng nhưng không kém phần quan trọng
+syn: final, latest, previous
+ant: first, initial
+
+# require | /rɪˈkwaɪər/ | seen: required
+fam: requirement (n) yêu cầu; required (adj) bắt buộc; requisite (adj/n) cần thiết; prerequisite (n) điều kiện tiên quyết
+tip: "be required to V" = bị yêu cầu phải làm gì; "require sb to V"; "require + N/V-ing". "Required documents" = giấy tờ bắt buộc.
+@v
+1. đòi hỏi, yêu cầu | The job *requires* at least two years of experience. | Công việc yêu cầu ít nhất hai năm kinh nghiệm.
+col: be required to V = phải làm; require sb to V = yêu cầu ai làm; if required = nếu cần; required documents = giấy tờ bắt buộc; as required by law = theo yêu cầu của luật
+prep: require sb to V / be required of sb
+syn: need, demand, call for, necessitate
+ant: waive, exempt
+
+# decal | /ˈdiːkæl/ | seen: decals
+fam: decalcomania (n, gốc từ)
+tip: decal = hình dán (dán lên xe, cửa sổ, tường): "window decal", "parking decal", "car decals". Tiếng Anh Anh: sticker/transfer.
+@n
+1. hình dán | Cars must display a parking *decal* on the windshield. | Xe phải dán nhãn đỗ xe trên kính chắn gió.
+col: window decal = hình dán cửa sổ; parking decal = nhãn đỗ xe; wall decal = hình dán tường; car decal = hình dán xe; apply a decal = dán hình
+syn: sticker, transfer, label
+
+# depart | /dɪˈpɑːrt/ | seen: departing
+fam: departure (n) sự khởi hành; departing (adj) rời đi; department (n) phòng ban; departed (adj)
+tip: depart from + nơi = rời khỏi/xuất phát từ; depart for + nơi = khởi hành đi đâu. "departure gate", "departures board". Đừng nhầm "department" (n).
+@v
+1. khởi hành, rời đi | The train *departs* from platform 3 at 9:15. | Chuyến tàu khởi hành từ sân ga 3 lúc 9:15.
+col: depart from = rời từ; depart for = khởi hành đi; depart on time = khởi hành đúng giờ; departing flight = chuyến bay khởi hành; depart at + time = khởi hành lúc
+prep: depart from + place / depart for + place
+syn: leave, set off, take off, exit
+ant: arrive, come
+
+# craft | /kræft/
+fam: crafts (n) đồ thủ công; craftsman (n) thợ thủ công; crafty (adj); craftsmanship (n) tay nghề
+tip: craft (n) = nghề thủ công, đồ thủ công; "craft fair" = hội chợ thủ công; (v) = làm thủ công, soạn thảo kỹ: "craft a message". "craftsmanship" = tay nghề.
+@n
+1. nghề/đồ thủ công | The market sells local *crafts* and food. | Chợ bán đồ thủ công và thực phẩm địa phương.
+col: arts and crafts = nghệ thuật và thủ công; craft fair = hội chợ thủ công; craft beer = bia thủ công; craft supplies = đồ dùng thủ công; traditional craft = nghề truyền thống
+syn: handicraft, artistry, skill
+@v
+1. chế tác | The furniture is *crafted* from solid oak. | Đồ nội thất được chế tác từ gỗ sồi nguyên khối.
+col: hand-crafted = làm thủ công; craft a strategy = xây dựng chiến lược
+syn: make, create, build
+
+# coordinator | /koʊˈɔːrdɪneɪtər/
+fam: coordinate (v) phối hợp; coordination (n) sự phối hợp; coordinated (adj)
+tip: coordinator = người điều phối (event coordinator, project coordinator). Đuôi -or chỉ người; coordinate (v, /-neɪt/) / coordinate (n, /-nət/).
+@n
+1. người điều phối | The event *coordinator* arranged the seating. | Điều phối viên sự kiện sắp xếp chỗ ngồi.
+col: event coordinator = điều phối sự kiện; project coordinator = điều phối dự án; program coordinator = điều phối chương trình; volunteer coordinator = điều phối tình nguyện viên; coordinator of sth = người điều phối cái gì
+syn: organizer, planner, manager, facilitator
+
+# coordinate | /koʊˈɔːrdɪneɪt/
+fam: coordinator (n); coordination (n); coordinates (n) tọa độ
+tip: coordinate A with B = phối hợp A với B. "well-coordinated" = phối hợp tốt. Cũng "coordinate" (v) phối màu quần áo.
+@v
+1. phối hợp | The manager will *coordinate* the work of three departments. | Quản lý sẽ phối hợp công việc của ba phòng ban.
+col: coordinate with sb = phối hợp với ai; coordinate efforts = phối hợp nỗ lực; coordinate schedules = điều phối lịch trình; coordinate an event = điều phối sự kiện; well-coordinated = phối hợp tốt
+prep: coordinate A with B / coordinate with sb
+syn: organize, arrange, synchronize, orchestrate
+ant: disorganize, neglect
+
+# honor | /ˈɑːnər/
+fam: honorable (adj) đáng kính; honorary (adj) danh dự; honorable mention (n) khen ngợi; dishonor (n/v)
+tip: Anh-Mỹ honor, Anh-Anh honour. "in honor of" = nhằm vinh danh; "have the honor of V-ing" = hân hạnh; "honor a commitment/coupon" = thực hiện cam kết/chấp nhận phiếu.
+@v
+1. tôn vinh | The company *honored* her for 25 years of service. | Công ty tôn vinh bà vì 25 năm cống hiến.
+2. thực hiện, chấp nhận | The store will *honor* all valid coupons. | Cửa hàng sẽ chấp nhận mọi phiếu giảm giá hợp lệ.
+col: honor sb for sth = vinh danh ai vì; honor a commitment = giữ cam kết; honor a coupon/warranty = chấp nhận phiếu/bảo hành; be honored to V = vinh dự được
+syn: respect, celebrate, recognize (1); fulfill, keep (2)
+@n
+1. niềm vinh dự | It is an *honor* to receive this award. | Thật vinh dự khi nhận giải thưởng này.
+col: in honor of = để vinh danh; guest of honor = khách danh dự; honor roll = bảng danh dự; an honor to V = một vinh dự khi
+syn: privilege, distinction, tribute
+
+# ribbon | /ˈrɪbən/
+fam: —
+tip: "ribbon-cutting ceremony" = lễ cắt băng khánh thành. Cũng: dải ruy băng, dải băng (ribbon, cable).
+@n
+1. dải ruy băng | The mayor cut the *ribbon* to open the new library. | Thị trưởng cắt băng khánh thành thư viện mới.
+col: ribbon-cutting ceremony = lễ cắt băng; blue ribbon = giải nhất; tie a ribbon = thắt ruy băng; ribbon cable = cáp dẹt; red ribbon = ruy băng đỏ
+syn: band, strip, tape
+
+# exhibition | /ˌeksɪˈbɪʃn/
+fam: exhibit (v/n) trưng bày, vật trưng bày; exhibitor (n) nhà trưng bày; exhibits (n)
+tip: exhibition (n) triển lãm; exhibit (v) trưng bày / (n) hiện vật. "on exhibition" = đang được trưng bày; "art exhibition", "trade exhibition".
+@n
+1. cuộc triển lãm | The museum has a new photography *exhibition*. | Bảo tàng có triển lãm nhiếp ảnh mới.
+col: art exhibition = triển lãm nghệ thuật; trade exhibition = triển lãm thương mại; on exhibition = đang trưng bày; exhibition hall = hội trường triển lãm; exhibition center = trung tâm triển lãm
+syn: show, display, exposition, expo, fair
+
+# hall | /hɔːl/
+fam: hallway (n) hành lang; town hall (n) tòa thị chính
+tip: hall = hội trường / sảnh / hành lang. "conference hall", "exhibition hall", "city hall", "concert hall", "dining hall".
+@n
+1. hội trường, sảnh | The awards will be presented in the main *hall*. | Giải thưởng sẽ được trao tại hội trường chính.
+col: exhibition hall = hội trường triển lãm; conference hall = hội trường hội nghị; town hall = tòa thị chính; dining hall = phòng ăn lớn; concert hall = nhà hát hòa nhạc; hall of fame = đại sảnh danh vọng
+syn: auditorium, lobby, corridor, venue
+
+# overwhelmed | /ˌoʊvərˈwelmd/
+fam: overwhelm (v) áp đảo; overwhelming (adj) áp đảo; overwhelmingly (adv)
+tip: overwhelmed (adj, người cảm thấy) vs overwhelming (adj, cái gây ra) – quy tắc -ed/-ing. "overwhelmed by/with sth".
+@adj
+1. choáng ngợp, quá tải | The staff were *overwhelmed* by the number of orders. | Nhân viên bị quá tải bởi số lượng đơn hàng.
+col: overwhelmed by/with = choáng ngợp bởi; feel overwhelmed = cảm thấy quá tải; overwhelmed with work = quá nhiều việc; overwhelmed with gratitude = tràn đầy biết ơn
+prep: overwhelmed by/with sth
+syn: swamped, flooded, burdened, stunned
+ant: unfazed, calm
+
+# dessert | /dɪˈzɜːrt/ | seen: desserts
+fam: desert (n/v) sa mạc, bỏ rơi; deserve (v) xứng đáng
+tip: BẪY chính tả: dessert (2 s, món tráng miệng) ≠ desert (1 s, sa mạc). Mẹo: "dessert" thêm một "s" vì ai cũng muốn thêm.
+@n
+1. món tráng miệng | The restaurant is famous for its homemade *desserts*. | Nhà hàng nổi tiếng với món tráng miệng tự làm.
+col: dessert menu = thực đơn tráng miệng; homemade desserts = món tráng miệng tự làm; for dessert = làm món tráng miệng; dessert wine = rượu vang tráng miệng; dessert and coffee = tráng miệng và cà phê
+syn: sweet, pudding, afters
+
+# taste | /teɪst/
+fam: tasty (adj) ngon; tasteful (adj) tinh tế; tasteless (adj) vô vị; distaste (n) sự ghê tởm
+tip: taste (n) = vị, khẩu vị, gu: "good taste", "taste of sth", "to your taste". (v) = nếm, có vị: "taste + adj" (taste good). Cặp tính từ: tasty (ngon) vs tasteful (có gu).
+@n
+1. vị, khẩu vị | The soup has a rich *taste*. | Món súp có vị đậm đà.
+2. gu, sở thích | The decor reflects the owner's *taste* for modern art. | Cách bài trí phản ánh gu nghệ thuật hiện đại của chủ.
+col: good taste = gu tốt; a taste for sth = sở thích về; to one's taste = hợp khẩu vị; taste test = thử nếm; acquired taste = vị phải làm quen
+syn: flavor (1); preference, liking (2)
+@v
+1. nếm; có vị | The sauce *tastes* better with fresh herbs. | Nước sốt ngon hơn với rau thơm tươi.
+col: taste + adj = có vị...; taste of sth = có vị của; taste good/bad = ngon/dở; taste like sth = có vị giống
+syn: sample, try, savor
+
+# observe | /əbˈzɜːrv/ | seen: observed
+fam: observation (n) sự quan sát; observer (n) người quan sát; observance (n) sự tuân thủ; observant (adj) tinh ý
+tip: observe = quan sát; tuân thủ (observe the rules/the law); ghi nhận/nhận xét. "observe safety regulations" = tuân thủ quy định an toàn.
+@v
+1. quan sát, nhận thấy | Researchers *observed* how customers use the app. | Các nhà nghiên cứu quan sát cách khách hàng dùng ứng dụng.
+2. tuân thủ | All employees must *observe* the safety rules. | Mọi nhân viên phải tuân thủ quy tắc an toàn.
+col: observe the rules = tuân thủ quy tắc; observe a holiday = nghỉ lễ; observe closely = quan sát kỹ; carefully observed = được quan sát kỹ; observe that... = nhận xét rằng
+syn: watch, notice, monitor, see (1); obey, follow, comply with (2)
+ant: ignore, neglect, violate
+
+# prizewinning | /ˈpraɪzwɪnɪŋ/
+fam: prize (n/v) giải thưởng; winner (n) người thắng; win (v) thắng; award-winning (adj)
+tip: Tính từ ghép (có thể viết tách: prize-winning): "a prizewinning novelist", "an award-winning design". Dùng như adj đứng trước danh từ.
+@adj
+1. đoạt giải | The café serves *prizewinning* coffee from local farms. | Quán phục vụ cà phê đoạt giải từ các nông trại địa phương.
+col: prizewinning author = tác giả đoạt giải; prizewinning design = thiết kế đoạt giải; prizewinning recipe = công thức đoạt giải; prizewinning entry = bài dự thi đoạt giải
+syn: award-winning, champion, acclaimed
+
+# toward | /təˈwɔːrd/
+fam: towards (prep, Anh) cùng nghĩa; forward (adv) về phía trước
+tip: toward (Mỹ) / towards (Anh) = về phía, hướng tới; "work toward a goal"; "contribute toward" = góp phần vào. "toward the end of" = vào cuối...
+@prep
+1. về phía, hướng tới | The bus is heading *toward* the airport. | Xe buýt đang đi về phía sân bay.
+2. đối với, hướng đến mục tiêu | The company is working *toward* a zero-waste goal. | Công ty đang hướng tới mục tiêu không rác thải.
+col: toward the end of = vào cuối; work toward = nỗ lực hướng tới; contribute toward = đóng góp cho; attitude toward sth = thái độ đối với; head toward = đi về phía
+prep: attitude toward sth / progress toward sth
+syn: to, in the direction of, approaching
+ant: away from
+
+# beyond | /biˈjɑːnd/
+fam: —
+tip: "beyond" = vượt quá/phía bên kia: beyond expectations, beyond repair, "above and beyond". Cùng nghĩa: past, over.
+@prep
+1. vượt quá | The quality was *beyond* our expectations. | Chất lượng vượt quá mong đợi của chúng tôi.
+2. ở phía bên kia | The hotel is just *beyond* the bridge. | Khách sạn ở ngay bên kia cầu.
+col: beyond expectations = vượt mong đợi; beyond repair = hỏng không sửa được; above and beyond = vượt xa; beyond doubt = không còn nghi ngờ; beyond one's control = ngoài tầm kiểm soát; beyond belief = không thể tin được
+syn: past, exceeding, over (1); on the far side of (2)
+ant: within, short of
+
+# antique | /ænˈtiːk/
+fam: antiquity (n) thời cổ đại; antiquated (adj) lỗi thời; antiquarian (n)
+tip: antique (adj/n) = đồ cổ (thường trên 100 năm); "antique furniture/store/dealer". Khác "vintage" (đồ xưa còn tốt), "ancient" (cổ đại).
+@adj
+1. cổ | The hotel lobby is decorated with *antique* furniture. | Sảnh khách sạn được trang trí bằng đồ nội thất cổ.
+col: antique furniture = đồ nội thất cổ; antique shop = tiệm đồ cổ; antique dealer = người buôn đồ cổ; antique collector = người sưu tầm đồ cổ; antique clock = đồng hồ cổ
+syn: vintage, old, ancient, period
+ant: modern, contemporary, new
+@n
+1. đồ cổ | She collects *antiques* from the 18th century. | Bà sưu tầm đồ cổ từ thế kỷ 18.
+
+# guard | /ɡɑːrd/ | seen: guards
+fam: guardian (n) người giám hộ; guarded (adj) thận trọng; safeguard (v/n) bảo vệ; bodyguard (n)
+tip: (n) = bảo vệ; (v) = canh gác, bảo vệ. "on guard" = cảnh giác; "off guard" = bất ngờ; "security guard", "guard against" = đề phòng.
+@n
+1. người bảo vệ | The security *guards* check each visitor's pass. | Nhân viên bảo vệ kiểm tra thẻ của từng khách.
+col: security guard = bảo vệ; on guard = cảnh giác; off guard = bị bất ngờ; guard duty = nhiệm vụ canh gác; night guard = bảo vệ ca đêm
+syn: watchman, sentry, protector
+@v
+1. canh gác, bảo vệ | Staff *guard* the entrance around the clock. | Nhân viên canh gác lối vào suốt ngày đêm.
+col: guard against sth = đề phòng; guard sth from sth = bảo vệ khỏi; guard the entrance = canh lối vào
+prep: guard against sth / guard sb from sth
+syn: protect, defend, safeguard, watch over
+
+# panel | /ˈpænl/
+fam: panelist (n) thành viên hội đồng; paneling (n) ván ốp; panel discussion (n)
+tip: panel = hội đồng (panel of experts), bảng điều khiển (control panel), tấm (solar panel). "panel discussion" = buổi thảo luận chuyên gia.
+@n
+1. hội đồng, ban | A *panel* of experts will answer questions. | Một ban chuyên gia sẽ trả lời câu hỏi.
+2. tấm, bảng | The building is covered in solar *panels*. | Tòa nhà được phủ các tấm pin mặt trời.
+col: panel of experts = hội đồng chuyên gia; panel discussion = thảo luận bàn tròn; control panel = bảng điều khiển; solar panel = tấm pin mặt trời; interview panel = hội đồng phỏng vấn; panel member = thành viên ban
+syn: committee, board, jury (1); board, sheet (2)
+
+# climate-controlled | /ˈklaɪmət kənˈtroʊld/
+fam: climate (n) khí hậu; control (v/n); controlled (adj); temperature-controlled (adj)
+tip: Từ ghép tính từ: noun + V-ed: climate-controlled (có điều hòa khí hậu), temperature-controlled, state-controlled. Thường dùng cho kho, phòng bảo quản.
+@adj
+1. có điều hòa nhiệt độ/độ ẩm | The antiques are stored in a *climate-controlled* warehouse. | Đồ cổ được cất trong kho có kiểm soát khí hậu.
+col: climate-controlled storage = kho kiểm soát nhiệt độ; climate-controlled room = phòng điều hòa khí hậu; climate-controlled warehouse = kho điều hòa; climate-controlled environment = môi trường kiểm soát nhiệt độ
+syn: air-conditioned, temperature-controlled
+
+# reliable | /rɪˈlaɪəbl/
+fam: rely (v) dựa vào; reliability (n) độ tin cậy; reliably (adv); unreliable (adj); reliance (n)
+tip: reliable (adj) = đáng tin cậy (cả người, dịch vụ, nguồn thông tin). Đồng nghĩa nhóm: dependable, trustworthy. "a reliable source".
+@adj
+1. đáng tin cậy | We need a *reliable* delivery service. | Chúng tôi cần một dịch vụ giao hàng đáng tin cậy.
+col: reliable service = dịch vụ đáng tin; reliable source = nguồn đáng tin; reliable information = thông tin đáng tin; highly reliable = rất đáng tin; reliable supplier = nhà cung cấp đáng tin
+syn: dependable, trustworthy, consistent, steady
+ant: unreliable, undependable
+
+# shield | /ʃiːld/ | seen: shielding furniture
+fam: shielded (adj) được che chắn; windshield (n) kính chắn gió; shielding (n) lớp che chắn
+tip: shield sb/sth from sth = che chắn khỏi. "protective shield", "sun shield". "shielding furniture from the sun" = bảo vệ đồ nội thất khỏi nắng.
+@v
+1. che chắn, bảo vệ | The curtains *shield* the furniture from direct sunlight. | Rèm cửa che đồ nội thất khỏi ánh nắng trực tiếp.
+col: shield sth from sth = che chắn cái gì khỏi; shield sb from criticism = bảo vệ ai khỏi chỉ trích; shield sb from harm = che chở khỏi nguy hiểm
+prep: shield sb/sth from/against sth
+syn: protect, guard, screen, cover
+ant: expose
+@n
+1. tấm chắn, lá chắn | The workers wear face *shields* for safety. | Công nhân đeo tấm chắn mặt để an toàn.
+col: face shield = tấm chắn mặt; heat shield = tấm chắn nhiệt; windshield = kính chắn gió; sun shield = tấm che nắng
+syn: guard, screen, barrier

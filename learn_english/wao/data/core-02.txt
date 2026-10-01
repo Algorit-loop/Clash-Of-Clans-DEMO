@@ -1,0 +1,435 @@
+# whichever | /wɪtʃˈevər/
+fam: which (pron/det) cái nào; whatever (pron) bất cứ điều gì; whoever (pron) bất cứ ai
+tip: Đại từ quan hệ nối "ever": whichever/whatever/whoever/whenever/wherever = bất kể ... nào. Bản thân nó làm chủ ngữ/tân ngữ của mệnh đề sau.
+@pron
+1. bất kể cái nào | You may choose *whichever* option suits your budget. | Bạn có thể chọn phương án nào phù hợp ngân sách.
+@det
+1. bất kể... nào | *Whichever* route you take, you will arrive by noon. | Dù đi đường nào, bạn cũng sẽ đến trước buổi trưa.
+col: whichever comes first = cái nào đến trước; whichever is greater/later = cái nào lớn hơn/muộn hơn
+syn: no matter which, any... that
+use: Hay gặp trong điều khoản bảo hành: "12 months or 20,000 km, whichever comes first".
+
+# whose | /huːz/
+fam: who (pron) ai; whom (pron) ai (tân ngữ); whosever (hiếm)
+tip: "whose" = sở hữu cách của who/which → luôn kèm danh từ ngay sau: whose + N. Đừng nhầm với "who's" = who is/has.
+@pron
+1. của ai | *Whose* umbrella is this? | Đây là ô của ai?
+@det
+1. mà... của người đó (mệnh đề quan hệ) | We are looking for a designer *whose* portfolio shows creativity. | Chúng tôi đang tìm một nhà thiết kế có hồ sơ năng lực thể hiện sự sáng tạo.
+col: a person whose + N = người mà ...của họ; whose turn is it? = đến lượt ai?
+syn: of whom, of which
+
+# whom | /huːm/
+fam: who (pron) chủ ngữ; whose (det) của ai
+tip: "whom" là tân ngữ của động từ/giới từ: to whom, with whom, for whom. Sau giới từ KHÔNG dùng "who".
+@pron
+1. ai (tân ngữ), người mà | The candidate *whom* we interviewed has accepted the offer. | Ứng viên mà chúng tôi phỏng vấn đã nhận lời mời làm việc.
+col: to whom it may concern = kính gửi quý vị có liên quan; with whom = với người mà; some of whom = trong số đó có một vài người
+prep: giới từ + whom: to whom, for whom, with whom, of whom
+use: Trang trọng; trong văn nói thường thay bằng "who".
+
+# hiring | /ˈhaɪərɪŋ/
+fam: hire (v/n) thuê, người mới thuê; hirer (n) người thuê; rehire (v) thuê lại
+tip: "hiring" (danh từ/gerund): hiring process, hiring manager, hiring freeze (đóng băng tuyển dụng). Đừng nhầm "hire" (thuê người) với "rent" (thuê đồ).
+@n
+1. việc tuyển dụng | The company announced a *hiring* freeze this quarter. | Công ty thông báo đóng băng tuyển dụng quý này.
+col: hiring manager = quản lý tuyển dụng; hiring process = quy trình tuyển dụng; hiring freeze = đóng băng tuyển dụng; we're hiring = chúng tôi đang tuyển
+@adj
+1. đang tuyển | The firm is *hiring* two engineers. | Công ty đang tuyển hai kỹ sư.
+syn: recruiting, employing, recruitment
+ant: firing, dismissal
+
+# testimonial | /ˌtestɪˈmoʊniəl/ | seen: testimonials
+fam: testify (v) làm chứng; testimony (n) lời khai
+tip: "testimonial" = lời chứng thực/giới thiệu của khách hàng hoặc người từng làm việc cùng, dùng để quảng bá.
+@n
+1. thư/lời giới thiệu, chứng thực | The website features *testimonials* from satisfied customers. | Trang web có các lời chứng thực từ khách hàng hài lòng.
+col: customer testimonial = lời chứng thực khách hàng; glowing testimonial = lời khen nhiệt thành; testimonial letter = thư giới thiệu
+syn: recommendation, endorsement, tribute, reference
+use: Thường trong hồ sơ xin việc/marketing.
+
+# reference | /ˈrefrəns/ | seen: references
+fam: refer (v) tham chiếu, giới thiệu; referral (n) sự giới thiệu; referee (n) người bảo lãnh/trọng tài
+tip: "references" (số nhiều) trong tuyển dụng = người tham chiếu / thư giới thiệu. "with reference to" = liên quan đến (thư).
+@n
+1. thư giới thiệu, người tham chiếu | Applicants must provide two professional *references*. | Ứng viên phải cung cấp hai người tham chiếu nghề nghiệp.
+2. sự tham khảo, đề cập | Please keep this manual for future *reference*. | Vui lòng giữ sổ tay này để tham khảo sau này.
+col: provide references = cung cấp thông tin người tham chiếu; for future reference = để tham khảo sau; reference number = mã số tham chiếu; with reference to = liên quan đến; reference letter = thư giới thiệu
+prep: reference to sth = sự đề cập đến; in/with reference to
+syn: recommendation (1), mention, citation (2)
+
+# credential | /krɪˈdenʃl/ | seen: credentials
+fam: credibility (n) uy tín; credible (adj) đáng tin; accredit (v) công nhận
+tip: Hầu như luôn ở dạng số nhiều "credentials" = chứng chỉ, bằng cấp, thông tin đăng nhập.
+@n
+1. chứng chỉ, bằng cấp, năng lực | She has impressive academic *credentials*. | Cô ấy có bằng cấp học thuật ấn tượng.
+2. thông tin đăng nhập | Please enter your login *credentials*. | Vui lòng nhập thông tin đăng nhập của bạn.
+col: academic credentials = bằng cấp học thuật; professional credentials = chứng chỉ nghề nghiệp; check credentials = kiểm tra năng lực/lý lịch; login credentials = thông tin đăng nhập
+syn: qualification, certificate, diploma
+
+# portfolio | /pɔːrtˈfoʊlioʊ/ | seen: portfolios
+fam: —
+tip: Trong xin việc ngành sáng tạo: "submit a portfolio" = nộp hồ sơ năng lực (tập sản phẩm). Trong tài chính: investment portfolio = danh mục đầu tư.
+@n
+1. hồ sơ năng lực, tập tác phẩm | Applicants should bring a *portfolio* of their best work. | Ứng viên nên mang theo hồ sơ các tác phẩm tiêu biểu.
+2. danh mục đầu tư | The fund manager diversified the *portfolio*. | Quản lý quỹ đa dạng hóa danh mục đầu tư.
+col: investment portfolio = danh mục đầu tư; design portfolio = hồ sơ thiết kế; build a portfolio = xây dựng hồ sơ; product portfolio = danh mục sản phẩm
+syn: collection, body of work, holdings
+
+# qualification | /ˌkwɑːlɪfɪˈkeɪʃn/ | seen: qualifications
+fam: qualify (v) đủ tư cách; qualified (adj) đủ trình độ; qualifying (adj) đủ điều kiện; overqualified (adj) quá trình độ
+tip: "qualifications" (n, số nhiều) = bằng cấp/trình độ. Cấu trúc: be qualified for/to V.
+@n
+1. trình độ, bằng cấp | The job requires strong *qualifications* in finance. | Công việc đòi hỏi trình độ chuyên môn vững về tài chính.
+2. điều kiện, sự đủ tư cách | There are no special *qualifications* required to enter the contest. | Không có điều kiện đặc biệt nào để tham gia cuộc thi.
+col: academic qualifications = trình độ học vấn; relevant qualifications = trình độ phù hợp; meet the qualifications = đáp ứng điều kiện; qualification for sth = điều kiện cho
+prep: qualification for/in sth
+syn: credential, certification, requirement
+
+# exceed | /ɪkˈsiːd/ | seen: exceeded
+fam: excess (n) sự vượt quá; excessive (adj) quá mức; exceedingly (adv) cực kỳ; excessively (adv)
+tip: "exceed" là ngoại động từ → KHÔNG có giới từ: exceed expectations/the limit/the budget.
+@v
+1. vượt quá, vượt trội | Sales *exceeded* expectations in the third quarter. | Doanh số vượt kỳ vọng trong quý ba.
+col: exceed expectations = vượt kỳ vọng; exceed the limit = vượt giới hạn; exceed the budget = vượt ngân sách; exceed the speed limit = chạy quá tốc độ
+syn: surpass, outstrip, top, go beyond
+ant: fall short of
+
+# upon | /əˈpɑːn/
+fam: —
+tip: Cụm "upon + N/V-ing" = ngay khi: upon arrival, upon receipt of, upon request. Trang trọng hơn "on".
+@prep
+1. ngay khi, vào lúc | Please check in *upon* arrival at the hotel. | Vui lòng nhận phòng ngay khi đến khách sạn.
+2. theo, trên (trang trọng) | Brochures are available *upon* request. | Có sẵn tờ rơi khi có yêu cầu.
+col: upon request = khi được yêu cầu; upon arrival = ngay khi đến; upon receipt (of) = ngay khi nhận được; upon completion = khi hoàn thành; once upon a time = ngày xửa ngày xưa
+syn: on, after, at
+use: Văn phong trang trọng, hay gặp trong thông báo, hợp đồng.
+
+# onto | /ˈɑːntuː/
+fam: on (prep) trên; to (prep) đến
+tip: onto = chuyển động từ ngoài lên bề mặt (on + to): jump onto the stage. Khác "on to" (to là một phần của cụm khác): move on to the next item.
+@prep
+1. lên trên (chuyển động) | The workers loaded the boxes *onto* the truck. | Công nhân chất các thùng lên xe tải.
+col: load sth onto = chất lên; move onto = chuyển sang; hold onto = giữ chặt; get onto = bước lên
+syn: on top of, upon
+ant: off
+
+# delivery | /dɪˈlɪvəri/
+fam: deliver (v) giao; deliverer (n) người giao; deliverable (n) sản phẩm bàn giao
+tip: Khi đặt hàng: free delivery, next-day delivery, delivery fee. Còn "deliver a speech" = phát biểu.
+@n
+1. sự giao hàng | The *delivery* has been delayed due to bad weather. | Việc giao hàng bị trì hoãn do thời tiết xấu.
+2. hàng được giao | We received the *delivery* this morning. | Chúng tôi đã nhận được hàng sáng nay.
+col: home delivery = giao tận nhà; delivery date = ngày giao; free delivery = giao miễn phí; delivery fee = phí giao hàng; on delivery = khi giao hàng (cash on delivery - COD)
+prep: delivery of sth to sb
+syn: shipment, distribution, dispatch
+
+# compete | /kəmˈpiːt/ | seen: competing
+fam: competition (n) cuộc thi, sự cạnh tranh; competitor (n) đối thủ; competitive (adj) cạnh tranh; competing (adj) cạnh tranh nhau
+tip: "competing" (adj) = đối địch/cạnh tranh nhau: competing firms/proposals. "compete with sb for sth" = cạnh tranh với ai để giành cái gì.
+@v
+1. cạnh tranh, thi đấu | Several companies are *competing* for the contract. | Nhiều công ty đang cạnh tranh để giành hợp đồng.
+col: compete for = cạnh tranh để giành; compete with/against = cạnh tranh với; compete in a market = cạnh tranh trên thị trường
+prep: compete with/against sb for sth; compete in sth
+syn: contend, vie, rival
+ant: cooperate
+@adj
+1. cạnh tranh, đối địch (competing) | The board reviewed three *competing* proposals. | Hội đồng đã xem xét ba đề xuất cạnh tranh nhau.
+col: competing interests = lợi ích xung đột; competing offers = các lời đề nghị cạnh tranh
+
+# committee | /kəˈmɪti/
+fam: commit (v) cam kết; commitment (n) sự cam kết; committed (adj) tận tâm
+tip: "committee" (n) = ủy ban – đọc /kə-MI-ti/, đánh vần: 2 m, 2 t, 2 e. Hay đi: be on a committee, committee member.
+@n
+1. ủy ban, hội đồng | The selection *committee* will announce the winner next week. | Ủy ban tuyển chọn sẽ công bố người thắng cuộc vào tuần sau.
+col: committee member = thành viên ủy ban; serve on a committee = làm trong ủy ban; planning committee = ban kế hoạch; committee meeting = cuộc họp ủy ban; organizing committee = ban tổ chức
+prep: on a committee; committee on/for sth
+syn: board, panel, council
+
+# rely | /rɪˈlaɪ/ | seen: relying
+fam: reliable (adj) đáng tin cậy; reliability (n) độ tin cậy; reliance (n) sự phụ thuộc; reliant (adj) phụ thuộc; reliably (adv)
+tip: "rely on/upon sb/sth" (luôn đi với on/upon) = dựa vào, tin cậy. "rely on sb to V".
+@v
+1. dựa vào, tin cậy | We *rely* on our suppliers to deliver on time. | Chúng tôi dựa vào nhà cung cấp để giao hàng đúng hạn.
+col: rely heavily on = phụ thuộc nhiều vào; rely on sb to V = trông cậy vào ai làm gì; can rely on = có thể tin cậy
+prep: rely on/upon sb/sth
+syn: depend on, count on, trust, lean on
+
+# focus | /ˈfoʊkəs/ | seen: focusing
+fam: focused (adj) tập trung; unfocused (adj); refocus (v) tập trung lại
+tip: "focus on + N/V-ing" – luôn đi với on. Danh từ: "the focus of the meeting is..." / "in focus" = rõ nét.
+@v
+1. tập trung | The training will *focus* on customer service skills. | Khóa đào tạo sẽ tập trung vào kỹ năng chăm sóc khách hàng.
+col: focus on sth = tập trung vào; focus attention on = dồn sự chú ý vào; stay focused = giữ sự tập trung
+prep: focus on/upon sth
+syn: concentrate, center on, zero in on
+ant: neglect, ignore
+@n
+1. trọng tâm, tâm điểm | Our *focus* this year is to improve efficiency. | Trọng tâm của chúng tôi năm nay là nâng cao hiệu quả.
+col: main focus = trọng tâm chính; focus group = nhóm thảo luận khảo sát; in focus / out of focus = rõ nét / mờ
+syn: emphasis, priority, center
+
+# elevator | /ˈelɪveɪtər/ | seen: elevators
+fam: elevate (v) nâng lên; elevation (n) độ cao
+tip: Anh-Mỹ: elevator; Anh-Anh: lift. Phát biểu thông báo: "The elevators are out of service" (thang máy đang ngừng hoạt động).
+@n
+1. thang máy | The *elevators* will be out of service during the inspection. | Thang máy sẽ ngừng hoạt động trong thời gian kiểm tra.
+col: take the elevator = đi thang máy; elevator pitch = bài giới thiệu ngắn gọn (30 giây); freight elevator = thang chở hàng; out of service = không hoạt động
+syn: lift
+
+# maintenance | /ˈmeɪntənəns/
+fam: maintain (v) duy trì, bảo trì; maintainable (adj); maintainer (n)
+tip: "maintenance" (n) – chú ý chính tả: m-a-i-n-t-e-n-a-n-c-e. Thông báo: "scheduled maintenance" (bảo trì theo lịch).
+@n
+1. sự bảo trì, bảo dưỡng | Routine *maintenance* will be performed on Saturday. | Công tác bảo trì định kỳ sẽ được thực hiện vào thứ Bảy.
+2. sự duy trì | The *maintenance* of a good reputation takes years. | Việc duy trì danh tiếng tốt cần nhiều năm.
+col: routine maintenance = bảo trì định kỳ; maintenance crew = đội bảo trì; maintenance fee = phí bảo trì; under maintenance = đang bảo trì; maintenance work = công việc bảo trì
+syn: upkeep, servicing, care
+
+# crew | /kruː/
+fam: crewmember (n) thành viên đội; aircrew (n) phi hành đoàn
+tip: Dùng cho nhóm người cùng làm việc: construction crew, maintenance crew, film crew, cabin crew.
+@n
+1. đội, nhóm công nhân; phi hành đoàn | A *crew* of workers repaired the road overnight. | Một đội công nhân đã sửa con đường qua đêm.
+col: maintenance crew = đội bảo trì; construction crew = đội xây dựng; film crew = đoàn làm phim; cabin crew = tiếp viên hàng không; flight crew = tổ bay
+syn: team, staff, personnel, gang
+use: Danh từ tập hợp: chia số ít hoặc số nhiều tùy ngữ cảnh.
+
+# worn | /wɔːrn/
+fam: wear (v) mặc, mòn; wear out (phr v) mòn hỏng; worn-out (adj) quá cũ
+tip: "worn" là V3 của "wear" (wear–wore–worn) nhưng cũng là tính từ: worn carpet = thảm cũ mòn. Phân biệt "worn" (cũ mòn) vs "wearing" (đang mặc).
+@adj
+1. cũ mòn, sờn | The *worn* carpet in the lobby needs to be replaced. | Tấm thảm cũ mòn ở sảnh cần được thay.
+col: worn out = hỏng vì dùng nhiều; worn carpet/tires = thảm/lốp mòn; badly worn = mòn nặng; worn-out equipment = thiết bị cũ nát
+syn: shabby, threadbare, frayed, old
+ant: new, intact
+@v
+1. đã mặc / bị mòn (V3 của wear) | All staff have *worn* uniforms since the policy began. | Tất cả nhân viên đã mặc đồng phục kể từ khi quy định bắt đầu.
+
+# cable | /ˈkeɪbl/ | seen: cables
+fam: cabling (n) hệ thống cáp; cable car (n) cáp treo
+tip: Trong văn phòng: "network cable", "power cable". Trong truyền hình: cable TV = truyền hình cáp.
+@n
+1. dây cáp | The technician replaced the damaged network *cables*. | Kỹ thuật viên đã thay các dây cáp mạng bị hỏng.
+col: power cable = dây điện; network cable = cáp mạng; cable television = truyền hình cáp; fiber-optic cable = cáp quang; extension cable = dây nối dài
+syn: wire, cord, line
+
+# therefore | /ˈðerfɔːr/
+fam: —
+tip: Trạng từ liên kết (conjunctive adverb), phải có dấu chấm phẩy/chấm trước và dấu phẩy sau: "..., ; therefore, ...". KHÔNG dùng như liên từ để nối 2 mệnh đề bằng dấu phẩy.
+@adv
+1. do đó, vì vậy | The shipment was delayed; *therefore*, the event was postponed. | Lô hàng bị trễ; do đó sự kiện đã bị hoãn lại.
+col: and therefore = và vì vậy; therefore, ... (đầu câu) = do đó
+syn: thus, hence, consequently, as a result, accordingly
+ant: nevertheless, however
+
+# due to | /duː tuː/
+fam: due (adj) đến hạn; dues (n) phí hội viên
+tip: "due to + N/V-ing" = do, bởi vì (giới từ kép), gần như = because of / owing to. Sau "due to" không có mệnh đề đầy đủ. "be due to V" = dự kiến sẽ.
+@prep
+1. do, bởi vì | The flight was canceled *due to* heavy snow. | Chuyến bay bị hủy do tuyết rơi dày.
+2. (be due to V) dự kiến sẽ | The report is *due to* be released on Monday. | Báo cáo dự kiến sẽ được công bố vào thứ Hai.
+col: due to + N = bởi; due to the fact that + clause = bởi vì thực tế là; be due to V = dự kiến; due date = ngày đến hạn
+syn: because of, owing to, thanks to, on account of
+ant: despite, in spite of
+
+# extra | /ˈekstrə/
+fam: extras (n) khoản/thứ bổ sung; extra-large (adj) cỡ rất lớn
+tip: Cũng có thể làm trạng từ (extra careful) và danh từ (extras = đồ phụ trội).
+@adj
+1. thêm, phụ | There is an *extra* charge for late check-out. | Có khoản phí phụ thu khi trả phòng trễ.
+col: extra charge/fee = phụ phí; extra cost = chi phí thêm; extra time = thời gian thêm; extra effort = nỗ lực hơn; extra large = cỡ rất lớn
+syn: additional, further, added, spare
+ant: standard, necessary
+@adv
+1. đặc biệt, hơn bình thường | Please be *extra* careful with the glassware. | Vui lòng hết sức cẩn thận với đồ thủy tinh.
+@n
+1. thứ phụ thêm | Breakfast is an *extra* at this hotel. | Bữa sáng là dịch vụ tính thêm ở khách sạn này.
+
+# demand | /dɪˈmænd/
+fam: demanding (adj) đòi hỏi cao; in demand (adj phr) có nhu cầu cao
+tip: Cặp kinh tế: supply and demand (cung và cầu). "in demand" = được săn đón. "on demand" = theo yêu cầu.
+@n
+1. nhu cầu, sức mua | There is high *demand* for electric vehicles. | Nhu cầu về xe điện đang rất cao.
+col: high demand = nhu cầu cao; in demand = được săn đón; on demand = theo yêu cầu; meet demand = đáp ứng nhu cầu; supply and demand = cung và cầu; demand for sth = nhu cầu đối với
+prep: demand for sth
+syn: need, call, market
+ant: supply
+@v
+1. đòi hỏi, yêu cầu | The job *demands* excellent communication skills. | Công việc đòi hỏi kỹ năng giao tiếp xuất sắc.
+col: demand an explanation = đòi giải thích; demand attention = đòi hỏi sự chú ý
+syn: require, insist on, call for
+
+# supply | /səˈplaɪ/ | seen: supplies
+fam: supplier (n) nhà cung cấp; supplies (n) vật tư; supplement (n/v) bổ sung
+tip: "office supplies" = văn phòng phẩm (luôn số nhiều). Động từ: supply sb with sth = cung cấp cho ai cái gì.
+@n
+1. nguồn cung; vật tư | The store ran out of *supplies* last week. | Cửa hàng hết hàng cung ứng tuần trước.
+col: office supplies = văn phòng phẩm; in short supply = khan hiếm; supply chain = chuỗi cung ứng; supply and demand = cung và cầu; medical supplies = vật tư y tế
+syn: provision, stock, inventory
+ant: demand
+@v
+1. cung cấp | The company *supplies* uniforms to local hospitals. | Công ty cung cấp đồng phục cho các bệnh viện địa phương.
+col: supply sb with sth = cung cấp cho ai cái gì; supply sth to sb = cung cấp cái gì cho ai
+prep: supply sb with sth / supply sth to sb
+syn: provide, furnish, deliver
+
+# tend | /tend/ | seen: tends
+fam: tendency (n) khuynh hướng; tender (n/adj/v) hồ sơ dự thầu, mềm, đấu thầu
+tip: "tend to + V" = có xu hướng, thường hay. Còn "tend" (v) = chăm sóc: tend the garden.
+@v
+1. có xu hướng, hay | Prices *tend* to rise in the summer. | Giá có xu hướng tăng vào mùa hè.
+2. chăm sóc, trông nom | Volunteers *tend* the garden each weekend. | Tình nguyện viên chăm sóc khu vườn mỗi cuối tuần.
+col: tend to V = có xu hướng; tend to + n (ít) = chăm sóc; tend to be + adj = thường là
+syn: be inclined to, be apt to (1); look after (2)
+ant: neglect (2)
+
+# periodic | /ˌpɪriˈɑːdɪk/
+fam: period (n) khoảng thời gian; periodical (n) tạp chí định kỳ; periodically (adv) định kỳ
+tip: periodic (adj) định kỳ, lặp lại không nhất thiết đều đặn ≈ regular. "periodic review/check/inspection". Trạng từ: periodically.
+@adj
+1. định kỳ | The machinery requires *periodic* inspection. | Máy móc cần được kiểm tra định kỳ.
+col: periodic review = đánh giá định kỳ; periodic maintenance = bảo trì định kỳ; periodic checks = kiểm tra định kỳ
+syn: regular, recurring, occasional, intermittent
+ant: constant, continuous
+
+# frequent | /ˈfriːkwənt/ (adj), /friˈkwent/ (v)
+fam: frequency (n) tần suất; frequently (adv) thường xuyên; infrequent (adj) hiếm
+tip: "frequent flyer" = khách bay thường xuyên. Động từ (frequent a place) = thường lui tới: trọng âm khác (fri-QUENT).
+@adj
+1. thường xuyên | The airline offers rewards to *frequent* travelers. | Hãng hàng không tặng thưởng cho khách thường xuyên.
+col: frequent flyer = khách bay thường xuyên; frequent visitor = khách thường lui tới; frequent delays = trễ liên tục; frequent updates = cập nhật liên tục
+syn: regular, habitual, recurrent
+ant: rare, infrequent
+@v
+1. thường lui tới | Many tourists *frequent* this café. | Nhiều du khách thường lui tới quán cà phê này.
+
+# brief | /briːf/
+fam: briefly (adv) ngắn gọn; briefing (n) buổi họp thông tin; brevity (n) sự ngắn gọn; debrief (v) nghe báo cáo sau
+tip: Công việc: "a brief meeting" = cuộc họp ngắn; "brief sb on sth" = thông báo tóm tắt cho ai về việc gì; "in brief" = tóm lại.
+@adj
+1. ngắn gọn, ngắn ngủi | She gave a *brief* presentation on the new policy. | Cô ấy trình bày ngắn gọn về chính sách mới.
+col: brief summary = tóm tắt ngắn; a brief delay = sự chậm trễ ngắn; in brief = nói ngắn gọn; brief overview = tổng quan ngắn
+syn: short, concise, quick, succinct
+ant: lengthy, long
+@v
+1. thông báo tóm tắt | The manager will *brief* the team on the schedule. | Quản lý sẽ thông báo tóm tắt cho nhóm về lịch trình.
+prep: brief sb on/about sth
+@n
+1. bản tóm tắt chỉ thị | The designer received a *brief* from the client. | Nhà thiết kế nhận được bản yêu cầu tóm tắt từ khách.
+
+# considering | /kənˈsɪdərɪŋ/ | seen: Considering
+fam: consider (v) cân nhắc; consideration (n) sự cân nhắc
+tip: "considering + N/(that) clause" = xét đến, nếu tính đến. Giới từ/liên từ, nghĩa gần "given that", "in view of".
+@prep
+1. xét đến, xét về | *Considering* the budget, the project was a success. | Xét đến ngân sách, dự án là một thành công.
+@conj
+1. xét rằng | She did well, *considering* (that) she had little training. | Cô ấy làm tốt, nếu xét việc cô ấy ít được huấn luyện.
+col: considering the circumstances = xét hoàn cảnh; considering everything = xét mọi thứ; considering that... = xét rằng
+syn: given, in view of, taking into account
+use: Hay đặt đầu câu và theo sau là dấu phẩy.
+
+# surprising | /sərˈpraɪzɪŋ/
+fam: surprise (v/n) làm ngạc nhiên / sự bất ngờ; surprised (adj) ngạc nhiên; surprisingly (adv) đáng ngạc nhiên
+tip: V-ing (chủ ngữ gây ra cảm xúc): surprising result; V-ed (người cảm nhận): surprised customers. Mẹo: vật → -ing, người → -ed.
+@adj
+1. đáng ngạc nhiên | The test results were *surprising* to the researchers. | Kết quả kiểm tra khiến các nhà nghiên cứu ngạc nhiên.
+col: not surprising = không có gì ngạc nhiên; it's surprising that... = thật đáng ngạc nhiên rằng; surprising news = tin bất ngờ
+syn: astonishing, unexpected, startling, amazing
+ant: predictable, expected
+
+# surprise | /sərˈpraɪz/
+fam: surprising (adj) đáng ngạc nhiên; surprised (adj) ngạc nhiên; surprisingly (adv)
+tip: be surprised at/by/to V = ngạc nhiên về/làm gì.
+@v
+1. làm ngạc nhiên | The sudden announcement *surprised* many employees. | Thông báo đột ngột khiến nhiều nhân viên ngạc nhiên.
+col: be surprised at/by sth = ngạc nhiên về; be surprised to V = ngạc nhiên khi làm gì
+syn: astonish, amaze, startle
+@n
+1. sự bất ngờ | The party was a complete *surprise*. | Bữa tiệc hoàn toàn bất ngờ.
+col: to my surprise = trước sự ngạc nhiên của tôi; a pleasant surprise = bất ngờ thú vị; come as a surprise = gây bất ngờ; surprise visit = chuyến thăm đột xuất
+syn: shock, astonishment, revelation
+
+# capacity | /kəˈpæsəti/
+fam: capable (adj) có khả năng; incapacity (n); capacious (adj) rộng rãi
+tip: "at full capacity" = hết công suất/kín chỗ; "seating capacity" = sức chứa chỗ ngồi. Dạng "capacity to V" = năng lực làm gì.
+@n
+1. sức chứa, công suất | The stadium has a seating *capacity* of 50,000. | Sân vận động có sức chứa 50.000 chỗ ngồi.
+2. năng lực, khả năng | She has the *capacity* to lead large teams. | Cô ấy có năng lực dẫn dắt các nhóm lớn.
+col: at full capacity = hết công suất; seating capacity = sức chứa; production capacity = năng lực sản xuất; filled to capacity = kín chỗ; capacity crowd = đám đông kín chỗ
+prep: capacity for sth / capacity to V
+syn: volume, space (1), ability, competence (2)
+
+# storage | /ˈstɔːrɪdʒ/
+fam: store (v/n) lưu trữ, cửa hàng; storeroom (n) kho
+tip: Danh từ không đếm được. Điện toán: cloud storage, storage space. Văn phòng: storage room/cabinet.
+@n
+1. sự lưu trữ; nơi chứa | The documents are kept in *storage* in the basement. | Tài liệu được cất trong kho ở tầng hầm.
+col: storage space = diện tích chứa đồ; cloud storage = lưu trữ đám mây; storage room = phòng kho; in storage = đang được cất giữ; cold storage = kho lạnh
+syn: warehousing, stockpiling, repository
+
+# generous | /ˈdʒenərəs/
+fam: generosity (n) sự hào phóng; generously (adv) một cách hào phóng
+tip: "a generous donation/offer/benefits package" – hay gặp trong thông báo từ thiện/tuyển dụng.
+@adj
+1. hào phóng, rộng rãi | The company offers a *generous* benefits package. | Công ty cung cấp gói phúc lợi hào phóng.
+col: generous donation = khoản quyên góp hào phóng; generous offer = lời đề nghị hậu hĩnh; generous portions = khẩu phần lớn; be generous with sth = hào phóng với
+syn: giving, lavish, charitable, ample
+ant: stingy, mean, tight-fisted
+
+# combine | /kəmˈbaɪn/ | seen: combines
+fam: combination (n) sự kết hợp; combined (adj) kết hợp
+tip: "combine A with/and B" = kết hợp A với B. Danh từ: combination (in combination with).
+@v
+1. kết hợp, hợp nhất | The new app *combines* messaging with video calls. | Ứng dụng mới kết hợp nhắn tin với gọi video.
+col: combine A with B = kết hợp A với B; combine forces = hợp lực; combined effort = nỗ lực chung; combined with = cùng với
+prep: combine with/and
+syn: merge, blend, unite, join
+ant: separate, divide, split
+
+# refrigerator | /rɪˈfrɪdʒəreɪtər/
+fam: refrigerate (v) làm lạnh, bảo quản lạnh; refrigeration (n) sự làm lạnh; fridge (n) tủ lạnh (viết tắt)
+tip: Nhãn thực phẩm: "Refrigerate after opening" = bảo quản lạnh sau khi mở.
+@n
+1. tủ lạnh | Please store the leftover food in the *refrigerator*. | Vui lòng cất thức ăn thừa vào tủ lạnh.
+col: refrigerator door = cửa tủ lạnh; keep in the refrigerator = để trong tủ lạnh; break-room refrigerator = tủ lạnh phòng nghỉ
+syn: fridge, icebox
+
+# compact | /ˈkɑːmpækt/ (n), /kəmˈpækt/ (adj)
+fam: compactness (n) sự nhỏ gọn; compactly (adv)
+tip: Quảng cáo sản phẩm: "compact design" = thiết kế nhỏ gọn; "compact car" = xe cỡ nhỏ.
+@adj
+1. nhỏ gọn | The new laptop has a *compact* design. | Máy tính xách tay mới có thiết kế nhỏ gọn.
+col: compact size = kích thước nhỏ gọn; compact car = xe cỡ nhỏ; compact design = thiết kế nhỏ gọn
+syn: small, portable, space-saving
+ant: bulky, large
+@n
+1. thỏa thuận | The two nations signed a trade *compact*. | Hai quốc gia ký một thỏa thuận thương mại.
+
+# exterior | /ɪkˈstɪriər/
+fam: external (adj) bên ngoài; externally (adv)
+tip: exterior ↔ interior. "exterior walls/paint/design" gặp nhiều trong tin xây dựng, bất động sản.
+@n
+1. bên ngoài, mặt ngoài | The building's *exterior* was repainted last month. | Mặt ngoài tòa nhà đã được sơn lại tháng trước.
+@adj
+1. ở bên ngoài | The *exterior* walls need repair. | Các bức tường bên ngoài cần được sửa chữa.
+col: exterior walls = tường ngoài; exterior design = thiết kế ngoại thất; exterior paint = sơn ngoại thất
+syn: outside, outer, external, facade
+ant: interior, inside
+
+# insulation | /ˌɪnsəˈleɪʃn/
+fam: insulate (v) cách nhiệt, cách điện; insulated (adj) được cách nhiệt; insulator (n) vật cách nhiệt
+tip: Ngành xây dựng: "thermal insulation" = cách nhiệt; "sound insulation" = cách âm. Giảm hóa đơn năng lượng.
+@n
+1. sự cách nhiệt/cách âm; vật liệu cách nhiệt | Better *insulation* will reduce heating costs. | Cách nhiệt tốt hơn sẽ giảm chi phí sưởi ấm.
+col: thermal insulation = cách nhiệt; sound insulation = cách âm; install insulation = lắp vật liệu cách nhiệt; insulation material = vật liệu cách nhiệt
+syn: padding, lagging, soundproofing
+
+# tenant | /ˈtenənt/ | seen: tenants
+fam: tenancy (n) quyền thuê; landlord (n) chủ nhà; lease (n/v) hợp đồng thuê
+tip: Cặp đối lập: tenant (người thuê) ↔ landlord (chủ nhà). "tenants' association", "tenant agreement".
+@n
+1. người thuê nhà/văn phòng | All *tenants* must pay rent by the fifth. | Tất cả người thuê phải trả tiền thuê trước ngày mùng 5.
+col: commercial tenant = người thuê thương mại; tenant agreement = hợp đồng thuê; current tenants = người đang thuê; prospective tenant = người dự định thuê
+syn: renter, lessee, occupant, lodger
+ant: landlord, lessor
