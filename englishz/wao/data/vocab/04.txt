@@ -101,7 +101,7 @@ ant: betrayal, disloyalty
 fam: reward (n/v) phần thưởng, thưởng; rewards (n) quyền lợi; unrewarding (adj)
 tip: rewarding = (công việc/trải nghiệm) đáng làm, mang lại sự thỏa mãn; không chỉ nghĩa "tiền thưởng".
 @adj
-1. đáng làm, bổ ích | Teaching has been a *rewarding* career for her. | Dạy học là nghề đáng giá đối với cô ấy.
+1. đáng làm, bổ ích | Teaching has been a *rewarding* career for her. | Dạy học là một nghề mang lại nhiều ý nghĩa cho cô ấy.
 col: rewarding experience = trải nghiệm bổ ích; rewarding career = sự nghiệp đáng giá; financially rewarding = có lợi về tài chính; personally rewarding = có ý nghĩa cá nhân
 syn: fulfilling, satisfying, worthwhile, gratifying
 ant: unrewarding, pointless
@@ -133,7 +133,7 @@ fam: renewal (n) sự gia hạn; renewable (adj) có thể gia hạn/tái tạo;
 tip: renew a contract/license/subscription/membership = gia hạn. "renewable energy" = năng lượng tái tạo.
 @v
 1. gia hạn | You must *renew* your membership before it expires. | Bạn phải gia hạn tư cách thành viên trước khi hết hạn.
-2. làm mới, khôi phục | The company *renewed* its efforts to cut costs. | Công ty nỗ lực trở lại để cắt giảm chi phí.
+2. làm mới, khôi phục | The company *renewed* its efforts to cut costs. | Công ty tăng cường nỗ lực cắt giảm chi phí.
 col: renew a contract = gia hạn hợp đồng; renew a license = gia hạn giấy phép; renew a subscription = gia hạn đăng ký; renew an effort = tăng cường nỗ lực
 syn: extend, prolong, restore, refresh
 ant: cancel, terminate, let expire
@@ -146,7 +146,7 @@ tip: "residents" của tòa nhà/khu phố. "residential area" = khu dân cư (�
 col: local residents = cư dân địa phương; permanent resident = thường trú nhân; resident of + place = cư dân của nơi nào; residents' association = hội cư dân
 syn: inhabitant, occupant, citizen, dweller
 @adj
-1. thường trú | The hotel has a *resident* chef. | Khách sạn có bếp trưởng thường trú.
+1. thường trú | The hotel has a *resident* chef. | Khách sạn có đầu bếp làm việc thường trực tại chỗ.
 
 # enlarge | /ɪnˈlɑːrdʒ/ | seen: enlarged
 fam: enlargement (n) sự mở rộng/phóng to; large (adj) lớn; larger (adj) lớn hơn

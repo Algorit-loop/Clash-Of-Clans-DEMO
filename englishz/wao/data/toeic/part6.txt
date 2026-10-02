@@ -1,0 +1,452 @@
+// PART 6 — đoạn văn tự soạn theo cấu trúc đề TOEIC (4 chỗ trống, 1 câu chèn câu).
+// Cú pháp:
+//   ### Loại văn bản | Tiêu đề
+//   <đoạn văn, chỗ trống ghi [1] [2] [3] [4]>
+//   ???
+//   [n] @ loại   rồi các dòng "+ đúng" / "- sai" / "= giải thích"
+//   VI: bản dịch
+
+### Email | Thông báo bảo trì thang máy
+To: All Tenants, Riverside Tower
+From: Building Management
+Subject: Elevator maintenance
+
+Dear Tenants,
+
+Please be advised that the east elevators [1] out of service from Monday, May 6, to Wednesday, May 8. During this period, technicians will replace the cables and upgrade the control panels. [2]
+
+We understand that this work may cause some [3]. To reduce waiting times, the west elevators will operate on an express schedule between 8:00 and 10:00 A.M.
+
+Thank you for your [4] and cooperation.
+
+Building Management
+???
+[1] @ tense
+- was
+- have been
++ will be
+- being
+= Lịch bảo trì từ thứ Hai tới (tương lai) → "will be".
+[2] @ sentence
++ The west elevators will remain available throughout the work.
+- The new control panels were installed last year.
+- Tenants are encouraged to use the elevators more often.
+- The maintenance company was founded in 1985.
+= Câu chèn phải nối ý: đông bị đóng → thang tây vẫn dùng được; khớp với đoạn sau nói về thang tây.
+[3] @ wordform
+- inconvenient
++ inconvenience
+- inconveniently
+- convenient
+= Sau "some" cần danh từ: some inconvenience (một chút bất tiện).
+[4] @ vocab
++ patience
+- patient
+- payment
+- permission
+= "Thank you for your patience" — câu cảm ơn quen thuộc trong thông báo.
+VI: Kính gửi quý cư dân, xin thông báo thang máy phía đông sẽ ngừng hoạt động từ thứ Hai 6/5 đến thứ Tư 8/5. Trong thời gian này, kỹ thuật viên sẽ thay cáp và nâng cấp bảng điều khiển. Thang máy phía tây vẫn hoạt động suốt thời gian thi công. Chúng tôi hiểu việc này có thể gây chút bất tiện. Để giảm thời gian chờ, thang phía tây sẽ chạy lịch tốc hành từ 8 đến 10 giờ sáng. Cảm ơn sự kiên nhẫn và hợp tác của quý vị.
+
+### Memo | Chính sách hoàn chi phí công tác
+To: All Staff
+From: Finance Department
+Date: March 3
+Subject: New travel reimbursement process
+
+Starting April 1, all requests for travel reimbursement must be [1] through the online expense system. Paper forms will no longer be accepted.
+
+Employees should upload digital copies of their receipts [2] each request. Requests without receipts cannot be processed. [3]
+
+The new system is expected to cut processing time in half. [4], employees will be able to track the status of their requests at any time.
+???
+[1] @ voice
+- submit
+- submitting
++ submitted
+- submission
+= "must be + V3" → bị động: các yêu cầu "được nộp".
+[2] @ prep
+- of
++ with
+- by
+- among
+= "upload receipts with each request" = kèm theo mỗi yêu cầu.
+[3] @ sentence
+- The finance department moved to the fifth floor last year.
++ Training sessions on the new system will be held next week.
+- Most employees prefer to travel by train.
+- Receipts are usually printed on thermal paper.
+= Văn bản giới thiệu hệ thống mới → câu về buổi hướng dẫn sử dụng hệ thống là hợp mạch nhất.
+[4] @ conj
+- However
++ In addition
+- Otherwise
+- Instead
+= Thêm một lợi ích nữa (giảm thời gian + theo dõi trạng thái) → "In addition".
+VI: Từ ngày 1/4, mọi yêu cầu hoàn chi phí công tác phải được nộp qua hệ thống chi phí trực tuyến. Mẫu giấy sẽ không còn được chấp nhận. Nhân viên cần tải bản điện tử của biên lai kèm theo mỗi yêu cầu; yêu cầu không có biên lai sẽ không được xử lý. Các buổi hướng dẫn sử dụng hệ thống mới sẽ diễn ra vào tuần tới. Hệ thống mới dự kiến giảm một nửa thời gian xử lý. Ngoài ra, nhân viên có thể theo dõi trạng thái yêu cầu bất cứ lúc nào.
+
+### Advertisement | Quảng cáo nhà hàng
+Grand Opening at Bella Vista!
+
+Bella Vista, the newest Italian restaurant in the Harbor District, opens its doors on Friday, June 14. Our chef, Marco Ricci, [1] in some of the finest kitchens in Rome and Milan.
+
+To celebrate our opening, all diners will receive a [2] dessert with any main course during the first week. [3]
+
+Bella Vista is open daily from 11:30 A.M. to 10:00 P.M. Reservations are [4] recommended for weekend evenings. Call 555-0192 or book online at bellavista-harbor.com.
+???
+[1] @ tense
+- trains
+- will train
++ has trained
+- training
+= Kinh nghiệm tích lũy đến hiện tại (không có thời điểm cụ thể) → hiện tại hoàn thành.
+[2] @ vocab
+- complementary
++ complimentary
+- comprehensive
+- competitive
+= "complimentary dessert" = món tráng miệng miễn phí.
+[3] @ sentence
++ This offer is not valid with other discounts.
+- Rome is famous for its historic architecture.
+- The Harbor District was built in the 1800s.
+- Desserts contain a large amount of sugar.
+= Sau khi nêu ưu đãi, câu điều kiện của ưu đãi là hợp lý nhất.
+[4] @ wordform
+- strong
+- strength
++ strongly
+- stronger
+= Bổ nghĩa cho phân từ "recommended" → trạng từ "strongly".
+VI: Khai trương Bella Vista! Bella Vista, nhà hàng Ý mới nhất ở khu Harbor, mở cửa thứ Sáu 14/6. Bếp trưởng Marco Ricci từng được đào tạo ở những căn bếp hàng đầu Rome và Milan. Mừng khai trương, mọi thực khách sẽ được tặng món tráng miệng khi gọi món chính trong tuần đầu. Ưu đãi không áp dụng cùng các khuyến mãi khác. Nhà hàng mở cửa hằng ngày 11:30–22:00. Khuyến khích đặt bàn trước vào tối cuối tuần.
+
+### Letter | Thư mời làm việc
+Dear Ms. Alvarez,
+
+We are pleased to offer you the position of Marketing Coordinator at Lumen Design. After [1] your application and speaking with you last week, our team agreed that your skills are an excellent match for the role.
+
+As discussed, your starting salary will be $52,000 per year. You will also be eligible for health insurance and 15 days of paid vacation. [2]
+
+Please sign the enclosed contract and return it to us [3] June 20. If you have any questions, please do not hesitate to contact me [4].
+
+Sincerely,
+Daniel Cho, Human Resources Manager
+???
+[1] @ verbform
+- review
+- reviewed
++ reviewing
+- to review
+= Sau giới từ "After" → V-ing.
+[2] @ sentence
+- Lumen Design was established by two architects.
++ Further details about these benefits are included in the enclosed packet.
+- Many applicants applied for the position.
+- Marketing is a growing field.
+= Câu nối tiếp ý về phúc lợi và liên kết với "enclosed contract" phía sau.
+[3] @ prep
+- until
++ by
+- since
+- at
+= Hạn chót trả hợp đồng → "by + ngày".
+[4] @ wordform
+- direct
+- direction
++ directly
+- director
+= Câu đã đủ; bổ nghĩa cho "contact" → trạng từ "directly".
+VI: Kính gửi bà Alvarez, chúng tôi hân hạnh mời bà vào vị trí Điều phối viên Marketing tại Lumen Design. Sau khi xem hồ sơ và trao đổi với bà tuần trước, đội ngũ đồng ý rằng kỹ năng của bà rất phù hợp. Lương khởi điểm 52.000 đô la/năm, kèm bảo hiểm y tế và 15 ngày nghỉ có lương. Thông tin chi tiết về các phúc lợi có trong bộ tài liệu gửi kèm. Vui lòng ký hợp đồng đính kèm và gửi lại trước ngày 20/6. Nếu có câu hỏi, xin cứ liên hệ trực tiếp với tôi.
+
+### Article | Tin kinh doanh
+Greenfield Foods to Open Distribution Center
+
+CEDAR FALLS — Greenfield Foods announced on Tuesday that it will build a new distribution center on the east side of the city. The 20,000-square-meter facility is expected to [1] about 300 jobs.
+
+Construction will begin in September and should be completed within 18 months. [2] the new center opens, the company will be able to deliver fresh produce to stores across the region within 24 hours.
+
+"This investment reflects our [3] to the local community," said CEO Hannah Price. [4]
+???
+[1] @ vocab
++ create
+- grow
+- raise
+- arise
+= "create jobs" = tạo việc làm (cụm cố định).
+[2] @ conj
+- Despite
++ Once
+- During
+- Instead
+= Theo sau là mệnh đề "the new center opens" → liên từ "Once" (một khi).
+[3] @ wordform
+- commit
+- committed
++ commitment
+- committing
+= Sau tính từ sở hữu "our" cần danh từ: commitment to (cam kết với).
+[4] @ sentence
+- Cedar Falls has a population of about 80,000.
+- The company's first store sold only dairy products.
++ She added that most of the new positions will be filled by local residents.
+- Fresh produce should be kept in a cool place.
+= Câu tiếp lời CEO, nối ý cam kết với cộng đồng địa phương.
+VI: Greenfield Foods thông báo hôm thứ Ba sẽ xây trung tâm phân phối mới ở phía đông thành phố. Cơ sở rộng 20.000 m² dự kiến tạo khoảng 300 việc làm. Việc xây dựng bắt đầu vào tháng Chín và hoàn tất trong 18 tháng. Một khi trung tâm hoạt động, công ty có thể giao nông sản tươi đến các cửa hàng trong vùng trong 24 giờ. "Khoản đầu tư này thể hiện cam kết của chúng tôi với cộng đồng địa phương," CEO Hannah Price nói. Bà cho biết thêm phần lớn vị trí mới sẽ dành cho cư dân địa phương.
+
+### Email | Thông báo giao hàng trễ
+To: Ms. Priya Nair
+From: Customer Service, OfficeWorks Supply
+Subject: Your order #48213
+
+Dear Ms. Nair,
+
+Thank you for your recent order. Unfortunately, one of the items, the ergonomic office chair, is [1] out of stock. We expect to receive a new shipment from our supplier next week.
+
+The rest of your order [2] today and should arrive within three business days. [3]
+
+We apologize for the delay. As a token of our appreciation, we have applied a 10 percent discount to your next purchase. Please [4] us at 555-0147 if you would prefer to cancel the chair instead.
+???
+[1] @ wordform
+- temporary
++ temporarily
+- temporariness
+- temper
+= Bổ nghĩa cho cụm tính từ "out of stock" → trạng từ "temporarily".
+[2] @ voice
+- shipped
+- has shipped
++ will be shipped
+- is shipping
+= Đơn hàng "được gửi đi" hôm nay (sắp xảy ra) → bị động tương lai.
+[3] @ sentence
++ The chair will be sent separately as soon as it becomes available.
+- Our warehouse is located near the airport.
+- Office chairs come in many different colors.
+- You can pay by credit card or bank transfer.
+= Sau khi nói phần còn lại gửi hôm nay → nói tiếp về chiếc ghế còn thiếu.
+[4] @ vocab
++ contact
+- respond
+- reply
+- speak
+= "contact sb" là ngoại động từ, nhận tân ngữ trực tiếp "us". "respond/reply" cần "to", "speak" cần "to/with".
+VI: Cảm ơn bà đã đặt hàng. Rất tiếc, một món là ghế văn phòng công thái học hiện tạm hết hàng; chúng tôi dự kiến nhận lô mới từ nhà cung cấp vào tuần sau. Phần còn lại của đơn sẽ được gửi hôm nay và đến trong ba ngày làm việc. Chiếc ghế sẽ được gửi riêng ngay khi có hàng. Chúng tôi xin lỗi vì sự chậm trễ; để tri ân, chúng tôi áp dụng giảm 10% cho lần mua tiếp theo. Vui lòng liên hệ số 555-0147 nếu bà muốn hủy chiếc ghế.
+
+### Notice | Thông báo thư viện
+Westbrook Public Library — Summer Reading Program
+
+The Westbrook Public Library invites children aged 6 to 12 to join this year's Summer Reading Program. Participants who read at least ten books [1] the summer will receive a certificate and a free ticket to the city aquarium.
+
+Registration opens on June 1 and can be completed online or at the front desk. [2] There is no fee to participate.
+
+Parents are [3] to attend the closing celebration on August 25, [4] the winners of the creative writing contest will be announced.
+???
+[1] @ prep
++ during
+- while
+- since
+- by
+= Theo sau là cụm danh từ "the summer" → giới từ "during". "while" cần mệnh đề.
+[2] @ sentence
+- The library was renovated in 2015.
++ Each participant will receive a reading log to record the books they finish.
+- The aquarium is open seven days a week.
+- Many adults also enjoy reading in the summer.
+= Câu tiếp tục mô tả việc đăng ký/tham gia chương trình.
+[3] @ voice
+- encouraging
+- encourage
++ encouraged
+- encouragement
+= "be encouraged to V" = được khuyến khích làm gì.
+[4] @ relative
+- which
++ where
+- what
+- who
+= Thay cho sự kiện/địa điểm "the closing celebration", sau là mệnh đề đầy đủ → "where" (nơi mà).
+VI: Thư viện Westbrook mời trẻ từ 6 đến 12 tuổi tham gia chương trình đọc sách mùa hè. Trẻ đọc ít nhất mười cuốn trong mùa hè sẽ nhận giấy chứng nhận và vé miễn phí vào thủy cung thành phố. Đăng ký mở từ 1/6, trực tuyến hoặc tại quầy. Mỗi người tham gia sẽ nhận sổ ghi chép để ghi lại sách đã đọc xong. Không mất phí. Phụ huynh được khuyến khích dự lễ bế mạc ngày 25/8, nơi công bố người thắng cuộc thi viết sáng tạo.
+
+### Email | Đăng ký hội nghị
+To: Conference Participants
+From: Global Retail Summit Team
+Subject: Registration confirmation
+
+Thank you for registering for the Global Retail Summit, which will take place at the Marina Convention Center on October 10–12.
+
+Your badge will be ready for pickup at the registration desk [1] you arrive. Please bring a photo ID, as badges [2] only to registered participants.
+
+This year's program features more than 40 sessions on topics such as e-commerce, customer loyalty, and supply chain management. [3]
+
+If you need to change your registration, please contact us at least seven days in [4] of the event.
+???
+[1] @ conj
++ when
+- during
+- by
+- until
+= Theo sau là mệnh đề "you arrive" → liên từ thời gian "when".
+[2] @ voice
+- issue
+- are issuing
++ will be issued
+- have issued
+= Thẻ "được cấp" → bị động.
+[3] @ sentence
+- The convention center has a large parking garage.
++ A full schedule of sessions is available on our website.
+- Retail sales fell slightly last year.
+- Photo IDs must not be expired.
+= Sau khi giới thiệu các phiên → chỉ chỗ xem lịch đầy đủ là hợp lý.
+[4] @ prep
+- ahead
++ advance
+- prior
+- before
+= Cụm cố định "in advance of" = trước (sự kiện).
+VI: Cảm ơn bạn đã đăng ký Hội nghị Bán lẻ Toàn cầu tại Trung tâm Hội nghị Marina ngày 10–12/10. Thẻ của bạn sẽ sẵn sàng tại quầy đăng ký khi bạn đến. Vui lòng mang giấy tờ có ảnh, vì thẻ chỉ được cấp cho người đã đăng ký. Chương trình năm nay có hơn 40 phiên về thương mại điện tử, lòng trung thành của khách hàng và quản lý chuỗi cung ứng. Lịch đầy đủ có trên website. Nếu cần thay đổi đăng ký, vui lòng liên hệ ít nhất bảy ngày trước sự kiện.
+
+### Memo | Thay đổi bãi đỗ xe
+To: All Employees
+From: Facilities Management
+Subject: Parking lot resurfacing
+
+The north parking lot will be closed from July 15 to July 19 [1] it is being resurfaced. During this time, employees may park in the south lot or at the City Center Garage on Elm Street.
+
+Employees who park at the garage should keep their receipts. The company will [2] the parking fees in full. [3]
+
+We recommend [4] public transportation or carpooling if possible, as the south lot is expected to fill up quickly.
+???
+[1] @ conj
+- during
++ while
+- despite
+- so
+= Theo sau là mệnh đề "it is being resurfaced" → liên từ "while".
+[2] @ vocab
++ reimburse
+- refuse
+- reserve
+- remind
+= "reimburse the fees" = hoàn trả phí đã ứng.
+[3] @ sentence
+- The garage was built ten years ago.
++ Simply submit the receipts to the finance office by the end of the month.
+- Elm Street is a busy shopping area.
+- Many employees drive electric cars.
+= Hướng dẫn cách nhận lại tiền → hợp ý với câu trước.
+[4] @ verbform
+- use
+- to use
++ using
+- used
+= Sau "recommend" dùng V-ing (recommend doing sth).
+VI: Bãi đỗ phía bắc sẽ đóng từ 15 đến 19/7 trong khi được trải nhựa lại. Trong thời gian này, nhân viên có thể đỗ ở bãi phía nam hoặc nhà xe City Center trên phố Elm. Ai đỗ ở nhà xe nên giữ biên lai; công ty sẽ hoàn trả toàn bộ phí. Chỉ cần nộp biên lai cho phòng tài chính trước cuối tháng. Chúng tôi khuyên nên dùng phương tiện công cộng hoặc đi chung xe nếu có thể, vì bãi phía nam dự kiến sẽ nhanh kín chỗ.
+
+### Letter | Phản hồi khiếu nại khách hàng
+Dear Mr. Okafor,
+
+Thank you for contacting us about the coffee maker you purchased from our online store. We are sorry to hear that it stopped working after only two weeks.
+
+[1] your product is still under warranty, we will replace it at no cost. A prepaid shipping label is attached to this letter. Please use it to return the [2] unit to us.
+
+[3] As soon as we receive the returned item, we will send you a brand-new coffee maker. We appreciate your business and hope that the new machine [4] your expectations.
+
+Sincerely,
+Customer Care Team, BrewMaster Inc.
+???
+[1] @ conj
++ Because
+- Although
+- Unless
+- Despite
+= Nêu lý do (còn bảo hành → thay miễn phí) + theo sau là mệnh đề → "Because".
+[2] @ wordform
+- defect
++ defective
+- defectively
+- defects
+= Trước danh từ "unit" cần tính từ: defective (bị lỗi).
+[3] @ sentence
++ The label can be printed directly from the attachment.
+- Coffee is the most popular drink in the world.
+- Our store opened its first location in 2008.
+- Many customers prefer tea to coffee.
+= Câu tiếp ý về nhãn gửi hàng trả trước được nhắc ngay trước đó.
+[4] @ vocab
++ meets
+- reaches
+- arrives
+- achieves
+= "meet one's expectations" = đáp ứng kỳ vọng.
+VI: Cảm ơn ông đã liên hệ về chiếc máy pha cà phê mua tại cửa hàng trực tuyến của chúng tôi. Rất tiếc khi nghe máy hỏng chỉ sau hai tuần. Vì sản phẩm còn bảo hành, chúng tôi sẽ đổi máy miễn phí. Nhãn gửi hàng trả trước được đính kèm thư này; vui lòng dùng nó để gửi lại máy bị lỗi. Nhãn có thể in trực tiếp từ tệp đính kèm. Ngay khi nhận được hàng trả lại, chúng tôi sẽ gửi máy mới. Chúng tôi trân trọng sự ủng hộ của ông và hy vọng máy mới đáp ứng kỳ vọng của ông.
+
+### Webpage | Giới thiệu sản phẩm
+TrailPro X2 Hiking Backpack
+
+The TrailPro X2 is designed for hikers who need a backpack that is both lightweight and [1]. Made from water-resistant nylon, it protects your gear in all kinds of weather.
+
+The X2 features a padded laptop compartment, [2] makes it ideal for travelers as well. [3]
+
+All TrailPro backpacks come with a lifetime warranty. If your backpack is ever damaged under normal use, we will repair or replace it free of [4].
+???
+[1] @ wordform
+- durability
++ durable
+- durably
+- duration
+= "both A and B" nối hai tính từ: lightweight and durable.
+[2] @ relative
+- what
++ which
+- who
+- it
+= Mệnh đề quan hệ không xác định thay cho cả ý trước (có dấu phẩy) → "which".
+[3] @ sentence
+- Hiking is a popular activity among young people.
++ It also has side pockets for water bottles and an adjustable chest strap.
+- Nylon was first produced in the 1930s.
+- Our customer service center is closed on weekends.
+= Tiếp tục liệt kê tính năng sản phẩm.
+[4] @ vocab
++ charge
+- cost
+- price
+- fee
+= Cụm cố định "free of charge" = miễn phí.
+VI: Ba lô TrailPro X2 được thiết kế cho người đi bộ đường dài cần ba lô vừa nhẹ vừa bền. Làm từ nylon chống nước, nó bảo vệ đồ đạc của bạn trong mọi thời tiết. X2 có ngăn laptop có đệm, điều này khiến nó cũng lý tưởng cho người đi công tác. Ba lô còn có túi bên đựng chai nước và đai ngực điều chỉnh được. Mọi ba lô TrailPro được bảo hành trọn đời; nếu hư hỏng khi sử dụng bình thường, chúng tôi sẽ sửa hoặc thay miễn phí.
+
+### Announcement | Thông báo sự kiện công ty
+Annual Volunteer Day — Saturday, April 27
+
+This year, Corbin Technologies will once again partner with the Lakeview Community Garden for our Annual Volunteer Day. Employees and their families are welcome to [1].
+
+Volunteers will help plant vegetables, repair fences, and paint the garden shed. All tools and materials [2] by the garden staff. [3]
+
+Lunch will be served at noon. To help us plan, please sign up on the company intranet [4] than April 15.
+???
+[1] @ vocab
++ participate
+- participant
+- participation
+- participating
+= Sau "welcome to" cần động từ nguyên mẫu: be welcome to participate.
+[2] @ voice
+- will provide
++ will be provided
+- providing
+- have provided
+= Dụng cụ "được cung cấp" bởi nhân viên vườn (by ...) → bị động.
+[3] @ sentence
+- The community garden was founded by a local teacher.
++ Participants should wear comfortable clothes and closed-toe shoes.
+- Vegetables are an important part of a healthy diet.
+- Corbin Technologies develops software for hospitals.
+= Lời dặn thiết thực cho người tham gia, hợp mạch sau khi mô tả công việc.
+[4] @ compare
+- late
++ no later
+- latest
+- more late
+= Cụm cố định "no later than + ngày" = chậm nhất là.
+VI: Năm nay, Corbin Technologies tiếp tục hợp tác với Vườn cộng đồng Lakeview cho Ngày tình nguyện thường niên. Nhân viên và gia đình được chào đón tham gia. Tình nguyện viên sẽ trồng rau, sửa hàng rào và sơn nhà kho. Mọi dụng cụ và vật liệu sẽ do nhân viên vườn cung cấp. Người tham gia nên mặc quần áo thoải mái và giày kín mũi. Bữa trưa phục vụ lúc 12 giờ. Để chúng tôi lên kế hoạch, vui lòng đăng ký trên mạng nội bộ chậm nhất ngày 15/4.

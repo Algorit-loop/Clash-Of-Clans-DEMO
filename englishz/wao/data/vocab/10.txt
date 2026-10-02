@@ -1,4 +1,4 @@
-// ===== TỪ MỞ RỘNG: động từ hay gặp trong TOEIC (1) =====
+// ===== động từ hay gặp trong TOEIC (1) =====
 
 # accommodate | /əˈkɑːmədeɪt/
 fam: accommodation (n) chỗ ở; accommodations (n) chỗ ở (Mỹ); accommodating (adj) dễ chịu, chiều lòng
@@ -100,7 +100,7 @@ fam: conductor (n) người chỉ huy, nhạc trưởng; misconduct (n) hành vi
 tip: Trọng âm: con-DUCT (v) / CON-duct (n). "conduct a survey/interview/inspection/meeting" = tiến hành.
 @v
 1. tiến hành | The team will *conduct* a survey next month. | Nhóm sẽ tiến hành khảo sát vào tháng sau.
-2. chỉ huy, dẫn (điện) | Copper *conducts* electricity well. | Đồng dẫn điện tốt.
+2. dẫn (điện, nhiệt) | Copper *conducts* electricity well. | Đồng dẫn điện tốt.
 col: conduct a survey = tiến hành khảo sát; conduct an interview = phỏng vấn; conduct research = nghiên cứu; conduct a tour = dẫn tham quan; conduct business = làm ăn
 syn: carry out, perform, run, organize
 @n
@@ -447,5 +447,5 @@ col: transfer funds = chuyển tiền; transfer to = chuyển đến; transfer a
 prep: transfer from A to B
 syn: move, relocate, shift, convey
 @n
-1. sự chuyển; chuyển tiếp | The bank *transfer* will take two days. | Việc chuyển khoản mất hai ngày.
+1. sự chuyển (tiền, người); chuyển khoản | The bank *transfer* will take two days. | Việc chuyển khoản mất hai ngày.
 col: bank transfer = chuyển khoản; transfer fee = phí chuyển; data transfer = truyền dữ liệu; transfer student = sinh viên chuyển trường

@@ -1,4 +1,4 @@
-// ===== TỪ MỞ RỘNG: tính từ hay gặp trong TOEIC =====
+// ===== tính từ hay gặp trong TOEIC =====
 
 # accurate | /ˈækjərət/
 fam: accuracy (n) độ chính xác; accurately (adv); inaccurate (adj) không chính xác
@@ -42,7 +42,7 @@ ant: inapplicable, irrelevant
 fam: availability (n) sự sẵn có; avail (n/v) lợi ích; unavailable (adj) không có sẵn
 tip: "available to sb", "available for sth", "available at/in". "make available" = cung cấp. "subject to availability" = tùy tình trạng còn hàng.
 @adj
-1. có sẵn, rảnh | The report is *available* on our website. | Báo cáo có sẵn trên trang web của chúng tôi.
+1. có sẵn, có thể mua/dùng | The report is *available* on our website. | Báo cáo có sẵn trên trang web của chúng tôi.
 2. rảnh, có thể gặp | The manager is not *available* until Friday. | Quản lý không rảnh đến thứ Sáu.
 col: available for sth = có sẵn cho; available to sb = dành cho ai; available online = có trực tuyến; readily available = sẵn có; make available = làm cho có sẵn; subject to availability = tùy còn hàng
 prep: available to sb / available for sth
@@ -594,7 +594,7 @@ col: at wholesale = với giá sỉ; wholesale and retail = bán buôn và bán 
 fam: accumulate (v) tích lũy; accumulation (n); cumulatively
 tip: cumulative = tích lũy, cộng dồn: "cumulative effect/total/score". Cặp: accumulate (v) → cumulative (adj).
 @adj
-1. tích lũy, cộng dồn | The *cumulative* sales reached $5 million this year. | Doanh số cộng dồn đạt 5 triệu đô la trong năm nay.
+1. tích lũy, cộng dồn | *Cumulative* sales reached $5 million this year. | Doanh số cộng dồn đạt 5 triệu đô la trong năm nay.
 col: cumulative effect = tác động tích lũy; cumulative total = tổng cộng dồn; cumulative score = điểm cộng dồn; cumulative sales = doanh số cộng dồn; cumulative growth = tăng trưởng tích lũy
 syn: accumulated, increasing, aggregate, collective
 ant: individual, separate

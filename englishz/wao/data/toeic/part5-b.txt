@@ -1,0 +1,942 @@
+// ================= GIỚI TỪ =================
+@ prep
+The museum will be closed ------- January 5 to January 12 for renovations.
++ from
+- since
+- during
+- at
+= Cấu trúc "from ... to ..." (từ ngày... đến ngày...).
+~ Bảo tàng sẽ đóng cửa từ ngày 5 đến ngày 12 tháng Một để cải tạo.
+
+@ prep
+Please submit your expense reports ------- Friday at 5 P.M.
+- until
++ by
+- in
+- since
+= "by + thời điểm" = chậm nhất là, trước (hạn chót). "until" dùng cho hành động kéo dài liên tục.
+~ Vui lòng nộp báo cáo chi phí chậm nhất 5 giờ chiều thứ Sáu.
+
+@ prep
+The store will remain open ------- 10 P.M. during the holiday season.
++ until
+- by
+- since
+- within
+= Hành động kéo dài liên tục đến một thời điểm → "until".
+~ Cửa hàng sẽ mở cửa đến 10 giờ tối trong mùa lễ.
+
+@ prep
+The conference room is located ------- the third floor.
+- in
++ on
+- at
+- to
+= Tầng (floor) dùng giới từ "on".
+~ Phòng họp nằm ở tầng ba.
+
+@ prep
+The shuttle bus runs every 20 minutes ------- the hotel and the airport.
+- among
++ between
+- through
+- along
+= "between A and B" (giữa hai địa điểm).
+~ Xe đưa đón chạy 20 phút một chuyến giữa khách sạn và sân bay.
+
+@ prep
+------- the heavy rain, the outdoor festival attracted a large crowd.
+- Although
++ Despite
+- Because
+- However
+= Theo sau là cụm danh từ "the heavy rain" → GIỚI TỪ "Despite". "Although/Because" cần mệnh đề; "However" là trạng từ nối.
+~ Mặc dù mưa lớn, lễ hội ngoài trời vẫn thu hút đông người.
+
+@ prep
+The flight was delayed ------- mechanical problems.
+- because
++ due to
+- so that
+- although
+= Theo sau là cụm danh từ → giới từ kép "due to". "because" cần mệnh đề (because of + N).
+~ Chuyến bay bị hoãn do trục trặc kỹ thuật.
+
+@ prep
+Applications must be received ------- two weeks of the job posting.
+- during
++ within
+- among
+- since
+= "within + khoảng thời gian" = trong vòng.
+~ Đơn phải được nhận trong vòng hai tuần kể từ khi đăng tin tuyển dụng.
+
+@ prep
+Ms. Park will speak ------- behalf of the entire research team.
+- in
++ on
+- for
+- by
+= Cụm cố định "on behalf of" = thay mặt.
+~ Bà Park sẽ phát biểu thay mặt toàn bộ nhóm nghiên cứu.
+
+@ prep
+All employees must comply ------- the new safety regulations.
+- to
++ with
+- for
+- on
+= "comply with" = tuân thủ.
+~ Mọi nhân viên phải tuân thủ quy định an toàn mới.
+
+@ prep
+------- arrival, guests will receive a welcome package.
+- At
++ Upon
+- In
+- For
+= "Upon arrival" = ngay khi đến (cụm cố định trang trọng).
+~ Ngay khi đến, khách sẽ nhận được một gói quà chào mừng.
+
+@ prep
+The new branch is conveniently located ------- the train station.
+- next
++ near
+- beside of
+- close
+= "near + N" là giới từ. "next" cần "to" (next to); "close" cần "to"; "beside of" sai.
+~ Chi nhánh mới nằm ở vị trí thuận tiện gần nhà ga.
+
+@ prep
+The training program is designed ------- new employees in the sales department.
+- of
++ for
+- with
+- at
+= "designed for sb" = được thiết kế dành cho ai.
+~ Chương trình đào tạo được thiết kế dành cho nhân viên mới ở phòng kinh doanh.
+
+@ prep
+The proposal was accepted ------- some minor changes to the budget.
+- within
++ with
+- among
+- onto
+= "with + thay đổi" = kèm theo. "accepted with changes" = chấp nhận với vài điều chỉnh.
+~ Đề xuất được chấp nhận kèm theo vài thay đổi nhỏ về ngân sách.
+
+@ prep
+------- the past decade, the company has grown into a global brand.
+- Since
++ Over
+- At
+- By
+= "Over the past decade" (trong suốt mười năm qua) + hiện tại hoàn thành. "Since" cần mốc thời gian, không dùng với "the past decade".
+~ Trong suốt thập kỷ qua, công ty đã phát triển thành một thương hiệu toàn cầu.
+
+@ prep
+Parking is free for customers, ------- those who stay longer than three hours.
+- besides
++ except
+- unless
+- despite
+= "except + N" = ngoại trừ. "besides" = ngoài ra (cộng thêm); "unless" là liên từ.
+~ Đỗ xe miễn phí cho khách hàng, ngoại trừ những ai đỗ quá ba giờ.
+
+@ conj
+------- the director is away, Mr. Wong will chair the meeting.
+- During
++ While
+- Despite
+- Instead of
+= Theo sau là mệnh đề "the director is away" → liên từ "While". During/Despite/Instead of đều cần danh từ.
+~ Trong khi giám đốc vắng mặt, ông Wong sẽ chủ trì cuộc họp.
+
+@ prep
+------- the director's absence, Mr. Wong will chair the meeting.
+- While
++ During
+- Although
+- Unless
+= Theo sau là cụm danh từ "the director's absence" → giới từ "During".
+~ Trong thời gian giám đốc vắng mặt, ông Wong sẽ chủ trì cuộc họp.
+
+@ prep
+------- our records, your membership expires at the end of this month.
++ According to
+- Regarding of
+- Because
+- Instead of
+= "According to + nguồn thông tin" = theo.
+~ Theo hồ sơ của chúng tôi, tư cách hội viên của bạn hết hạn vào cuối tháng này.
+
+@ prep
+Please direct all questions ------- the payroll system to Ms. Allen.
+- with
++ regarding
+- among
+- toward of
+= "regarding + N" = liên quan đến.
+~ Vui lòng chuyển mọi câu hỏi liên quan đến hệ thống tính lương cho bà Allen.
+
+@ relative
+The price includes breakfast but not dinner, ------- is charged separately.
+- what
++ which
+- that
+- who
+= Mệnh đề quan hệ không xác định (sau dấu phẩy) thay cho vật "dinner" → "which"; không dùng "that" sau dấu phẩy.
+~ Giá đã bao gồm bữa sáng nhưng không gồm bữa tối, bữa tối được tính riêng.
+
+@ prep
+Delivery is free ------- all orders over $50.
+- in
++ on
+- at
+- to
+= "on orders" = áp dụng cho đơn hàng (free shipping on orders over...).
+~ Miễn phí giao hàng cho mọi đơn trên 50 đô la.
+
+@ prep
+The keynote speech will begin ------- 9:30 A.M. in the main hall.
++ at
+- on
+- in
+- by
+= Giờ cụ thể dùng "at".
+~ Bài phát biểu chính sẽ bắt đầu lúc 9 giờ 30 sáng tại hội trường chính.
+
+@ prep
+The company was founded ------- 1998 by two university friends.
+- on
++ in
+- at
+- since
+= Năm dùng "in".
+~ Công ty được thành lập năm 1998 bởi hai người bạn đại học.
+
+@ prep
+Our team will be working on the project ------- the summer.
+- along
++ throughout
+- among
+- beyond
+= "throughout + khoảng thời gian" = suốt.
+~ Nhóm chúng tôi sẽ làm dự án suốt mùa hè.
+
+// ================= LIÊN TỪ & TRẠNG TỪ NỐI =================
+@ conj
+------- the weather was poor, the outdoor event went ahead as planned.
++ Although
+- Despite
+- However
+- Because
+= Theo sau là MỆNH ĐỀ (the weather was poor) + nghĩa đối lập → "Although". "Despite" cần danh từ.
+~ Mặc dù thời tiết xấu, sự kiện ngoài trời vẫn diễn ra như kế hoạch.
+
+@ conj
+You will not be able to access the system ------- you change your password.
+- if
++ unless
+- because
+- so
+= Nghĩa "trừ khi" (= if ... not) → "unless".
+~ Bạn sẽ không thể truy cập hệ thống trừ khi bạn đổi mật khẩu.
+
+@ conj
+The printer is out of toner; -------, we cannot print the handouts today.
++ therefore
+- however
+- although
+- unless
+= Quan hệ nguyên nhân → kết quả, sau dấu chấm phẩy dùng trạng từ nối "therefore".
+~ Máy in hết mực; do đó hôm nay chúng tôi không thể in tài liệu.
+
+@ conj
+Please arrive early ------- we can start the meeting on time.
+- because
++ so that
+- even though
+- unless
+= Chỉ mục đích + mệnh đề có "can" → "so that".
+~ Vui lòng đến sớm để chúng ta có thể bắt đầu họp đúng giờ.
+
+@ conj
+------- the contract is signed, construction will begin immediately.
++ Once
+- Despite
+- Unless
+- Whereas
+= "Once" = một khi/ngay khi (điều kiện thời gian) — hợp nghĩa với "begin immediately".
+~ Ngay khi hợp đồng được ký, việc xây dựng sẽ bắt đầu.
+
+@ conj
+Customers can pay ------- by credit card or by bank transfer.
+- both
++ either
+- neither
+- whether
+= Cặp "either ... or ..." (hoặc ... hoặc ...).
+~ Khách hàng có thể thanh toán bằng thẻ tín dụng hoặc chuyển khoản.
+
+@ conj
+The new laptop is ------- lightweight but also extremely powerful.
+- both
+- either
++ not only
+- as well
+= Cặp "not only ... but also ...".
+~ Máy tính xách tay mới không chỉ nhẹ mà còn cực kỳ mạnh.
+
+@ conj
+We have not decided ------- to hold the party indoors or outdoors.
+- if
++ whether
+- that
+- either
+= "whether to V ... or ..." — "if" không đi trực tiếp với to V.
+~ Chúng tôi chưa quyết định tổ chức tiệc trong nhà hay ngoài trời.
+
+@ conj
+Sales increased in Asia, ------- they declined slightly in Europe.
+- because
++ whereas
+- so that
+- unless
+= Hai vế đối lập song song → "whereas" (trong khi đó).
+~ Doanh số tăng ở châu Á, trong khi giảm nhẹ ở châu Âu.
+
+@ conj
+The project was completed on time. -------, it came in under budget.
+- However
++ Moreover
+- Otherwise
+- Nevertheless
+= Thêm thông tin tích cực cùng chiều → "Moreover" (hơn nữa).
+~ Dự án hoàn thành đúng hạn. Hơn nữa, chi phí còn thấp hơn ngân sách.
+
+@ conj
+Please back up your files regularly; -------, you may lose important data.
+- therefore
++ otherwise
+- moreover
+- consequently
+= "otherwise" = nếu không thì (hậu quả nếu không làm).
+~ Hãy sao lưu tệp thường xuyên; nếu không, bạn có thể mất dữ liệu quan trọng.
+
+@ conj
+Employees may work from home ------- they complete their tasks on time.
+- unless
++ as long as
+- even though
+- in case of
+= "as long as" = miễn là (điều kiện).
+~ Nhân viên có thể làm việc tại nhà miễn là họ hoàn thành công việc đúng hạn.
+
+@ conj
+Take an umbrella ------- it rains during the outdoor tour.
+- unless
++ in case
+- in case of
+- so that
+= "in case + mệnh đề" = phòng khi. "in case of" cần danh từ.
+~ Hãy mang ô phòng khi trời mưa trong chuyến tham quan ngoài trời.
+
+@ conj
+The new model sold well ------- its high price.
+- although
++ in spite of
+- even though
+- whereas
+= Sau chỗ trống là cụm danh từ "its high price" → giới từ "in spite of".
+~ Mẫu mới bán chạy dù giá cao.
+
+@ conj
+------- Mr. Hill was on vacation, his assistant handled all client calls.
++ While
+- During
+- Despite
+- Meanwhile
+= Theo sau là mệnh đề → liên từ "While". "During" + danh từ; "Meanwhile" là trạng từ.
+~ Trong khi ông Hill đi nghỉ, trợ lý của ông xử lý mọi cuộc gọi của khách.
+
+@ conj
+The factory has improved its safety record ------- the new training program was introduced.
+- during
++ since
+- for
+- until
+= "since + mệnh đề quá khứ" + hiện tại hoàn thành ở mệnh đề chính.
+~ Nhà máy đã cải thiện thành tích an toàn kể từ khi chương trình đào tạo mới được áp dụng.
+
+@ conj
+The seminar was very informative; -------, it was too long.
+- moreover
++ however
+- therefore
+- thus
+= Hai ý đối lập (bổ ích ↔ quá dài) → "however".
+~ Buổi hội thảo rất bổ ích; tuy nhiên, nó quá dài.
+
+@ conj
+------- you have any questions, please contact the front desk.
+- Unless
++ Should
+- Whether
+- Although
+= Đảo ngữ điều kiện loại 1: "Should you have ..." = If you have ...
+~ Nếu quý khách có câu hỏi, vui lòng liên hệ quầy lễ tân.
+
+@ conj
+The manager will approve your request ------- you provide the necessary documents.
+- unless
++ provided that
+- even if
+- whereas
+= "provided that" = với điều kiện là.
+~ Quản lý sẽ phê duyệt yêu cầu của bạn với điều kiện bạn cung cấp đủ giấy tờ cần thiết.
+
+// ================= ĐẠI TỪ =================
+@ pron
+Ms. Sato prepared the presentation slides -------.
+- her
+- hers
++ herself
+- she
+= Nhấn mạnh tự mình làm (không ai giúp) → ĐẠI TỪ PHẢN THÂN "herself".
+~ Bà Sato tự mình chuẩn bị các slide thuyết trình.
+
+@ pron
+The managers asked the staff to share ------- ideas at the meeting.
+- they
+- them
++ their
+- theirs
+= Trước danh từ "ideas" cần TÍNH TỪ SỞ HỮU "their".
+~ Các quản lý yêu cầu nhân viên chia sẻ ý tưởng của họ tại cuộc họp.
+
+@ pron
+If you lose your badge, please report ------- to security immediately.
++ it
+- its
+- itself
+- them
+= Tân ngữ thay cho "your badge" (số ít) → "it".
+~ Nếu bạn làm mất thẻ, vui lòng báo ngay cho bộ phận an ninh.
+
+@ pron
+Our products are cheaper than ------- of our competitors.
+- that
++ those
+- them
+- theirs
+= Thay thế cho danh từ số nhiều "products" khi so sánh → "those of".
+~ Sản phẩm của chúng tôi rẻ hơn sản phẩm của các đối thủ.
+
+@ pron
+Mr. Gomez's proposal was approved, but ------- was rejected.
+- my
++ mine
+- me
+- myself
+= Đại từ sở hữu "mine" (= my proposal), đứng độc lập làm chủ ngữ.
+~ Đề xuất của ông Gomez được phê duyệt, nhưng của tôi thì bị bác bỏ.
+
+@ pron
+------- interested in attending the workshop should register by Friday.
+- Whoever
++ Those
+- Who
+- Anyone who are
+= "Those (who are) interested in ..." = những ai quan tâm. Câu dùng động từ "should register".
+~ Những ai muốn tham dự hội thảo nên đăng ký trước thứ Sáu.
+
+@ pron
+The company celebrated ------- 50th anniversary with a party for all staff.
+- it's
++ its
+- it
+- their own
+= Tính từ sở hữu của "the company" → "its" (không có dấu nháy; "it's" = it is).
+~ Công ty kỷ niệm 50 năm thành lập bằng một bữa tiệc cho toàn thể nhân viên.
+
+@ pron
+Because the two departments share a budget, they must coordinate with ------- carefully.
+- themselves
++ each other
+- them
+- their
+= Hai phòng ban phối hợp lẫn nhau → "each other".
+~ Vì hai phòng ban dùng chung ngân sách nên họ phải phối hợp với nhau cẩn thận.
+
+@ pron
+------- of the applicants has the experience required for the position.
+- All
++ None
+- Both
+- Many
+= Động từ "has" số ít; "None of + N" có thể đi với số ít. "All/Both/Many" đều cần động từ số nhiều.
+~ Không ai trong số các ứng viên có kinh nghiệm cần thiết cho vị trí này.
+
+// ================= ĐẠI TỪ QUAN HỆ =================
+@ relative
+The employee ------- designed the new logo will receive an award.
++ who
+- which
+- whose
+- whom
+= Thay cho người, làm CHỦ NGỮ cho "designed" → "who".
+~ Nhân viên đã thiết kế logo mới sẽ nhận giải thưởng.
+
+@ relative
+We are looking for a supplier ------- products meet international standards.
+- who
+- which
++ whose
+- that
+= Sau chỗ trống là danh từ "products" (sản phẩm CỦA nhà cung cấp) → sở hữu "whose".
+~ Chúng tôi đang tìm nhà cung cấp có sản phẩm đạt tiêu chuẩn quốc tế.
+
+@ relative
+The candidate ------- we interviewed yesterday has accepted the offer.
+- which
+- whose
++ whom
+- what
+= Thay cho người, làm TÂN NGỮ của "interviewed" → "whom" (hoặc who/that).
+~ Ứng viên mà chúng tôi phỏng vấn hôm qua đã nhận lời mời làm việc.
+
+@ relative
+The report, ------- was published last week, has received much attention.
+- that
++ which
+- who
+- what
+= Mệnh đề quan hệ không xác định (có dấu phẩy), thay cho vật → "which" (không dùng "that").
+~ Bản báo cáo, được công bố tuần trước, đã nhận được nhiều sự chú ý.
+
+@ relative
+This is the hotel ------- the annual sales conference will be held.
+- which
++ where
+- who
+- when
+= Thay cho nơi chốn, sau là mệnh đề đầy đủ → "where" (= in which).
+~ Đây là khách sạn nơi sẽ tổ chức hội nghị bán hàng thường niên.
+
+@ relative
+------- you need help with the software, call the IT help desk.
+- What
++ Whenever
+- Which
+- Whose
+= "Whenever" = bất cứ khi nào.
+~ Bất cứ khi nào bạn cần trợ giúp về phần mềm, hãy gọi bộ phận hỗ trợ IT.
+
+@ relative
+The manager explained ------- the company needs to reduce costs.
+- which
++ why
+- whom
+- whose
+= Mệnh đề danh từ chỉ lý do → "why".
+~ Quản lý giải thích lý do công ty cần cắt giảm chi phí.
+
+@ relative
+Please choose ------- option best suits your schedule.
+- whoever
++ whichever
+- whomever
+- whenever
+= Trước danh từ "option" và mang nghĩa "bất cứ ... nào" → "whichever".
+~ Vui lòng chọn phương án nào phù hợp nhất với lịch của bạn.
+
+// ================= SO SÁNH =================
+@ compare
+This year's conference was ------- than last year's.
+- successful
+- most successful
++ more successful
+- successfully
+= Có "than" → SO SÁNH HƠN với tính từ dài: more + adj.
+~ Hội nghị năm nay thành công hơn năm ngoái.
+
+@ compare
+Ms. Carter is the ------- experienced member of the design team.
+- more
++ most
+- much
+- very
+= "the ... of the team" (trong cả nhóm) → SO SÁNH NHẤT: the most.
+~ Bà Carter là thành viên giàu kinh nghiệm nhất của nhóm thiết kế.
+
+@ compare
+The new printer works twice as ------- as the old one.
+- fastest
+- faster
++ fast
+- fastly
+= So sánh bội số: "twice as + adj/adv nguyên mẫu + as".
+~ Máy in mới chạy nhanh gấp đôi máy cũ.
+
+@ compare
+The ------- you register, the more you will save.
+- early
++ earlier
+- earliest
+- more early
+= Cấu trúc "The + so sánh hơn ..., the + so sánh hơn ..." (càng ... càng ...).
+~ Bạn đăng ký càng sớm thì càng tiết kiệm được nhiều.
+
+@ compare
+Of all the applicants, Mr. Ito has the ------- qualifications.
+- strong
+- stronger
++ strongest
+- more strong
+= "Of all the applicants" → SO SÁNH NHẤT.
+~ Trong tất cả ứng viên, ông Ito có trình độ mạnh nhất.
+
+@ compare
+Shipping costs this quarter were ------- higher than expected.
+- very
++ much
+- most
+- more
+= Nhấn mạnh so sánh hơn dùng "much/far/considerably", không dùng "very".
+~ Chi phí vận chuyển quý này cao hơn nhiều so với dự kiến.
+
+@ compare
+The new office is not as ------- as the previous one, but it is closer to downtown.
++ spacious
+- more spacious
+- most spacious
+- spaciously
+= Cấu trúc "not as + adj nguyên mẫu + as".
+~ Văn phòng mới không rộng bằng văn phòng cũ, nhưng gần trung tâm hơn.
+
+// ================= LƯỢNG TỪ / HẠN ĐỊNH TỪ =================
+@ quant
+------- employee must attend the safety training at least once a year.
+- All
++ Every
+- Most
+- Many
+= Động từ "must attend" và danh từ "employee" SỐ ÍT → "Every". All/Most/Many cần danh từ số nhiều.
+~ Mọi nhân viên phải tham gia khóa đào tạo an toàn ít nhất mỗi năm một lần.
+
+@ quant
+There is still ------- information we need before making a decision.
+- many
++ much
+- a few
+- several
+= "information" là danh từ KHÔNG ĐẾM ĐƯỢC → "much".
+~ Vẫn còn nhiều thông tin chúng tôi cần trước khi đưa ra quyết định.
+
+@ quant
+Only ------- people attended the late-night session, so it has been removed from the schedule.
+- a little
++ a few
+- much
+- little
+= "people" đếm được số nhiều → "a few". "a little/little/much" dùng cho danh từ không đếm được.
+~ Chỉ có vài người dự buổi họp đêm muộn, nên nó đã bị bỏ khỏi lịch.
+
+@ quant
+------- of the two proposals was accepted, so the team must start over.
+- Either
++ Neither
+- Both
+- None
+= Nói về HAI đề xuất, nghĩa phủ định (phải làm lại từ đầu) và động từ số ít "was" → "Neither".
+~ Không đề xuất nào trong hai đề xuất được chấp nhận, nên nhóm phải làm lại từ đầu.
+
+@ quant
+There is not ------- equipment in the storage room for all the new hires.
++ enough
+- many
+- several
+- few
+= "equipment" không đếm được → "enough" dùng được; many/several/few chỉ đi với danh từ đếm được số nhiều.
+~ Trong kho không có đủ thiết bị cho tất cả nhân viên mới.
+
+@ quant
+We received ------- complaints this month than last month.
+- less
++ fewer
+- little
+- much
+= "complaints" đếm được số nhiều + "than" → "fewer". "less" cho danh từ không đếm được.
+~ Tháng này chúng tôi nhận ít khiếu nại hơn tháng trước.
+
+// ================= TỪ VỰNG (NGHĨA) =================
+@ vocab
+Please ------- the attached document and send your comments by Monday.
++ review
+- remind
+- reply
+- retire
+= Ngữ cảnh: xem tài liệu và gửi nhận xét → "review" (xem xét). "reply" cần "to".
+~ Vui lòng xem xét tài liệu đính kèm và gửi nhận xét trước thứ Hai.
+
+@ vocab
+The hotel offers ------- breakfast to all guests staying more than two nights.
+- complementary
++ complimentary
+- competitive
+- comprehensive
+= "complimentary" = miễn phí (tặng kèm). Bẫy chính tả "complementary" = bổ sung.
+~ Khách sạn tặng bữa sáng miễn phí cho khách lưu trú trên hai đêm.
+
+@ vocab
+Due to a scheduling -------, the interview has been moved to Thursday.
+- conference
++ conflict
+- contract
+- condition
+= "scheduling conflict" = trùng lịch.
+~ Do trùng lịch, buổi phỏng vấn được chuyển sang thứ Năm.
+
+@ vocab
+The company plans to ------- 30 new employees for its customer service center.
++ hire
+- rent
+- lend
+- charge
+= Thuê NGƯỜI → "hire". "rent" dùng cho nhà/xe.
+~ Công ty dự định tuyển 30 nhân viên mới cho trung tâm chăm sóc khách hàng.
+
+@ vocab
+Passengers are reminded to keep their ------- with them at all times.
++ belongings
+- belonging
+- behaviors
+- beliefs
+= "belongings" = đồ dùng cá nhân (luôn số nhiều).
+~ Hành khách được nhắc luôn giữ đồ dùng cá nhân bên mình.
+
+@ vocab
+The new policy will take ------- on the first of next month.
+- affect
++ effect
+- effort
+- event
+= "take effect" = có hiệu lực. "affect" là động từ.
+~ Chính sách mới sẽ có hiệu lực vào ngày đầu tháng sau.
+
+@ vocab
+Our sales representatives are ------- to answer any questions you may have.
++ available
+- capable
+- possible
+- valuable
+= "be available to V" = sẵn sàng/có thể (về thời gian) làm gì. "capable" đi với "of".
+~ Nhân viên bán hàng luôn sẵn sàng trả lời mọi câu hỏi của quý khách.
+
+@ vocab
+The warranty ------- repairs for up to two years after purchase.
++ covers
+- holds
+- carries
+- fills
+= "cover" = chi trả/bao gồm (trong phạm vi bảo hành, bảo hiểm).
+~ Bảo hành chi trả việc sửa chữa trong tối đa hai năm kể từ khi mua.
+
+@ vocab
+Please ------- that all lights are turned off before leaving the office.
+- assure
++ ensure
+- insure
+- assume
+= "ensure that" = đảm bảo rằng. "assure" cần tân ngữ người (assure sb that); "insure" = mua bảo hiểm.
+~ Vui lòng đảm bảo tất cả đèn đã tắt trước khi rời văn phòng.
+
+@ vocab
+The store will ------- its business hours during the holiday season.
++ extend
+- expand
+- exceed
+- expose
+= "extend hours" = kéo dài giờ mở cửa.
+~ Cửa hàng sẽ kéo dài giờ kinh doanh trong mùa lễ.
+
+@ vocab
+Mr. Brown was ------- to regional sales director after five years with the company.
++ promoted
+- provided
+- produced
+- proposed
+= "be promoted to + chức vụ" = được thăng chức.
+~ Ông Brown được thăng chức giám đốc kinh doanh khu vực sau năm năm làm việc.
+
+@ vocab
+The ------- for submitting the grant application is March 31.
++ deadline
+- headline
+- guideline
+- timeline
+= "deadline for sth" = hạn chót.
+~ Hạn chót nộp đơn xin tài trợ là ngày 31 tháng Ba.
+
+@ vocab
+The factory had to ------- production because of a shortage of parts.
++ suspend
+- suspect
+- support
+- suggest
+= "suspend production" = tạm ngừng sản xuất.
+~ Nhà máy phải tạm ngừng sản xuất vì thiếu linh kiện.
+
+@ vocab
+All visitors must wear a ------- badge while in the building.
++ visitor
+- visit
+- visiting
+- visited
+= Danh từ ghép "visitor badge" (thẻ khách). Đây là bẫy: danh từ có thể đứng trước danh từ khác như tính từ.
+~ Mọi khách tham quan phải đeo thẻ khách khi ở trong tòa nhà.
+
+@ vocab
+The company's profits ------- by 15 percent compared to last year.
++ rose
+- raised
+- arose
+- aroused
+= "rise" (nội động từ, không tân ngữ): profits rose. "raise" cần tân ngữ (raise prices).
+~ Lợi nhuận của công ty tăng 15% so với năm ngoái.
+
+@ vocab
+We regret to ------- you that the event has been canceled.
++ inform
+- announce
+- explain
+- say
+= "inform + sb + that" (có tân ngữ người). "announce/explain/say" không đi trực tiếp với "you that".
+~ Chúng tôi rất tiếc phải thông báo với bạn rằng sự kiện đã bị hủy.
+
+@ vocab
+Employees who work overtime will be ------- at one and a half times their regular rate.
++ compensated
+- complimented
+- completed
+- competed
+= "be compensated" = được trả công/bồi thường.
+~ Nhân viên làm thêm giờ sẽ được trả gấp rưỡi mức lương thông thường.
+
+@ vocab
+The museum's new wing is ------- to the main building by a glass bridge.
++ connected
+- contacted
+- consisted
+- concerned
+= "be connected to" = được nối với.
+~ Cánh mới của bảo tàng được nối với tòa nhà chính bằng một cây cầu kính.
+
+@ vocab
+The manager gave a brief ------- of the company's plans for next year.
++ overview
+- overlook
+- overtime
+- overflow
+= "an overview of" = tổng quan về.
+~ Quản lý đưa ra tổng quan ngắn gọn về kế hoạch năm tới của công ty.
+
+@ vocab
+Interested candidates should send a cover letter and ------- to hr@nexacorp.com.
++ résumé
+- receipt
+- recipe
+- refund
+= Hồ sơ xin việc gồm "cover letter and résumé".
+~ Ứng viên quan tâm nên gửi thư xin việc và sơ yếu lý lịch đến hr@nexacorp.com.
+
+@ vocab
+The construction project is ------- to be completed by the end of the year.
++ expected
+- excepted
+- expanded
+- expired
+= "be expected to V" = được dự kiến.
+~ Dự án xây dựng dự kiến hoàn thành vào cuối năm.
+
+@ vocab
+Ms. Lin has ------- experience in international marketing.
++ extensive
+- expensive
+- extended
+- exhausted
+= "extensive experience" = kinh nghiệm dày dặn. Bẫy "expensive" (đắt).
+~ Bà Lin có kinh nghiệm dày dặn về tiếp thị quốc tế.
+
+@ vocab
+To ------- the spread of the virus, all staff must wash their hands frequently.
++ prevent
+- protect
+- provide
+- promote
+= "prevent the spread of" = ngăn chặn sự lây lan.
+~ Để ngăn sự lây lan của vi-rút, mọi nhân viên phải rửa tay thường xuyên.
+
+@ vocab
+The client was very ------- with the quality of our work.
++ satisfied
+- satisfying
+- satisfactory
+- satisfaction
+= Người cảm thấy hài lòng → "satisfied with". "satisfactory" = đạt yêu cầu (vật).
+~ Khách hàng rất hài lòng với chất lượng công việc của chúng tôi.
+
+@ vocab
+The parking garage will be closed for ------- maintenance this weekend.
++ routine
+- route
+- rough
+- rotating
+= "routine maintenance" = bảo trì định kỳ.
+~ Bãi đỗ xe sẽ đóng cửa để bảo trì định kỳ vào cuối tuần này.
+
+@ vocab
+Please ------- from using mobile phones during the performance.
++ refrain
+- restrain
+- remain
+- retain
+= "refrain from V-ing" = kiềm chế, không làm gì (thông báo lịch sự).
+~ Vui lòng không sử dụng điện thoại trong buổi biểu diễn.
+
+@ vocab
+The new branch will ------- the needs of customers in the northern region.
++ meet
+- reach
+- arrive
+- attend
+= "meet the needs of" = đáp ứng nhu cầu của.
+~ Chi nhánh mới sẽ đáp ứng nhu cầu của khách hàng ở khu vực phía bắc.
+
+@ vocab
+The training manual is ------- on the company intranet.
++ accessible
+- acceptable
+- accountable
+- accurate
+= "accessible on" = có thể truy cập trên.
+~ Sổ tay đào tạo có thể truy cập trên mạng nội bộ công ty.
+
+@ vocab
+Several employees have ------- interest in the open management position.
++ expressed
+- impressed
+- pressed
+- suppressed
+= "express interest in" = bày tỏ sự quan tâm đến.
+~ Một vài nhân viên đã bày tỏ quan tâm đến vị trí quản lý còn trống.
+
+@ vocab
+The seminar will ------- on strategies for improving customer loyalty.
++ focus
+- rely
+- insist
+- depend
+= "focus on" = tập trung vào. "rely/depend on" = phụ thuộc; "insist on" = khăng khăng.
+~ Buổi hội thảo sẽ tập trung vào chiến lược nâng cao lòng trung thành của khách hàng.

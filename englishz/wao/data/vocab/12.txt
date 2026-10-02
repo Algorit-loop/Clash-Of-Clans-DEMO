@@ -1,4 +1,4 @@
-// ===== TỪ MỞ RỘNG: danh từ hay gặp trong TOEIC =====
+// ===== danh từ hay gặp trong TOEIC =====
 
 # agenda | /əˈdʒendə/
 fam: —
@@ -192,7 +192,7 @@ ant: employment, start
 fam: apply (v) nộp đơn; application (n) đơn; applicable (adj) áp dụng được; applied (adj)
 tip: applicant (người nộp đơn) vs candidate (ứng viên được xem xét). "apply for a job/to a company". Cặp: employer ↔ applicant.
 @n
-1. người nộp đơn | We received over 100 *applicants* for the position. | Chúng tôi nhận được hơn 100 người nộp đơn cho vị trí này.
+1. người nộp đơn | More than 100 *applicants* have applied for the position. | Hơn 100 người đã nộp đơn cho vị trí này.
 col: job applicant = người xin việc; qualified applicant = người nộp đơn đủ tiêu chuẩn; applicant tracking = theo dõi hồ sơ; successful applicant = người trúng tuyển; applicant for sth = người nộp đơn vào
 syn: candidate, job seeker, contender
 ant: employer

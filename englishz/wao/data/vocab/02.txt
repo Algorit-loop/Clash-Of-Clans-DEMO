@@ -264,7 +264,7 @@ syn: require, insist on, call for
 fam: supplier (n) nhà cung cấp; supplies (n) vật tư; supplement (n/v) bổ sung
 tip: "office supplies" = văn phòng phẩm (luôn số nhiều). Động từ: supply sb with sth = cung cấp cho ai cái gì.
 @n
-1. nguồn cung; vật tư | The store ran out of *supplies* last week. | Cửa hàng hết hàng cung ứng tuần trước.
+1. nguồn cung; vật tư | The store ran out of *supplies* last week. | Cửa hàng đã hết vật tư vào tuần trước.
 col: office supplies = văn phòng phẩm; in short supply = khan hiếm; supply chain = chuỗi cung ứng; supply and demand = cung và cầu; medical supplies = vật tư y tế
 syn: provision, stock, inventory
 ant: demand
@@ -316,7 +316,7 @@ ant: lengthy, long
 1. thông báo tóm tắt | The manager will *brief* the team on the schedule. | Quản lý sẽ thông báo tóm tắt cho nhóm về lịch trình.
 prep: brief sb on/about sth
 @n
-1. bản tóm tắt chỉ thị | The designer received a *brief* from the client. | Nhà thiết kế nhận được bản yêu cầu tóm tắt từ khách.
+1. bản yêu cầu công việc (brief) | The designer received a *brief* from the client. | Nhà thiết kế nhận được bản yêu cầu tóm tắt từ khách.
 
 # considering | /kənˈsɪdərɪŋ/ | seen: Considering
 fam: consider (v) cân nhắc; consideration (n) sự cân nhắc
@@ -404,7 +404,7 @@ col: compact size = kích thước nhỏ gọn; compact car = xe cỡ nhỏ; com
 syn: small, portable, space-saving
 ant: bulky, large
 @n
-1. thỏa thuận | The two nations signed a trade *compact*. | Hai quốc gia ký một thỏa thuận thương mại.
+1. hiệp ước, thỏa ước | The two nations signed a trade *compact*. | Hai quốc gia ký một thỏa thuận thương mại.
 
 # exterior | /ɪkˈstɪriər/
 fam: external (adj) bên ngoài; externally (adv)

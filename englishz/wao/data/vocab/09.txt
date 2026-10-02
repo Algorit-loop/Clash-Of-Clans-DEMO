@@ -1,4 +1,4 @@
-// ===== TỪ MỞ RỘNG: liên từ, giới từ, trạng từ (cùng loại với các từ trong voca.txt) =====
+// ===== liên từ, giới từ, trạng từ (cùng loại với các từ trong voca.txt) =====
 
 # although | /ɔːlˈðoʊ/
 fam: though (conj/adv) mặc dù; even though (conj) dù cho
@@ -459,7 +459,7 @@ ant: often, frequently, regularly
 fam: occasion (n) dịp; occasional (adj) thỉnh thoảng
 tip: occasionally = thỉnh thoảng (tần suất thấp, không đều). Vị trí: trước động từ chính / cuối câu. Dịp: on occasion(s).
 @adv
-1. thỉnh thoảng | Delays occur *occasionally* during winter. | Các chuyến chậm thỉnh thoảng xảy ra vào mùa đông.
+1. thỉnh thoảng | Delays occur *occasionally* during winter. | Việc chậm trễ thỉnh thoảng xảy ra vào mùa đông.
 col: occasionally + V = thỉnh thoảng; only occasionally = chỉ thỉnh thoảng; occasionally used = ít khi dùng; on occasion = thỉnh thoảng
 syn: sometimes, from time to time, now and then
 ant: constantly, always, frequently

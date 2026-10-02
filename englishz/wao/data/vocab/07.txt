@@ -279,11 +279,11 @@ prep: decline in sth
 syn: drop, decrease, fall, downturn
 ant: increase, rise, growth
 @v
-1. giảm; từ chối | She politely *declined* the invitation. | Cô ấy lịch sự từ chối lời mời.
-2. giảm sút | Sales *declined* by 15 percent. | Doanh số giảm 15%.
+1. từ chối (lịch sự) | She politely *declined* the invitation. | Cô ấy lịch sự từ chối lời mời.
+2. giảm, sụt | Sales *declined* by 15 percent. | Doanh số giảm 15%.
 col: decline an offer/invitation = từ chối lời đề nghị/mời; decline to comment = từ chối bình luận; decline sharply = giảm mạnh; decline by + % = giảm bao nhiêu phần trăm
-syn: refuse, turn down (từ chối); fall, drop (giảm)
-ant: accept (từ chối); rise (giảm)
+syn: refuse, turn down, fall, drop
+ant: accept, rise, increase
 
 # refurbishment | /ˌriːˈfɜːrbɪʃmənt/
 fam: refurbish (v) tân trang; refurbished (adj) đã tân trang

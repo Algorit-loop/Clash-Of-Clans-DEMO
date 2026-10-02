@@ -143,7 +143,7 @@ fam: fairly (adv) khá, công bằng; fairness (n) sự công bằng; unfair (ad
 tip: Nhiều nghĩa: (adj) công bằng/khá tốt/nước da sáng; (n) hội chợ ("trade fair", "job fair", "craft fair"). Phân biệt "fair" vs "fare" (giá vé).
 @adj
 1. công bằng | The company has a *fair* hiring policy. | Công ty có chính sách tuyển dụng công bằng.
-2. khá, tương đối | The restaurant's prices are *fair* for the quality. | Giá của nhà hàng khá hợp lý so với chất lượng.
+2. hợp lý (giá cả), khá ổn | The restaurant's prices are *fair* for the quality. | Giá của nhà hàng khá hợp lý so với chất lượng.
 col: fair price = giá hợp lý; fair share = phần xứng đáng; fair treatment = đối xử công bằng; fair enough = được thôi
 syn: just, impartial, reasonable
 ant: unfair, biased
@@ -265,7 +265,7 @@ col: tackle a problem = giải quyết vấn đề; tackle an issue = xử lý v
 syn: address, deal with, handle, confront
 ant: avoid, evade
 @n
-1. dụng cụ, thiết bị | The shop sells fishing *tackle*. | Cửa hàng bán dụng cụ câu cá.
+1. đồ nghề (câu cá, thể thao) | The shop sells fishing *tackle*. | Cửa hàng bán dụng cụ câu cá.
 
 # valuable | /ˈvæljuəbl/
 fam: value (n/v) giá trị, định giá; valuables (n) đồ quý giá; invaluable (adj) vô giá; valuation (n)

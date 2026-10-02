@@ -1,0 +1,683 @@
+// PART 5 — câu hỏi tự soạn theo cấu trúc đề TOEIC.
+// Cú pháp:  @ loại  /  câu (chỗ trống = -------)  /  "+ đáp án đúng"  "- đáp án sai"  /  "= giải thích"  /  "~ bản dịch"
+// Loại: wordform tense voice verbform agreement prep conj pron relative compare quant vocab
+
+// ================= TỪ LOẠI (WORD FORM) =================
+@ wordform
+The new accounting software will ------- reduce the time needed to process invoices.
+- significant
++ significantly
+- significance
+- signify
+= Chỗ trống nằm giữa trợ động từ "will" và động từ "reduce" → cần TRẠNG TỪ bổ nghĩa cho động từ.
+~ Phần mềm kế toán mới sẽ giảm đáng kể thời gian cần để xử lý hóa đơn.
+
+@ wordform
+Ms. Tanaka's ------- of the market trends impressed the board of directors.
+- analyze
+- analytical
++ analysis
+- analytically
+= Sau sở hữu cách "Ms. Tanaka's" và trước giới từ "of" → cần DANH TỪ.
+~ Bản phân tích xu hướng thị trường của bà Tanaka gây ấn tượng với hội đồng quản trị.
+
+@ wordform
+All employees are required to submit a ------- request at least two weeks before taking leave.
+- writing
++ written
+- writer
+- write
+= Trước danh từ "request" cần tính từ; "written request" (yêu cầu bằng văn bản) là cụm cố định — dùng V3 làm tính từ mang nghĩa bị động.
+~ Mọi nhân viên phải nộp yêu cầu bằng văn bản ít nhất hai tuần trước khi nghỉ phép.
+
+@ wordform
+The hotel's renovated lobby is both modern and -------.
+- comfort
+- comfortably
++ comfortable
+- comforts
+= Cấu trúc "both A and B" nối hai thành phần cùng loại: "modern" là tính từ → cần TÍNH TỪ.
+~ Sảnh khách sạn sau cải tạo vừa hiện đại vừa thoải mái.
+
+@ wordform
+Our customer service representatives respond ------- to all inquiries.
+- prompt
++ promptly
+- promptness
+- prompted
+= Động từ "respond" là nội động từ, theo sau cần TRẠNG TỪ bổ nghĩa.
+~ Nhân viên chăm sóc khách hàng của chúng tôi phản hồi nhanh chóng mọi câu hỏi.
+
+@ wordform
+The marketing team presented several ------- ideas for the product launch.
+- create
+- creation
++ creative
+- creatively
+= Trước danh từ "ideas" và sau lượng từ "several" → cần TÍNH TỪ.
+~ Nhóm tiếp thị đưa ra một số ý tưởng sáng tạo cho buổi ra mắt sản phẩm.
+
+@ wordform
+Mr. Patel has been a ------- employee at Horizon Logistics for over ten years.
+- depend
+- dependence
++ dependable
+- dependably
+= Giữa mạo từ "a" và danh từ "employee" → cần TÍNH TỪ.
+~ Ông Patel là một nhân viên đáng tin cậy tại Horizon Logistics hơn mười năm nay.
+
+@ wordform
+The ------- of the new branch has been postponed until next spring.
+- open
++ opening
+- opened
+- opens
+= Sau "The" và trước "of" cần danh từ; "opening" (lễ khai trương, việc mở cửa) là danh từ.
+~ Việc khai trương chi nhánh mới đã bị hoãn đến mùa xuân năm sau.
+
+@ wordform
+Applicants must demonstrate ------- in at least one foreign language.
+- proficient
++ proficiency
+- proficiently
+- proficients
+= Sau động từ "demonstrate" cần tân ngữ là DANH TỪ: proficiency (sự thành thạo).
+~ Ứng viên phải chứng tỏ sự thành thạo ít nhất một ngoại ngữ.
+
+@ wordform
+The survey results were ------- different from what the analysts had predicted.
+- consider
+- considerable
++ considerably
+- consideration
+= Trước tính từ "different" cần TRẠNG TỪ chỉ mức độ.
+~ Kết quả khảo sát khác đáng kể so với dự đoán của các nhà phân tích.
+
+@ wordform
+Please read the safety instructions ------- before operating the machine.
+- careful
++ carefully
+- care
+- caring
+= Câu đã đủ thành phần (read + tân ngữ) → chỗ trống bổ nghĩa cho động từ "read" → TRẠNG TỪ.
+~ Vui lòng đọc kỹ hướng dẫn an toàn trước khi vận hành máy.
+
+@ wordform
+The company's ------- to environmental protection is reflected in its packaging.
+- commit
+- committed
++ commitment
+- committing
+= Sau sở hữu "The company's" cần DANH TỪ làm chủ ngữ của động từ "is".
+~ Cam kết bảo vệ môi trường của công ty được thể hiện qua bao bì.
+
+@ wordform
+Visitors found the museum's new exhibit extremely -------.
+- inform
+- information
++ informative
+- informatively
+= Cấu trúc "find + tân ngữ + TÍNH TỪ"; "extremely" (trạng từ) đứng trước tính từ.
+~ Du khách thấy triển lãm mới của bảo tàng rất bổ ích.
+
+@ wordform
+The training session was ------- attended, with over 200 participants.
++ well
+- good
+- goodness
+- best
+= Bổ nghĩa cho phân từ "attended" cần trạng từ; "well-attended" = có đông người tham dự. "good" là tính từ nên sai.
+~ Buổi đào tạo có rất đông người tham dự, hơn 200 người.
+
+@ wordform
+Thanks to its ------- location, the hotel is popular with business travelers.
+- convenience
++ convenient
+- conveniently
+- convene
+= Giữa sở hữu "its" và danh từ "location" → cần TÍNH TỪ.
+~ Nhờ vị trí thuận tiện, khách sạn được khách công tác ưa chuộng.
+
+@ wordform
+Mr. Kim will ------- the department while Ms. Lopez is on leave.
+- supervision
+- supervisor
++ supervise
+- supervisory
+= Sau trợ động từ "will" cần ĐỘNG TỪ nguyên mẫu.
+~ Ông Kim sẽ giám sát phòng ban trong khi bà Lopez nghỉ phép.
+
+@ wordform
+Each ------- will receive a confirmation email within 24 hours.
+- apply
++ applicant
+- applicable
+- applied
+= Sau "Each" cần danh từ số ít chỉ người nhận email → applicant (người nộp đơn).
+~ Mỗi người nộp đơn sẽ nhận email xác nhận trong vòng 24 giờ.
+
+@ wordform
+The new policy is expected to improve the ------- of the production line.
+- efficient
+- efficiently
++ efficiency
+- efficiencies
+= Sau "the" và trước "of" cần danh từ; "efficiency" (hiệu suất) là danh từ không đếm được, dùng số ít.
+~ Chính sách mới được kỳ vọng sẽ nâng cao hiệu suất của dây chuyền sản xuất.
+
+@ wordform
+The seminar provides ------- advice on managing personal finances.
+- practice
++ practical
+- practically
+- practicing
+= Trước danh từ "advice" cần TÍNH TỪ: practical advice (lời khuyên thiết thực).
+~ Hội thảo đưa ra lời khuyên thiết thực về quản lý tài chính cá nhân.
+
+@ wordform
+Sales of electric bicycles have increased ------- over the past three years.
+- steady
++ steadily
+- steadiness
+- steadied
+= Bổ nghĩa cho động từ "have increased" → TRẠNG TỪ.
+~ Doanh số xe đạp điện đã tăng đều trong ba năm qua.
+
+@ wordform
+Because of the ------- weather, the outdoor concert was moved indoors.
+- predict
+- prediction
++ unpredictable
+- predictably
+= Giữa "the" và danh từ "weather" → TÍNH TỪ; unpredictable = khó lường.
+~ Vì thời tiết khó lường, buổi hòa nhạc ngoài trời được chuyển vào trong nhà.
+
+@ wordform
+The board approved the proposal after a ------- review of the costs.
+- thoroughly
++ thorough
+- thoroughness
+- through
+= Giữa "a" và danh từ "review" → TÍNH TỪ "thorough" (kỹ lưỡng). "through" là giới từ, dễ gây nhầm.
+~ Hội đồng phê duyệt đề xuất sau khi xem xét kỹ lưỡng các chi phí.
+
+@ wordform
+Ms. Ortega was praised for her ------- in organizing the annual conference.
+- lead
+- leading
++ leadership
+- leader
+= Sau tính từ sở hữu "her" cần danh từ; nghĩa "khả năng lãnh đạo" → leadership. "leader" (người lãnh đạo) không hợp nghĩa.
+~ Bà Ortega được khen ngợi vì khả năng lãnh đạo trong việc tổ chức hội nghị thường niên.
+
+@ wordform
+Customers can now pay their bills ------- through our mobile application.
+- secure
+- security
++ securely
+- secured
+= Câu đã đầy đủ (pay their bills); chỗ trống bổ nghĩa cho động từ → TRẠNG TỪ.
+~ Khách hàng giờ có thể thanh toán hóa đơn an toàn qua ứng dụng di động.
+
+@ wordform
+The director asked for a ------- explanation of the budget overrun.
+- detail
++ detailed
+- detailing
+- details
+= Giữa "a" và danh từ "explanation" → tính từ; "detailed" (chi tiết) là tính từ dạng V3.
+~ Giám đốc yêu cầu giải thích chi tiết về việc vượt ngân sách.
+
+@ wordform
+Our latest model is ------- lighter than the previous version.
+- notice
+- noticeable
++ noticeably
+- noticing
+= Trước tính từ so sánh "lighter" cần TRẠNG TỪ chỉ mức độ.
+~ Mẫu mới nhất của chúng tôi nhẹ hơn rõ rệt so với phiên bản trước.
+
+@ wordform
+The ------- of the two companies is expected to be completed by June.
+- merge
+- merged
++ merger
+- merging
+= Sau "The" và trước "of" cần danh từ: merger (vụ sáp nhập).
+~ Vụ sáp nhập của hai công ty dự kiến hoàn tất trước tháng Sáu.
+
+@ wordform
+The manager spoke ------- about the team's achievements this quarter.
+- enthusiasm
+- enthusiast
++ enthusiastically
+- enthusiastic
+= Bổ nghĩa cho động từ "spoke" → TRẠNG TỪ.
+~ Quản lý nói đầy hào hứng về thành tích của nhóm trong quý này.
+
+@ wordform
+Please keep all receipts as ------- of your business expenses.
++ proof
+- prove
+- proven
+- provable
+= Sau giới từ "as" cần danh từ: as proof of = làm bằng chứng cho.
+~ Vui lòng giữ tất cả biên lai làm bằng chứng cho chi phí công tác.
+
+@ wordform
+The city council made a ------- decision to expand the public library.
+- unanimity
++ unanimous
+- unanimously
+- unanimousness
+= Giữa "a" và danh từ "decision" → TÍNH TỪ: unanimous (nhất trí).
+~ Hội đồng thành phố nhất trí quyết định mở rộng thư viện công cộng.
+
+@ wordform
+Ms. Reed is ------- for coordinating the visit of our overseas clients.
+- response
+- responsibility
++ responsible
+- responsibly
+= Cấu trúc "be responsible for" (chịu trách nhiệm về) — sau "is" cần TÍNH TỪ.
+~ Bà Reed chịu trách nhiệm điều phối chuyến thăm của các khách hàng nước ngoài.
+
+@ wordform
+Due to ------- demand, the store will extend its holiday hours.
+- increase
++ increasing
+- increasingly
+- increases
+= Trước danh từ "demand" cần tính từ; "increasing demand" = nhu cầu ngày càng tăng (V-ing làm tính từ chủ động).
+~ Do nhu cầu ngày càng tăng, cửa hàng sẽ kéo dài giờ mở cửa dịp lễ.
+
+@ wordform
+The instructions for assembling the desk were not very -------.
+- clarity
+- clarify
++ clear
+- clearly
+= Sau "were not very" (be + very) cần TÍNH TỪ.
+~ Hướng dẫn lắp ráp bàn không rõ ràng lắm.
+
+@ wordform
+The engineers worked ------- to fix the system before the deadline.
+- tireless
++ tirelessly
+- tire
+- tiredness
+= Bổ nghĩa cho động từ "worked" → TRẠNG TỪ.
+~ Các kỹ sư làm việc không mệt mỏi để sửa hệ thống trước hạn chót.
+
+@ wordform
+We appreciate your ------- while the elevators are being repaired.
+- patient
+- patiently
++ patience
+- patients
+= Sau tính từ sở hữu "your" cần danh từ; "patience" (sự kiên nhẫn). "patients" = bệnh nhân.
+~ Chúng tôi cảm kích sự kiên nhẫn của quý vị trong khi thang máy đang được sửa.
+
+@ wordform
+The report contains ------- information about our competitors.
+- value
+- values
++ valuable
+- valuably
+= Trước danh từ "information" cần TÍNH TỪ.
+~ Báo cáo chứa thông tin có giá trị về các đối thủ cạnh tranh của chúng ta.
+
+@ wordform
+Members of the sales team are ------- encouraged to attend the workshop.
+- strong
+- strength
++ strongly
+- strengthen
+= Giữa "are" và phân từ "encouraged" → TRẠNG TỪ.
+~ Các thành viên đội bán hàng được khuyến khích mạnh mẽ tham dự hội thảo.
+
+@ wordform
+The airline apologized for the ------- caused by the flight delay.
+- inconvenient
+- inconveniently
++ inconvenience
+- convenient
+= Sau "the" và trước phân từ "caused" cần DANH TỪ.
+~ Hãng hàng không xin lỗi vì sự bất tiện do chuyến bay bị trễ gây ra.
+
+@ wordform
+The new manager has a ------- approach to solving problems.
+- method
+- methods
++ methodical
+- methodically
+= Giữa "a" và danh từ "approach" → TÍNH TỪ: methodical (có phương pháp).
+~ Quản lý mới có cách tiếp cận có phương pháp để giải quyết vấn đề.
+
+// ================= THÌ ĐỘNG TỪ =================
+@ tense
+By the time the CEO arrives, the staff ------- the conference room.
+- prepare
+- prepared
++ will have prepared
+- have prepared
+= "By the time + hiện tại đơn" → mệnh đề chính dùng TƯƠNG LAI HOÀN THÀNH (hành động hoàn tất trước một mốc tương lai).
+~ Đến lúc giám đốc điều hành tới, nhân viên sẽ chuẩn bị xong phòng họp.
+
+@ tense
+Ms. Chen ------- for the company since it was founded in 2010.
+- works
+- worked
++ has worked
+- is working
+= "since + mốc thời gian quá khứ" → HIỆN TẠI HOÀN THÀNH.
+~ Bà Chen đã làm việc cho công ty từ khi công ty được thành lập năm 2010.
+
+@ tense
+The shipment ------- yesterday afternoon, two days later than scheduled.
+- arrives
++ arrived
+- has arrived
+- will arrive
+= "yesterday afternoon" là thời điểm xác định trong quá khứ → QUÁ KHỨ ĐƠN.
+~ Lô hàng đã đến chiều hôm qua, muộn hai ngày so với kế hoạch.
+
+@ tense
+The board of directors ------- the new budget at next Monday's meeting.
+- discussed
+- has discussed
++ will discuss
+- discussing
+= "next Monday" → tương lai → WILL + V.
+~ Hội đồng quản trị sẽ thảo luận ngân sách mới tại cuộc họp thứ Hai tới.
+
+@ tense
+When the fire alarm went off, the employees ------- a training session.
+- attend
+- have attended
++ were attending
+- will attend
+= Một hành động đang diễn ra (quá khứ tiếp diễn) thì hành động khác xen vào (quá khứ đơn "went off").
+~ Khi chuông báo cháy reo, nhân viên đang tham dự một buổi đào tạo.
+
+@ tense
+If the weather ------- good tomorrow, the company picnic will be held at Lakeside Park.
++ is
+- will be
+- was
+- has been
+= Câu điều kiện loại 1: mệnh đề "If" dùng HIỆN TẠI ĐƠN, mệnh đề chính dùng "will". Không dùng "will" sau "if".
+~ Nếu ngày mai thời tiết tốt, buổi dã ngoại của công ty sẽ tổ chức ở công viên Lakeside.
+
+@ tense
+Our sales figures ------- steadily over the last five quarters.
+- rise
+- rose
++ have risen
+- will rise
+= "over the last + khoảng thời gian" (tính đến hiện tại) → HIỆN TẠI HOÀN THÀNH.
+~ Doanh số của chúng tôi tăng đều trong năm quý vừa qua.
+
+@ tense
+The technician ------- the printer at the moment, so please use the one on the second floor.
+- repairs
+- repaired
++ is repairing
+- has repaired
+= "at the moment" → HIỆN TẠI TIẾP DIỄN.
+~ Kỹ thuật viên đang sửa máy in, vì vậy vui lòng dùng máy ở tầng hai.
+
+@ tense
+Before she joined our firm, Ms. Novak ------- as a consultant for a bank in Prague.
+- works
+- has worked
++ had worked
+- will work
+= Hành động xảy ra TRƯỚC một hành động quá khứ khác ("joined") → QUÁ KHỨ HOÀN THÀNH.
+~ Trước khi gia nhập công ty chúng tôi, bà Novak từng làm tư vấn cho một ngân hàng ở Prague.
+
+@ tense
+The store usually ------- at 9 A.M., but it will open at noon on holidays.
++ opens
+- opened
+- is opening
+- has opened
+= "usually" → thói quen, lịch cố định → HIỆN TẠI ĐƠN (chủ ngữ số ít → opens).
+~ Cửa hàng thường mở lúc 9 giờ sáng, nhưng ngày lễ sẽ mở lúc trưa.
+
+@ tense
+Mr. Davis ------- the report as soon as he receives the final figures.
+- submitted
+- has submitted
++ will submit
+- submits
+= "as soon as + hiện tại đơn" chỉ tương lai → mệnh đề chính dùng WILL.
+~ Ông Davis sẽ nộp báo cáo ngay khi nhận được số liệu cuối cùng.
+
+@ tense
+The company ------- three new stores so far this year.
+- opens
+- opened
++ has opened
+- had opened
+= "so far this year" (tính đến nay, năm chưa kết thúc) → HIỆN TẠI HOÀN THÀNH.
+~ Công ty đã mở ba cửa hàng mới từ đầu năm đến nay.
+
+@ tense
+Last month, the factory ------- its production capacity by 20 percent.
+- increases
++ increased
+- has increased
+- will increase
+= "Last month" → QUÁ KHỨ ĐƠN.
+~ Tháng trước, nhà máy đã tăng công suất sản xuất thêm 20%.
+
+@ tense
+By the end of next year, we ------- our operations to five more countries.
+- expand
+- expanded
+- have expanded
++ will have expanded
+= "By the end of next year" (mốc tương lai) → TƯƠNG LAI HOÀN THÀNH.
+~ Đến cuối năm sau, chúng tôi sẽ mở rộng hoạt động sang thêm năm quốc gia.
+
+@ tense
+The marketing manager ------- on a new campaign since early March.
+- works
+- worked
++ has been working
+- will be working
+= "since early March" + hành động kéo dài liên tục đến nay → HIỆN TẠI HOÀN THÀNH TIẾP DIỄN.
+~ Trưởng phòng tiếp thị đã làm một chiến dịch mới từ đầu tháng Ba.
+
+// ================= CHỦ ĐỘNG / BỊ ĐỘNG =================
+@ voice
+All visitors ------- to sign in at the reception desk.
+- require
+- requiring
++ are required
+- have required
+= Chủ ngữ "visitors" chịu tác động (bị yêu cầu) → BỊ ĐỘNG: be required to V.
+~ Mọi khách tham quan phải đăng ký tại quầy lễ tân.
+
+@ voice
+The annual report ------- to shareholders next week.
+- will send
+- sends
++ will be sent
+- is sending
+= Báo cáo "được gửi" (không tự gửi) + "next week" → BỊ ĐỘNG tương lai: will be + V3.
+~ Báo cáo thường niên sẽ được gửi tới cổ đông vào tuần tới.
+
+@ voice
+The new shopping mall ------- by a famous architect from Milan.
+- designed
++ was designed
+- has designing
+- designing
+= Có "by + người thực hiện" → BỊ ĐỘNG: was designed by.
+~ Trung tâm mua sắm mới được thiết kế bởi một kiến trúc sư nổi tiếng từ Milan.
+
+@ voice
+The maintenance crew ------- the air-conditioning system every six months.
++ inspects
+- is inspected
+- inspection
+- inspecting
+= Chủ ngữ "crew" là người thực hiện, có tân ngữ "the system" → CHỦ ĐỘNG; thói quen → hiện tại đơn.
+~ Đội bảo trì kiểm tra hệ thống điều hòa sáu tháng một lần.
+
+@ voice
+Your order ------- yet because the payment has not been confirmed.
+- doesn't ship
++ hasn't been shipped
+- didn't ship
+- isn't shipping
+= Đơn hàng "được gửi đi" → BỊ ĐỘNG; "yet" → hiện tại hoàn thành: hasn't been shipped.
+~ Đơn hàng của bạn chưa được gửi đi vì khoản thanh toán chưa được xác nhận.
+
+@ voice
+The conference room is currently ------- for a client meeting.
+- use
+- using
++ being used
+- used to
+= "is currently being used" = đang được sử dụng → BỊ ĐỘNG TIẾP DIỄN (be + being + V3).
+~ Phòng họp hiện đang được dùng cho cuộc họp với khách hàng.
+
+@ voice
+Mr. Lee ------- the Employee of the Year award at last night's ceremony.
+- was presented
++ received
+- was received
+- receiving
+= Mr. Lee là người nhận (chủ động: received the award). "was presented" thiếu "with" (was presented with).
+~ Ông Lee đã nhận giải Nhân viên của năm tại buổi lễ tối qua.
+
+@ voice
+The results of the customer survey ------- in the next issue of the newsletter.
+- publish
+- will publish
++ will be published
+- publishing
+= Kết quả "được đăng" → BỊ ĐỘNG tương lai.
+~ Kết quả khảo sát khách hàng sẽ được đăng trong số bản tin tới.
+
+// ================= DẠNG ĐỘNG TỪ (TO V / V-ING) =================
+@ verbform
+The company is considering ------- its headquarters to a larger building.
+- move
+- to move
++ moving
+- moved
+= Sau "consider" dùng V-ING.
+~ Công ty đang cân nhắc chuyển trụ sở sang tòa nhà lớn hơn.
+
+@ verbform
+Ms. Ruiz agreed ------- the training session next Tuesday.
+- leading
++ to lead
+- lead
+- led
+= Sau "agree" dùng TO + V.
+~ Bà Ruiz đồng ý dẫn dắt buổi đào tạo vào thứ Ba tới.
+
+@ verbform
+We look forward to ------- with you on future projects.
+- work
+- worked
++ working
+- be working
+= "look forward to" — "to" là giới từ → theo sau là V-ING.
+~ Chúng tôi mong được hợp tác với bạn trong các dự án tương lai.
+
+@ verbform
+Customers should avoid ------- the parking lot during the repaving work.
+- use
+- to use
++ using
+- used
+= Sau "avoid" dùng V-ING.
+~ Khách hàng nên tránh sử dụng bãi đỗ xe trong thời gian trải nhựa lại.
+
+@ verbform
+The manager asked all team members ------- their timesheets by Friday.
+- submit
++ to submit
+- submitting
+- submitted
+= Cấu trúc "ask + sb + TO V".
+~ Quản lý yêu cầu mọi thành viên nộp bảng chấm công trước thứ Sáu.
+
+@ verbform
+------- the deadline, the team worked through the weekend.
+- Meet
++ To meet
+- Met
+- Being met
+= Chỉ mục đích "để kịp hạn" → TO V (= In order to meet).
+~ Để kịp hạn chót, nhóm đã làm việc suốt cuối tuần.
+
+@ verbform
+The new software allows users ------- reports in just a few clicks.
+- generate
+- generating
++ to generate
+- generated
+= Cấu trúc "allow + sb + TO V".
+~ Phần mềm mới cho phép người dùng tạo báo cáo chỉ với vài cú nhấp chuột.
+
+@ verbform
+------- by the board last month, the plan will be implemented in July.
+- Approving
++ Approved
+- To approve
+- Approve
+= Mệnh đề rút gọn mang nghĩa BỊ ĐỘNG (kế hoạch "được phê duyệt") → V3: Approved.
+~ Được hội đồng phê duyệt vào tháng trước, kế hoạch sẽ được triển khai vào tháng Bảy.
+
+// ================= HÒA HỢP CHỦ NGỮ – ĐỘNG TỪ =================
+@ agreement
+Each of the candidates ------- a personal interview with the director.
+- have
++ has
+- having
+- are having
+= "Each of + N số nhiều" → động từ chia SỐ ÍT.
+~ Mỗi ứng viên đều có một buổi phỏng vấn riêng với giám đốc.
+
+@ agreement
+The list of approved suppliers ------- updated every quarter.
++ is
+- are
+- were
+- have
+= Chủ ngữ chính là "The list" (số ít); "of approved suppliers" chỉ bổ nghĩa → động từ SỐ ÍT.
+~ Danh sách nhà cung cấp được duyệt được cập nhật mỗi quý.
+
+@ agreement
+Neither the manager nor the assistants ------- aware of the schedule change.
+- was
++ were
+- is
+- has been
+= "Neither A nor B" → động từ chia theo B ("the assistants", số nhiều).
+~ Cả quản lý lẫn các trợ lý đều không biết về việc thay đổi lịch.
+
+@ agreement
+A number of employees ------- volunteered to help at the charity event.
+- has
++ have
+- is
+- was
+= "A number of + N số nhiều" (nhiều...) → động từ SỐ NHIỀU. (Khác: "The number of" → số ít.)
+~ Nhiều nhân viên đã tình nguyện giúp đỡ tại sự kiện từ thiện.
+
+@ agreement
+The number of online orders ------- doubled since the website was redesigned.
++ has
+- have
+- are
+- were
+= "The number of + N" (con số) → động từ SỐ ÍT.
+~ Số lượng đơn hàng trực tuyến đã tăng gấp đôi kể từ khi website được thiết kế lại.

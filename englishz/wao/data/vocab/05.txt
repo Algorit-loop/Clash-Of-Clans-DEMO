@@ -38,7 +38,7 @@ syn: touchless, cashless (nghĩa gần)
 fam: remark (n/v) nhận xét; remarkable (adj) đáng chú ý; unremarkable (adj)
 tip: Trạng từ chỉ mức độ: remarkably + adj/adv = đáng kinh ngạc. Đuôi -ably từ -able.
 @adv
-1. đáng kể, một cách đáng chú ý | The new phone is *remarkably* light. | Chiếc điện thoại mới nhẹ đến mức đáng ngạc nhiên.
+1. đáng kinh ngạc, khác thường (nhấn mạnh mức độ) | The new phone is *remarkably* light. | Chiếc điện thoại mới nhẹ đến mức đáng ngạc nhiên.
 col: remarkably well = rất tốt; remarkably similar = giống đến lạ; remarkably quick = nhanh khác thường; remarkably successful = thành công đáng kể
 syn: strikingly, notably, exceptionally, extraordinarily
 ant: slightly, unremarkably
@@ -80,7 +80,7 @@ syn: fee, cost, fare (1); responsibility, care (2)
 fam: receive (v) nhận; recipient (n) người nhận; reception (n) lễ tân
 tip: BẪY: "receipt" (n, biên lai) – chữ p câm /rɪˈsiːt/. "upon receipt of" = ngay khi nhận được. "receipts" có thể là doanh thu.
 @n
-1. biên lai, hóa đơn | Please keep your *receipt* as proof of purchase. | Vui lòng giữ biên lai làm bằng chứng mua hàng.
+1. biên lai (chứng từ đã thanh toán) | Please keep your *receipt* as proof of purchase. | Vui lòng giữ biên lai làm bằng chứng mua hàng.
 2. việc nhận (hàng, thư) | The refund will be issued upon *receipt* of the item. | Tiền hoàn sẽ được cấp khi nhận được món hàng.
 col: proof of purchase receipt = biên lai chứng minh mua hàng; upon receipt of = khi nhận được; issue a receipt = xuất biên lai; keep the receipt = giữ biên lai; acknowledge receipt of = xác nhận đã nhận
 prep: receipt for/of sth
@@ -435,4 +435,4 @@ tip: "a dozen" = 12. Sau số đếm KHÔNG thêm -s: two dozen eggs (24 quả).
 @n
 1. một tá (12), hàng chục | We ordered two *dozen* cupcakes for the party. | Chúng tôi đặt hai tá bánh cupcake cho bữa tiệc.
 col: a dozen = 12; two dozen = 24 (không "dozens"); dozens of = hàng chục; half a dozen = nửa tá (6); by the dozen = theo tá; baker's dozen = 13
-syn: twelve, a score (20)
+syn: twelve

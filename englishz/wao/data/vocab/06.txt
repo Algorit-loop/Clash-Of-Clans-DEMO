@@ -286,7 +286,7 @@ tip: pass = vé/thẻ ra vào (boarding pass, day pass, all-access pass); (v) = 
 col: boarding pass = thẻ lên máy bay; day pass = vé một ngày; free pass = vé miễn phí; season pass = vé cả mùa; backstage pass = thẻ vào hậu trường
 syn: ticket, permit, token
 @v
-1. đi qua, vượt qua | The new bill *passed* in parliament last month. | Dự luật mới đã được thông qua ở quốc hội tháng trước.
+1. được thông qua; vượt qua (kỳ thi) | The new bill *passed* in parliament last month. | Dự luật mới đã được thông qua ở quốc hội tháng trước.
 2. đưa, chuyển | Could you *pass* me the report? | Bạn đưa giúp tôi bản báo cáo nhé?
 col: pass an exam = đỗ kỳ thi; pass a law = thông qua luật; pass through = đi qua; pass on = chuyển tiếp; pass out = phát (tài liệu)
 syn: approve, go through (1); hand, give (2)

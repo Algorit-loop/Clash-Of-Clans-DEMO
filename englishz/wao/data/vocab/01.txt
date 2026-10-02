@@ -61,7 +61,7 @@ use: Hay gặp trong thông báo bản quyền: "No part may be reproduced..."
 fam: regress (v) thoái lui; regressive (adj) thụt lùi
 tip: Trong phần mềm: "regression" = lỗi tái phát sau khi cập nhật ("regression test" = kiểm thử hồi quy).
 @n
-1. sự thụt lùi, suy thoái | The data shows a *regression* in sales after the price increase. | Số liệu cho thấy doanh số thụt lùi sau khi tăng giá.
+1. sự thụt lùi, sự đi xuống | The data shows a *regression* in sales after the price increase. | Số liệu cho thấy doanh số thụt lùi sau khi tăng giá.
 2. hồi quy (thống kê); lỗi hồi quy (phần mềm) | The update introduced a *regression* that broke the login page. | Bản cập nhật gây ra lỗi hồi quy làm hỏng trang đăng nhập.
 col: regression test = kiểm thử hồi quy; regression analysis = phân tích hồi quy; a regression in sth = sự đi xuống của cái gì
 syn: decline, relapse, deterioration
